@@ -102,7 +102,14 @@ Skincare shouldn’t be a stressful commute. It should be a joyride.
 
 ---
 
-**Footer:**
-*   **Shipping:** Free Shipping on orders over $XX
-*   **Returns:** 30-Day Money-Back Guarantee
-*   **Socials:** [Instagram] [TikTok] [Facebook]
+105→**Footer:**
+106→*   **Shipping:** Free Shipping on orders over $XX
+107→*   **Returns:** 30-Day Money-Back Guarantee
+108→*   **Socials:** [Instagram] [TikTok] [Facebook]
+109→
+110→---
+111→
+112→Summary (Formula)
+113→1. Title: Your Glow-Up Map / Destination: Radiance. Here is Your Map.
+114→2. Body: 用「旅程 / 路线图」隐喻护肤过程，解决「没有导航」的迷茫，把用户带入 3 个旅程站点的故事结构。
+115→3. Product: 三站对应三款产品——Peptide Complex 10% Serum（起步修正）、Matriplex™ Cream（中途补给）、Overnight Mask（终点修护），一起组成完整路线。
