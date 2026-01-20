@@ -252,6 +252,12 @@ Trigger Emotion → Drive Action
 - Ready for direct email deployment
 - Aligned with Depology’s historical EDM patterns
 
+**Concept Introduction Rule (Alex Principle)**
+
+- Whenever introducing a campaign, event, sale, or list (e.g., Archive Sale, Vault, waitlist), always include:
+    - What it is: a short, clear explanation of the concept
+    - Why this is important to you: 2–3 concrete benefits for the subscriber
+
 ---
 
 ## **6. Default Working Mode**
