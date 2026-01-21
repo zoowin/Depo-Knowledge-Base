@@ -27,7 +27,8 @@
 | **Feb 27** | Fri | 🟢 Educational | Retinol Sandwich Method（实操教程） | Engaged | Education |
 
 说明：  
-- Feb 2/3 的 Signup 邮件承接 1月下旬的首封预热，进入强节奏拉新。  
+- **Jan 30** 开启 Archive Sale 预热（Signup 1），与 Feb 6 正式开启保持 7 天间隔（对标 2025 节奏）。
+- **Feb 2** 发送 Sneak Peek（产品剧透），Feb 3 发送倒计时，维持高频预热。
 - Feb 5–8 的四封促销是 Archive Sale 主体（参考 2025 的爆发式转化结构与发送时间）。  
 - 非促销邮件维持每周 2–3 封，主题以“趋势/科普/背书/实操”为主，配合分层受众。
 

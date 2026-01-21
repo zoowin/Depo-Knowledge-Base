@@ -4,7 +4,7 @@
 > This email moves from the "Concept" of the first email to the "Product." We need to prove the value of the Archive Sale by showing specific, desirable items that will be available.
 > **Goal:** Drive signups by triggering "I need that" desire.
 
-**Send Date:** Jan 30, 2026
+**Send Date:** Feb 2, 2026 (Monday)
 **Segment:** Full List (Exclude those already signed up for Early Access - optional, or send to all to reinforce)
 
 ---

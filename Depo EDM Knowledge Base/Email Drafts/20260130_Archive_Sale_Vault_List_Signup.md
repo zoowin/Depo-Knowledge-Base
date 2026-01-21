@@ -1,5 +1,9 @@
 # Email Campaign: Archive Sale Vault List Signup 2026
 
+**Send Date:** Jan 30, 2026 (Friday)
+**Segment:** Warm / VIP-leaning segments
+**Goal:** 收集 Archive Sale 专属名单到 Klaviyo，用于后续发送专属 Archive 页面链接
+
 > Logic Breakdown
 >
 > 1. Title

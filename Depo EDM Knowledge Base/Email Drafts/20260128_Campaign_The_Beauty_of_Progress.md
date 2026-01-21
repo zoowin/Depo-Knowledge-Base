@@ -15,6 +15,7 @@
 
 Campaign Info
 * Channel: Email
+* Send Date: Jan 28, 2026 (Wednesday)
 * Send Time: 09:00
 * Name: The Beauty of Progress (Internal)
 * Type: Story

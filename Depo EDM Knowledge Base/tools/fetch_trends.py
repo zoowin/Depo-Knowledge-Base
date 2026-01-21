@@ -11,7 +11,7 @@ import json
 # --- Configuration ---
 KEYWORDS = ["skincare", "anti-aging", "retinol", "k-beauty", "wrinkle treatment", "eye cream", "peptide serum"]
 REDDIT_SUBREDDITS = ["SkincareAddiction", "30PlusSkinCare", "AsianBeauty"]
-TARGET_FILE = r"..\Operations\Topic Pool.md"  # Relative path to Topic Pool
+# TARGET_FILE = r"..\Operations\Topic Pool.md"  # Relative path to Topic Pool
 
 # --- Google Trends Setup ---
 try:
@@ -153,7 +153,9 @@ def format_for_depology(trend_item):
 
 def update_topic_pool(new_topics):
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(script_dir, TARGET_FILE)
+    # Go up one level from 'tools' to 'Depo EDM Knowledge Base'
+    base_dir = os.path.dirname(script_dir)
+    file_path = os.path.join(base_dir, "Operations", "Topic Pool.md")
     
     if not os.path.exists(file_path):
         print(f"❌ Topic Pool file not found at: {file_path}")

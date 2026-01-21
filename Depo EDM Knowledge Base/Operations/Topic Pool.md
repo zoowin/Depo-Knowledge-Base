@@ -188,3 +188,71 @@
 - [ ] **Reddit: [B&A] consider birth control if you haven’t!** (Source: Reddit r/SkincareAddiction)
 - [ ] **Reddit: [Misc] Can we please talk about how unhinged “12/22/32-step nighttime skincar...** (Source: Reddit r/SkincareAddiction)
 - [ ] **Reddit: [misc] Anyone else feel like Vitamin C may as well be the sugar pill of skinc...** (Source: Reddit r/SkincareAddiction)
+
+
+## 🌍 Auto-Fetched Trends (2026-01-20)
+*Sources: Google Trends, Google Autocomplete, Reddit*
+
+### Google Search Suggestions
+- [ ] **Search Suggestion: Skincare Routine** (Source: Google Autocomplete 'skincare')
+- [ ] **Search Suggestion: Skincare Fridge** (Source: Google Autocomplete 'skincare')
+- [ ] **Search Suggestion: Skincare Routine Order** (Source: Google Autocomplete 'skincare')
+- [ ] **Search Suggestion: Anti-Aging Supplements** (Source: Google Autocomplete 'anti-aging')
+- [ ] **Search Suggestion: Anti-Aging Cream** (Source: Google Autocomplete 'anti-aging')
+- [ ] **Search Suggestion: Anti-Aging Face Balm Stick** (Source: Google Autocomplete 'anti-aging')
+- [ ] **Search Suggestion: Retinol Cream** (Source: Google Autocomplete 'retinol')
+- [ ] **Search Suggestion: Retinol Serum** (Source: Google Autocomplete 'retinol')
+- [ ] **Search Suggestion: Retinol Vs Retinal** (Source: Google Autocomplete 'retinol')
+- [ ] **Search Suggestion: K-Beauty Products** (Source: Google Autocomplete 'k-beauty')
+- [ ] **Search Suggestion: K-Beauty Skincare** (Source: Google Autocomplete 'k-beauty')
+- [ ] **Search Suggestion: K-Beauty Store Near Me** (Source: Google Autocomplete 'k-beauty')
+- [ ] **Search Suggestion: Wrinkle Treatment Near Me** (Source: Google Autocomplete 'wrinkle treatment')
+- [ ] **Search Suggestion: Wrinkle Treatment At Home** (Source: Google Autocomplete 'wrinkle treatment')
+- [ ] **Search Suggestion: Wrinkle Treatment For Face** (Source: Google Autocomplete 'wrinkle treatment')
+- [ ] **Search Suggestion: Eye Cream For Dark Circles** (Source: Google Autocomplete 'eye cream')
+- [ ] **Search Suggestion: Eye Cream For Wrinkles** (Source: Google Autocomplete 'eye cream')
+- [ ] **Search Suggestion: Eye Cream For Bags** (Source: Google Autocomplete 'eye cream')
+- [ ] **Search Suggestion: Peptide Serum For Face** (Source: Google Autocomplete 'peptide serum')
+- [ ] **Search Suggestion: Peptide Serum Benefits** (Source: Google Autocomplete 'peptide serum')
+- [ ] **Search Suggestion: Peptide Serum For Hair** (Source: Google Autocomplete 'peptide serum')
+
+### Reddit Discussions
+- [ ] **Reddit: [B&A] Acne/hyperpigmentation year progress** (Source: Reddit r/SkincareAddiction)
+- [ ] **Reddit: [psa] boycott Estée Lauder** (Source: Reddit r/SkincareAddiction)
+- [ ] **Reddit: [Product Request] does anyone know which god tier microfiber washcloth my mom...** (Source: Reddit r/SkincareAddiction)
+- [ ] **Reddit: [B&A] beauty of joseon retinal eye cream. 1 month** (Source: Reddit r/SkincareAddiction)
+- [ ] **Reddit: [b&a] trust the process!** (Source: Reddit r/SkincareAddiction)
+
+
+## 🌍 Auto-Fetched Trends (2026-01-20)
+*Sources: Google Trends, Google Autocomplete, Reddit*
+
+### Google Search Suggestions
+- [ ] **Search Suggestion: Skincare Routine** (Source: Google Autocomplete 'skincare')
+- [ ] **Search Suggestion: Skincare Fridge** (Source: Google Autocomplete 'skincare')
+- [ ] **Search Suggestion: Skincare Routine Order** (Source: Google Autocomplete 'skincare')
+- [ ] **Search Suggestion: Anti-Aging Supplements** (Source: Google Autocomplete 'anti-aging')
+- [ ] **Search Suggestion: Anti-Aging Cream** (Source: Google Autocomplete 'anti-aging')
+- [ ] **Search Suggestion: Anti-Aging Face Balm Stick** (Source: Google Autocomplete 'anti-aging')
+- [ ] **Search Suggestion: Retinol Cream** (Source: Google Autocomplete 'retinol')
+- [ ] **Search Suggestion: Retinol Serum** (Source: Google Autocomplete 'retinol')
+- [ ] **Search Suggestion: Retinol Vs Retinal** (Source: Google Autocomplete 'retinol')
+- [ ] **Search Suggestion: K-Beauty Products** (Source: Google Autocomplete 'k-beauty')
+- [ ] **Search Suggestion: K-Beauty Skincare** (Source: Google Autocomplete 'k-beauty')
+- [ ] **Search Suggestion: K-Beauty Store Near Me** (Source: Google Autocomplete 'k-beauty')
+- [ ] **Search Suggestion: Wrinkle Treatment Near Me** (Source: Google Autocomplete 'wrinkle treatment')
+- [ ] **Search Suggestion: Wrinkle Treatment At Home** (Source: Google Autocomplete 'wrinkle treatment')
+- [ ] **Search Suggestion: Wrinkle Treatment For Face** (Source: Google Autocomplete 'wrinkle treatment')
+- [ ] **Search Suggestion: Eye Cream For Dark Circles** (Source: Google Autocomplete 'eye cream')
+- [ ] **Search Suggestion: Eye Cream For Wrinkles** (Source: Google Autocomplete 'eye cream')
+- [ ] **Search Suggestion: Eye Cream For Bags** (Source: Google Autocomplete 'eye cream')
+- [ ] **Search Suggestion: Peptide Serum For Face** (Source: Google Autocomplete 'peptide serum')
+- [ ] **Search Suggestion: Peptide Serum Benefits** (Source: Google Autocomplete 'peptide serum')
+- [ ] **Search Suggestion: Peptide Serum For Hair** (Source: Google Autocomplete 'peptide serum')
+
+### Reddit Discussions
+- [ ] **Reddit: [B&A] Acne/hyperpigmentation year progress** (Source: Reddit r/SkincareAddiction)
+- [ ] **Reddit: [psa] boycott Estée Lauder** (Source: Reddit r/SkincareAddiction)
+- [ ] **Reddit: [Product Request] does anyone know which god tier microfiber washcloth my mom...** (Source: Reddit r/SkincareAddiction)
+- [ ] **Reddit: [B&A] beauty of joseon retinal eye cream. 1 month** (Source: Reddit r/SkincareAddiction)
+- [ ] **Reddit: [b&a] trust the process!** (Source: Reddit r/SkincareAddiction)
