@@ -1,0 +1,56 @@
+# 设计需求：Archive Sale Public Access LIVE 邮件 (2026-02-07)
+
+**整体风格与调性 (Overall Mood):**
+*   **核心概念:** "The Archive Open" (档案库开启 / 博物馆展览开幕)。
+*   **视觉氛围:** Editorial（编辑/杂志风）、Museum-like（博物馆质感）、Clean（干净利落）。
+*   **避免:** 避免传统大红大紫的硬广促销感，不要用爆炸贴或过分喧闹的折扣元素。我们要传达的是“珍稀库存释放”的高级感。
+*   **色调:** 暖灰色 (Warm Greys)、柔和米色 (Soft Beiges)、低调金属质感 (Subtle Metallics) —— 呼应档案柜、陈列架的感觉。
+
+---
+
+**模块 1: Hero Section (首屏)**
+*   **画面描述:** 
+    *   展示一个完全打开的保险库门 (Vault door)，或者一个比 Early Access 邮件中视野更开阔的档案室内部。
+    *   光线要比之前的预热邮件更明亮一些，象征着“Public Open”。
+    *   画面要有纵深感，可以看到陈列架上有产品。
+*   **文字排版:**
+    *   **Headline:** `The Archive is now open.` (字体要大，衬线体 Serif 更有质感)
+    *   **Subheadline:** `Discontinued favorites. Final inventory. Public access starts now.` (简洁有力)
+    *   **Overlay:** 可以在图片上叠加极简的 `ARCHIVE SALE NOW OPEN` 字样。
+
+**模块 2: Body Copy (正文区域)**
+*   **排版:** 纯文本区域，背景保持干净（白底或极淡的灰底）。
+*   **重点:** 突出 "No code. No tricks." 这句话，可以用加粗或稍微大一点的字号，强调直接降价的诚意。
+
+**模块 3: Product Block (产品展示区)**
+*   **布局建议:** 采用 **三列并排 (3-Column Grid)** 或 **垂直堆叠 (Stacked)**，根据产品图比例决定。
+*   **每个产品卡片需包含:**
+    *   **图片:** 产品图要清晰，背景可以是干净的纯色或带有轻微纹理。
+    *   **Status 标签:** 用类似“档案标签”或“打字机字体”的样式展示状态，例如 `Status: Archive Exclusive Offer` 或 `Status: Final Inventory`。这很重要，增加了“档案”的真实感。
+    *   **产品名:** 加粗。
+    *   **价格:** 
+        *   Bundle (Matrixyl / Argireline): 直接显示 `Archive Price: $85`。
+        *   Single (Retinol Night Cream): 显示 `Archive Price: $18`。
+    *   **按钮:** 每个产品下方跟一个小一点的 `Shop Now` 链接或按钮。
+
+    *具体产品内容:*
+    1.  **Matrixyl® 3000 Serum Bundle (3-Pack)** - $85
+    2.  **Argireline™ Peptide Serum Bundle (3-Pack)** - $80
+    3.  **Retinol Night Cream** - $18 (强调 Final Inventory)
+
+**模块 4: Important Details (重要信息区)**
+*   **设计形式:** 可以做一个带边框的小方块区域，或者用 icon + 文字的形式横向排列。
+*   **关键点:**
+    *   Limited Quantities (库存有限，售完不补)
+    *   Once-a-Year Event (一年一次)
+    *   Final Sale (不退不换)
+
+**模块 5: Call to Action (底部按钮)**
+*   **主按钮:** `SHOP THE ARCHIVE`
+*   **辅助文案:** 在按钮下方用小字注明 `The earlier you shop, the better the selection.`
+
+---
+
+**特别注意 (Notes for Design):**
+*   **No Promo Codes:** 整个设计中**不要**出现任何 Coupon Code 的输入框样式或 Promo Code 文字，价格是直接降价。
+*   **Pricing Visibility:** 价格要清晰易读，最好用一种独特的颜色（比如深红色或深蓝色）来区分 `Archive Price`，但不要用那种廉价的亮红色。

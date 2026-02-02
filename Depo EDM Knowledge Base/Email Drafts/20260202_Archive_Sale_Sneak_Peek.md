@@ -10,24 +10,27 @@
 ---
 
 **Subject Line Options**
-1. Confirmed: The $10 Retinal Serum is back.
-2. Peek inside the Vault (3 reveals).
-3. We found a box of these...
-4. Archive Preview: See what's dropping next week.
+1. Your key to the Archive 🔑
+2. Unlock priority access (Sign up inside)
+3. The Archive Sale: Sign up Now
+4. Don't wait in line: Secure your key.
 
 **Preview Text**
-See the first 3 items confirmed for the 2026 Archive Sale. Early access starts soon.
+Shop the collection before the general public.
 
 ---
 
 **Email Content**
 
 **Hero Image**
-Visual: A "contact sheet" or "evidence board" style layout. 3-4 polaroid-style photos pinned to a board. One shows the Retinal Serum, one shows a Discontinued Bundle, one is blurred out. It looks like a backstage planning document.
+Visual: A hand holding a silver key with "depology" engraved on it, emerging from shadows.
+Text Overlay: "The Archive Sale / Sign up Now"
 
 **Headline**
-The catalog is complete.
-Here is what we found.
+The Archive Sale is our once-a-year event.
+
+**Sub-headline**
+Open our digital archive to release discontinued favorites and limited-edition sets.
 
 **Body Copy**
 We have finished organizing the 2026 Archive Collection.

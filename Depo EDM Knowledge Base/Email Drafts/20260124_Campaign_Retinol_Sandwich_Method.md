@@ -25,13 +25,22 @@ Campaign Info
 ---
 
 Subject Line Options
-1. The smartest way to apply Retinol tonight.
-2. Retinol without the downtime.
-3. Winter-proof your active routine.
-4. The layering technique your barrier needs.
 
-Preview Text
-How to maintain your results when the temperature drops.
+**Option 1: The "Curiosity" Hook (Best for Open Rates)**
+*   **Subject:** Have you tried the "Sandwich Method"?
+*   **Preview:** The viral hack for zero-irritation results.
+
+**Option 2: The "Empathy" Hook (Best for Sensitive Skin)**
+*   **Subject:** Love Retinol, but hate the dryness?
+*   **Preview:** Here is how to get the results without the downtime.
+
+**Option 3: The "Authority" Hook (Educational)**
+*   **Subject:** The "Buffering" Technique: A Skincare Essential.
+*   **Preview:** How to keep using actives, even if your skin is sensitive.
+
+**Option 4: The "Short & Punchy" Hook**
+*   **Subject:** Retinol: The Smart Protocol.
+*   **Preview:** 3 steps to maximum glow, minimum redness.
 
 ---
 
@@ -72,6 +81,9 @@ Sandwiched in the center to renew texture, safe from harsh dry air.
 
 **The Result:**
 All the anti-aging benefits. None of the winter redness.
+
+**How Often?**
+Start with **2-3 nights a week**. This buffering technique is designed to help you build tolerance safely, so you can stay consistent without the downtime.
 
 Call to Action
 Button Text: SHOP THE ROUTINE
