@@ -16,20 +16,22 @@
 | **Feb 5** | Thu | 🔴 Promo | Early Access LIVE（私享链接） | Early Access 列表 | Revenue |
 | **Feb 6** | Fri | 🔴 Promo | Public Launch：Archive Sale OPEN | 全名单（排除已购） | Revenue |
 | **Feb 7** | Sat | 🔴 Promo | Selling Fast / Low Stock（热卖款与库存紧缺） | 全名单（排除已购） | Revenue |
-| **Feb 8** | Sun | 🔴 Promo | Last Chance：The Vault locks at midnight | 全名单（排除已购） | Urgency |
-| **Feb 11** | Wed | 🟢 Educational | TWO kinds of wrinkles?!（科普双类型皱纹） | Engaged 30/60/90/120 | Education |
-| **Feb 13** | Fri | 🔵 Social Proof | Midnight Makeover（临近情人节） | Engaged+Non-buyers | Conversion |
-| **Feb 14** | Sat | 🔴 Optional Sale | Valentine’s Day Flat 15–20%（轻促销） | 全名单（排除已购） | Revenue |
-| **Feb 18** | Wed | 🟢 Ingredient | Copper Peptides Spotlight | Engaged | Education/Sales |
-| **Feb 20** | Fri | 🔴 Promo | Warehouse Clearance（若库存需要，轻度促） | 全名单 | Revenue |
-| **Feb 22** | Sun | 🔴 Promo | Bundle Offer（3 for 2） | 全名单 | Revenue |
-| **Feb 25** | Wed | 🟢 Educational | Skin Barrier Rescue（修护受损屏障的实操指南） | Engaged | Education/Trust |
-| **Feb 27** | Fri | 🟢 Educational | Retinol Sandwich Method（实操教程） | Engaged | Education |
+| **Feb 9** | Mon | 🔴 Promo | Last Chance：The Vault locks at midnight | 全名单（排除已购） | Urgency |
+| **Feb 11** | Wed | 🟢 Educational | The "Skin Fitness" MOP (肌肤健身) | Engaged 30/60/90/120 | Education |
+| **Feb 13** | Fri | � Social Proof | Love Yourself: Real Results | Engaged+Non-buyers | Conversion |
+| **Feb 14** | Sat | 🔴 Promo | Valentine's Treat (Light Promo) | Full List (exclude buyers) | Revenue |
+| **Feb 16** | Mon | 🟢 Educational | Science of Two Wrinkles (Static vs Dynamic) | Engaged 30/60/90/120 | Education |
+| **Feb 18** | Wed | 🟢 Product Spotlight | M1 Micro-Dart Patches & Trends | Engaged | Education/Sales |
+| **Feb 20** | Fri | 🟢 Evergreen | Skincare Myth Busting (Evergreen) | Engaged | Engagement |
+| **Feb 22** | Sun | 🟢 Trend | Body Skincare is the New Face Care | Engaged | Education/Cross-sell |
+| **Feb 25** | Wed | 🟢 Educational | Skin Barrier Rescue (修护受损屏障) | Engaged | Education/Trust |
+| **Feb 27** | Fri | 🟢 Trend | Latest Skincare Trends (Viral & Verified) | Engaged | Education |
 
 说明：  
 - **Jan 30** 开启 Archive Sale 预热（Signup 1），与 Feb 6 正式开启保持 7 天间隔（对标 2025 节奏）。
 - **Feb 2** 发送 Sneak Peek（产品剧透），Feb 3 发送倒计时，维持高频预热。
-- Feb 5–8 的四封促销是 Archive Sale 主体（参考 2025 的爆发式转化结构与发送时间）。  
+- Feb 5–9 的促销是 Archive Sale 主体（参考 2025 的爆发式转化结构与发送时间）。
+- **Feb 14** 开启 Valentine's Day 小促（15% OFF），Feb 13 改为 Social Proof 铺垫。
 - 非促销邮件维持每周 2–3 封，主题以“趋势/科普/背书/实操”为主，配合分层受众。
 
 ---
@@ -84,5 +86,5 @@
 - [ ] 建立 Early Access 专属列表与自动化（仅该列表接收 Feb 5）。  
 - [ ] 准备 2/2、2/3 两封 Signup 文案与设计（Sneak Peek 已就绪）。  
 - [ ] 设置促销期排除已购人群的细分逻辑。  
+- [ ] 设置 Valentine's Day 15% 折扣码与有效期。
 - [ ] 制定 Subject Line A/B 测试（至少促销期与内容期各 1 组）。
-

@@ -45,25 +45,25 @@ No code. No tricks. Just straight Archive pricing while inventory lasts.
 
 ### Whats Inside
 
-**(Product Block 1  The Essential Bundle)**  
-**Matrixyl? 3000 Serum Bundle (3-Pack)**  
-*Status: Archive Exclusive Offer*  
-Three full-size Matrixyl? 3000 serums for the price of two  ideal for stocking up on your daily anti-aging staple.  
-**Archive Price: $85**  
+**(Product Block 1)**
+**Anti-Aging Retinol Night Cream**
+*Status: Final Inventory*
+Potent overnight renewal to smooth fine lines while you sleep.
+**Archive Price: $18** (was $60)
 **Shop Now**
 
-**(Product Block 2  The Targeted Bundle)**  
-**Argireline? Peptide Serum Bundle (3-Pack)**  
-*Status: Archive Exclusive Offer*  
-Target expression lines with three bottles of our Argireline? peptide serum  designed for dynamic lines around the eyes, forehead, and smile areas.  
-**Archive Price: $80**  
+**(Product Block 2)**
+**Peptide Complex 10% Wrinkle Defense Serum Trio**
+*Status: Archive Exclusive Offer*
+Target dynamic lines and expression wrinkles with our "botox-in-a-bottle" peptide.
+**Archive Price: $80** (was $147)
 **Shop Now**
 
-**(Product Block 3  The Steal)**  
-**Retinol Night Cream**  
-*Status: Final Inventory / Discontinued Packaging*  
-Overnight renewal in a rich, comforting cream. This is the final batch of this specific packaging in our warehouse.  
-**Archive Price: $18**  
+**(Product Block 3)**
+**Matrixyl® 3000 Collagen Serum Trio**
+*Status: Archive Exclusive Offer*
+Supercharge collagen production to firm, plump, and hydrate aging skin.
+**Archive Price: $85** (was $120)
 **Shop Now**
 
 Youll find additional items inside the Archive as well  including smaller lots, final sets, and limited remaining stock.
@@ -128,9 +128,9 @@ The earlier you shop, the better the selection.
     *   **按钮:** 每个产品下方跟一个小一点的 `Shop Now` 链接或按钮。
 
     *具体产品内容:*
-    1.  **Matrixyl® 3000 Serum Bundle (3-Pack)** - $85
-    2.  **Argireline™ Peptide Serum Bundle (3-Pack)** - $80
-    3.  **Retinol Night Cream** - $18 (强调 Final Inventory)
+    1.  **Anti-Aging Retinol Night Cream** - $18 (was $60)
+    2.  **Peptide Complex 10% Wrinkle Defense Serum Trio** - $80 (was $147)
+    3.  **Matrixyl® 3000 Collagen Serum Trio** - $85 (was $120)
 
 **模块 4: Important Details (重要信息区)**
 *   **设计形式:** 可以做一个带边框的小方块区域，或者用 icon + 文字的形式横向排列。
