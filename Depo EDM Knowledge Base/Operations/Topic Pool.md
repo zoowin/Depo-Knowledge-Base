@@ -11,7 +11,7 @@
 *Goal: 建立专业度，解释 "Why Depology Works"*
 
 - [ ] **Winter Skin Science**: "Does winter age your skin quicker?" (Seasonal Pain Point) `🔥 Historical Winner (52% Open Rate)`
-- [ ] **Ingredient Deep Dive**: "Retinol for the win: Nighttime renewal" (Product Education)
+- [ ] **Ingredient Deep Dive**: "Retinol for the win: Nighttime renewal" (Scheduled Mar 2026)
 - [ ] **Mechanism of Action**: "How Micro-darts actually penetrate the skin?" (Tech Explain)
 - [ ] **Routine Building**: "The correct order to layer your serums" (Utility)
 - [ ] **Myth Busting**: "Common skincare myths debunked (e.g., 'Oily skin doesn't need moisturizer')"
@@ -40,7 +40,7 @@
 ## 🟡 Lifestyle & Seasonal (Engagement)
 *Goal: 保持品牌活跃度，非硬广的连接*
 
-- [ ] **Seasonal Transition**: "Spring cleaning your skincare cabinet"
+- [ ] **Spring cleaning your skincare cabinet** (Scheduled Mar 2026)
 - [ ] **Self-Care Sunday**: "Winter dimming your glow? Time for a reset"
 - [ ] **Holiday Gifting**: "The ultimate gift guide for skincare lovers"
 - [ ] **Travel Skincare**: "In-flight skincare routine for hydration"
@@ -50,8 +50,9 @@
 ## 🧪 Testing Lab (New Ideas)
 *在此处添加待测试的新想法*
 
-- [ ] (Idea) ...
-- [ ] (Idea) ...
+- [ ] **The "Notox" Movement**: Why everyone is ditching needles for high-performance peptides. (Scheduled Mar 2026)
+- [ ] **Skin Streaming**: The death of the 12-step routine. Why less is more effective. (Scheduled Mar 2026)
+- [ ] **Rice Water For Face vs. Depology**: How we compare to the latest trend. (Scheduled Mar 2026)
 
 ## 📈 Auto-Fetched Trends (2025-01-12)
 *Automatically generated from Google Trends*
@@ -88,16 +89,18 @@
 - [ ] **Community Question: [misc] Anyone else feel like Vitamin C may as well be the sugar pill of skinc...**: Answering the internet's burning question. (Source: Reddit r/SkincareAddiction)
 
 
-## 🌍 Auto-Fetched Trends (2026-01-12)
-*Automatically generated from Google Trends & Reddit*
-
-### Google Search Trends
-- [ ] **Trending: Skin Cycling Routine**: What you need to know about this new craze. (Source: Google Trends 'skincare')
-- [ ] **Trending: Copper Peptides Benefits**: What you need to know about this new craze. (Source: Google Trends 'anti-aging')
-- [ ] **Why Everyone is Googling 'Rice Toner Viral'**: And what it means for your routine. (Source: Google Trends 'k-beauty')
-- [ ] **Sandwich Method Retinol vs. Depology**: How we compare to the latest trend. (Source: Google Trends 'retinol')
-
-### Reddit Discussions
+## 🌍 Auto-Fetched Trends (2026-02-05)
+ *Automatically generated from Google Trends, TikTok & Industry Reports*
+ 
+ ### Viral Concepts
+ - [ ] **The "Notox" Movement**: Why everyone is ditching needles for high-performance peptides. (Depology Angle: Argireline)
+ - [ ] **"Overnight Wrapping" / Slugging 2.0**: The new way to lock in moisture while you sleep without the mess. (Scheduled Mar 2026)
+- [ ] **Skin Streaming**: The death of the 12-step routine. Why less is more effective. (Scheduled Mar 2026)
+- [ ] **Salmon Sperm (PDRN) vs. Peptides**: The new weird ingredient vs. the proven standard. (Scheduled Mar 2026)
+ 
+ ### Reddit Discussions
+ - [ ] **Viral on r/SkincareAddiction**: "Am I the only one who thinks 12-step routines are ruining barriers?"
+ - [ ] **Community Question**: "Best alternative to Botox for forehead lines?"
 - [ ] **Viral on r/SkincareAddiction: [Humor] I know what I need. Go.**: Fact vs. Fiction. (Source: Reddit r/SkincareAddiction)
 - [ ] **Viral on r/SkincareAddiction: [Misc] Am I the only one who finds this skincare ad shocking?**: Fact vs. Fiction. (Source: Reddit r/SkincareAddiction)
 - [ ] **Community Question: [B&A] consider birth control if you haven’t!**: Answering the internet's burning question. (Source: Reddit r/SkincareAddiction)

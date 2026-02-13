@@ -71,19 +71,19 @@ Known as "Tiger Grass," Cica has been used for centuries to heal wounds. We pair
 
 ---
 
-### **Product Showcase (The Cica Line)**
-
-**Headline:**
-The Recovery Team.
-
-**Visual Layout:**
-*   **Product 1: Cica Gentle Cleanser**
-    *   *Copy:* "Cleans without stripping."
+### Product Showcase (The Rescue Duo)
+ 
+ **Headline:**
+ The Recovery Team.
+ 
+ **Visual Layout:**
+*   **Product 1: Opuntia-C Relief Cleansing Balm**
+    *   *The "Do No Harm" Cleanse.* Infused with hydrating **Prickly Pear Cactus**, this balm melts away makeup and impurities without stripping your skin's natural oils. It leaves your barrier intact and your face feeling soft, never tight.
 *   **Product 2: Cica Recovery Serum**
-    *   *Copy:* "Calms redness instantly."
-
-**CTA Button (Secondary):**
-SHOP CICA COLLECTION
+    *   *The Redness Eraser.* Powered by **Centella Asiatica (Tiger Grass)**, this serum acts as a "fire extinguisher" for inflammation. It instantly soothes stinging and rebuilds your skin's defenses against future irritation.
+ 
+ **CTA Button (Secondary):**
+ SHOP RECOVERY DUO
 
 ---
 

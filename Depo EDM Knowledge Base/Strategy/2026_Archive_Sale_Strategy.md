@@ -39,7 +39,8 @@
     *   **Subject:** The Vault is OPEN. (Private Access)
 *   **Email 5: Public Launch**
     *   **Date:** Feb 6 (Fri)
-    *   **Audience:** Full List (minus purchasers)
+    *   **Audience:** Full List (Include purchasers)
+    *   **Note:** Keep purchasers in. In Archive Sales, customers often return for a second order (missed items, FOMO, or better browsing).
     *   **Subject:** Archive Sale Now Public.
 *   **Email 6: Best Sellers / Low Stock**
     *   **Date:** Feb 7 (Sat)

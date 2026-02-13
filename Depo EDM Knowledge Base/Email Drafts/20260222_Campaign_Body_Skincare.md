@@ -25,13 +25,13 @@
 ---
 
 **Subject Line Options**
-1.  Does your skincare stop at your chin?
-2.  Body care is the new face care.
-3.  Retinol... for your body?
-4.  Don't neglect 90% of your skin.
+1.  Trend Alert: The "Body Cocktail" Method.
+2.  Why we're putting face serum on our legs.
+3.  Does your skincare stop at your chin?
+4.  [New Routine] Body care is the new face care.
 
 **Preview Text**
-Why your body deserves the same active ingredients as your face.
+Learn the viral "Body Cocktail" hack for smoother, firmer skin head-to-toe.
 
 ---
 
@@ -65,14 +65,27 @@ Yet, your body shows signs of aging just like your face:
 *   Uneven tone
 *   Rough texture
 
-**The Solution: Retinol Radiance Rescue Body Lotion.**
-
-We took our gold-standard **Retinol** and formulated it for the body. It’s not just a moisturizer; it’s an anti-aging treatment for your limbs.
-
-**Benefits:**
-*   Smoothes rough elbows and knees.
-*   Firms the appearance of skin.
-*   Evens out skin tone.
+**The Solution: A Full-Body Anti-Aging Protocol.**
+ 
+ We took our gold-standard facial ingredients and created a routine for everything below the chin.
+ 
+ **Step 1: The Daily Resurfacer (Full Body)**
+ **Retinol Radiance Rescue Body Lotion**
+ Formulated with pure Retinol to smooth rough texture, firm skin, and tackle body breakouts. It’s not just a moisturizer; it’s a treatment.
+ *   **Best for:** Arms, legs, and back.
+ **[SHOP BODY LOTION]**
+ 
+ **Step 2: The Neck & Chest Specialist**
+ **Pro-Firming Overnight Dream Mask**
+ The skin on your décolletage is as delicate as your eyelids. Extend this firming mask down to your chest to prevent "tech neck" lines and sleep creases.
+ *   **Best for:** Neck and décolletage.
+ **[SHOP DREAM MASK]**
+ 
+ **Step 3: The "Body Cocktail" Booster**
+ **Matrixyl® 3000 Collagen Serum**
+ Want spa-level results? Mix 2-3 pumps of this peptide serum into your body lotion before applying. It boosts collagen support for areas that need extra firming (like knees and elbows).
+ *   **Best for:** Mixing with body lotion.
+ **[SHOP SERUM]**
 
 ---
 

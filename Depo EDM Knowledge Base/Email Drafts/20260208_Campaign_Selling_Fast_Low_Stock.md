@@ -18,20 +18,25 @@
 *   **Name:** Archive Sale - Selling Fast / Low Stock
 *   **Type:** Promo / Urgency
 *   **Theme:** The Vault is Emptying Fast
-*   **Send Date:** 2026-02-08 (Sunday)
+*   **Send Date:** 2026-02-07 (Saturday)
 *   **Segment:** Full List (Exclude Buyers)
 *   **Goal:** Drive immediate sales by highlighting scarcity.
 
 ---
 
-**Subject Line Options**
-1.  Almost gone: Archive favorites are vanishing 📉
-2.  Low Stock Alert: The $10 Vault is emptying.
-3.  Selling Fast: Secure your favorites before they're gone.
-4.  Last call for these Archive exclusives.
+**Subject Line & Preview Text Options**
 
-**Preview Text**
-Don't miss out on 50% off sets and $10 heroes.
+**Segment 1: VIP (With Code)**
+*   **Subject Line A:** VIP Low Stock Alert: Use your code before they're gone 📉
+*   **Subject Line B:** Your VIP code + These selling-fast items = Perfect Match
+*   **Subject Line C:** Almost Gone: Secure your VIP favorites now.
+*   **Preview Text:** The Vault is emptying fast. Use your code for extra savings on selling-fast items.
+
+**Segment 2: Public (No Code)**
+*   **Subject Line A:** Selling Fast: The Vault is nearly empty 🚨
+*   **Subject Line B:** Low Stock Alert: $10 heroes are vanishing.
+*   **Subject Line C:** Last call for these Archive exclusives.
+*   **Preview Text:** Don't miss out on 50% off sets and $10 heroes. Shop before the Vault closes.
 
 ---
 

@@ -11,13 +11,12 @@
 ---
 
 **Subject Line Options**
-1. Access Granted: The Archive Sale is open.
-2. [PRIVATE LINK] Enter the Vault.
-3. The Vault is Open. (Your Early Access starts now)
-4. It’s open. Shop the $10 Retinal Serum now.
+1. [VIP Access] The Archive Sale is live (+ Extra 20% Off)
+2. Private Invite: Enter the Vault (Code Included)
+3. Priority Access: Your 24-hour head start begins now.
 
 **Preview Text**
-You have 24 hours before the public. Shop discontinued favorites from $10.
+Use private code SHOP20 for an extra 20% off. You have 24 hours before the public.
 
 ---
 
