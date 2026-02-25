@@ -1,8 +1,8 @@
 # Visual Direction
 
-[MEL Style](Visual%20Direction/MEL%20Style%202c8af13d12ff8078bbdcd9700c2bc3fc.md)
+[MEL Style](MEL%20Style%202c8af13d12ff8078bbdcd9700c2bc3fc.md)
 
-[NLE Style](Visual%20Direction/NLE%20Style%202c8af13d12ff80ad83d6f252315176be.md)
+[NLE Style](NLE%20Style%202c8af13d12ff80ad83d6f252315176be.md)
 
 ## **总体原则（建议放在页面底部）**
 

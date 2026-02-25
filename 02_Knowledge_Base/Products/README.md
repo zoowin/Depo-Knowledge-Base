@@ -1,6 +1,6 @@
 # Products
 
-[**A. Matrixyl® Line — SKU Cards**](Products/A%20Matrixyl%C2%AE%20Line%20%E2%80%94%20SKU%20Cards%202c8af13d12ff803bba51f75397e9d412.md)
+[**A. Matrixyl® Line — SKU Cards**](A%20Matrixyl%C2%AE%20Line%20%E2%80%94%20SKU%20Cards%202c8af13d12ff803bba51f75397e9d412.md)
 
 ## **2️⃣ [Matriplex™ Peptide Intense Cream](https://depology.com/products/tri-active-matrixyl-complex-cream)**
 
@@ -77,13 +77,13 @@ A nourishing peptide cream formulated with an 8% Matrixyl Complex to support ski
 
 ---
 
-[**B. Argireline™ Line — SKU Product Cards**](Products/B%20Argireline%E2%84%A2%20Line%20%E2%80%94%20SKU%20Product%20Cards%202c8af13d12ff809fa4d6db1f75a61e36.md)
+[**B. Argireline™ Line — SKU Product Cards**](B%20Argireline%E2%84%A2%20Line%20%E2%80%94%20SKU%20Product%20Cards%202c8af13d12ff809fa4d6db1f75a61e36.md)
 
-[**C. Retinoid Line — SKU Product Cards**](Products/C%20Retinoid%20Line%20%E2%80%94%20SKU%20Product%20Cards%202c8af13d12ff8089ad85cfb7de8d82d8.md)
+[**C. Retinoid Line — SKU Product Cards**](C%20Retinoid%20Line%20%E2%80%94%20SKU%20Product%20Cards%202c8af13d12ff8089ad85cfb7de8d82d8.md)
 
 [**D. Cica Line — SKU Product Cards**
-](Products/D%20Cica%20Line%20%E2%80%94%20SKU%20Product%20Cards%202c8af13d12ff80abadecd5ed078b0fff.md)
+](D%20Cica%20Line%20%E2%80%94%20SKU%20Product%20Cards%202c8af13d12ff80abadecd5ed078b0fff.md)
 
-[E. Technology-Driven Line **— SKU Cards**](Products/E%20Technology-Driven%20Line%20%E2%80%94%20SKU%20Cards%202c8af13d12ff806b9a7ff47dcc1d0420.md)
+[E. Technology-Driven Line **— SKU Cards**](E%20Technology-Driven%20Line%20%E2%80%94%20SKU%20Cards%202c8af13d12ff806b9a7ff47dcc1d0420.md)
 
-[**F. Opuntia Line — SKU Product Cards**](Products/F-Opuntia-Line.md)
+[**F. Opuntia Line — SKU Product Cards**](F-Opuntia-Line.md)
