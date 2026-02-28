@@ -155,11 +155,17 @@ def update_topic_pool(new_topics):
     script_dir = os.path.dirname(os.path.abspath(__file__))
     # Go up one level from 'tools' to 'Depo EDM Knowledge Base'
     base_dir = os.path.dirname(script_dir)
-    file_path = os.path.join(base_dir, "Operations", "Topic Pool.md")
+    # Modified path to match actual structure
+    file_path = os.path.join(base_dir, "01_Strategy_and_Planning", "Topic_Pool.md")
     
     if not os.path.exists(file_path):
         print(f"❌ Topic Pool file not found at: {file_path}")
-        return
+        # Try fallback to absolute path just in case
+        fallback_path = r"c:\Users\曾泽南\Desktop\DEP\Depo-Knowledge-Base\01_Strategy_and_Planning\Topic_Pool.md"
+        if os.path.exists(fallback_path):
+             file_path = fallback_path
+        else:
+             return
 
     print(f"📝 Appending {len(new_topics)} new topics to Topic Pool...")
     timestamp = datetime.now().strftime("%Y-%m-%d")
@@ -206,6 +212,10 @@ def main():
     
     if all_topics:
         unique_topics = {t['query']: t for t in all_topics}.values()
+        print("--- FETCHED TOPICS ---")
+        for t in unique_topics:
+            print(t)
+        print("----------------------")
         update_topic_pool(unique_topics)
         print("\n✅ Done! Check 'Operations/Topic Pool.md'")
     else:

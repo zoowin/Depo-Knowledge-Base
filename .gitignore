@@ -1,14 +1,6 @@
-# System files
-.DS_Store
-Thumbs.db
-
-# Python
+.trae/
+output.txt
+test_output.txt
 __pycache__/
-*.py[cod]
-*.venv
-venv/
-.env
-
-# Editor
-.vscode/
-.idea/
+*.log
+*.DS_Store

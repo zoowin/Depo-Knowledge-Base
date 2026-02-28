@@ -52,6 +52,8 @@ The internet is full of advice. We are here to filter the noise and tell you wha
 
 **CTA Button:**
 SEE THE VERDICT
+*   **Link:** `https://depology.com/pages/about-us`
+*   **Strategy Note:** 链接至品牌故事页，强调 "Science-backed" 权威背景，建立信任。
 
 ---
 
@@ -65,18 +67,24 @@ SEE THE VERDICT
 *   **Our Verdict:** **VERIFIED.** While nothing replaces a neurotoxin injection 100%, peptides like Argireline™ are the closest topical alternative proven to relax facial tension.
 *   **The Solution:** *Argireline™ Solution.*
 *   **[Shop Argireline]**
+    *   **Link:** `https://depology.com/products/argireline-anti-wrinkle-serum`
+    *   **Strategy Note:** 直接落地到“Notox”核心产品页，转化意向明确的用户。
 
 **Trend #2: "Skin Streaming"**
 *   **The Trend:** The death of the 12-step routine. Using fewer, high-performance products that do multiple jobs at once.
 *   **Our Verdict:** **VERIFIED.** Over-layering causes pilling and barrier damage. A single, potent serum is often more effective than five weak ones.
 *   **The Solution:** *Matrixyl® 3000 Collagen Serum.* (Hydrates + Firms + Plumps in one step).
 *   **[Shop Matrixyl]**
+    *   **Link:** `https://depology.com/products/depology-matrixyl-3000-serum`
+    *   **Strategy Note:** 落地到多效合一的 Matrixyl 页面，呼应“精简护肤”的主题。
 
 **Trend #3: "Overnight Wrapping" (Slugging 2.0)**
 *   **The Trend:** Sealing in your skincare with a thick layer to prevent water loss while you sleep.
 *   **Our Verdict:** **VERIFIED (With a twist).** Traditional petroleum jelly can clog pores. We recommend a breathable, gel-based occlusive that locks in moisture *without* the breakouts.
 *   **The Solution:** *Pro-Firming Overnight Dream Mask.*
 *   **[Shop Dream Mask]**
+    *   **Link:** `https://depology.com/products/pro-firming-matrixyl-3000-dynalift-night-mask`
+    *   **Strategy Note:** 落地到晚安面膜页，满足“过夜包裹”需求。
 
 ---
 
@@ -90,6 +98,8 @@ Shop Science, Not Hype.
 
 **CTA Button:**
 SHOP BEST SELLERS
+*   **Link:** `https://depology.com/collections/best-sellers`
+*   **Strategy Note:** 兜底流量，引导至转化率最高的集合页。
 
 ---
 

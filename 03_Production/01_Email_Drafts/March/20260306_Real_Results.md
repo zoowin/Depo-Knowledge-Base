@@ -72,10 +72,10 @@ Here is what our community is noticing after one full skin cycle:
 "I was scared to try retinol, but the **Anti-Aging Night Cream** is so gentle. After 4 weeks, my rough patches are gone and my skin glows."
 — *Amanda K., Verified Buyer*
 
-**Review 2 (Cica Focus):**
+**Review 2 (Matrixyl Serum Focus):**
 ⭐⭐⭐⭐⭐
-**"Redness? Gone."**
-"I have sensitive skin that gets red easily. The **Cica Recovery Serum** calmed it down in just a few weeks. I finally feel comfortable going without foundation."
+**"Plumper skin in 4 weeks."**
+"I noticed my skin felt bouncier and more hydrated within a month. The **Matrixyl® 3000 Collagen Serum** is now a staple in my routine for targeting those fine lines."
 — *Chloe T., Verified Buyer*
 
 **Review 3 (Matriplex Focus):**
@@ -96,10 +96,10 @@ Start Your Transformation
     *   Gently resurface skin and target deep wrinkles while you sleep.
     *   **[SHOP RETINOL CREAM]**
 
-**2. The Redness Eraser**
-*   **Cica Redness Relief Serum:**
-    *   Soothe irritation and strengthen your moisture barrier.
-    *   **[SHOP CICA SERUM]**
+**2. The Collagen Booster**
+*   **Matrixyl® 3000 Collagen Serum:**
+    *   Hydrate and plump skin to reduce the appearance of static wrinkles.
+    *   **[SHOP MATRIXYL SERUM]**
 
 **3. The Moisture Seal**
 *   **Matriplex™ Peptide Intense Cream:**
@@ -119,5 +119,5 @@ See the difference 28 days makes: Highlighting real results from the community.
 **2. Body/Story**
 Skincare requires consistency because the skin cycle is ~28 days. We showcase verified reviews and Before/Afters to prove that patience pays off.
 
-**3. Product/Solution**
-Promoting alternative heroes to diversify the routine: **Retinol Night Cream** (Resurfacing), **Cica Serum** (Soothing), and **Matriplex™ Cream** (Hydrating/Firming).
+**3. Product/Solution
+Promoting alternative heroes to diversify the routine: **Retinol Night Cream** (Resurfacing), **Matrixyl® Serum** (Plumping), and **Matriplex™ Cream** (Hydrating/Firming).

@@ -22,7 +22,7 @@
 | **Mar 16** | Mon | 🟢 Educational | **Ingredient Deep Dive: Retinol**<br>Subject: Why your night routine needs this MVP | Engaged 30/60/90 | Education |
 | **Mar 18** | Wed | 🟢 Educational | **Myth Busting: "Anti-aging is only for old skin"**<br>Subject: "I'm too young for retinol"... or are you? | Engaged 30/60/90 | Education |
 | **Mar 20** | Fri | 🟢 Seasonal | **Spring Equinox: Transitioning to Lighter Layers**<br>Subject: Shedding your winter coat (and skin) | Engaged | Education/Routine |
-| **Mar 23** | Mon | � Promo | **Micro-Dart Tech Launch: Deeper Delivery**<br>Subject: 48 hours to try the cream that delivers skincare *deeper* | Engaged + High-intent | Revenue/Product Launch |
+| **Mar 23** | Mon | 🟢 Educational | **Micro-Dart Deep Dive: The Science of Delivery**<br>Subject: Why your serum might not be working | Engaged + High-intent | Education/Conversion |
 | **Mar 24** | Tue | 🟢 Tip | **Eye Care Hack: The Yin & Yang Method (MODIFY)**<br>Subject: Double the eye care, double the results <br>*(⚠️ Eye Stick OOS - Promote Eye Cream + Patches)* | Engaged | Education/Cross-sell |
 | **Mar 26** | Thu | 🔴 Promo | **End of Month Treat: Spring Essentials**<br>Subject: Spring skin made easy (Gift inside?) <br>*(⚠️ GWP Modify: Cleanser OOS)* | Full List | Revenue |
 | **Mar 29** | Sun | 🟢 Trend | **Skin Streaming (Simpler Routine)**<br>Subject: Why 12 steps is OUT. | Engaged | Education/Retention |

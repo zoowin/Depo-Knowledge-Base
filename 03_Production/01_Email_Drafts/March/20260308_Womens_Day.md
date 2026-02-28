@@ -60,26 +60,41 @@ So today, we celebrate the strength, beauty, and resilience of women everywhere.
 
 Take a moment for yourself. You’ve earned it.
 
+**Exclusive Women's Day Treat:**
+Enjoy **15% OFF** sitewide to celebrate you.
+**Code: WOMEN15**
+
 **CTA Button:**
-EXPLORE THE COLLECTION
+TREAT YOURSELF (15% OFF)
 
 ---
 
-## 3. Product Spotlight: The Power Couple Tease
+## 3. Curated for You: The Complete Ritual
 
 **Headline:**
 Strong Alone. Unstoppable Together.
 
 **Copy:**
-Just like the women we celebrate, our favorite serums are powerful on their own—but even better when they support each other.
+Self-care isn't just one step—it's a flow. We've connected our most powerful products to create a routine that treats, seals, and extends your glow from head to toe.
 
-Keep an eye on your inbox this Tuesday for a special **Women's Week Offer** featuring our most powerful duo.
+**Step 1: The Foundation (The Bundle)**
+Start with the serums that do it all. **Argireline™** relaxes tension lines, while **Matrixyl® 3000** rebuilds bounce. They are the essential base of your "Modern Armor."
+*   **[SHOP THE BUNDLE]**
 
-*   **Argireline™:** The Relaxer.
-*   **Matrixyl® 3000:** The Builder.
+**Step 2: The Seal (The Comfort)**
+Don't let that power escape. Follow your serums with **Matriplex™ Peptide Intense Cream**—a rich, whipped barrier that locks in hydration and comforts stressed skin.
+*   **[SHOP MATRIPLEX CREAM]**
+
+**Step 3: The Extension (The Body)**
+True resilience doesn't stop at your chin. **Retinol Radiance Rescue Body Lotion** brings the same high-performance actives to your body, smoothing texture and brightening tone everywhere else.
+*   **[SHOP BODY LOTION]**
 
 **CTA Button:**
-BUILD YOUR WISHLIST
+SHOP THE FULL RITUAL (WOMEN15)
+
+---
+
+## 5. Visual Direction & AI Image Prompts
 
 ---
 
