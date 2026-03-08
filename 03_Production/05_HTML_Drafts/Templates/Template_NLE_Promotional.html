@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>{{EMAIL_SUBJECT}}</title>
+  <!--[if mso]>
+  <noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
+  <![endif]-->
+  <style>
+    /* ===== RESET ===== */
+    body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; }
+    a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; }
+
+    /* ===== MOBILE ===== */
+    @media screen and (max-width: 600px) {
+      .email-container { width: 100% !important; }
+      .mobile-pad { padding-left: 24px !important; padding-right: 24px !important; }
+      .offer-h1 { font-size: 30px !important; letter-spacing: -0.5px !important; }
+      .code-text { font-size: 20px !important; letter-spacing: 3px !important; }
+      /* Stack product columns on mobile */
+      .prod-col { display: block !important; width: 100% !important; padding: 0 16px 20px !important; }
+      .prod-col table { width: 100% !important; }
+    }
+  </style>
+</head>
+<body style="margin:0;padding:0;background-color:#0D0D0D;font-family:Arial,Helvetica,sans-serif;">
+
+  <!-- =============================================
+       PREHEADER: Edit this text for email preview
+       ============================================= -->
+  <div style="display:none;font-size:1px;color:#0D0D0D;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden;">
+    {{PREHEADER_TEXT}} &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+  </div>
+
+  <!-- =============================================
+       WRAPPER
+       ============================================= -->
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation"
+         style="background-color:#0D0D0D;">
+    <tr>
+      <td align="center" style="padding:20px 16px;">
+
+        <!-- =============================================
+             MAIN CONTAINER (600px max-width)
+             ============================================= -->
+        <table class="email-container" width="600" cellpadding="0" cellspacing="0" border="0" role="presentation"
+               style="background-color:#0D0D0D;max-width:600px;width:100%;">
+
+          <!-- ─────────────────────────────────────────
+               HEADER: LOGO (white/inverted)
+               ───────────────────────────────────────── -->
+          <tr>
+            <td align="center"
+                style="padding:20px 40px 18px;border-bottom:1px solid #2A2A2A;">
+              <a href="https://depology.com" style="text-decoration:none;">
+                <img src="https://depology.com/cdn/shop/files/Depology_Logo_Black_150x.png"
+                     alt="Depology" width="110"
+                     style="display:block;width:110px;height:auto;filter:invert(1);">
+              </a>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               HERO IMAGE (full-bleed)
+               ↓ Replace {{HERO_IMAGE_URL}} each send
+               ───────────────────────────────────────── -->
+          <tr>
+            <td style="padding:0;font-size:0;line-height:0;">
+              <a href="{{HERO_CTA_URL}}" style="text-decoration:none;display:block;">
+                <img src="{{HERO_IMAGE_URL}}"
+                     alt="{{OFFER_HEADLINE}}"
+                     width="600"
+                     style="width:100%;max-width:600px;height:auto;display:block;">
+              </a>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               OFFER BLOCK
+               ───────────────────────────────────────── -->
+          <tr>
+            <td class="mobile-pad" align="center"
+                style="padding:48px 60px 44px;background-color:#0D0D0D;">
+
+              <!-- Offer label, e.g. "LIMITED TIME" / "NEW LAUNCH" / "EXCLUSIVE" -->
+              <p style="margin:0 0 10px;font-size:10px;letter-spacing:3px;color:#888883;
+                        text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                {{OFFER_LABEL}}
+              </p>
+
+              <!-- Main headline — bold, large, direct -->
+              <h1 class="offer-h1"
+                  style="margin:0 0 14px;font-size:38px;line-height:1.1;color:#FFFFFF;font-weight:700;
+                         font-family:Arial,Helvetica,sans-serif;letter-spacing:-1px;">
+                {{OFFER_HEADLINE}}
+              </h1>
+
+              <!-- Sub-copy — brief, 1–2 sentences -->
+              <p style="margin:0 0 32px;font-size:15px;line-height:1.7;color:#A8A8A3;
+                        font-family:Arial,Helvetica,sans-serif;">
+                {{OFFER_SUBTEXT}}
+              </p>
+
+              <!-- ─── DISCOUNT CODE BOX ───
+                   REMOVE this entire block for New Launch emails (no code)
+              ─────────────────────────────── -->
+              <table align="center" cellpadding="0" cellspacing="0" border="0" role="presentation"
+                     style="margin:0 auto 30px;">
+                <tr>
+                  <td style="background-color:#1A1A1A;border:1px solid #3A3A3A;
+                             padding:14px 30px;text-align:center;">
+                    <p style="margin:0 0 4px;font-size:10px;letter-spacing:2px;color:#888883;
+                              text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                      Use Code
+                    </p>
+                    <p class="code-text"
+                       style="margin:0;font-size:24px;font-weight:700;color:#FFFFFF;
+                              letter-spacing:5px;font-family:Arial,Helvetica,sans-serif;">
+                      {{DISCOUNT_CODE}}
+                    </p>
+                  </td>
+                </tr>
+              </table>
+              <!-- ─── END DISCOUNT CODE BOX ─── -->
+
+              <!-- Main CTA button -->
+              <a href="{{HERO_CTA_URL}}"
+                 style="display:inline-block;background-color:#FFFFFF;color:#0D0D0D;
+                        padding:14px 40px;text-decoration:none;font-weight:700;font-size:13px;
+                        letter-spacing:1.8px;font-family:Arial,Helvetica,sans-serif;text-transform:uppercase;">
+                {{HERO_CTA_TEXT}}
+              </a>
+
+              <!-- Terms / deadline line (optional) -->
+              <p style="margin:18px 0 0;font-size:12px;color:#555550;
+                        font-family:Arial,Helvetica,sans-serif;">
+                {{OFFER_TERMS}}
+              </p>
+            </td>
+          </tr>
+
+          <!-- SECTION DIVIDER -->
+          <tr>
+            <td>
+              <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr><td style="height:1px;background-color:#2A2A2A;font-size:0;">&nbsp;</td></tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               PRODUCTS SECTION HEADER
+               ───────────────────────────────────────── -->
+          <tr>
+            <td align="center"
+                style="background-color:#111111;padding:32px 60px 22px;">
+              <p style="margin:0 0 8px;font-size:10px;letter-spacing:2.5px;color:#666661;
+                        text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                Featured Products
+              </p>
+              <h2 style="margin:0;font-size:20px;line-height:1.3;color:#FFFFFF;font-weight:700;
+                         font-family:Arial,Helvetica,sans-serif;">
+                {{PRODUCTS_HEADLINE}}
+              </h2>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               PRODUCT GRID — 3 Columns
+               ↓ Replace {{PRODUCT_x_IMAGE}} with fixed URLs
+               ───────────────────────────────────────── -->
+          <tr>
+            <td style="background-color:#111111;padding:8px 24px 32px;">
+              <!--[if mso]>
+              <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+              <![endif]-->
+              <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation">
+                <tr>
+
+                  <!-- ── PRODUCT 1 ── -->
+                  <td class="prod-col" width="33%" valign="top"
+                      style="padding:0 8px;">
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation"
+                           style="background-color:#0D0D0D;">
+                      <tr>
+                        <td style="font-size:0;line-height:0;">
+                          <a href="{{PRODUCT_1_URL}}" style="text-decoration:none;display:block;">
+                            <img src="{{PRODUCT_1_IMAGE}}"
+                                 alt="{{PRODUCT_1_NAME}}"
+                                 width="167"
+                                 style="width:100%;height:auto;display:block;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding:12px 10px 18px;">
+                          <p style="margin:0 0 4px;font-size:9px;letter-spacing:1.5px;color:#666661;
+                                    text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                            {{PRODUCT_1_LINE}}
+                          </p>
+                          <p style="margin:0 0 8px;font-size:13px;line-height:1.35;color:#FFFFFF;
+                                    font-weight:700;font-family:Arial,Helvetica,sans-serif;">
+                            {{PRODUCT_1_NAME}}
+                          </p>
+                          <!-- Show sale price or regular price -->
+                          <p style="margin:0 0 12px;font-size:14px;color:#C9B89A;font-weight:700;
+                                    font-family:Arial,Helvetica,sans-serif;">
+                            {{PRODUCT_1_PRICE}}
+                          </p>
+                          <a href="{{PRODUCT_1_URL}}"
+                             style="font-size:11px;font-weight:700;color:#FFFFFF;text-decoration:none;
+                                    letter-spacing:1px;border-bottom:1px solid #FFFFFF;padding-bottom:1px;
+                                    font-family:Arial,Helvetica,sans-serif;text-transform:uppercase;">
+                            SHOP →
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+
+                  <!-- ── PRODUCT 2 ── -->
+                  <td class="prod-col" width="33%" valign="top"
+                      style="padding:0 8px;">
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation"
+                           style="background-color:#0D0D0D;">
+                      <tr>
+                        <td style="font-size:0;line-height:0;">
+                          <a href="{{PRODUCT_2_URL}}" style="text-decoration:none;display:block;">
+                            <img src="{{PRODUCT_2_IMAGE}}"
+                                 alt="{{PRODUCT_2_NAME}}"
+                                 width="167"
+                                 style="width:100%;height:auto;display:block;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding:12px 10px 18px;">
+                          <p style="margin:0 0 4px;font-size:9px;letter-spacing:1.5px;color:#666661;
+                                    text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                            {{PRODUCT_2_LINE}}
+                          </p>
+                          <p style="margin:0 0 8px;font-size:13px;line-height:1.35;color:#FFFFFF;
+                                    font-weight:700;font-family:Arial,Helvetica,sans-serif;">
+                            {{PRODUCT_2_NAME}}
+                          </p>
+                          <p style="margin:0 0 12px;font-size:14px;color:#C9B89A;font-weight:700;
+                                    font-family:Arial,Helvetica,sans-serif;">
+                            {{PRODUCT_2_PRICE}}
+                          </p>
+                          <a href="{{PRODUCT_2_URL}}"
+                             style="font-size:11px;font-weight:700;color:#FFFFFF;text-decoration:none;
+                                    letter-spacing:1px;border-bottom:1px solid #FFFFFF;padding-bottom:1px;
+                                    font-family:Arial,Helvetica,sans-serif;text-transform:uppercase;">
+                            SHOP →
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+
+                  <!-- ── PRODUCT 3 ── -->
+                  <td class="prod-col" width="33%" valign="top"
+                      style="padding:0 8px;">
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation"
+                           style="background-color:#0D0D0D;">
+                      <tr>
+                        <td style="font-size:0;line-height:0;">
+                          <a href="{{PRODUCT_3_URL}}" style="text-decoration:none;display:block;">
+                            <img src="{{PRODUCT_3_IMAGE}}"
+                                 alt="{{PRODUCT_3_NAME}}"
+                                 width="167"
+                                 style="width:100%;height:auto;display:block;">
+                          </a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="padding:12px 10px 18px;">
+                          <p style="margin:0 0 4px;font-size:9px;letter-spacing:1.5px;color:#666661;
+                                    text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                            {{PRODUCT_3_LINE}}
+                          </p>
+                          <p style="margin:0 0 8px;font-size:13px;line-height:1.35;color:#FFFFFF;
+                                    font-weight:700;font-family:Arial,Helvetica,sans-serif;">
+                            {{PRODUCT_3_NAME}}
+                          </p>
+                          <p style="margin:0 0 12px;font-size:14px;color:#C9B89A;font-weight:700;
+                                    font-family:Arial,Helvetica,sans-serif;">
+                            {{PRODUCT_3_PRICE}}
+                          </p>
+                          <a href="{{PRODUCT_3_URL}}"
+                             style="font-size:11px;font-weight:700;color:#FFFFFF;text-decoration:none;
+                                    letter-spacing:1px;border-bottom:1px solid #FFFFFF;padding-bottom:1px;
+                                    font-family:Arial,Helvetica,sans-serif;text-transform:uppercase;">
+                            SHOP →
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+
+                </tr>
+              </table>
+              <!--[if mso]></tr></table><![endif]-->
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               SHOP ALL CTA (ghost/outline button)
+               ───────────────────────────────────────── -->
+          <tr>
+            <td align="center"
+                style="background-color:#111111;padding:6px 40px 44px;">
+              <a href="https://depology.com/collections/shop-all"
+                 style="display:inline-block;background-color:transparent;color:#FFFFFF;
+                        padding:13px 38px;text-decoration:none;font-weight:700;font-size:12px;
+                        letter-spacing:1.8px;font-family:Arial,Helvetica,sans-serif;
+                        text-transform:uppercase;border:1.5px solid #FFFFFF;">
+                SHOP ALL
+              </a>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               FOOTER
+               ───────────────────────────────────────── -->
+          <tr>
+            <td align="center"
+                style="background-color:#080808;padding:30px 40px;border-top:1px solid #1E1E1E;">
+              <a href="https://depology.com" style="text-decoration:none;">
+                <img src="https://depology.com/cdn/shop/files/Depology_Logo_Black_150x.png"
+                     alt="Depology" width="80"
+                     style="display:block;margin:0 auto 16px;height:auto;filter:invert(1);opacity:0.5;">
+              </a>
+              <p style="margin:0 0 6px;font-size:11px;color:#444440;
+                        font-family:Arial,Helvetica,sans-serif;line-height:1.6;">
+                © 2026 Depology. All rights reserved.
+              </p>
+              <p style="margin:0;font-size:11px;color:#333330;
+                        font-family:Arial,Helvetica,sans-serif;line-height:2.2;">
+                <a href="{% view_in_browser %}" style="color:#555550;text-decoration:underline;">View in Browser</a>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                {% unsubscribe 'Unsubscribe' %}
+              </p>
+            </td>
+          </tr>
+
+        </table>
+        <!-- END MAIN CONTAINER -->
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
+
+<!--
+=======================================================
+  DEPOLOGY — NLE STYLE TEMPLATE (Conversion-First)
+  Style: 重设计，轻文本 | Emotion → Urgency → Action
+  Use for: Promotions / Sales / New Launch Announcements
+=======================================================
+
+VARIABLES TO REPLACE EACH SEND:
+─────────────────────────────────────────────────────
+  {{PREHEADER_TEXT}}     — Preview text (1 line, ~80 chars)
+  {{EMAIL_SUBJECT}}      — Browser tab title
+  {{OFFER_LABEL}}        — Tag above headline: "LIMITED TIME" / "NEW LAUNCH"
+  {{OFFER_HEADLINE}}     — Big bold headline (4–7 words max)
+  {{OFFER_SUBTEXT}}      — 1–2 sentence sub-copy
+  {{HERO_IMAGE_URL}}     — ★ Upload new hero image each send
+  {{HERO_CTA_URL}}       — Main button destination URL
+  {{HERO_CTA_TEXT}}      — Main button label, e.g. "SHOP NOW"
+  {{DISCOUNT_CODE}}      — Coupon code (or remove code block entirely)
+  {{OFFER_TERMS}}        — e.g. "Ends Sunday. While supplies last."
+  {{PRODUCTS_HEADLINE}}  — Product section subheading
+
+PRODUCT VARIABLES (set once, then reuse across sends):
+─────────────────────────────────────────────────────
+  {{PRODUCT_1_IMAGE}}  → Fixed Shopify/Klaviyo CDN URL
+  {{PRODUCT_1_NAME}}   → Full product name
+  {{PRODUCT_1_LINE}}   → Product line tag
+  {{PRODUCT_1_PRICE}}  → e.g. "$38" or "Buy 3 Get 2 Free"
+  {{PRODUCT_1_URL}}    → depology.com/products/...
+
+  (Same for PRODUCT_2 and PRODUCT_3)
+
+FOR NEW LAUNCH (no promotion):
+─────────────────────────────────────────────────────
+  — Remove the entire <!-- DISCOUNT CODE BOX --> block
+  — Set {{OFFER_LABEL}} = "NEW ARRIVAL"
+  — Set {{HERO_CTA_TEXT}} = "DISCOVER NOW"
+  — Leave {{OFFER_TERMS}} blank or remove the <p> tag
+
+HOW TO GET PRODUCT IMAGE URLs:
+─────────────────────────────────────────────────────
+  Option A (Shopify): depology.com → product page
+          → Right-click image → "Copy Image Address"
+  Option B (Klaviyo): Content → Images → Upload → Copy URL
+
+QUICK REFERENCE — PRODUCT URLS:
+─────────────────────────────────────────────────────
+  Matrixyl® 3000 Serum    → /products/matrixyl-collagen-serum
+  Argireline™ MPS Serum   → /products/peptide-complex-10-argireline-peptide-serum
+  Peptide Serum Duo       → /products/prevent-and-rewind-serum-duo
+  Eye Cream               → /products/peptide-complex-wrinkle-defense-eye-cream
+  Matriplex™ Cream        → /products/tri-active-matrixyl-complex-cream
+  Retinol Body Lotion     → /products/retinol-radiance-body-lotion
+  Deepcare+ Cream         → /products/deepcare-r-microoperator-boosting-cream-beginner
+  Micro Dart Patches      → /products/deepcare-serum-infused-micro-dart-patches-lp1-t0
+  Cica HA Serum           → /products/cica-h-a-calm-repair-serum
+  Cleansing Balm          → /products/opuntia-c-relief-cleansing-balm
+=======================================================
+-->

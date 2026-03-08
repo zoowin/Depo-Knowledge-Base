@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>{{EMAIL_SUBJECT}}</title>
+  <!--[if mso]>
+  <noscript><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml></noscript>
+  <![endif]-->
+  <style>
+    /* ===== RESET ===== */
+    body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; }
+    a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; }
+
+    /* ===== MOBILE ===== */
+    @media screen and (max-width: 600px) {
+      .email-container { width: 100% !important; }
+      .mobile-pad { padding-left: 24px !important; padding-right: 24px !important; }
+      .hero-h1 { font-size: 22px !important; line-height: 1.3 !important; }
+      .section-h2 { font-size: 18px !important; }
+      .product-card { padding: 0 16px 16px !important; }
+    }
+  </style>
+</head>
+<body style="margin:0;padding:0;background-color:#EDECEA;font-family:Arial,Helvetica,sans-serif;">
+
+  <!-- =============================================
+       PREHEADER: Edit this text for email preview
+       ============================================= -->
+  <div style="display:none;font-size:1px;color:#EDECEA;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden;">
+    {{PREHEADER_TEXT}} &zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+  </div>
+
+  <!-- =============================================
+       WRAPPER
+       ============================================= -->
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation" style="background-color:#EDECEA;">
+    <tr>
+      <td align="center" style="padding:24px 16px;">
+
+        <!-- =============================================
+             MAIN CONTAINER (600px max-width)
+             ============================================= -->
+        <table class="email-container" width="600" cellpadding="0" cellspacing="0" border="0" role="presentation"
+               style="background-color:#FFFFFF;max-width:600px;width:100%;">
+
+          <!-- ─────────────────────────────────────────
+               HEADER: LOGO
+               ───────────────────────────────────────── -->
+          <tr>
+            <td align="center" style="padding:22px 40px 20px;border-bottom:1px solid #E8E6E1;">
+              <a href="https://depology.com" style="text-decoration:none;">
+                <img src="https://depology.com/cdn/shop/files/Depology_Logo_Black_150x.png"
+                     alt="Depology" width="120"
+                     style="display:block;width:120px;height:auto;">
+              </a>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               HERO IMAGE
+               ↓ Replace {{HERO_IMAGE_URL}} each send
+               ───────────────────────────────────────── -->
+          <tr>
+            <td style="padding:0;font-size:0;line-height:0;">
+              <a href="{{HERO_CTA_URL}}" style="text-decoration:none;display:block;">
+                <img src="{{HERO_IMAGE_URL}}"
+                     alt="{{EMAIL_HEADLINE}}"
+                     width="600"
+                     style="width:100%;max-width:600px;height:auto;display:block;">
+              </a>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               HERO TEXT BLOCK
+               ───────────────────────────────────────── -->
+          <tr>
+            <td class="mobile-pad" align="center"
+                style="padding:42px 60px 38px;background-color:#FFFFFF;">
+              <h1 class="hero-h1"
+                  style="margin:0 0 14px;font-size:26px;line-height:1.3;color:#0D0D0D;font-weight:700;
+                         font-family:Arial,Helvetica,sans-serif;letter-spacing:-0.3px;">
+                {{EMAIL_HEADLINE}}
+              </h1>
+              <p style="margin:0 0 28px;font-size:15px;line-height:1.8;color:#555550;
+                        font-family:Arial,Helvetica,sans-serif;">
+                {{EMAIL_SUBHEADLINE}}
+              </p>
+              <!-- Soft CTA — keeps MEL tone (Discover / Learn / Explore) -->
+              <a href="{{HERO_CTA_URL}}"
+                 style="display:inline-block;background-color:#0D0D0D;color:#FFFFFF;
+                        padding:13px 30px;text-decoration:none;font-weight:700;font-size:12px;
+                        letter-spacing:1.8px;font-family:Arial,Helvetica,sans-serif;text-transform:uppercase;">
+                {{HERO_CTA_TEXT}}
+              </a>
+            </td>
+          </tr>
+
+          <!-- THIN DIVIDER -->
+          <tr>
+            <td style="padding:0 44px;">
+              <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation">
+                <tr><td style="border-top:1px solid #E8E6E1;font-size:0;line-height:0;">&nbsp;</td></tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               EDUCATIONAL SECTION 1 — THE PROBLEM
+               ───────────────────────────────────────── -->
+          <tr>
+            <td class="mobile-pad section-h2" style="padding:42px 60px 30px;">
+              <!-- Optional label, e.g. "The Problem" or "Why It Matters" -->
+              <p style="margin:0 0 10px;font-size:10px;letter-spacing:2.5px;color:#999993;
+                        text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                {{SECTION_1_LABEL}}
+              </p>
+              <h2 class="section-h2"
+                  style="margin:0 0 18px;font-size:20px;line-height:1.4;color:#0D0D0D;font-weight:700;
+                         font-family:Arial,Helvetica,sans-serif;">
+                {{SECTION_1_HEADLINE}}
+              </h2>
+              <p style="margin:0;font-size:15px;line-height:1.85;color:#444440;
+                        font-family:Arial,Helvetica,sans-serif;">
+                {{SECTION_1_BODY}}
+              </p>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               EDUCATIONAL SECTION 2 — THE SCIENCE
+               ───────────────────────────────────────── -->
+          <tr>
+            <td class="mobile-pad" style="padding:0 60px 30px;">
+              <p style="margin:0 0 10px;font-size:10px;letter-spacing:2.5px;color:#999993;
+                        text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                {{SECTION_2_LABEL}}
+              </p>
+              <h2 class="section-h2"
+                  style="margin:0 0 18px;font-size:20px;line-height:1.4;color:#0D0D0D;font-weight:700;
+                         font-family:Arial,Helvetica,sans-serif;">
+                {{SECTION_2_HEADLINE}}
+              </h2>
+              <p style="margin:0;font-size:15px;line-height:1.85;color:#444440;
+                        font-family:Arial,Helvetica,sans-serif;">
+                {{SECTION_2_BODY}}
+              </p>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               HIGHLIGHT / PULL QUOTE BOX
+               Good for clinical stats, key takeaways
+               ───────────────────────────────────────── -->
+          <tr>
+            <td class="mobile-pad" style="padding:0 60px 48px;">
+              <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation"
+                     style="background-color:#F7F5F0;border-left:3px solid #0D0D0D;">
+                <tr>
+                  <td style="padding:18px 22px;">
+                    <p style="margin:0;font-size:14px;line-height:1.85;color:#333330;
+                              font-family:Arial,Helvetica,sans-serif;font-style:italic;">
+                      {{HIGHLIGHT_TEXT}}
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               PRODUCT SECTION HEADER
+               ───────────────────────────────────────── -->
+          <tr>
+            <td align="center"
+                style="background-color:#F7F5F0;padding:34px 60px 26px;">
+              <p style="margin:0 0 8px;font-size:10px;letter-spacing:2.5px;color:#999993;
+                        text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                The Solution
+              </p>
+              <h2 style="margin:0;font-size:21px;line-height:1.3;color:#0D0D0D;font-weight:700;
+                         font-family:Arial,Helvetica,sans-serif;">
+                {{PRODUCTS_SECTION_HEADLINE}}
+              </h2>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               PRODUCT 1
+               ↓ Replace {{PRODUCT_1_IMAGE}} with fixed Shopify/Klaviyo URL
+               ───────────────────────────────────────── -->
+          <tr>
+            <td class="product-card" style="background-color:#F7F5F0;padding:0 40px 20px;">
+              <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation"
+                     style="background-color:#FFFFFF;">
+                <tr>
+                  <td style="font-size:0;line-height:0;">
+                    <a href="{{PRODUCT_1_URL}}" style="text-decoration:none;display:block;">
+                      <img src="{{PRODUCT_1_IMAGE}}"
+                           alt="{{PRODUCT_1_NAME}}"
+                           width="520"
+                           style="width:100%;max-width:520px;height:auto;display:block;">
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:20px 24px 26px;">
+                    <!-- Product Line Tag, e.g. "Matrixyl® Line" / "Argireline™ Line" -->
+                    <p style="margin:0 0 5px;font-size:10px;letter-spacing:2px;color:#999993;
+                              text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                      {{PRODUCT_1_LINE}}
+                    </p>
+                    <h3 style="margin:0 0 10px;font-size:16px;line-height:1.3;color:#0D0D0D;font-weight:700;
+                               font-family:Arial,Helvetica,sans-serif;">
+                      {{PRODUCT_1_NAME}}
+                    </h3>
+                    <p style="margin:0 0 18px;font-size:14px;line-height:1.8;color:#555550;
+                              font-family:Arial,Helvetica,sans-serif;">
+                      {{PRODUCT_1_DESC}}
+                    </p>
+                    <a href="{{PRODUCT_1_URL}}"
+                       style="font-size:12px;font-weight:700;color:#0D0D0D;text-decoration:none;
+                              letter-spacing:1.2px;border-bottom:1.5px solid #0D0D0D;padding-bottom:2px;
+                              font-family:Arial,Helvetica,sans-serif;text-transform:uppercase;">
+                      DISCOVER →
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               PRODUCT 2
+               ───────────────────────────────────────── -->
+          <tr>
+            <td class="product-card" style="background-color:#F7F5F0;padding:0 40px 20px;">
+              <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation"
+                     style="background-color:#FFFFFF;">
+                <tr>
+                  <td style="font-size:0;line-height:0;">
+                    <a href="{{PRODUCT_2_URL}}" style="text-decoration:none;display:block;">
+                      <img src="{{PRODUCT_2_IMAGE}}"
+                           alt="{{PRODUCT_2_NAME}}"
+                           width="520"
+                           style="width:100%;max-width:520px;height:auto;display:block;">
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:20px 24px 26px;">
+                    <p style="margin:0 0 5px;font-size:10px;letter-spacing:2px;color:#999993;
+                              text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                      {{PRODUCT_2_LINE}}
+                    </p>
+                    <h3 style="margin:0 0 10px;font-size:16px;line-height:1.3;color:#0D0D0D;font-weight:700;
+                               font-family:Arial,Helvetica,sans-serif;">
+                      {{PRODUCT_2_NAME}}
+                    </h3>
+                    <p style="margin:0 0 18px;font-size:14px;line-height:1.8;color:#555550;
+                              font-family:Arial,Helvetica,sans-serif;">
+                      {{PRODUCT_2_DESC}}
+                    </p>
+                    <a href="{{PRODUCT_2_URL}}"
+                       style="font-size:12px;font-weight:700;color:#0D0D0D;text-decoration:none;
+                              letter-spacing:1.2px;border-bottom:1.5px solid #0D0D0D;padding-bottom:2px;
+                              font-family:Arial,Helvetica,sans-serif;text-transform:uppercase;">
+                      DISCOVER →
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               PRODUCT 3
+               ───────────────────────────────────────── -->
+          <tr>
+            <td class="product-card" style="background-color:#F7F5F0;padding:0 40px 20px;">
+              <table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation"
+                     style="background-color:#FFFFFF;">
+                <tr>
+                  <td style="font-size:0;line-height:0;">
+                    <a href="{{PRODUCT_3_URL}}" style="text-decoration:none;display:block;">
+                      <img src="{{PRODUCT_3_IMAGE}}"
+                           alt="{{PRODUCT_3_NAME}}"
+                           width="520"
+                           style="width:100%;max-width:520px;height:auto;display:block;">
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding:20px 24px 26px;">
+                    <p style="margin:0 0 5px;font-size:10px;letter-spacing:2px;color:#999993;
+                              text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;">
+                      {{PRODUCT_3_LINE}}
+                    </p>
+                    <h3 style="margin:0 0 10px;font-size:16px;line-height:1.3;color:#0D0D0D;font-weight:700;
+                               font-family:Arial,Helvetica,sans-serif;">
+                      {{PRODUCT_3_NAME}}
+                    </h3>
+                    <p style="margin:0 0 18px;font-size:14px;line-height:1.8;color:#555550;
+                              font-family:Arial,Helvetica,sans-serif;">
+                      {{PRODUCT_3_DESC}}
+                    </p>
+                    <a href="{{PRODUCT_3_URL}}"
+                       style="font-size:12px;font-weight:700;color:#0D0D0D;text-decoration:none;
+                              letter-spacing:1.2px;border-bottom:1.5px solid #0D0D0D;padding-bottom:2px;
+                              font-family:Arial,Helvetica,sans-serif;text-transform:uppercase;">
+                      DISCOVER →
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               FINAL CTA BUTTON
+               ───────────────────────────────────────── -->
+          <tr>
+            <td align="center"
+                style="background-color:#F7F5F0;padding:14px 40px 48px;">
+              <a href="https://depology.com/collections/shop-all"
+                 style="display:inline-block;background-color:#0D0D0D;color:#FFFFFF;
+                        padding:14px 38px;text-decoration:none;font-weight:700;font-size:12px;
+                        letter-spacing:1.8px;font-family:Arial,Helvetica,sans-serif;text-transform:uppercase;">
+                SHOP ALL PRODUCTS
+              </a>
+            </td>
+          </tr>
+
+          <!-- ─────────────────────────────────────────
+               FOOTER
+               ───────────────────────────────────────── -->
+          <tr>
+            <td align="center"
+                style="background-color:#0D0D0D;padding:34px 40px;">
+              <!-- Logo (inverted white) -->
+              <a href="https://depology.com" style="text-decoration:none;">
+                <img src="https://depology.com/cdn/shop/files/Depology_Logo_Black_150x.png"
+                     alt="Depology" width="90"
+                     style="display:block;margin:0 auto 18px;height:auto;filter:invert(1);">
+              </a>
+              <p style="margin:0 0 6px;font-size:11px;color:#888883;
+                        font-family:Arial,Helvetica,sans-serif;line-height:1.6;">
+                © 2026 Depology. All rights reserved.
+              </p>
+              <p style="margin:0;font-size:11px;color:#555550;
+                        font-family:Arial,Helvetica,sans-serif;line-height:2.2;">
+                <a href="{% view_in_browser %}" style="color:#888883;text-decoration:underline;">View in Browser</a>
+                &nbsp;&nbsp;|&nbsp;&nbsp;
+                {% unsubscribe 'Unsubscribe' %}
+              </p>
+            </td>
+          </tr>
+
+        </table>
+        <!-- END MAIN CONTAINER -->
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
+
+<!--
+=======================================================
+  DEPOLOGY — MEL STYLE TEMPLATE (Education-First)
+  Style: 重文本，轻设计 | Educate → Trust → Convert
+=======================================================
+
+VARIABLES TO REPLACE EACH SEND:
+─────────────────────────────────────────────────────
+  {{PREHEADER_TEXT}}        — Preview text (1 line, ~80 chars)
+  {{EMAIL_SUBJECT}}         — Browser tab title
+  {{EMAIL_HEADLINE}}        — Main hero headline (H1)
+  {{EMAIL_SUBHEADLINE}}     — Hero sub-copy (1-2 sentences)
+  {{HERO_IMAGE_URL}}        — ★ Upload new hero image each send
+  {{HERO_CTA_URL}}          — Hero button destination URL
+  {{HERO_CTA_TEXT}}         — Hero button label (e.g. "EXPLORE →")
+
+  {{SECTION_1_LABEL}}       — Section tag (e.g. "The Problem")
+  {{SECTION_1_HEADLINE}}    — Section H2
+  {{SECTION_1_BODY}}        — Body copy (2–4 short paragraphs)
+
+  {{SECTION_2_LABEL}}       — Section tag (e.g. "The Science")
+  {{SECTION_2_HEADLINE}}    — Section H2
+  {{SECTION_2_BODY}}        — Body copy (2–4 short paragraphs)
+
+  {{HIGHLIGHT_TEXT}}        — Pull quote or key stat (1–2 sentences)
+
+  {{PRODUCTS_SECTION_HEADLINE}} — Product section title
+
+PRODUCT VARIABLES (set once per product, then reuse):
+─────────────────────────────────────────────────────
+  {{PRODUCT_1_IMAGE}}   → Fixed Shopify/Klaviyo CDN URL
+  {{PRODUCT_1_NAME}}    → Full product name
+  {{PRODUCT_1_LINE}}    → Product line tag (e.g. "Argireline™ Line")
+  {{PRODUCT_1_DESC}}    → 2-3 sentence benefit description
+  {{PRODUCT_1_URL}}     → depology.com/products/...
+
+  (Same for PRODUCT_2 and PRODUCT_3)
+
+HOW TO GET PRODUCT IMAGE URLs:
+─────────────────────────────────────────────────────
+  Option A (Shopify): Go to depology.com → product page
+          → Right-click product image → "Copy Image Address"
+  Option B (Klaviyo): Klaviyo → Content → Images
+          → Upload product photo → Copy URL shown
+
+QUICK REFERENCE — PRODUCT URLS:
+─────────────────────────────────────────────────────
+  Matrixyl® 3000 Serum    → /products/matrixyl-collagen-serum
+  Argireline™ MPS Serum   → /products/peptide-complex-10-argireline-peptide-serum
+  Peptide Serum Duo       → /products/prevent-and-rewind-serum-duo
+  Eye Cream               → /products/peptide-complex-wrinkle-defense-eye-cream
+  Matriplex™ Cream        → /products/tri-active-matrixyl-complex-cream
+  Retinol Body Lotion     → /products/retinol-radiance-body-lotion
+  Deepcare+ Cream         → /products/deepcare-r-microoperator-boosting-cream-beginner
+  Micro Dart Patches      → /products/deepcare-serum-infused-micro-dart-patches-lp1-t0
+  Cica HA Serum           → /products/cica-h-a-calm-repair-serum
+  Cleansing Balm          → /products/opuntia-c-relief-cleansing-balm
+=======================================================
+-->
