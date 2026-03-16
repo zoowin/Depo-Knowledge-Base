@@ -1,6 +1,20 @@
-.trae/
-output.txt
-test_output.txt
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
 __pycache__/
-*.log
-*.DS_Store
+*.pyc
+.env
+venv/
+
+# Skills (Claude internal)
+.skills/
+
+# Claude session files
+.claude/
+
+# Temp files
+*.tmp
+*.bak
+~$*

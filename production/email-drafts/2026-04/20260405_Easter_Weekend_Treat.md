@@ -1,0 +1,102 @@
+# 20260405_Easter_Weekend_Treat
+
+## Campaign Info
+- **Template:** R5x7wg
+- **Type:** Promotional
+- **Send Date:** 2026-04-05 (Easter Sunday)
+- **Segment:** Full List (exclude buyers <7 days)
+- **Product Focus:** 全站 15% OFF — Hero Banner 放 Peptide Serum Duo (Line A+B)
+- **Goal:** Easter 小促销转化（复制 Women's Day 成功模式，预期 Revenue $5k-7k）
+
+---
+
+## Subject Lines
+1. A little something for your spring routine 🐣
+2. Happy Easter — 15% off everything, this weekend only
+3. Your Easter treat: 15% off sitewide 🌷
+4. Spring into savings — 15% off all Depology
+
+## Preview Text
+This weekend only. No code needed. Just better skin at a better price.
+
+---
+
+## Hero Section
+> 📐 对应 Klaviyo 位置：Hero Image 下方第一个 Text Block
+
+**Hero Image 方向：** 春日柔和色调（淡粉/淡绿/白），产品组合摆放在花朵/彩蛋元素旁。节日感但不幼稚，保持品牌调性。
+
+**Headline：**
+Your Spring Treat Is Here.
+
+**Subheadline：**
+Line 1: 15% off everything.
+Line 2: This weekend only.
+
+**Hero CTA：**
+SHOP THE SALE
+
+---
+
+## Body Section
+> 📐 对应 Klaviyo 位置：Hero 下方 Text Block
+
+**Body Headline：**
+Invest in Your Skin.
+
+**Body Copy（3 段）：**
+Paragraph 1: Spring is the perfect time to reset your routine. New season, new approach to your skin's needs.
+Paragraph 2: Whether you're starting fresh or stocking up on your favorites, this weekend everything on site is 15% off — no code needed, no minimum spend.
+Paragraph 3: Explore our clinically studied peptide formulas and find the routine that works with your skin's natural rhythm.
+
+---
+
+## Product Section
+> 📐 对应 Klaviyo 位置：Product Cards 区域
+
+**Section Title：**
+Customer Favorites
+
+### Product 1
+- **角色标签（VE92sd）：** —
+- **产品名：** Matrixyl® 3000 Collagen Serum
+- **描述：** Our #1 best-seller. Supports hydration (+46.31%) and visibly reduces fine lines in 28 days. Now 15% off.
+- **CTA：** SHOP MATRIXYL SERUM
+- **链接：** [Shopify 产品链接]
+
+### Product 2
+- **角色标签（VE92sd）：** —
+- **产品名：** Argireline™ MPS Serum
+- **描述：** Targeted peptide formula for expression lines — forehead, crow's feet, smile lines. Lightweight daily defense.
+- **CTA：** SHOP ARGIRELINE SERUM
+- **链接：** [Shopify 产品链接]
+
+### Product 3
+- **角色标签（VE92sd）：** —
+- **产品名：** Micro-dart Eye Patches
+- **描述：** Self-dissolving micro-darts deliver actives below the surface. Non-invasive, at-home eye treatment that works overnight.
+- **CTA：** SHOP MICRO-DART PATCHES
+- **链接：** [Shopify 产品链接]
+
+---
+
+## Closing Section
+> 📐 对应 Klaviyo 位置：Product Cards 下方最后一个 Text Block
+
+**Closing Copy：**
+15% off sitewide. This weekend only. No code needed.
+
+**Final CTA：**
+SHOP ALL PRODUCTS
+
+---
+
+## Hero Image Brief
+> 📐 用于 ChatGPT / Midjourney 生成图片，不放入 Klaviyo
+
+**概念：** Depology products arranged with subtle Easter/spring elements — soft florals, pastel eggs, spring greenery. Premium, not kitschy.
+**风格：** MEL Style 但加入节日柔和感。柔粉色+白色+淡金色调。
+**AI Prompt：**
+```
+Elegant flat lay of premium skincare products on a soft blush marble surface, surrounded by delicate spring flowers (white ranunculus, pale pink tulips) and a few small pastel Easter eggs as subtle accents. Soft morning light, gentle shadows, clean composition. Premium beauty editorial style, aspirational but warm --ar 3:2
+```

@@ -1,44 +1,50 @@
-# 🧬 Depology Knowledge Base & AI Workflow
+# Depology EDM Knowledge Base
 
-Welcome to the structured Knowledge Base for Depology's Email & Content Marketing.
+Production system for Depology's email marketing, blog content, and SMS campaigns.
 
-## 📂 Directory Structure
+## Quick Start
 
-### 🧠 **00_AI_Skill_Manual** (Start Here for AI)
-- Contains the **Master Context**, **AI Guidelines**, and **Prompts**.
-- If you are an AI agent, read `00_AI_Skill_Manual/AI_Co-Pilot_Guide.md` first.
+**For Claude / AI:** Read `CLAUDE.md` first — it contains all brand rules, workflows, and file navigation.
 
-### 📅 **01_Strategy_and_Planning**
-- **Calendars**: Monthly plans and schedules.
-- **Topic Pool**: Backlog of content ideas.
-- **Campaign Log**: Performance history.
+**For Humans:** Follow the workflow below.
 
-### 📚 **02_Knowledge_Base** (The "Brain")
-- **Products**: Detailed SKU cards, ingredients, and benefits. **Single Source of Truth.**
-- **Brand_Assets**: Visual guidelines, Copy formulas, and Compliance rules.
+## Directory Structure
 
-### 🏭 **03_Production** (The "Factory")
-- **01_Email_Drafts**: Monthly folders for email copy.
-- **02_SMS_Drafts**: SMS campaign drafts.
-- **03_Blog_Drafts**: SEO blog articles.
-- **04_Assets**: Images and design files.
+| Folder | Purpose |
+|--------|---------|
+| `strategy/` | Monthly calendars, topic pool, campaign log, email strategy |
+| `knowledge/` | Brand brain — product SKU cards, compliance rules, visual guides, copy formulas |
+| `production/` | Active work — email drafts, SMS drafts, blog drafts, HTML output, assets |
+| `tools/` | Python scripts for trend fetching, HTML generation, templates |
+| `.skills/` | Claude skill definitions (edm-writer, edm-html-builder, edm-image-brief) |
 
-### 🛠 **04_Tools**
-- Python scripts for trend fetching and automation.
+## Monthly Workflow
 
----
+1. **Plan** — Check `strategy/calendars/2026/` for the month's schedule
+2. **Draft** — Claude batch-produces all email drafts for the month
+3. **Review** — Preview HTML locally in browser, provide feedback
+4. **Upload** — Copy final HTML into Klaviyo, set subject/audience/schedule
+5. **Send** — Hit send in Klaviyo
+6. **Log** — Update `strategy/campaign-log.md` with results
 
-## 🚀 How to Use This Repo
+## Key Files
 
-### For Humans
-1.  **Planning**: Check `01_Strategy_and_Planning/Calendars`.
-2.  **Writing**: Use `00_AI_Skill_Manual/Prompt_Template.md` to instruct the AI.
-3.  **Reviewing**: Check drafts in `03_Production`.
+| File | What it does |
+|------|-------------|
+| `CLAUDE.md` | AI entry point — brand rules, product system, workflow |
+| `strategy/topic-pool.md` | Content ideas (auto-fetched + manual) |
+| `strategy/campaign-log.md` | Historical sends — prevents duplication |
+| `knowledge/compliance/email-compliance-rules.md` | Blacklisted terms & safe alternatives |
+| `knowledge/formulas/copy-winning-formula.md` | Email copy structure template |
+| `production/campaign-workflow.md` | Klaviyo execution guide |
 
-### For AI Agents
-1.  **Initialize**: Read `00_AI_Skill_Manual/AI_Co-Pilot_Guide.md`.
-2.  **Context**: Always cross-reference `00_AI_Skill_Manual/Master_Context.md`.
-3.  **Action**: Work primarily within `03_Production`, utilizing `02_Knowledge_Base` as your reference library.
+## Tools
+
+Run trend fetching:
+```bash
+cd tools/
+python fetch_trends.py
+```
 
 ---
 *Maintained by Depology Operations.*
