@@ -1,40 +1,40 @@
-# 20260405_Easter_Weekend_Treat
+# 20260405_Quiet_Skincare_Easter_Sale
 
 ## Campaign Info
 - **Template:** R5x7wg
-- **Type:** Promotional
-- **Send Date:** 2026-04-05 (Easter Sunday)
-- **Segment:** Full List (exclude buyers <7 days)
-- **Product Focus:** 全站 15% OFF — Hero Banner 放 Peptide Serum Duo (Line A+B)
-- **Goal:** Easter 小促销转化（复制 Women's Day 成功模式，预期 Revenue $5k-7k）
+- **Type:** Trend / Educational + Sale
+- **Send Date:** 2026-04-05 (Easter Sunday — Sale 进行中)
+- **Segment:** Engaged
+- **Product Focus:** Face & Eye Peptide Firming Duo ($79) + Matrixyl 3000 Triple Bundle ($100) + Anti-Aging Trio ($99)
+- **Goal:** 教育+促销混合。用"极简 skincare"教育角度推 bundle 套装，同时提醒 Easter sale 仍在进行。
 
 ---
 
 ## Subject Lines
-1. A little something for your spring routine 🐣
-2. Happy Easter — 15% off everything, this weekend only
-3. Your Easter treat: 15% off sitewide 🌷
-4. Spring into savings — 15% off all Depology
+1. More steps ≠ better skin. (Plus: 15% off is still on) 🐣
+2. The "quiet skincare" trend — and it's all on sale this weekend
+3. Simplify your routine. Save 15%. Win twice. 📉
+4. Less product, more results. And it's Easter sale weekend.
 
 ## Preview Text
-This weekend only. No code needed. Just better skin at a better price.
+Fewer products, better results. And everything is still 15% off this weekend.
 
 ---
 
 ## Hero Section
 > 📐 对应 Klaviyo 位置：Hero Image 下方第一个 Text Block
 
-**Hero Image 方向：** 春日柔和色调（淡粉/淡绿/白），产品组合摆放在花朵/彩蛋元素旁。节日感但不幼稚，保持品牌调性。
+**Hero Image 方向：** 极简浴室台面，只有 2-3 件 Depology 产品整齐排列。角落小标注 "15% OFF THIS WEEKEND"。
 
 **Headline：**
-Your Spring Treat Is Here.
+The Quiet Skincare Shift.
 
 **Subheadline：**
-Line 1: 15% off everything.
-Line 2: This weekend only.
+Line 1: Fewer steps. Smarter ingredients.
+Line 2: Plus: everything is 15% off this weekend.
 
 **Hero CTA：**
-SHOP THE SALE
+DISCOVER THE APPROACH
 
 ---
 
@@ -42,12 +42,20 @@ SHOP THE SALE
 > 📐 对应 Klaviyo 位置：Hero 下方 Text Block
 
 **Body Headline：**
-Invest in Your Skin.
+When Less Actually Works.
 
-**Body Copy（3 段）：**
-Paragraph 1: Spring is the perfect time to reset your routine. New season, new approach to your skin's needs.
-Paragraph 2: Whether you're starting fresh or stocking up on your favorites, this weekend everything on site is 15% off — no code needed, no minimum spend.
-Paragraph 3: Explore our clinically studied peptide formulas and find the routine that works with your skin's natural rhythm.
+**Body Copy（2 段）：**
+Paragraph 1: Your bathroom shelf is full. But is your skin actually benefiting from all those layers? Over-application can overwhelm your skin barrier.
+Paragraph 2: The "quiet skincare" movement isn't about doing less — it's about choosing ingredients that do more. One well-formulated set can replace five average products. And this weekend, they're all 15% off.
+
+---
+
+## Goals / Key Points
+> 📐 对应 Klaviyo 位置：Body 下方 checklist 区域
+
+- ✔ Fewer products = less barrier disruption
+- ✔ Bundles = curated simplicity at a better price
+- ✔ Easter sale still live — 15% off everything
 
 ---
 
@@ -55,28 +63,28 @@ Paragraph 3: Explore our clinically studied peptide formulas and find the routin
 > 📐 对应 Klaviyo 位置：Product Cards 区域
 
 **Section Title：**
-Customer Favorites
+Simplified. Not Compromised. (Now 15% Off)
 
 ### Product 1
 - **角色标签（VE92sd）：** —
-- **产品名：** Matrixyl® 3000 Collagen Serum
-- **描述：** Our #1 best-seller. Supports hydration (+46.31%) and visibly reduces fine lines in 28 days. Now 15% off.
-- **CTA：** SHOP MATRIXYL SERUM
-- **链接：** [Shopify 产品链接]
+- **产品名：** Face & Eye Peptide Firming Duo
+- **描述：** Two products, two zones, one system. Matriplex™ Cream + Peptide Eye Cream. $79 → $67.15 with Easter sale.
+- **CTA：** SHOP THE DUO
+- **链接：** https://www.depology.com/products/face-eye-peptide-firming-duo
 
 ### Product 2
 - **角色标签（VE92sd）：** —
-- **产品名：** Argireline™ MPS Serum
-- **描述：** Targeted peptide formula for expression lines — forehead, crow's feet, smile lines. Lightweight daily defense.
-- **CTA：** SHOP ARGIRELINE SERUM
-- **链接：** [Shopify 产品链接]
+- **产品名：** Matrixyl® 3000 Triple Bundle
+- **描述：** Our best-selling peptide serum × 3. Stock up for months of results. $100 → $85 with Easter sale.
+- **CTA：** SHOP TRIPLE BUNDLE
+- **链接：** https://www.depology.com/products/matrixyl-3000-triple-bundle
 
 ### Product 3
 - **角色标签（VE92sd）：** —
-- **产品名：** Micro-dart Eye Patches
-- **描述：** Self-dissolving micro-darts deliver actives below the surface. Non-invasive, at-home eye treatment that works overnight.
-- **CTA：** SHOP MICRO-DART PATCHES
-- **链接：** [Shopify 产品链接]
+- **产品名：** Anti-Aging Trio
+- **描述：** Complete starter kit: Micro-dart Patches + Matrixyl Serum + Peptide Complex Serum. $99 → $84.15 with Easter sale.
+- **CTA：** SHOP THE TRIO
+- **链接：** https://www.depology.com/products/anti-agingtrio
 
 ---
 
@@ -84,19 +92,19 @@ Customer Favorites
 > 📐 对应 Klaviyo 位置：Product Cards 下方最后一个 Text Block
 
 **Closing Copy：**
-15% off sitewide. This weekend only. No code needed.
+Simplify your shelf. Elevate your results. And save 15% — through Monday.
 
 **Final CTA：**
-SHOP ALL PRODUCTS
+SHOP THE EASTER SALE
 
 ---
 
 ## Hero Image Brief
 > 📐 用于 ChatGPT / Midjourney 生成图片，不放入 Klaviyo
 
-**概念：** Depology products arranged with subtle Easter/spring elements — soft florals, pastel eggs, spring greenery. Premium, not kitschy.
-**风格：** MEL Style 但加入节日柔和感。柔粉色+白色+淡金色调。
+**概念：** Minimalist vanity with 2-3 Depology products, plus subtle Easter/sale badge. Clean vs. chaos contrast.
+**风格：** MEL Style — editorial minimalism + subtle sale cue.
 **AI Prompt：**
 ```
-Elegant flat lay of premium skincare products on a soft blush marble surface, surrounded by delicate spring flowers (white ranunculus, pale pink tulips) and a few small pastel Easter eggs as subtle accents. Soft morning light, gentle shadows, clean composition. Premium beauty editorial style, aspirational but warm --ar 3:2
+Split composition: Left side shows a cluttered bathroom shelf overflowing with 15+ skincare bottles, slightly chaotic. Right side shows a pristine white marble surface with just 2 elegant skincare jars, perfectly arranged with morning light streaming in. A small pastel "15% OFF" badge in the corner. Clean, editorial beauty photography, soft shadows --ar 3:2
 ```

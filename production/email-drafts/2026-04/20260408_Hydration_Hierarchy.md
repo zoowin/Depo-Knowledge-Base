@@ -5,8 +5,8 @@
 - **Type:** Educational
 - **Send Date:** 2026-04-08
 - **Segment:** Engaged 30/60/90
-- **Product Focus:** Line A — Matriplex™ Cream（保湿锁水）+ Line F — Opuntia Cleansing Balm（清洁保湿）
-- **Goal:** 成分教育，建立"保湿层级"概念，推动 Matriplex 复购 + Opuntia 交叉销售
+- **Product Focus:** Line F — Opuntia Cleansing Balm（清洁保湿）+ Line B — Night Eye Patch（眼部水凝胶保湿）+ Line H — Triple Lipid + Q10 Cream（屏障锁水）
+- **Goal:** 成分教育，建立"保湿层级"概念，推动 Night Eye Patch + Triple Lipid 新品曝光 + Opuntia 交叉销售
 
 ---
 
@@ -74,17 +74,17 @@ Build Your Hydration Layers
 - **链接：** [Shopify 产品链接]
 
 ### Product 2
-- **角色标签（VE92sd）：** 02 — The Builder (Matrixyl®)
-- **产品名：** Matrixyl® 3000 Collagen Serum
-- **描述：** Hyaluronic acid attracts moisture while Matrixyl® peptides support skin structure. +46.31% hydration in 28 days.
-- **CTA：** SHOP MATRIXYL SERUM
-- **链接：** [Shopify 产品链接]
+- **角色标签（VE92sd）：** 02 — The Eye Layer (Hydrogel)
+- **产品名：** Replenishing Night Under Eye Patch
+- **描述：** Your under-eyes have the thinnest skin on your face — they need dedicated hydration. Ceramide + 6-type Hyaluronic Acid in a cooling hydrogel patch. 60 patches, $28.80.
+- **CTA：** SHOP NIGHT EYE PATCHES
+- **链接：** https://depology.com/products/replenishing-night-under-eye-patch
 
 ### Product 3
-- **角色标签（VE92sd）：** 03 — The Seal (Matriplex™)
-- **产品名：** Matriplex™ Peptide Intense Cream
-- **描述：** 8% Matrixyl Complex seals everything in. Elasticity +2.85%, hydration +36.53% in 28 days. The final lock.
-- **CTA：** SHOP MATRIPLEX CREAM
+- **角色标签（VE92sd）：** 03 — The Seal (Triple Lipid)
+- **产品名：** Triple Lipid + Q10 Revive Moisturizing Treatment — RICH
+- **描述：** Ceramides + Cholesterol + Fatty Acids rebuild your skin's lipid barrier. CoQ10 adds antioxidant defense. The final seal that teaches skin to hold hydration. $44.
+- **CTA：** SHOP TRIPLE LIPID CREAM
 - **链接：** [Shopify 产品链接]
 
 ---

@@ -5,7 +5,7 @@
 - **Type:** Educational / Myth-busting
 - **Send Date:** 2026-04-24
 - **Segment:** Engaged 30/60/90
-- **Product Focus:** Line B — Argireline Serum（长期使用安全）+ Line A — Matrixyl Serum（peptide 不耐受反证）
+- **Product Focus:** Line B — Argireline Serum + Line A — Matrixyl Serum + Dr. Youn Favourites bundle（权威背书）
 - **Goal:** 破除"皮肤会产生耐受性"的误区，减少用户弃用/换产品行为，提升留存
 
 ---
@@ -68,7 +68,7 @@ Stay The Course. See The Results.
 
 ### Product 1
 - **角色标签（VE92sd）：** 01 — The Daily Defense (Argireline™)
-- **产品名：** Argireline™ MPS Serum
+- **产品名：** Argireline™ Peptide Complex Serum
 - **描述：** Designed for daily, long-term use. Argireline™ continues to support smoother expression lines with every application — no tolerance buildup.
 - **CTA：** SHOP ARGIRELINE SERUM
 - **链接：** [Shopify 产品链接]
@@ -79,6 +79,13 @@ Stay The Course. See The Results.
 - **描述：** Peptide-powered hydration and wrinkle support that works best over time. Clinically shown results at 28 days — and beyond.
 - **CTA：** SHOP MATRIXYL SERUM
 - **链接：** [Shopify 产品链接]
+
+### Product 3
+- **角色标签（VE92sd）：** —
+- **产品名：** Favourites of Dr. Youn
+- **描述：** Board-certified surgeon Dr. Youn's personal picks: Micro-dart Patches + Matrixyl Serum + bonus "Younger for Life" book. $95.40 (save $10.60). Doctor-endorsed for long-term use.
+- **CTA：** SHOP DR. YOUN'S PICKS
+- **链接：** https://www.depology.com/products/favourites-of-dr-youn
 
 ---
 

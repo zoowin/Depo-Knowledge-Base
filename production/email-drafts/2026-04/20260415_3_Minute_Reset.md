@@ -5,7 +5,7 @@
 - **Type:** Lifestyle / Cross-sell
 - **Send Date:** 2026-04-15
 - **Segment:** Engaged
-- **Product Focus:** Line A — Matriplex Cream + Line B — Eye Cream + Line F — Opuntia Cleansing Balm（3步系统）
+- **Product Focus:** Line F — Opuntia Cleansing Balm + Line G — Bakuchiol Stick + Line B — Eye Cream（3步极简系统）
 - **Goal:** 生活方式切入，展示"极简但有效"的 3 步 routine，推动 Opuntia 交叉销售
 
 ---
@@ -66,16 +66,16 @@ Your 3-Step Morning System
 
 ### Product 2
 - **角色标签（VE92sd）：** —
-- **产品名：** Argireline™ Eye Cream
-- **描述：** Step 2: A quick dab around the eyes. Argireline™ helps smooth expression lines. Light enough for under makeup.
-- **CTA：** SHOP EYE CREAM
-- **链接：** [Shopify 产品链接]
+- **产品名：** Bakuchiol Smoothing Serum Stick
+- **描述：** Step 2: Glide on targeted fine-line care — forehead, crow's feet, smile lines. Plant-based retinol alternative, no irritation. Just glide and go.
+- **CTA：** SHOP BAKUCHIOL STICK
+- **链接：** https://www.depology.com/products/bakuchiol-smoothing-serum-stick
 
 ### Product 3
 - **角色标签（VE92sd）：** —
-- **产品名：** Matriplex™ Peptide Intense Cream
-- **描述：** Step 3: Lock everything in. 8% triple peptide complex hydrates, firms, and protects — all before you grab your keys.
-- **CTA：** SHOP MATRIPLEX CREAM
+- **产品名：** Argireline™ Eye Cream
+- **描述：** Step 3: A quick dab around the eyes. Argireline™ helps smooth expression lines. Light enough for under makeup — done before you grab your keys.
+- **CTA：** SHOP EYE CREAM
 - **链接：** [Shopify 产品链接]
 
 ---

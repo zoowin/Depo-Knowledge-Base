@@ -5,8 +5,8 @@
 - **Type:** Product Spotlight / Educational
 - **Send Date:** 2026-04-20
 - **Segment:** Engaged + High-intent
-- **Product Focus:** Line C — Retinol Body Lotion（主推）
-- **Goal:** 扩展 body skincare 认知，推动 Retinol Body Lotion 交叉销售。Google Autocomplete 热词验证需求存在。
+- **Product Focus:** Line C — Retinol Body Lotion + Retinol Night Cream + Line B — Night Eye Patch（面部以外的完整护理）
+- **Goal:** 扩展 "beyond the face" 护理认知，推动 Body Lotion + Night Eye Patch 交叉销售。
 
 ---
 
@@ -64,14 +64,28 @@ Paragraph 3: The solution isn't a separate routine. It's extending your existing
 > 📐 对应 Klaviyo 位置：Product Cards 区域
 
 **Section Title：**
-One Lotion. Three Problem Zones.
+Complete Care Beyond the Face
 
 ### Product 1
 - **角色标签（VE92sd）：** 01 — The Body Renewal (Retinol + AHA)
 - **产品名：** Retinol Radiance Rescue Body Lotion
-- **描述：** Retinol smooths texture, AHA gently exfoliates, Collagen + Cholesterol support the barrier. 300ml of targeted body care at $26.
+- **描述：** Retinol smooths texture, AHA gently exfoliates, Collagen + Cholesterol support the barrier. For neck, chest, and hands. 300ml at $26.
 - **CTA：** SHOP BODY LOTION
 - **链接：** [Shopify 产品链接]
+
+### Product 2
+- **角色标签（VE92sd）：** 02 — The Night Renewal (Retinol)
+- **产品名：** Anti-Aging Retinol Night Cream
+- **描述：** Encapsulated retinol renews your face overnight while body lotion works below. Two retinol products, two zones, one evening routine.
+- **CTA：** SHOP RETINOL NIGHT CREAM
+- **链接：** [Shopify 产品链接]
+
+### Product 3
+- **角色标签（VE92sd）：** 03 — The Eye Reset (Hydrogel)
+- **产品名：** Replenishing Night Under Eye Patch
+- **描述：** Don't forget the most delicate zone. Ceramide + 6-type HA hydrogel patches restore tired under-eyes while you sleep. 60 patches, $28.80.
+- **CTA：** SHOP NIGHT EYE PATCHES
+- **链接：** https://depology.com/products/replenishing-night-under-eye-patch
 
 ---
 

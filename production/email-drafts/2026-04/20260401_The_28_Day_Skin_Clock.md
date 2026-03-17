@@ -44,10 +44,9 @@ LEARN THE RIGHT ORDER
 **Body Headline：**
 Thin First. Thick Last.
 
-**Body Copy（3 段）：**
+**Body Copy（2 段）：**
 Paragraph 1: You bought great products. But if you're applying cream before serum, you're blocking the very ingredients you paid for. Layering order matters more than most people think.
 Paragraph 2: The rule is simple: thinnest to thickest. Water-based serums absorb first and deliver actives. Oil-based creams go last to seal everything in. Reverse it, and the serum sits on top doing nothing.
-Paragraph 3: Think of it like getting dressed — you wouldn't put a coat on before your shirt. Your skin follows the same logic.
 
 ---
 
@@ -75,7 +74,7 @@ The Right Order, The Right Products
 
 ### Product 2
 - **角色标签（VE92sd）：** 02 — The Targeted Layer (Peptide)
-- **产品名：** Argireline™ MPS Serum
+- **产品名：** Argireline™ Peptide Complex Serum
 - **描述：** Layer this over Matrixyl for targeted expression line care. Thin texture designed to work between serum and cream.
 - **CTA：** SHOP ARGIRELINE SERUM
 - **链接：** [Shopify 产品链接]

@@ -29,20 +29,20 @@
 | Date | Day | Campaign Type | Topic / Subject Idea | Recommended Products | Segment | Goal |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Apr 1** | Wed | 🟢 Educational | **The Ingredient Layering Guide**<br>Subject: You're applying your skincare in the wrong order. | **Matrixyl Serum + Argireline Serum + Matriplex Cream** (Line A+B)<br>水相→油相→封层逻辑 | Engaged 30/60/90 | Education/Retention |
-| **Apr 3** | Fri | 🟢 Trend | **Skin Minimalism: The "Quiet Skincare" Movement**<br>Subject: More steps ≠ better skin. Here's the math. | **Matriplex Cream** (Line A) — 三合一简化概念<br>呼应 3/29 Lazy Genius 但角度不同 | Engaged | Education/Authority |
-| **Apr 5** | Sun | 🔴 Promo | **Easter Weekend Treat: 15% Off Sitewide**<br>Subject: A little something for your spring routine 🐣 | 全站促销，Hero Banner 放 **Peptide Serum Duo**<br>Best Seller CTA: Matrixyl 3f2 | Full List (exclude buyers <7d) | Revenue |
+| **Apr 3** | Fri | 🔴 Promo | **Easter Weekend Treat: 15% Off Sitewide**<br>Subject: Easter came early — 15% off everything starts NOW 🐣 | **Peptide Duo + Caviar Stick bundle** 💰 + **Micro-dart** (E) + **Bakuchiol Stick** (G) | Full List (exclude buyers <7d) | Revenue |
+| **Apr 5** | Sun | 🟢 Trend + 🔴 Sale | **Quiet Skincare + Easter Sale**<br>Subject: More steps ≠ better skin. (Plus: 15% off is still on) | **Bundle 推荐** — Face & Eye Duo ($79→$67) + Triple Bundle ($100→$85) + Anti-Aging Trio ($99→$84) | Engaged | Education + Revenue |
 | **Apr 6** | Mon | 🔴 Promo | **Easter Last Chance: Ends Tonight**<br>Subject: Last call — 15% off ends at midnight | 同上，强调 **Micro-dart Patches** (Line E) 库存紧迫 | Full List (exclude buyers <7d) | Revenue / Urgency |
-| **Apr 8** | Wed | 🟢 Educational | **The Hydration Hierarchy**<br>Subject: Are you hydrating your skin — or just wetting it? | **Matriplex Cream** (Line A) — 深层保湿锁水<br>辅助: Opuntia Cleansing Balm (Line F) 清洁保湿 | Engaged 30/60/90 | Education |
-| **Apr 10** | Fri | 🔵 Social Proof | **What Our Customers Actually Say**<br>Subject: "I wish I'd found this sooner." — Verified review | **Matrixyl Serum** (Line A) — 高评分<br>**Argireline Serum** (Line B) — 高评分 | Engaged + Non-buyers | Conversion |
-| **Apr 13** | Mon | 🟢 Educational | **Peptides 101: The Language Your Skin Actually Speaks**<br>Subject: What are peptides, actually? | **Peptide Serum Duo** (Line A+B) — Defender & Corrector<br>教育切入，不硬推产品 | Engaged 30/60/90 | Education/Trust |
-| **Apr 15** | Wed | 🟡 Lifestyle | **The 3-Minute Reset: Science-Backed Skin for Busy Days**<br>Subject: No time? This 3-step routine does the work for you. | **Matriplex Cream** (Line A) + **Eye Cream** (Line B)<br>+ **Opuntia Cleansing Balm** (Line F) 三步系统 | Engaged | Engagement/Cross-sell |
-| **Apr 17** | Fri | 🟢 Trend | **The "Glass Skin" Formula: What K-Beauty Actually Recommends**<br>Subject: Korean derms don't use 10 steps. Here's what they do use. | **Matrixyl Serum** (Line A) — K-Beauty 核心精华定位<br>**Micro-dart Patches** (Line E) — K-Beauty 科技代表 | Engaged | Education/Authority |
-| **Apr 20** | Mon | 🟢 Product Spotlight | **The Area Everyone Forgets: Neck, Chest & Hands**<br>Subject: Facial skincare for your body? Yes, it's a thing. | **Retinol Body Lotion** (Line C) — 主推<br>Google Autocomplete 热词: "Retinol Body Lotion" | Engaged + High-intent | Education/Cross-sell |
-| **Apr 22** | Wed | 🟡 Brand Moment | **Earth Day: Science That Respects Skin & Planet**<br>Subject: What "clean science" actually means to us. | 品牌故事，不特定推产品<br>可提及全线 vegan / cruelty-free 属性 | Full List | Brand/Engagement |
-| **Apr 24** | Fri | 🟢 Educational | **Myth: "My Skin Got Used To My Serum"**<br>Subject: Skin doesn't build "tolerance" to peptides. Here's the truth. | **Argireline Serum** (Line B) — 长期使用安全<br>**Matrixyl Serum** (Line A) — peptide 不耐受的反证 | Engaged 30/60/90 | Education/Retention |
-| **Apr 27** | Mon | 🟢 Trend | **The Skin-Health-Over-Skin-Looks Shift**<br>Subject: Why women are retiring "anti-aging" language (and what works instead) | **Deepcare+ Boosting Cream** (Line E) — 皮肤健康概念<br>Reddit 热议: "anti-aging" → "skin health" 语言转变 | Engaged | Education/Brand |
-| **Apr 29** | Wed | 🟢 Educational | **The Anti-Aging Foundation Stack: 3 Products, 1 System**<br>Subject: Build this once. Benefit for years. | **Matrixyl Serum** + **Argireline Serum** + **Matriplex Cream**<br>(Line A+B 完整系统推荐，高转化潜力) | Engaged + Non-buyers | Education/Conversion |
-| **Apr 30** | Thu | 🟡 Pre-warm | **Mother's Day is Coming — The Gift She'll Actually Use**<br>Subject: Still searching for the perfect gift? We have an idea. | **Peptide Serum Duo 礼盒** — 母亲节礼物定位<br>可嵌入 Early Interest 注册链接 | Full List | List Building / Revenue Pre-warm |
+| **Apr 8** | Wed | 🟢 Educational | **The Hydration Hierarchy**<br>Subject: Are you hydrating your skin — or just wetting it? | **Opuntia Balm** (F) + **Night Eye Patch** 🆕(B) + **Triple Lipid + Q10** 🆕(H) | Engaged 30/60/90 | Education |
+| **Apr 10** | Fri | 🔵 Social Proof | **What Our Customers Actually Say**<br>Subject: "I wish I'd found this sooner." — Verified review | **Argireline Serum** (B) + **MOP Boosting Cream** (E) | Engaged + Non-buyers | Conversion |
+| **Apr 13** | Mon | 🟢 Educational | **Peptides 101: The Language Your Skin Actually Speaks**<br>Subject: What are peptides, actually? | **M3K** (A) + **Argireline** (B) + **Peptide Serum Duo** 💰 | Engaged 30/60/90 | Education/Trust |
+| **Apr 15** | Wed | 🟡 Lifestyle | **The 3-Minute Reset: Science-Backed Skin for Busy Days**<br>Subject: No time? This 3-step routine does the work for you. | **Opuntia Balm** (F) + **Bakuchiol Stick** (G) + **Eye Cream** (B) | Engaged | Engagement/Cross-sell |
+| **Apr 17** | Fri | 🟢 Trend | **The "Glass Skin" Formula: What K-Beauty Actually Recommends**<br>Subject: Korean derms don't use 10 steps. Here's what they do use. | **M3K** (A) + **Micro-dart** (E) + **Retinol Night Cream** (C) | Engaged | Education/Authority |
+| **Apr 20** | Mon | 🟢 Product Spotlight | **Beyond the Face: Neck, Body & Eyes**<br>Subject: Facial skincare for your body? Yes, it's a thing. | **Body Lotion** (C) + **Retinol Night** (C) + **Night Eye Patch** 🆕(B) | Engaged + High-intent | Education/Cross-sell |
+| **Apr 22** | Wed | 🟡 Brand Moment | **Earth Day: Science That Respects Skin & Planet**<br>Subject: What "clean science" actually means to us. | **Opuntia Balm** (F) + **Bakuchiol Stick** (G) — 植物成分代表 | Full List | Brand/Engagement |
+| **Apr 24** | Fri | 🟢 Educational | **Myth: "My Skin Got Used To My Serum"**<br>Subject: Skin doesn't build "tolerance" to peptides. Here's the truth. | **Argireline** (B) + **M3K** (A) + **Dr. Youn Favourites** 💰 | Engaged 30/60/90 | Education/Retention |
+| **Apr 27** | Mon | 🟢 Trend | **The Skin-Health-Over-Skin-Looks Shift**<br>Subject: Why women are retiring "anti-aging" language (and what works instead) | **MOP** (E) + **Triple Lipid + Q10** 🆕(H) + **Body Lotion** (C) | Engaged | Education/Brand |
+| **Apr 29** | Wed | 🟢 Educational | **The Anti-Aging Foundation Stack: 3 Products, 1 System**<br>Subject: Build this once. Benefit for years. | **Argireline** (B) + **M3K** (A) + **Anti-Aging Trio** 💰 | Engaged + Non-buyers | Education/Conversion |
+| **Apr 30** | Thu | 🟡 Pre-warm | **Mother's Day is Coming — The Gift She'll Actually Use**<br>Subject: Still searching for the perfect gift? We have an idea. | **Peptide Duo + Caviar** 💰 + **Anti-Aging Trio** 💰 + **Face & Eye Duo** 💰 | Full List | List Building / Revenue Pre-warm |
 
 ---
 
@@ -75,7 +75,7 @@
 ## 📨 Send Time & Frequency
 
 - **Standard Send Time:** 09:00 AM（继续维持已建立的打开习惯）
-- **Promo Send Time (Easter):** Apr 5 → 10:00 AM（假日早间驱动冲动消费）；Apr 6 → 18:00（晚间紧迫感推送）
+- **Promo Send Time (Easter):** Apr 3 → 09:00 AM（周五开场）；Apr 5 → 10:00 AM（周日教育+促销）；Apr 6 → 18:00（晚间紧迫感 Last Chance）
 - **Frequency:** ~3 emails/week，全月 15 封，维持3月质量优先节奏
 - **重发策略:** 对 Apr 10（Social Proof）与 Apr 29（Stack）可对 Engaged Non-openers 做主题行微调重发
 

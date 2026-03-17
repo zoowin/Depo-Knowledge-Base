@@ -5,7 +5,7 @@
 - **Type:** Pre-warm / List Building
 - **Send Date:** 2026-04-30
 - **Segment:** Full List
-- **Product Focus:** Peptide Serum Duo 礼盒概念（Line A + B）— 母亲节礼物定位
+- **Product Focus:** Peptide Duo + Caviar Stick bundle ($109) + Anti-Aging Trio ($99) + Face & Eye Duo ($79) — 母亲节礼物定位
 - **Goal:** Mother's Day 预热，建立 Early Interest 列表，为 5 月正式促销蓄力
 
 ---
@@ -59,17 +59,24 @@ The Perfect Duo
 
 ### Product 1
 - **角色标签（VE92sd）：** —
-- **产品名：** Matrixyl® 3000 Collagen Serum
-- **描述：** The hydration and structure serum — +46.31% hydration in 28 days. Elegant enough for a gift, effective enough to keep using.
-- **CTA：** SHOP MATRIXYL SERUM
-- **链接：** [Shopify 产品链接]
+- **产品名：** Peptide Duo + Caviar Multi-Balm Serum Stick
+- **描述：** Two peptide serums + a luxurious caviar serum stick. Three products, one elegant gift. $109 (save $10). The set she'll actually use every day.
+- **CTA：** SHOP PEPTIDE + CAVIAR SET
+- **链接：** https://www.depology.com/products/peptide-duo-free-caviar-multi-balm-serum-stick
 
 ### Product 2
 - **角色标签（VE92sd）：** —
-- **产品名：** Argireline™ MPS Serum
-- **描述：** The expression line specialist — lightweight, daily-use peptide serum for forehead, eyes, and smile lines. A thoughtful, science-backed gift.
-- **CTA：** SHOP ARGIRELINE SERUM
-- **链接：** [Shopify 产品链接]
+- **产品名：** Anti-Aging Trio
+- **描述：** The complete starter kit for mom: Micro-dart Patches + Matrixyl Serum + Peptide Serum. A 4-week system in one box. $99 (save $62).
+- **CTA：** SHOP THE TRIO
+- **链接：** https://www.depology.com/products/anti-agingtrio
+
+### Product 3
+- **角色标签（VE92sd）：** —
+- **产品名：** Face & Eye Peptide Firming Duo
+- **描述：** Face cream + Eye cream in one set. Complete peptide care for the two areas that matter most. $79 (save $35).
+- **CTA：** SHOP FACE & EYE DUO
+- **链接：** https://www.depology.com/products/face-eye-peptide-firming-duo
 
 ---
 

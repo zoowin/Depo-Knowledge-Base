@@ -5,7 +5,7 @@
 - **Type:** Trend / Brand Education
 - **Send Date:** 2026-04-27
 - **Segment:** Engaged
-- **Product Focus:** Line E — Deepcare+ Boosting Cream（皮肤健康概念）
+- **Product Focus:** Line E — Deepcare+ Boosting Cream + Line H — Triple Lipid + Q10 Cream（屏障修复）+ Line C — Retinol Body Lotion（皮肤健康概念）
 - **Goal:** 趋势教育 — 抓住 "anti-aging → skin health" 语言转变趋势，定位 Depology 为 skin health 品牌。Reddit 热议验证。
 
 ---
@@ -66,9 +66,16 @@ Skin Health, Science-Led
 
 ### Product 2
 - **角色标签（VE92sd）：** —
-- **产品名：** Matrixyl® 3000 Collagen Serum
-- **描述：** Supporting skin's natural processes — hydration, structure, resilience. +46.31% hydration in 28 days.
-- **CTA：** SHOP MATRIXYL SERUM
+- **产品名：** Triple Lipid + Q10 Revive Moisturizing Treatment — RICH
+- **描述：** Ceramides + Cholesterol + Fatty Acids — the three essential lipids your barrier needs. CoQ10 adds antioxidant defense. Skin health starts with a strong barrier. $44.
+- **CTA：** SHOP TRIPLE LIPID CREAM
+- **链接：** [Shopify 产品链接]
+
+### Product 3
+- **角色标签（VE92sd）：** —
+- **产品名：** Retinol Radiance Rescue Body Lotion
+- **描述：** Skin health doesn't stop at the jawline. Retinol + Peptides support texture and tone across neck, arms, and body. Complete care, head to toe.
+- **CTA：** SHOP BODY LOTION
 - **链接：** [Shopify 产品链接]
 
 ---

@@ -5,7 +5,7 @@
 - **Type:** Educational / Conversion
 - **Send Date:** 2026-04-29
 - **Segment:** Engaged + Non-buyers
-- **Product Focus:** Line A — Matrixyl Serum + Matriplex Cream + Line B — Argireline Serum（完整系统）
+- **Product Focus:** Line B — Argireline Serum + Line A — Matrixyl Serum + Anti-Aging Trio bundle（完整系统→bundle 转化）
 - **Goal:** 高转化教育邮件。将 3 个产品包装为一个"系统"，提升 AOV。为 Mother's Day 礼盒做铺垫。
 
 ---
@@ -68,7 +68,7 @@ The Complete System
 
 ### Product 1
 - **角色标签（VE92sd）：** Step 01 — Target (Argireline™)
-- **产品名：** Argireline™ MPS Serum
+- **产品名：** Argireline™ Peptide Complex Serum
 - **描述：** First layer: target expression lines where they form — forehead, eyes, smile lines. Lightweight peptide formula for daily precision care.
 - **CTA：** SHOP ARGIRELINE SERUM
 - **链接：** [Shopify 产品链接]
@@ -81,11 +81,11 @@ The Complete System
 - **链接：** [Shopify 产品链接]
 
 ### Product 3
-- **角色标签（VE92sd）：** Step 03 — Seal (Matriplex™)
-- **产品名：** Matriplex™ Peptide Intense Cream
-- **描述：** Final layer: 8% Matrixyl Complex seals in both serums and adds a third tier of peptide support. Elasticity +2.85%, hydration +36.53%.
-- **CTA：** SHOP MATRIPLEX CREAM
-- **链接：** [Shopify 产品链接]
+- **角色标签（VE92sd）：** Step 03 — The Complete Box (Bundle)
+- **产品名：** Anti-Aging Trio
+- **描述：** All the essentials in one box: Micro-dart Patches + Matrixyl Serum + Peptide Complex Serum. A 4-week system, ready to go. $99 (save $62).
+- **CTA：** SHOP THE TRIO — $99
+- **链接：** https://www.depology.com/products/anti-agingtrio
 
 ---
 

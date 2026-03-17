@@ -5,7 +5,7 @@
 - **Type:** Trend / Educational
 - **Send Date:** 2026-04-17
 - **Segment:** Engaged
-- **Product Focus:** Line A — Matrixyl Serum（K-Beauty 核心精华）+ Line E — Micro-dart Patches（K-Beauty 科技代表）
+- **Product Focus:** Line A — Matrixyl Serum（K-Beauty 核心精华）+ Line E — Micro-dart Patches（K-Beauty 科技代表）+ Line C — Retinol Night Cream（夜间修护）
 - **Goal:** 趋势教育，借助 Glass Skin 热度定位 Depology 的 Korean dermatology 基因。权威性建立。
 
 ---
@@ -81,10 +81,10 @@ The K-Beauty Approach, Refined
 - **链接：** [Shopify 产品链接]
 
 ### Product 3
-- **角色标签（VE92sd）：** 03 — The Lock (Matriplex™)
-- **产品名：** Matriplex™ Peptide Intense Cream
-- **描述：** 8% Matrixyl Complex seals in actives and delivers lasting hydration. The final layer for that "glass" finish.
-- **CTA：** SHOP MATRIPLEX CREAM
+- **角色标签（VE92sd）：** 03 — The Night Layer (Retinol)
+- **产品名：** Anti-Aging Retinol Night Cream
+- **描述：** K-Beauty's evening secret: night renewal with encapsulated retinol. Wake up to smoother, more luminous skin — the overnight foundation for glass skin glow.
+- **CTA：** SHOP RETINOL NIGHT CREAM
 - **链接：** [Shopify 产品链接]
 
 ---
