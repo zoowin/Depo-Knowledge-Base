@@ -91,11 +91,23 @@ SHOP ALL PRODUCTS
 ---
 
 ## Hero Image Brief
-> 📐 用于 ChatGPT / Midjourney 生成图片，不放入 Klaviyo
+> 📐 使用即梦生成，参考 `knowledge/formulas/hero-image-prompt-formula.md`
 
-**概念：** Depology products arranged with subtle Easter/spring elements — soft florals, pastel eggs, spring greenery. Premium, not kitschy.
-**风格：** MEL Style 但加入节日柔和感。柔粉色+白色+淡金色调。
-**AI Prompt：**
+**主推产品：** Peptide Duo + Caviar Stick Set — 图片编号 #12（来自 product-image-urls.md）
+**产品位置：** 居中偏右
+**产品占比：** 约 30% 画面
+
+**即梦操作：**
+1. 导入 Peptide Duo + Caviar Set 的 PNG 到画布，放置在居中偏右
+2. 局部重绘：涂抹产品以外所有区域
+3. 输入以下 prompt：
+
+**场景 Prompt：**
 ```
-Elegant flat lay of premium skincare products on a soft blush marble surface, surrounded by delicate spring flowers (white ranunculus, pale pink tulips) and a few small pastel Easter eggs as subtle accents. Soft morning light, gentle shadows, clean composition. Premium beauty editorial style, aspirational but warm --ar 3:2
+Soft blush marble surface, delicate white ranunculus and pale pink tulips arranged loosely around an open space, a few small pastel Easter eggs as subtle accents, fresh green leaves scattered naturally. Soft diffused morning light from left, warm blush and cream tones, generous negative space in center-right for product. Premium beauty editorial photography, clean composition, aspirational but warm --ar 3:2
+```
+
+**备选 Prompt（换材质）：**
+```
+Pale linen fabric background with soft natural folds, small clusters of dried lavender and fresh white peonies in corners, one or two pastel mint Easter eggs. Warm golden hour side lighting, soft cream and lilac tones, clean open space in center for product placement. Premium beauty editorial photography, gentle spring mood --ar 3:2
 ```
