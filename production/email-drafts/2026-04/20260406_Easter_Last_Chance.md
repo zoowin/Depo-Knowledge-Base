@@ -71,6 +71,13 @@ Best Sellers — Going Fast
 - **CTA：** SHOP MATRIXYL SERUM
 - **链接：** [Shopify 产品链接]
 
+### Product 3
+- **角色标签（VE92sd）：** —
+- **产品名：** Deepcare+® MicroOperator Boosting Cream (MOP)
+- **描述：** Our “micro-needling in a jar” cream—non-invasive delivery for smoother-looking skin. No needles, no downtime. Still 15% off until midnight.
+- **CTA：** SHOP BOOSTING CREAM
+- **链接：** https://depology.com/products/deepcare-r-microoperator-boosting-cream-beginner
+
 ---
 
 ## Closing Section

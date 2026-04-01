@@ -84,7 +84,7 @@ Apply the **[Argireline™ MPS Serum](#)** to areas of high movement—specifica
 Apply the **[Matrixyl® 3000 Collagen Serum](#)** all over the face and neck. This provides deep hydration and sends that crucial "produce collagen" signal to the skin, helping to plump and firm static lines over time.
 
 **Step 3: Lock & Restore**
-Finish with a moisturizer like our **[Pro-Firming Overnight Dream Mask](#)** or **Retinol Night Cream** to lock in the peptides and support overnight barrier repair.
+Finish with a moisturizer like **[Matriplex™ Peptide Intense Cream](#)** or **Retinol Night Cream** to lock in the peptides and support overnight barrier repair.
 
 ### H2: Frequently Asked Questions
 

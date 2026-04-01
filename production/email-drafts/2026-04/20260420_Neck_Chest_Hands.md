@@ -5,7 +5,7 @@
 - **Type:** Product Spotlight / Educational
 - **Send Date:** 2026-04-20
 - **Segment:** Engaged + High-intent
-- **Product Focus:** Line C — Retinol Body Lotion + Retinol Night Cream + Line B — Night Eye Patch（面部以外的完整护理）
+- **Product Focus:** Line C — Retinol Body Lotion + Line H — Triple Lipid + Q10 Cream + Line B — Night Eye Patch（面部以外的完整护理）
 - **Goal:** 扩展 "beyond the face" 护理认知，推动 Body Lotion + Night Eye Patch 交叉销售。
 
 ---
@@ -71,14 +71,14 @@ Complete Care Beyond the Face
 - **产品名：** Retinol Radiance Rescue Body Lotion
 - **描述：** Retinol smooths texture, AHA gently exfoliates, Collagen + Cholesterol support the barrier. For neck, chest, and hands. 300ml at $26.
 - **CTA：** SHOP BODY LOTION
-- **链接：** [Shopify 产品链接]
+- **链接：** https://depology.com/products/retinol-radiance-body-lotion
 
 ### Product 2
-- **角色标签（VE92sd）：** 02 — The Night Renewal (Retinol)
-- **产品名：** Anti-Aging Retinol Night Cream
-- **描述：** Encapsulated retinol renews your face overnight while body lotion works below. Two retinol products, two zones, one evening routine.
-- **CTA：** SHOP RETINOL NIGHT CREAM
-- **链接：** [Shopify 产品链接]
+- **角色标签（VE92sd）：** 02 — The Barrier Seal (Triple Lipids)
+- **产品名：** Triple Lipid + Q10 Revive Moisturizing Treatment — RICH
+- **描述：** Ceramides + Cholesterol + Fatty Acids — the three essential lipids your barrier needs. CoQ10 adds antioxidant defense. A comforting finish for face, neck, and chest.
+- **CTA：** SHOP TRIPLE LIPID CREAM
+- **链接：** https://depology.com/products/triple-lipid-q10-revive-moisturizing-treatment
 
 ### Product 3
 - **角色标签（VE92sd）：** 03 — The Eye Reset (Hydrogel)

@@ -19,7 +19,6 @@
 | `cica_recovery_serum` | Cica Recovery Serum | `cica-h-a-calm-repair-serum` | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/fc33e5c3-ab65-40a0-92f1-031418fc7478.png` | ✅ |
 | `matrixyl_serum` | Matrixyl® 3000 Collagen Serum | `depology-matrixyl-3000-serum` | — | ⏳ |
 | `matriplex_cream` | Matriplex™ Peptide Intense Cream | `tri-active-matrixyl-complex-cream` | — | ⏳ |
-| `profi_overnight_mask` | Pro-Firming Overnight Dream Mask | `pro-firming-matrixyl-3000-dynalift-night-mask` | — | ⏳ |
 | `argireline_eye_stick` | Argireline™ Eye Stick | `argireline-anti-aging-eye-stick` | — | ⏳ |
 | `microdart_eye_patch` | Micro-dart Eye Patch | `deepcare-serum-infused-micro-dart-patches-lp1-pb` | — | ⏳ |
 | `argireline_eye_cream` | Argireline™ Eye Cream | `peptide-complex-wrinkle-defense-eye-cream` | — | ⏳ |
@@ -39,7 +38,6 @@
 | Cica Recovery Serum | `https://depology.com/products/cica-h-a-calm-repair-serum` |
 | Matrixyl® 3000 Collagen Serum | `https://depology.com/products/depology-matrixyl-3000-serum` |
 | Matriplex™ Peptide Intense Cream | `https://depology.com/products/tri-active-matrixyl-complex-cream` |
-| Pro-Firming Overnight Dream Mask | `https://depology.com/products/pro-firming-matrixyl-3000-dynalift-night-mask` |
 | Argireline™ Eye Stick | `https://depology.com/products/argireline-anti-aging-eye-stick` |
 | Micro-dart Eye Patch | `https://depology.com/products/deepcare-serum-infused-micro-dart-patches-lp1-pb` |
 | Argireline™ Eye Cream | `https://depology.com/products/peptide-complex-wrinkle-defense-eye-cream` |

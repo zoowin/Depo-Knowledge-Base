@@ -60,7 +60,6 @@ PRODUCT_IMAGES = {
     # ── Pending upload — update URL after Leon uploads ───────
     "matrixyl_serum":       "PENDING_UPLOAD",
     "matriplex_cream":      "PENDING_UPLOAD",
-    "profi_overnight_mask": "PENDING_UPLOAD",
     "argireline_eye_stick": "PENDING_UPLOAD",
     "microdart_eye_patch":  "PENDING_UPLOAD",
     "argireline_eye_cream": "PENDING_UPLOAD",
@@ -76,7 +75,6 @@ PRODUCT_URLS = {
     "cica_recovery_serum":     "https://depology.com/products/cica-h-a-calm-repair-serum",
     "matrixyl_serum":          "https://depology.com/products/depology-matrixyl-3000-serum",
     "matriplex_cream":         "https://depology.com/products/tri-active-matrixyl-complex-cream",
-    "profi_overnight_mask":    "https://depology.com/products/pro-firming-matrixyl-3000-dynalift-night-mask",
     "argireline_eye_stick":    "https://depology.com/products/argireline-anti-aging-eye-stick",
     "microdart_eye_patch":     "https://depology.com/products/deepcare-serum-infused-micro-dart-patches-lp1-pb",
     "argireline_eye_cream":    "https://depology.com/products/peptide-complex-wrinkle-defense-eye-cream",

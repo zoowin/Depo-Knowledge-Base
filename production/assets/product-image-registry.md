@@ -50,10 +50,6 @@ Alternatively: Upload product images once to **Klaviyo → Content → Images**,
 - Product Page: https://depology.com/products/retinol-night-cream
 - Image URL: [PASTE_URL_HERE]
 
-**Pro-Firming Overnight Dream Mask**
-- Product Page: https://depology.com/products/pro-firming-overnight-dream-mask
-- Image URL: [PASTE_URL_HERE]
-
 ### Cleansers
 
 **Opuntia-C Relief Cleansing Balm**

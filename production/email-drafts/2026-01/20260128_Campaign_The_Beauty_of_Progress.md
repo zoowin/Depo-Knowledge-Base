@@ -92,10 +92,10 @@ explore the routines that support small, steady wins:
 [Shop Matrixyl® Serum]
 
 ### 3. For Overnight Care: The Deep Rest
-**Pro-Firming Overnight Dream Mask**
-– Works while you sleep to firm and recharge
-– Wake up looking like you’ve had a full 8 hours
-[Shop Overnight Mask]  
+**Matriplex™ Peptide Intense Cream**
+– A rich peptide cream for smoother-looking, more supported skin
+– A comforting finish to lock in your routine overnight
+[Shop Matriplex Cream]  
 
 Call to Action
 Primary Button Text: KEEP MOVING FORWARD  

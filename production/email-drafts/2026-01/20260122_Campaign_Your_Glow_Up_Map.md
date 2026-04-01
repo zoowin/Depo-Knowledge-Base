@@ -81,11 +81,11 @@ Think of this cream as your engine’s best friend. Enriched with **8% Matrixyl�
 ---
 
 ### **🏁 STOP 3: THE FINAL DESTINATION**
-**Pro-Firming Overnight Dream Mask**
+**Retinol Night Cream**
 
 You’ve arrived. Park the car and let the engine cool.
 
-This overnight mask is your luxury hotel stay at the end of a long drive. It works while you sleep to deep-condition and firm your skin, ensuring you wake up looking like you’ve been on vacation (even if you haven’t).
+This night cream is your luxury hotel stay at the end of a long drive. It supports overnight renewal so you wake up looking refreshed and more even (even if you didn’t get a full 8 hours).
 
 *The Vibe: Pure relaxation.*
 
@@ -112,4 +112,4 @@ Skincare shouldn’t be a stressful commute. It should be a joyride.
 112→Summary (Formula)
 113→1. Title: Your Glow-Up Map / Destination: Radiance. Here is Your Map.
 114→2. Body: 用「旅程 / 路线图」隐喻护肤过程，解决「没有导航」的迷茫，把用户带入 3 个旅程站点的故事结构。
-115→3. Product: 三站对应三款产品——Peptide Complex 10% Serum（起步修正）、Matriplex™ Cream（中途补给）、Overnight Mask（终点修护），一起组成完整路线。
+115→115→3. Product: 三站对应三款产品——Peptide Complex 10% Serum（起步修正）、Matriplex™ Cream（中途补给）、Retinol Night Cream（终点夜间更新），一起组成完整路线。

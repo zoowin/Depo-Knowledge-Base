@@ -98,7 +98,7 @@ create_placeholder(
 products = [
     ("Cica Recovery Serum", "Soothes visible redness"),
     ("Matrixyl 3000 Collagen Serum", "Hydrates & plumps fine lines"),
-    ("Pro-Firming Overnight Dream Mask", "Works while you sleep")
+    ("Matriplex Peptide Intense Cream", "Rich peptide cream for smoother-looking skin")
 ]
 
 for i, (prod_name, desc) in enumerate(products, 1):

@@ -80,11 +80,11 @@ SEE THE VERDICT
 
 **Trend #3: "Overnight Wrapping" (Slugging 2.0)**
 *   **The Trend:** Sealing in your skincare with a thick layer to prevent water loss while you sleep.
-*   **Our Verdict:** **VERIFIED (With a twist).** Traditional petroleum jelly can clog pores. We recommend a breathable, gel-based occlusive that locks in moisture *without* the breakouts.
-*   **The Solution:** *Pro-Firming Overnight Dream Mask.*
-*   **[Shop Dream Mask]**
-    *   **Link:** `https://depology.com/products/pro-firming-matrixyl-3000-dynalift-night-mask`
-    *   **Strategy Note:** 落地到晚安面膜页，满足“过夜包裹”需求。
+*   **Our Verdict:** **VERIFIED (With a twist).** Traditional petroleum jelly can clog pores. We recommend a barrier-supporting cream that seals in hydration *without* feeling heavy.
+*   **The Solution:** *Matriplex™ Peptide Intense Cream.*
+*   **[Shop Matriplex]**
+    *   **Link:** `https://depology.com/products/tri-active-matrixyl-complex-cream`
+    *   **Strategy Note:** 落地到面霜页，满足“过夜锁水 + 皮肤看起来更平滑”的需求。
 
 ---
 

@@ -76,10 +76,10 @@ Yet, your body shows signs of aging just like your face:
  **[SHOP BODY LOTION]**
  
  **Step 2: The Neck & Chest Specialist**
- **Pro-Firming Overnight Dream Mask**
- The skin on your décolletage is as delicate as your eyelids. Extend this firming mask down to your chest to prevent "tech neck" lines and sleep creases.
+ **Matriplex™ Peptide Intense Cream**
+ The skin on your décolletage is as delicate as your eyelids. Use a rich peptide cream on neck + chest to keep this area looking smoother and more supported.
  *   **Best for:** Neck and décolletage.
- **[SHOP DREAM MASK]**
+ **[SHOP MATRIPLEX CREAM]**
  
  **Step 3: The "Body Cocktail" Booster**
  **Matrixyl® 3000 Collagen Serum**

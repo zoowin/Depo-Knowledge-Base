@@ -5,8 +5,8 @@
 - **Type:** Lifestyle / Cross-sell
 - **Send Date:** 2026-04-15
 - **Segment:** Engaged
-- **Product Focus:** Line F — Opuntia Cleansing Balm + Line G — Bakuchiol Stick + Line B — Eye Cream（3步极简系统）
-- **Goal:** 生活方式切入，展示"极简但有效"的 3 步 routine，推动 Opuntia 交叉销售
+- **Product Focus:** Retinol Body Lotion + Matriplex Cream + Replenishing Night Under Eye Patch（3步极简系统）
+- **Goal:** 生活方式切入，展示"极简但有效"的 3 步 routine，推动快速下单转化
 
 ---
 
@@ -47,7 +47,7 @@ Simple Beats Complicated.
 **Body Copy（3 段）：**
 Paragraph 1: Between meetings, school runs, and everything in between — some mornings, 10 steps just isn't happening. We get it.
 Paragraph 2: The good news: effective skincare doesn't require a 20-minute ritual. Three well-chosen products can deliver more than a shelf full of average ones.
-Paragraph 3: Here's the routine we'd recommend when time is short but standards aren't: cleanse, treat, seal. Done in 3 minutes.
+Paragraph 3: Here's the reset when time is short but standards aren't: smooth, seal, refresh. Done in 3 minutes.
 
 ---
 
@@ -55,28 +55,28 @@ Paragraph 3: Here's the routine we'd recommend when time is short but standards 
 > 📐 对应 Klaviyo 位置：Product Cards 区域
 
 **Section Title：**
-Your 3-Step Morning System
+Your 3-Step Reset System
 
 ### Product 1
 - **角色标签（VE92sd）：** —
-- **产品名：** Opuntia-C Relief Cleansing Balm
-- **描述：** Step 1: Melt away overnight buildup without stripping your barrier. Prickly Pear + Squalane cleanse and hydrate simultaneously.
-- **CTA：** SHOP CLEANSING BALM
-- **链接：** [Shopify 产品链接]
+- **产品名：** Retinol Radiance Rescue Body Lotion
+- **描述：** Step 1: Smooth rough body texture in one step. Apply after showering (arms, legs, back) for a fast, visible-feel reset.
+- **CTA：** SHOP RETINOL BODY LOTION
+- **链接：** https://depology.com/products/retinol-radiance-body-lotion
 
 ### Product 2
 - **角色标签（VE92sd）：** —
-- **产品名：** Bakuchiol Smoothing Serum Stick
-- **描述：** Step 2: Glide on targeted fine-line care — forehead, crow's feet, smile lines. Plant-based retinol alternative, no irritation. Just glide and go.
-- **CTA：** SHOP BAKUCHIOL STICK
-- **链接：** https://www.depology.com/products/bakuchiol-smoothing-serum-stick
+- **产品名：** Matriplex™ Peptide Intense Cream
+- **描述：** Step 2: Seal in your routine with a rich peptide cream. Smooth it over face + neck for a comfortable finish when you’re short on time.
+- **CTA：** SHOP MATRIPLEX CREAM
+- **链接：** https://depology.com/products/tri-active-matrixyl-complex-cream
 
 ### Product 3
 - **角色标签（VE92sd）：** —
-- **产品名：** Argireline™ Eye Cream
-- **描述：** Step 3: A quick dab around the eyes. Argireline™ helps smooth expression lines. Light enough for under makeup — done before you grab your keys.
-- **CTA：** SHOP EYE CREAM
-- **链接：** [Shopify 产品链接]
+- **产品名：** Replenishing Night Under Eye Patch (Blue Eye Patch)
+- **描述：** Step 3: 10 minutes under the eyes while you get ready. The blue hydrogel patch replenishes with ceramides + hyaluronic acid for a refreshed look.
+- **CTA：** SHOP BLUE EYE PATCH
+- **链接：** https://depology.com/products/replenishing-night-under-eye-patch
 
 ---
 

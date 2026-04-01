@@ -20,7 +20,7 @@ Date: 2026-01-28
 **Prompt**:
 > A bottle of Matrixyl 3000 Collagen Serum on a smooth beige marble surface. Clear water droplets on the surface to imply deep hydration. Sharp focus on the bottle. Professional product photography, bright and clean. --ar 1:1 --v 6.0
 
-### 3. Pro-Firming Overnight Dream Mask (The Deep Rest)
-**Concept**: Nighttime care, sleep, recharge.
+### 3. Matriplex™ Peptide Intense Cream (The Deep Rest)
+**Concept**: Nighttime comfort, hydration, recharge.
 **Prompt**:
-> A jar of Pro-Firming Overnight Dream Mask sitting on a wooden nightstand next to a silk eye mask. Warm, cozy evening lamp lighting. A feeling of relaxation and luxury sleep. Editorial product shot. --ar 1:1 --v 6.0
+> A jar of Matriplex™ Peptide Intense Cream sitting on a wooden nightstand next to a silk eye mask. Warm, cozy evening lamp lighting. A feeling of relaxation and luxury sleep. Editorial product shot. --ar 1:1 --v 6.0

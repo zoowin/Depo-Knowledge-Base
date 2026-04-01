@@ -76,7 +76,7 @@ Find Your Perfect Match.
 **Visual Layout:**
 *   **Pair 1:** Micro-Dart Patches + Eye Cream
     *   **Text:** "The Date Night Ready Kit (Brighten & Smooth)"
-*   **Pair 2:** Pro-Firming Overnight Dream Mask + Retinol Night Cream
+*   **Pair 2:** Matriplex™ Peptide Intense Cream + Retinol Night Cream
     *   **Text:** "The Beauty Sleep Set (Repair & Glow)"
 
 **CTA Button (Secondary):**
