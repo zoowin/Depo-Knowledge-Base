@@ -1,5 +1,7 @@
 # 1️⃣ Anti-Aging Retinol Night Cream（Retinol Night Cream）
 
+> **⚠️ 已下架（2026-04 起）— 暂停推荐，不可用于 EDM / SMS / Blog 内容**
+
 ### **One-liner**
 
 A nourishing night cream featuring **0.5% pure retinol** to improve the appearance of fine lines, texture, and hydration without feeling greasy.

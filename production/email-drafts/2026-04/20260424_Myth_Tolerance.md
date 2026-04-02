@@ -5,7 +5,7 @@
 - **Type:** Educational / Myth-busting
 - **Send Date:** 2026-04-24
 - **Segment:** Engaged 30/60/90
-- **Product Focus:** Line B — Argireline Serum + Line A — Matrixyl Serum + Dr. Youn Favourites bundle（权威背书）
+- **Product Focus:** Line B — Argireline Serum + Line A — Matrixyl Serum + Peptide Duo + Caviar Stick bundle（routine 承诺）
 - **Goal:** 破除"皮肤会产生耐受性"的误区，减少用户弃用/换产品行为，提升留存
 
 ---
@@ -34,7 +34,7 @@ Line 1: "My skin got used to it."
 Line 2: Science says otherwise.
 
 **Hero CTA：**
-READ THE TRUTH
+SEE THE SCIENCE
 
 ---
 
@@ -81,11 +81,11 @@ Stay The Course. See The Results.
 - **链接：** [Shopify 产品链接]
 
 ### Product 3
-- **角色标签（VE92sd）：** —
-- **产品名：** Favourites of Dr. Youn
-- **描述：** Board-certified surgeon Dr. Youn's personal picks: Micro-dart Patches + Matrixyl Serum + bonus "Younger for Life" book. $95.40 (save $10.60). Doctor-endorsed for long-term use.
-- **CTA：** SHOP DR. YOUN'S PICKS
-- **链接：** https://www.depology.com/products/favourites-of-dr-youn
+- **角色标签（VE92sd）：** 03 — The Full Commitment (Bundle)
+- **产品名：** Peptide Duo + Free Caviar Multi-Balm Stick
+- **描述：** Ready to commit? Matrixyl® Serum + Argireline™ Serum + a bonus Caviar Stick. The full peptide routine in one set — $109, and consistency built in.
+- **CTA：** SHOP THE PEPTIDE DUO
+- **链接：** https://depology.com/products/peptide-duo-caviar-stick
 
 ---
 

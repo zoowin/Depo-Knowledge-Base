@@ -1,5 +1,8 @@
 # 1️⃣ Matrixyl® 3000 Collagen Serum
 
+### **0. Shopify URL**
+https://depology.com/products/matrixyl-collagen-serum
+
 ### **One-liner**
 
 A peptide-powered serum designed to support hydration and visibly reduce the appearance of fine lines.

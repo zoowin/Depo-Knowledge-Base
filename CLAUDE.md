@@ -87,10 +87,13 @@ Depo-Knowledge-Base/
 │   └── edm-workflow-guide.md  ← Full system workflow documentation
 │
 ├── tools/                 ← AUTOMATION
-│   ├── fetch_trends.py    ← Google Trends + Reddit scraper
+│   ├── fetch_trends.py              ← Google Trends + Reddit scraper
+│   ├── build_campaign_html.py       ← 本地构建 campaign HTML（base template + replacements.json）
+│   ├── klaviyo_deploy_campaign.py   ← 一键部署（create template + campaign + assign）
+│   ├── klaviyo_create_template.py   ← 单独创建/assign 模板
 │   ├── generate_email_html.py
 │   ├── mel_campaign_builder.py
-│   └── templates/         ← HTML email base templates
+│   └── templates/                   ← HTML email base templates
 │
 └── .skills/               ← CLAUDE SKILLS (callable workflows)
     ├── edm-writer/        ← Draft emails following winning formula
@@ -112,7 +115,7 @@ All product communication must follow this structure. Never invent new categorie
 | **E** | Technology-Driven | Micro-needling Cream | "Micro-needling in a jar" | Concept education, differentiation |
 | **F** | Opuntia | Cleansing Balm | Supporting products | Cross-sell, routine completion only |
 
-**已停产（不可在 EDM 中推荐）：** D 线 Cica 全线、A 线 Pro-Firming Dream Mask、B 线 Eye Stick
+**已停产（不可在 EDM 中推荐）：** D 线 Cica 全线、A 线 Pro-Firming Dream Mask、B 线 Eye Stick、C 线 Anti-Aging Retinol Night Cream
 
 **Rule:** Supporting products (F) should never be standalone EDM heroes unless explicitly promoted.
 
@@ -135,16 +138,38 @@ All product communication must follow this structure. Never invent new categorie
 
 ## Klaviyo 模板体系
 
-所有邮件通过 Klaviyo **drag & drop** 模板制作。Claude 输出文案内容，Leon 复制粘贴到 Klaviyo 对应位置。
+### 核心原则
+- **每个 campaign 创建一个新模板**（从基础模板 HTML 复制 → 替换内容 → 上传）
+- **模板类型 = 布局结构**（不同布局是不同类型，同布局复用）
+- **Claude 生成完整 HTML**，Leon 只需上传 hero image
+- **所有 HTML 操作在本地完成**（Python 脚本，零 token 消耗）
 
-### 当前模板
+### 基础模板（本地文件）
 
-| Template ID | 名称 | 定位 | 配色 |
-|------------|------|------|------|
-| **VE92sd** | Mel style v1 | 教育型（更多内容空间，有产品角色标签 + 底部总 CTA） | 黑白交替 |
-| **R5x7wg** | Mel style | 通用型（简洁，统一 SHOP NOW） | 黑白简洁 |
+| 文件 | Klaviyo ID | 类型 | 布局 |
+|------|-----------|------|------|
+| `production/html-output/R5x7wg_base_template.html` | R5x7wg | 通用型 | 单 hero + body + checklist + 3 产品卡 |
+| `production/html-output/VE92sd_base_template.html` | VE92sd | 教育型 | 单 hero + 产品角色标签 + 底部总 CTA |
 
-两个模板穿插发送。未来会扩展到 4-5 个模板（教育、通用、促销、强促销、情感），但核心结构不变。
+未来新布局（如双主图、促销、强促销）作为新模板类型管理。
+
+### 部署脚本
+
+```bash
+# Step 1: 构建 HTML（本地替换内容，可浏览器预览）
+python3 tools/build_campaign_html.py replacements.json \
+  --base R5x7wg --output YYYYMMDD_Campaign.html --preview
+
+# Step 2: 一键部署到 Klaviyo（创建模板 + 创建 campaign + assign）
+python3 tools/klaviyo_deploy_campaign.py production/html-output/YYYYMMDD_Campaign.html \
+  --name "[DEP]_MMDD_Campaign_Name" \
+  --subject "Subject line" \
+  --preview "Preview text" \
+  --list-id U6wD8G \
+  --send-time "2026-04-05T10:00:00.000Z"
+```
+
+API Key 存储在 `.env`（已在 `.gitignore`）。
 
 ### 标准输出格式
 
@@ -244,16 +269,16 @@ For each email in the monthly calendar:
 4. Draft to `production/email-drafts/2026-XX/YYYYMMDD_Campaign_Name.md`
 5. Include: Subject lines, preview text, full copy blocks, product card HTML, hero image brief
 
-### Phase 2: Image Generation (Leon → ChatGPT/Midjourney)
-1. Leon 使用 Claude 提供的 AI Prompt 在 ChatGPT / Midjourney 生成 Hero Image
-2. 下载图片并上传到 Klaviyo
+### Phase 2: Build HTML & Deploy (Claude — 本地脚本，零 token)
+1. Claude 读取 draft → 生成 `replacements.json`（替换文案、图片、链接）
+2. `python3 tools/build_campaign_html.py` → 本地生成完整 HTML
+3. Leon 浏览器预览 HTML，确认无误
+4. `python3 tools/klaviyo_deploy_campaign.py` → 一键上传模板 + 创建 campaign + assign
 
-### Phase 3: Klaviyo Assembly & Send (Leon)
-1. 打开对应 Klaviyo 模板（VE92sd / R5x7wg）
-2. 按 draft 中的区块，逐一复制粘贴文案到 Klaviyo 对应位置
-3. 上传 Hero Image 和产品图片
-4. 设置 Subject Line, Preview Text, Segment
-5. Preview → Schedule or Send
+### Phase 3: Hero Image & Send (Leon)
+1. Leon 使用 Claude 提供的 AI Prompt 在 ChatGPT / Midjourney 生成 Hero Image
+2. 在 Klaviyo campaign 中上传 Hero Image（唯一手动步骤）
+3. Preview → Schedule or Send
 
 ### Phase 4: Post-Send (Claude)
 1. Update `strategy/campaign-log.md` with send date, topic, product, metrics
@@ -298,6 +323,31 @@ Whenever introducing a campaign, event, sale, or list (e.g., Archive Sale, Vault
 | Text block bg | #000000 |
 | Text color | #FFFFFF |
 | Hero image | 600 x 400px |
+
+---
+
+## Shopify Discount Link Format (Non-Negotiable)
+
+All promotional email links that carry a discount code **must** use the Shopify official discount URL format:
+
+```
+https://depology.com/discount/{CODE}?redirect=/products/{product-slug}
+https://depology.com/discount/{CODE}?redirect=/collections/{collection-slug}
+```
+
+**Do NOT use** the query-parameter format (`?discount=CODE`) — it is unreliable and may not auto-apply the code at checkout.
+
+**Examples:**
+```
+✅ https://depology.com/discount/EASTER20?redirect=/products/matrixyl-r-3000-collagen-boosting-serum
+✅ https://depology.com/discount/EASTER20?redirect=/collections/all-products
+❌ https://depology.com/products/matrixyl-r-3000-collagen-boosting-serum?discount=EASTER20
+❌ https://depology.com/collections/all-products (missing code)
+```
+
+**Non-promotional emails** (educational, no active code) use plain product/collection URLs without the `/discount/` prefix.
+
+**HTML code must never contain Chinese characters** — all comments, alt text, and placeholders in English only.
 
 ---
 

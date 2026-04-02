@@ -1,5 +1,9 @@
 # 3️⃣ Micro-dart Eye Patch
 
+### **0. Shopify URL**
+
+https://depology.com/products/deepcare-serum-infused-micro-dart-patches-lp1-t0
+
 ### **1. One-liner**
 
 A non-invasive micro-dart eye patch designed to deliver active ingredients where the skin needs them most.

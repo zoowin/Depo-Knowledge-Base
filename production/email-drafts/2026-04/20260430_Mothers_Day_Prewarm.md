@@ -44,10 +44,9 @@ GET EARLY ACCESS
 **Body Headline：**
 Beyond Flowers and Candles.
 
-**Body Copy（3 段）：**
-Paragraph 1: Every year, the same question: what do you get for the woman who has everything? This year, the answer is simple — something she'll use every single day.
-Paragraph 2: Our Peptide Serum Duo combines two clinically studied formulas: one for hydration and structure, one for expression lines. Together, they deliver a complete routine she can start immediately.
-Paragraph 3: We're preparing something special for Mother's Day. Sign up for early access and be the first to know when it drops — plus exclusive pricing for early birds.
+**Body Copy（2 段）：**
+Paragraph 1: Skip the flowers. Give her something she'll reach for every morning — two clinically studied peptide serums that deliver a complete routine from day one.
+Paragraph 2: Three ready-to-gift sets, each under $110. No guesswork, no returns — just something she'll actually look forward to using.
 
 ---
 
@@ -55,7 +54,7 @@ Paragraph 3: We're preparing something special for Mother's Day. Sign up for ear
 > 📐 对应 Klaviyo 位置：Product Cards 区域
 
 **Section Title：**
-The Perfect Duo
+Gifts She'll Actually Use
 
 ### Product 1
 - **角色标签（VE92sd）：** —
@@ -84,10 +83,10 @@ The Perfect Duo
 > 📐 对应 Klaviyo 位置：Product Cards 下方最后一个 Text Block
 
 **Closing Copy：**
-Mother's Day: May 11. Something special is coming. Get on the list.
+Mother's Day: May 11. Order by May 5 for guaranteed delivery.
 
 **Final CTA：**
-JOIN EARLY ACCESS
+SHOP MOTHER'S DAY GIFTS
 
 ---
 

@@ -81,11 +81,11 @@ The Complete System
 - **链接：** [Shopify 产品链接]
 
 ### Product 3
-- **角色标签（VE92sd）：** Step 03 — The Complete Box (Bundle)
-- **产品名：** Anti-Aging Trio
-- **描述：** All the essentials in one box: Micro-dart Patches + Matrixyl Serum + Peptide Complex Serum. A 4-week system, ready to go. $99 (save $62).
-- **CTA：** SHOP THE TRIO — $99
-- **链接：** https://www.depology.com/products/anti-agingtrio
+- **角色标签（VE92sd）：** Step 03 — Seal (Matriplex™)
+- **产品名：** Matriplex™ Firming Moisturizer
+- **描述：** Final layer: lock in actives and seal with peptide-rich moisture. Matrixyl® + Argireline™ + Ceramides in one cream — your system's finishing step.
+- **CTA：** SHOP MATRIPLEX CREAM
+- **链接：** https://depology.com/products/matriplex-firming-moisturizer
 
 ---
 
@@ -93,10 +93,11 @@ The Complete System
 > 📐 对应 Klaviyo 位置：Product Cards 下方最后一个 Text Block
 
 **Closing Copy：**
-One system. Three targets. Results that compound over time. Build your foundation today.
+One system. Three targets. Results that compound over time. Want all three in one box? The Anti-Aging Trio has you covered — $99 (save $62).
 
 **Final CTA：**
-SHOP THE COMPLETE SYSTEM
+SHOP THE ANTI-AGING TRIO — $99
+**链接：** https://www.depology.com/products/anti-agingtrio
 
 ---
 

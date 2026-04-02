@@ -85,7 +85,7 @@ Build Your Hydration Layers
 - **产品名：** Triple Lipid + Q10 Revive Moisturizing Treatment — RICH
 - **描述：** Ceramides + Cholesterol + Fatty Acids rebuild your skin's lipid barrier. CoQ10 adds antioxidant defense. The final seal that teaches skin to hold hydration. $44.
 - **CTA：** SHOP TRIPLE LIPID CREAM
-- **链接：** [Shopify 产品链接]
+- **链接：** https://depology.com/products/triple-lipid-q10-revive-moisturizing-treatment-rich
 
 ---
 

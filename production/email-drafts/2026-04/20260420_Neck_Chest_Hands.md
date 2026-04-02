@@ -96,7 +96,7 @@ Complete Care Beyond the Face
 Your routine deserves to go beyond the jawline. Start tonight.
 
 **Final CTA：**
-SHOP BODY LOTION
+COMPLETE YOUR BODY ROUTINE
 
 ---
 
