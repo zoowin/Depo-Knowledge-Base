@@ -103,23 +103,28 @@ Depo-Knowledge-Base/
 
 ---
 
-## Product System (5 Active Lines, 10 SKUs)
+## Product System (7 Active Lines, 14 SKUs)
 
 All product communication must follow this structure. Never invent new categories.
 
 | Line | Name | SKUs | Role | EDM Focus |
 |------|------|------|------|-----------|
 | **A** | Matrixyl® | Collagen Serum, Matriplex Cream | Foundation anti-aging, collagen support | Education-first, routine building |
-| **B** | Argireline™ | MPS Serum, Micro-dart Patch, Eye Cream | Expression wrinkle targeting | Problem→solution, conversion |
-| **C** | Retinoid | Night Cream, Body Lotion | Advanced night renewal | Guided education, progression |
+| **B** | Argireline™ | MPS Serum, Micro-dart Patch, Eye Cream, Night Under Eye Patch | Expression wrinkle targeting | Problem→solution, conversion |
+| **C** | Retinoid | Body Lotion | Advanced renewal | Guided education, progression |
 | **E** | Technology-Driven | Micro-needling Cream | "Micro-needling in a jar" | Concept education, differentiation |
-| **F** | Opuntia | Cleansing Balm | Supporting products | Cross-sell, routine completion only |
+| **F** | Opuntia | Cleansing Balm | Gentle cleansing | Cross-sell, routine completion |
+| **G** | Serum Stick | Bakuchiol Smoothing Stick, Caviar Multi-Balm Stick | Portable barrier + smoothing | On-the-go skincare, convenience |
+| **H** | Barrier Repair | Triple Lipid + Q10 Moisturizing Treatment RICH | Lipid barrier rebuild | Barrier education, seal step |
 
 **已停产（不可在 EDM 中推荐）：** D 线 Cica 全线、A 线 Pro-Firming Dream Mask、B 线 Eye Stick、C 线 Anti-Aging Retinol Night Cream
 
-**Rule:** Supporting products (F) should never be standalone EDM heroes unless explicitly promoted.
+**Rule:** Supporting products (F, G) should never be standalone EDM heroes unless explicitly promoted.
 
-**Always cross-reference:** `knowledge/products/[Line]/[Product]/` for exact ingredients, benefits, and messaging angles.
+**Always cross-reference:**
+- `knowledge/products/[Line]/[Product]/` for exact ingredients, benefits, and messaging angles
+- `knowledge/products/product-links.md` for product URLs (standard + offer) and Klaviyo CDN image URLs
+- `knowledge/products/product-image-urls.md` for product image PNG lookup table
 
 ---
 
@@ -146,12 +151,23 @@ All product communication must follow this structure. Never invent new categorie
 
 ### 基础模板（本地文件）
 
-| 文件 | Klaviyo ID | 类型 | 布局 |
-|------|-----------|------|------|
-| `production/html-output/R5x7wg_base_template.html` | R5x7wg | 通用型 | 单 hero + body + checklist + 3 产品卡 |
-| `production/html-output/VE92sd_base_template.html` | VE92sd | 教育型 | 单 hero + 产品角色标签 + 底部总 CTA |
+| 文件 | 基于 | 类型 | 布局 | 配色 |
+|------|------|------|------|------|
+| `R5x7wg_base_template.html` | Klaviyo drag-and-drop | 通用促销型 | 单 hero + body + checklist + 3 产品卡 | 黑底白字 |
+| `VE92sd_base_template.html` | Klaviyo drag-and-drop | 教育型 | 单 hero + 产品角色标签 + 底部总 CTA | 黑底白字 |
+| `20260408_Hydration_Hierarchy.html` | 0403 改造 | **教育型（白底）** | 双 hero + checklist + 角色标签 + 3 产品卡 | **白底黑字** |
 
-未来新布局（如双主图、促销、强促销）作为新模板类型管理。
+**重要经验：** Klaviyo drag-and-drop 模板（R5x7wg/VE92sd）有 1600+ 行，desktop/mobile 双版本冗余，修改困难。推荐做法：**以已验证的 production HTML（如 0403）为基础，Python 替换内容生成新邮件**。0408 模板是目前最干净的白底教育型模板（~750 行），未来教育类邮件优先基于它。
+
+### 模板选择规则
+
+| 邮件类型 | 基础模板 | 配色 |
+|---------|---------|------|
+| 教育/Evergreen（白底） | `20260408_Hydration_Hierarchy.html` | 白底黑字 |
+| 促销/Sale（黑底） | `20260403_Easter_Sale_Opening.html` | 黑底白字 |
+| 未来扩展 | 按需从已有模板改造 | — |
+
+未来新布局（如双主图促销、强促销倒计时）作为新模板类型管理。
 
 ### 部署脚本
 
@@ -270,9 +286,9 @@ For each email in the monthly calendar:
 5. Include: Subject lines, preview text, full copy blocks, product card HTML, hero image brief
 
 ### Phase 2: Build HTML & Deploy (Claude — 本地脚本，零 token)
-1. Claude 读取 draft → 生成 `replacements.json`（替换文案、图片、链接）
-2. `python3 tools/build_campaign_html.py` → 本地生成完整 HTML
-3. Leon 浏览器预览 HTML，确认无误
+1. Claude 选择基础模板（白底教育型 → 0408，黑底促销型 → 0403）
+2. Claude 写 Python 脚本从基础模板替换内容（文案/图片/链接/CTA）→ 本地生成完整 HTML
+3. Leon 浏览器预览 HTML，确认无误后微调
 4. `python3 tools/klaviyo_deploy_campaign.py` → 一键上传模板 + 创建 campaign + assign
 
 ### Phase 3: Hero Image & Send (Leon)
@@ -357,6 +373,44 @@ https://depology.com/discount/{CODE}?redirect=/collections/{collection-slug}
 - **Blogs:** `YYYYMMDD_Blog_Topic.md`
 - **SMS:** `YYYYMMDD_SMS_Topic.md`
 - **HTML:** `YYYYMMDD_Campaign_Topic.html`
+
+---
+
+## Klaviyo Campaign 标准设置（Non-Negotiable）
+
+### 发件人 & 命名
+| 字段 | 值 |
+|------|-----|
+| **From Email** | `support@depology.com` |
+| **From Name** | `Dēpology` |
+| **Campaign 命名** | `[DEP]_YYYYMMDD_Campaign_Name` |
+
+### 标准发送人群（Included）
+| Segment | ID |
+|---------|-----|
+| [DEP] - Signed up 30 days **DO NOT TOUCH** | `QPetUg` |
+| Leon - Engaged Profiles (120 Days) | `X9GvQv` |
+| Reviewed 3 Times | `XQqrAQ` |
+| Repeat Buyers | `YbRy3S` |
+
+### 标准排除人群（Excluded）
+| Segment | ID |
+|---------|-----|
+| NLE - [EXCLUDE] Spam | `RNUDwR` |
+| Exclude (In Flow) | `RsM7QF` |
+| NLE - [EXCLUDE] Clean List - Bounced Email > 6 | `TCpjZJ` |
+| NLE - [SUPPRESS] Unengaged Profiles | `TWCwGW` |
+| NLE - [EXCLUDE] Spam Traps | `U9crDJ` |
+| NLE - [EXCLUDE] Received 10+ Emails No Opens | `UzTR6W` |
+| NLE - [EXCLUDE] Spam Trap Role Accounts | `VFjbHB` |
+| [EXCLUDE] TIKTOK EMAILS | `XVbFC5` |
+| NLE - Suppress True | `XWFhWE` |
+
+### 发送设置
+- **Smart Sending**: 开启
+- **Tracking**: Clicks + Opens 均开启
+- **默认发送时间**: 上午 9:00 AM ET（美东时间）
+- **发送日**: 优先工作日（周一至周五），避免周日
 
 ---
 

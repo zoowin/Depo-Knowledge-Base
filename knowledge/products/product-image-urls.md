@@ -18,6 +18,7 @@
 | 6 | Peptide Complex Serum | B — Argireline™ | MPS Serum | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/160b6da8-e5a3-4202-bcef-a511922d5954.png` |
 | 7 | Peptide Eye Cream | B — Argireline™ | Eye Cream | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/17182a51-02dc-4114-8b61-d82e29c46bcb.png` |
 | 8 | Caviar Stick | G — Serum Stick | Caviar Multi-Balm Stick | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/7488ad7b-1062-4c3f-ab01-65ec941435e0.png` |
+| 14 | Bakuchiol Stick | G — Serum Stick | Bakuchiol Smoothing Serum Stick | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/642001c5-54b0-4900-90fd-bc0c5dc37dc0.png` |
 | 9 | MOP (Micro-needling Cream) | E — Technology-Driven | Micro-needling Cream | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/6db87278-16b2-48dd-bb79-837047b7142f.png` |
 | 10 | Cleansing Balm | F — Opuntia | Opuntia Cleansing Balm | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/63b261a2-9e8a-403f-8343-cde631ec3b49.png` |
 | 11 | Cica Serum | D — Cica (已停产) | Cica H.A Serum | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/fc33e5c3-ab65-40a0-92f1-031418fc7478.png` |

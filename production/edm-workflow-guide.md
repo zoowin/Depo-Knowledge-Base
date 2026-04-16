@@ -123,25 +123,24 @@ Leon 逐封审核 draft，关注：
 
 ---
 
-## Phase 5: Klaviyo 组装（Leon）
+## Phase 5: HTML 构建 + Klaviyo 部署（Claude + Leon）
 
-1. 在 Klaviyo 中复制指定模板（VE92sd 或 R5x7wg）创建新 Campaign
-2. 按 draft 中的区块，逐一复制粘贴文案到对应位置：
-   - Hero Headline → 模板标题 Text Block
-   - Subheadline → 副标题 Text Block
-   - Hero CTA → 按钮文字
-   - Body Headline + Copy → 正文区域
-   - Goals 列表 → checklist 区域
-   - Product Cards → 产品卡片区域
-   - Closing → 底部文字（VE92sd）
-3. 上传 Hero Image 和产品图片
-4. 设置：
-   - Subject Line（从 3 个候选中选 1 个，或设置 A/B test）
-   - Preview Text
-   - Segment（Engaged 30/60/90 等）
-   - 发送时间
-5. Preview → 确认桌面端 + 移动端效果
-6. Schedule 或 Send
+### Claude 自动完成：
+1. 选择基础模板（白底教育型 → 0408，黑底促销型 → 0403）
+2. 基于模板生成完整 HTML（替换文案/图片/链接/CTA）
+3. 本地保存 HTML → `production/html-output/YYYYMMDD_Campaign_Name.html`
+4. 通过 Klaviyo API 执行：
+   - 创建 Email Template（纯 HTML）
+   - 创建 Campaign（命名 `[DEP]_YYYYMMDD_Campaign_Name`）
+   - 设置发件人（`support@depology.com` / `Dēpology`）
+   - 设置人群（标准 4 included + 9 excluded，见 Klaviyo Campaign 标准设置）
+   - 绑定模板到 Campaign
+   - Schedule 发送时间（默认 9:00 AM ET）
+
+### Leon 确认：
+1. 在 Klaviyo 后台预览邮件（桌面 + 移动端）
+2. 确认 Hero Image 正确显示
+3. 确认发送时间 → Schedule 或 Send
 
 ---
 
@@ -169,17 +168,19 @@ Leon 逐封审核 draft，关注：
 
 ---
 
-## 在售产品速查（5 条线 10 SKU）
+## 在售产品速查（7 条线 14 SKU）
 
 | 线 | 产品 |
 |----|------|
 | **A** Matrixyl® | Collagen Serum, Matriplex Cream |
-| **B** Argireline™ | MPS Serum, Micro-dart Patch, Eye Cream |
-| **C** Retinoid | Night Cream, Body Lotion |
+| **B** Argireline™ | MPS Serum, Micro-dart Patch, Eye Cream, Night Under Eye Patch |
+| **C** Retinoid | Body Lotion |
 | **E** Technology | Micro-needling Cream |
 | **F** Opuntia | Cleansing Balm |
+| **G** Serum Stick | Bakuchiol Smoothing Stick, Caviar Multi-Balm Stick |
+| **H** Barrier Repair | Triple Lipid + Q10 Moisturizing Treatment RICH |
 
-**已停产：** D 线 Cica 全线、A 线 Dream Mask、B 线 Eye Stick
+**已停产：** D 线 Cica 全线、A 线 Dream Mask、B 线 Eye Stick、C 线 Anti-Aging Retinol Night Cream
 
 ---
 
@@ -200,9 +201,74 @@ Leon 逐封审核 draft，关注：
 
 ## Klaviyo 模板体系
 
-| Template ID | 名称 | 定位 |
-|------------|------|------|
-| **VE92sd** | Mel style v1 | 教育型（内容空间大，有产品角色标签 + 底部总 CTA） |
-| **R5x7wg** | Mel style | 通用型（简洁，统一 SHOP NOW） |
+### 基础模板（本地 HTML 文件）
 
-两个模板穿插发送。未来会扩展到 4-5 个模板。
+| 文件 | 类型 | 布局 | 配色 |
+|------|------|------|------|
+| `20260408_Hydration_Hierarchy.html` | 教育型 | 双 hero + checklist + 角色标签 + 3 产品卡 | 白底黑字 |
+| `20260403_Easter_Sale_Opening.html` | 促销型 | hero + 促销文案 + 3 产品卡 | 黑底白字 |
+| `R5x7wg_base_template.html` | 通用促销（旧） | 单 hero + body + checklist + 3 产品卡 | 黑底白字 |
+| `VE92sd_base_template.html` | 教育型（旧） | 单 hero + 产品角色标签 + 底部总 CTA | 黑底白字 |
+
+**推荐做法：** 以已验证的 production HTML（0408/0403）为基础构建新邮件。旧的 drag-and-drop 模板（R5x7wg/VE92sd）仅作归档参考。
+
+### 模板选择规则
+
+| 邮件类型 | 基础模板 |
+|---------|---------|
+| 教育 / Evergreen / 主题型 | `20260408_Hydration_Hierarchy.html`（白底） |
+| 促销 / Sale | `20260403_Easter_Sale_Opening.html`（黑底） |
+
+### 模板内容结构
+
+```
+[固定] Header 图片（所有邮件统一）
+  URL: https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/a91ce3e7-44ab-42dc-a9e6-c3dc74b6f3bf.jpeg
+
+[每次替换] Hero Image（600 × 400px）
+[每次替换] Hero 标题 + 副标题 + CTA
+[每次替换] 正文区域（2-4段）
+[每次替换] 产品推荐标题
+[每次替换] 产品卡片 ×3（左文右图，67%/33%）
+[每次替换] Closing CTA
+[固定] Footer（黑底 logo + social icons + unsubscribe）
+```
+
+---
+
+## Klaviyo Campaign 标准设置
+
+### 发件人信息
+| 字段 | 值 |
+|------|-----|
+| **From Email** | `support@depology.com` |
+| **From Name** | `Dēpology` |
+
+### Campaign 命名规范
+格式：`[DEP]_YYYYMMDD_Campaign_Name`
+示例：`[DEP]_20260422_Earth_Day`
+
+### 标准发送人群（Included）
+| Segment | ID |
+|---------|-----|
+| [DEP] - Signed up 30 days **DO NOT TOUCH** | `QPetUg` |
+| Leon - Engaged Profiles (120 Days) | `X9GvQv` |
+| Reviewed 3 Times | `XQqrAQ` |
+| Repeat Buyers | `YbRy3S` |
+
+### 标准排除人群（Excluded）
+| Segment | ID |
+|---------|-----|
+| NLE - [EXCLUDE] Spam | `RNUDwR` |
+| Exclude (In Flow) | `RsM7QF` |
+| NLE - [EXCLUDE] Clean List - Bounced Email > 6 | `TCpjZJ` |
+| NLE - [SUPPRESS] Unengaged Profiles | `TWCwGW` |
+| NLE - [EXCLUDE] Spam Traps | `U9crDJ` |
+| NLE - [EXCLUDE] Received 10+ Emails No Opens | `UzTR6W` |
+| NLE - [EXCLUDE] Spam Trap Role Accounts | `VFjbHB` |
+| [EXCLUDE] TIKTOK EMAILS | `XVbFC5` |
+| NLE - Suppress True | `XWFhWE` |
+
+### 其他设置
+- **Smart Sending**: 开启
+- **Tracking**: Clicks + Opens 均开启

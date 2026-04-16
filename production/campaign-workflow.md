@@ -1,4 +1,9 @@
-# Depology Email Campaign Workflow
+# ⚠️ DEPRECATED — 请使用 `edm-workflow-guide.md`
+
+> 本文件已废弃（2026-04-16）。所有 Campaign 工作流、受众设置、模板体系已整合到 `production/edm-workflow-guide.md`。
+> 保留此文件仅供历史参考，Agent 不应读取此文件作为执行依据。
+
+# Depology Email Campaign Workflow (ARCHIVED)
 _Last updated: 2026-03-04_
 
 ---
