@@ -32,10 +32,23 @@ def create_template(name, html):
     return tid
 
 
+def update_template(template_id, html):
+    """PATCH existing template HTML (reuse after content tweaks — avoids template clutter)."""
+    r = requests.patch(
+        f'{BASE}/templates/{template_id}/',
+        headers=HEADERS,
+        json={'data': {'type': 'template', 'id': template_id,
+                       'attributes': {'html': html}}}
+    )
+    r.raise_for_status()
+    print(f'Template updated: {template_id}')
+
+
 def create_campaign(name, subject, preview_text, list_id, send_time=None,
                     from_email='support@depology.com', from_label='Dēpology'):
     send_strategy = {'method': 'immediate'} if not send_time else {
-        'method': 'static', 'datetime': send_time, 'options': {'isLocal': False}
+        'method': 'static',
+        'options_static': {'datetime': send_time, 'is_local': False}
     }
     payload = {
         'data': {
@@ -46,19 +59,17 @@ def create_campaign(name, subject, preview_text, list_id, send_time=None,
                 'send_strategy': send_strategy,
                 'send_options': {'use_smart_sending': True},
                 'tracking_options': {'is_tracking_clicks': True, 'is_tracking_opens': True},
-                'campaign_messages': {
+                'campaign-messages': {
                     'data': [{
                         'type': 'campaign-message',
                         'attributes': {
-                            'definition': {
-                                'channel': 'email',
-                                'label': name,
-                                'content': {
-                                    'subject': subject,
-                                    'preview_text': preview_text,
-                                    'from_email': from_email,
-                                    'from_label': from_label,
-                                }
+                            'channel': 'email',
+                            'label': name,
+                            'content': {
+                                'subject': subject,
+                                'preview_text': preview_text,
+                                'from_email': from_email,
+                                'from_label': from_label,
                             }
                         }
                     }]
