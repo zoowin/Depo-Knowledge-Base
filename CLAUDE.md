@@ -110,7 +110,7 @@ All product communication must follow this structure. Never invent new categorie
 | Line | Name | SKUs | Role | EDM Focus |
 |------|------|------|------|-----------|
 | **A** | Matrixyl® | Collagen Serum, Matriplex Cream | Foundation anti-aging, collagen support | Education-first, routine building |
-| **B** | Argireline™ | MPS Serum, Micro-dart Patch, Eye Cream, Night Under Eye Patch | Expression wrinkle targeting | Problem→solution, conversion |
+| **B** | Argireline™ | MPS Serum, Micro-dart Patch (M1), Eye Cream, Night Under Eye Patch | Expression wrinkle targeting | Problem→solution, conversion |
 | **C** | Retinoid | Body Lotion | Advanced renewal | Guided education, progression |
 | **E** | Technology-Driven | Micro-needling Cream | "Micro-needling in a jar" | Concept education, differentiation |
 | **F** | Opuntia | Cleansing Balm | Gentle cleansing | Cross-sell, routine completion |
@@ -118,6 +118,13 @@ All product communication must follow this structure. Never invent new categorie
 | **H** | Barrier Repair | Triple Lipid + Q10 Moisturizing Treatment RICH | Lipid barrier rebuild | Barrier education, seal step |
 
 **已停产（不可在 EDM 中推荐）：** D 线 Cica 全线、A 线 Pro-Firming Dream Mask、B 线 Eye Stick、C 线 Anti-Aging Retinol Night Cream
+
+**内部命名映射（避免混淆）：**
+- **M1** = Micro-dart Eye Patch (Line B, Deepcare+® Serum-Infused Micro Dart Patches) — **2026 Q2 已升级，新增 3,300 IU/g Retinol**
+- **MPS** = Argireline™ MPS Serum (Line B)
+- **MOP / Deepcare+ Cream** = Micro-needling Cream (Line E, Deepcare+ Boosting Cream)
+- **M3K** = Matrixyl® 3000 Collagen Serum (Line A)
+- **PEC** = Argireline™ Eye Cream (Line B)
 
 **Rule:** Supporting products (F, G) should never be standalone EDM heroes unless explicitly promoted.
 
