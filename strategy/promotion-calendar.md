@@ -34,7 +34,7 @@
 |------|------|------|------|------|--------------|------|
 | **Apr** | Easter Weekend | 🟡 Small | 4/5 (2026) | 15-20% OFF | ❌ | 周末促销 |
 | **May** | Mother's Day | 🟡 Small | 5/11 (2026) | 15-20% OFF | ❌ | 礼物角度 + 促销 |
-| **May** | Memorial Weekend | 🟠 Middle | 5/22-27 (2026) | 20-25% OFF | ❌ | 清库存 + 复购驱动 |
+| **May** | Memorial Weekend | 🟠 Middle | 5/20-25 (2026) | **UP TO 50% OFF + MEM10 code** (10% subscriber, 48hrs) | ❌ | 2025 真实数据 $185k / 8 emails；分层定价（30/35/50/3F2），不是 sitewide flat |
 | **Jun** | Father's Day | 🟡 Small | 6/15 (2026) | 15-20% OFF | ❌ | Optional，男性产品角度有限 |
 
 ### Q3
@@ -78,7 +78,7 @@
 3. **July 4th Sale** — 提前 1-2 周
 
 可选 VIP 的活动：
-- Memorial Day（可做可不做）
+- Memorial Day（**2025 + 2026 决定不做 VIP，全盘发送 + MEM10 订阅者码已是事实上的"订阅者优势"**）
 
 **VIP 策略要点：**
 - VIP 比普通邮件 RPR 高 50-400x（2026 Archive 数据验证）

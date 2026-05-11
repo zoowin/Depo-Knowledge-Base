@@ -1,63 +1,57 @@
 # SMS Campaign: Memorial Last Chance — Final Hours
 
 **Campaign:** Memorial Sale Last Chance
-**Send Date:** 2026-05-25 (Monday — Memorial Day, sale 收尾)
-**Send Time:** 7:00 PM ET（Memorial 50% 收尾 5 小时倒计时）
-**Goal:** 最后冲刺 — 抓在 5/25 Mon AM email 后还在犹豫的用户
-**Target Audience:** Leon 现有 SMS segments（按以往 SMS 发送 segment 配置）
-**Tone:** 紧迫、简短、最后窗口
+**Send Date:** 2026-05-25 (Monday — Memorial Day 当天)
+**Send Time:** 7:00 PM ET（晚间最后一波收割，Sale 在 midnight PDT = 美东 3 AM 次日结束）
+**Goal:** 最终时刻收割 — Sale 5 小时后即结束（PDT midnight = ET 3 AM Tue），用 SMS 抓 Last Chance email 没及时打开的用户
+**Target Audience:** Leon 现有 SMS segments
+**Tone:** 强紧迫 + 遗憾叙事 + 时间精确
+**Klaviyo Campaign Name:** `[DEP]_SMS_20260525_Last_Chance_Final`
 
 ---
 
 ## Strategy
 
-Memorial Sale 5/25 11:59 PM ET 结束。Mon AM 已发 "Last Chance" email。SMS 在晚 7PM 抓最后窗口（晚饭后用户最闲、决策窗口最短）。
-
-参考 2025 5/26 Mon "Last Chance" email：$21,095 revenue。SMS 增量预期 +20-30%。
+5/25 Mon 9 AM Last Chance email 已触达，但晚间是网购高峰（用户晚饭后刷手机）。SMS 7 PM 触发，距 sale 真正结束（midnight PDT = 美东 3 AM 次日）还有约 8 小时（美东用户视角），但话术用"final hours"制造已经"几小时内就结束"的感觉。
 
 核心信息：
-1. **The clock:** 5 hours left (or "until midnight")
-2. **The offer:** 50% off ends tonight
-3. **The action:** Shop now
+1. **Final hours** — 紧迫语气最强
+2. **Won't be back until BFCM** — 6 个月威胁
+3. **Click and shop** — 直接行动
 
 ---
 
 ## SMS Copy Options
 
-### Option 1: Time-Forward (Recommended)
-*纯倒计时，最直接。*
-
+### Option 1: Final Hours + 遗憾叙事 (Recommended)
 **Copy:**
-Depology: 5 hours left on Memorial 50% off. Final call before midnight ET. Shop: [Link]. STOP to opt out.
+Depology: FINAL HOURS — Memorial Sale ends at midnight PDT. UP TO 50% off won't be back until Black Friday. Don't regret it. [Link]. STOP to unsub.
 
-**Character Count:** ~110 chars
+**Character Count:** ~165 chars
 
-### Option 2: FOMO Lead
-*遗憾感切入。*
-
+### Option 2: 时间精确 + 威胁
 **Copy:**
-Depology: Memorial 50% off ends at midnight tonight. If it's still in your cart, this is your window. [Link]. STOP to unsub.
+Depology: Memorial Sale ends midnight PDT tonight. UP TO 50% off everything — gone until Black Friday. Last chance: [Link]. STOP to unsub.
 
-**Character Count:** ~130 chars
+**Character Count:** ~150 chars
 
-### Option 3: Final + List
-*末尾提到 best sellers 增加点击决策力。*
-
+### Option 3: 简短直白
 **Copy:**
-Depology: Last 5 hours on 50% off — Memorial sale ends midnight ET. M1, Matriplex, Activation Trio still available: [Link]. STOP.
+Depology: Last call. Memorial Sale ends midnight PDT. UP TO 50% off — won't be back until BFCM. [Link]. STOP to unsub.
 
-**Character Count:** ~140 chars
+**Character Count:** ~125 chars
 
 ---
 
 ## 推荐 Copy
-**Option 1**（最简洁，倒计时本身就是最强 lever）
+**Option 1**（FINAL HOURS 大写 + 遗憾叙事 + 6 个月威胁三重锚点 — 复刻 5/25 email lead copy 套路）
 
 ---
 
 ## 备注
-- ⚠️ Smart Sending OFF
-- ⚠️ Link 仍指向 Memorial sale page（同 5/20 + 5/24 SMS）
-- 📊 SMS 预期增量 revenue $3,000 - $6,000（Memorial 收尾紧迫感 + 7PM 最佳决策时段）
-- 🎯 这条 SMS 是 Memorial 整个 8-email + 3-SMS 系列的收尾 — 必须最简洁，不要任何枝节
-- ⏰ 7PM ET 选择理由：东西海岸都进入 evening leisure window，决策距离短，sales 直接关联
+- ⚠️ **Smart Sending OFF**
+- ⚠️ Link 短链指向 `/pages/memorial-2026-sale`
+- 📊 预期增量 revenue **$1,500 - $3,500**（2025 baseline 减半，Last Chance 收尾时段 SMS 转化率高）
+- 🚨 5/25 是 2 触点天（AM email + 7 PM SMS）— 不在 PM 加 email，避免疲劳
+- 🕐 时区注意：midnight PDT = midnight Pacific = 3 AM ET 次日，邮件/SMS 都用 "midnight PDT" 精确表达
+- ✉️ MMS 可选：red banner "FINAL HOURS" 视觉

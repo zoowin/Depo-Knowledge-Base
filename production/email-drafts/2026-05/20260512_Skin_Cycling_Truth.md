@@ -73,7 +73,7 @@ Two Approaches, Two Products
 - **角色标签（0408）：** 01 — Microdart Retinol (No Rest Day)
 - **产品名：** Deepcare+® Serum-Infused Micro Dart Patches (Upgraded with Retinol)
 - **描述：** 3,300 IU/g of Retinol delivered through hydrocolloid microdarts — bypassing the surface entry point. Cica + 5-peptide buffer keeps it gentle enough for nightly wear.
-- **CTA：** SHOP THE NEW M1
+- **CTA：** SHOP THE NEW
 - **链接：** https://depology.com/products/deepcare-serum-infused-micro-dart-patches-lp1-t0
 
 ### Product 2 — Plant Alternative

@@ -1,112 +1,149 @@
 # 20260525_Last_Chance
 
 ## Campaign Info
-- **Template:** 0403 促销型（黑底白字）
-- **Type:** Promotional / Final Hours
-- **Send Date:** 2026-05-25 (Monday — Memorial Day 收尾)
-- **Send Time:** 9:00 AM ET（AM 收尾邮件）+ 配合 7PM SMS Last Chance
-- **Segment:** Full List（exclude buyers <7 days）
-- **Product Focus:** Final urgency mix — bestsellers
-- **Goal:** Memorial Sale 最后一天最大化触达 — 参考 2025 5/26 Mon Last Chance $21,095
+- **Template:** **Memorial 收尾型（模板 C — 白底 + 顶部红字 LAST CHANCE + 遗憾叙事 lead）** 详见 `knowledge/visual/Memorial Sale Style.md`
+- **Type:** Promotional / Memorial Day 6 — Last Chance（Memorial Day 当天）
+- **Send Date:** 2026-05-25 (Monday — Memorial Day 本身)
+- **Send Time:** **9:00 AM ET**
+- **Segment:** Full List（exclude buyers <7 days + 标准 Excluded）
+- **Product Focus:** Multi-SKU 群像收尾 + 遗憾叙事 + dermatologist + midnight PDT 三重锚点
+- **Goal:** 最终收尾 revenue（参考 2025 5/26 $21,095 — Last Chance > Day 4 体量）
+- **Klaviyo Campaign Name:** `[DEP]_20260525_Memorial_Last_Chance`
 
 ---
 
-## Subject Lines
-1. LAST CHANCE! Memorial 50% off ends tonight.
-2. Final hours — Memorial Sale ends midnight ET.
-3. Tonight at midnight: Memorial sale closes.
-4. Last call on 50% off — ends tonight.
+## Subject Lines（A/B 测试）
+
+**A 组（遗憾叙事型 — 复刻 2025 高 ROI 套路）：**
+1. Last chance. You'll regret missing the BIGGEST sale of the summer.
+2. LAST CHANCE — Memorial Sale ends at midnight tonight.
+
+**B 组（直白型）：**
+3. Final hours. Memorial Sale ends midnight PDT.
+4. Won't be back until Black Friday — UP TO 50% off ends tonight.
 
 ## Preview Text
-Memorial Sale ends tonight at midnight ET. Last hours on 50% off sitewide.
+You'll regret missing this. Stock up on dermatologist-approved peptide serums and more — all for less. Ends midnight PDT.
 
 ---
 
-## Hero Section
+## Hero Section（模板 C — 收尾型）
 
-**Hero Image 方向：** 极致紧迫感 hero — 大字 "FINAL HOURS" + 钟表元素 / 沙漏 / "TONIGHT" 时间感。黑底高对比，比 5/24 PM 24hrs 更紧。
+**Hero Image 方向：** Multi-SKU 群像（4-5 件 best-seller：Caviar Stick + Matrixyl 双瓶 + Argireline + Matriplex Cream + 多种产品立体摆放）+ 国旗布料 accent，居中或右侧 STAR badge "UP TO 50% OFF"。**顶部覆盖红字 "LAST CHANCE" + 深蓝字 "THE MEMORIAL DAY SALE"**（不是红 banner，而是 hero 内的覆盖文字）。
 
-**Headline：**
-Final Hours.
+**顶部 Hero 文字（覆盖 hero image）：**
 
-**Subheadline：**
-Line 1: Memorial 50% off ends tonight.
-Line 2: Midnight ET.
+```
+LAST CHANCE
+（红色 #DC2626 大字 sans-serif uppercase）
 
-**Hero CTA：**
-SHOP BEFORE IT ENDS
+THE MEMORIAL DAY SALE
+（深蓝 #1E3A8A 中等大小 sans-serif uppercase）
+```
 
----
-
-## Body Section
-
-**Body Headline：**
-Last Call. Tonight.
-
-**Body Copy（2 段）：**
-Paragraph 1: Memorial Sale closes tonight at midnight ET. After 5 days of 50% off sitewide, this is the final window. If it's still on your wishlist, this is the moment.
-
-Paragraph 2: Below — what's selling out fast in the last hours. Stock can move quickly today.
+**Hero Badge：**
+⭐ ⭐ ⭐
+**UP TO 50% OFF**
+⭐ ⭐
+（红蓝双圈 STAR badge）
 
 ---
 
-## Product Section
+## Lead Copy（遗憾叙事 + 三重锚点）
 
-**Section Title：**
-Final Hours — All 50% Off
+Yes, you'll regret missing the **BIGGEST** sale of the summer.
+（"BIGGEST" 红色加粗）
 
-### Product 1
-- **产品名：** Anti-Aging Trio
-- **描述：** Memorial Sale's #1 bestseller. ~~$161~~ **$80.50**
-- **CTA：** SHOP THE TRIO
-- **链接：** https://depology.com/pages/memorial-2026-sale
+Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and more — all for less!
+（"dermatologist-approved" 下划线）
 
-### Product 2
-- **产品名：** Deepcare+® Serum-Infused Micro Dart Patches (Upgraded with Retinol)
-- **描述：** First sale ever on the upgraded M1. Final hours.
-- **CTA：** SHOP THE NEW M1
-- **链接：** https://depology.com/pages/memorial-2026-sale
+*Remember — the offer ends at midnight PDT.*
+（蓝色斜体 + "midnight PDT" 加粗）
 
-### Product 3
+---
+
+## Primary CTA（黑底白字按钮）
+**SAVE 50% NOW!**
+- **链接：** `https://depology.com/pages/memorial-2026-sale`
+
+---
+
+## 4-Card Product Grid（混合 CTA — 模板 C 特点）
+
+### Card 1 — 蓝色横条 "3 FOR 2" + BEST + Seal — 价格 CTA
+- **产品名：** Matrixyl® 3000 Collagen Serum 3 for 2
+- **Tag：** Target Static Wrinkles
+- **评分：** ⭐⭐⭐⭐½ (2000+)
+- **价格：** **$80** ~~$120~~
+- **CTA：** **$80 ONLY - SHOP NOW**（价格化）
+- **链接：** `https://depology.com/products/[NEW_M3K_3F2_SLUG]` ⚠️
+
+### Card 2 — 蓝色横条 "3 FOR 2" + BEST + Seal — savings CTA
+- **产品名：** Peptide Complex Argireline™ Serum 3 for 2
+- **Tag：** Target Dynamic Wrinkles
+- **评分：** ⭐⭐⭐⭐½ (800+)
+- **价格：** **$98** ~~$147~~
+- **CTA：** **SAVE $49 - SHOP NOW**（混合）
+- **链接：** `https://depology.com/products/argireline-serum-triple-bundle`
+
+### Card 3 — 蓝色横条 "70% OFF / $9" — 价格 CTA
+- **产品名：** Bakuchiol Smoothing Serum Stick
+- **Tag：** Improve Fine Lines & Wrinkles
+- **评分：** ⭐⭐⭐⭐½
+- **价格：** **$9** ~~$30~~
+- **CTA：** **$9 ONLY - SHOP NOW**
+- **链接：** `https://depology.com/products/bakuchiol-smoothing-serum-stick`
+
+### Card 4 — 蓝色横条 "50% OFF" — savings CTA
 - **产品名：** Matriplex™ Peptide Intense Cream
-- **描述：** 5-peptide intensive cream. ~~$X~~ **50% off**.
-- **CTA：** SHOP MATRIPLEX
-- **链接：** https://depology.com/pages/memorial-2026-sale
+- **Tag：** Intensive Peptide Care
+- **评分：** ⭐⭐⭐⭐½ (1500+)
+- **价格：** **$31** ~~$62~~
+- **CTA：** **SAVE $31 - SHOP NOW**（混合）
+- **链接：** `https://depology.com/products/tri-active-matrixyl-complex-cream`
 
 ---
 
-## Closing Section
+## Closing Section（黑底白字 banner）
 
 **Closing Copy：**
-Final hours. 50% off ends midnight ET. After tonight, prices return.
+The offer is ending soon, so be sure not to miss out!
 
-**Final CTA：**
-SHOP MEMORIAL SALE
+**Secondary CTA：**
+**SHOP MEMORIAL SALE**
+- **链接：** `https://depology.com/pages/memorial-2026-sale`
+
+---
+
+## Hero Image Brief
+**AI Prompt：**
+```
+Final-day Memorial Sale hero composition: 4-5 premium skincare products arranged in artful editorial layout on white surface with dramatic red navy ribbon accents, includes Caviar serum stick, two Matrixyl serum dropper bottles, white peptide cream jar, additional product variety, soft yet dramatic studio lighting suggesting end-of-sale gravity, top portion of frame leaves negative space for "LAST CHANCE" text overlay (no actual text in image), sophisticated finale composition, --ar 3:2 --style raw
+```
 
 ---
 
 ## 备注
 
-### 关键执行
-- ⚠️ 配套 SMS 5/25 7PM "5 hours left" 收尾紧迫感
-- ⚠️ Memorial sale page 配置 5/26 凌晨 12:01 AM ET 自动恢复原价
-- ⚠️ 排除 5/13-25 期间所有已购买客户（避免买家悔恨负面情绪）
-
 ### 预期 Revenue
-- $18,000 - $25,000（参考 2025 5/26 Mon Last Chance $21,095）
+- **$10,000 - $12,000**（2025 5/26 Last Chance $21,095 减半基准）
 
-### 整个 Memorial 系列总结（8 emails + 3 SMS）
-| Touch | 时间 | 预期 Revenue |
-|---|---|---|
-| 5/20 AM Launch | Wed 9AM | $32-42k |
-| 5/20 SMS Launch alert | Wed 11AM | $3-6k SMS 增量 |
-| 5/20 PM Resend | Wed 5PM | $30-40k |
-| 5/21 Eye+Texture Trio | Thu 9AM | $18-24k |
-| 5/22 Peptide 3F2 | Fri 9AM | $18-24k |
-| 5/23 Matriplex 50% | Sat 9AM | $14-20k |
-| 5/24 AM Bakuchiol+M1 | Sun 9AM | $14-22k |
-| 5/24 SMS Sunday Flash | Sun 11AM | $2-4k SMS 增量 |
-| 5/24 PM 24hrs Left | Sun 5PM | $13-18k |
-| 5/25 AM Last Chance | Mon 9AM | $18-25k |
-| 5/25 SMS Last Hours | Mon 7PM | $3-6k SMS 增量 |
-| **Memorial 总计** | 6 天 | **$165-231k** |
+### 关键文案锚点（必须保留 2025 高 ROI 三元素）
+1. ✅ "Yes, you'll regret missing the **BIGGEST** sale of the summer." — 遗憾叙事
+2. ✅ "**dermatologist-approved**" — 权威背书
+3. ✅ "*Remember — the offer ends at **midnight PDT***." — 精确时间锚
+
+### CTA 混合策略（模板 C 特点）
+- 价格 CTA（"$X ONLY"）+ savings CTA（"SAVE $X"）混合 — 让不同心理类型的用户都被锚定
+- 2025 5/26 实际就用了混合 CTA 格式
+
+### 链接策略
+- MEM10 已失效，所有链接走标准产品 URL
+
+### Klaviyo 配置
+- SMS Last Chance Final 在 7 PM 触达（晚间最后一波收割）
+- ⚠️ 5/25 是 Memorial Day 公共假日，9 AM ET 发送时间不变
+
+### Anti-fatigue 收尾
+- H1 顶部 "LAST CHANCE" 红字 + 副标 "THE MEMORIAL DAY SALE" 深蓝 — 与 5/24 PM "ONLY 24 HOURS LEFT" 红 banner 形成连续递进（24hrs → Last Chance → 收尾）
+- 4-card 用 best-seller 收官，不引入新 SKU

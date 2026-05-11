@@ -1,103 +1,145 @@
 # 20260524_AM_Bakuchiol_M1_Sunday
 
 ## Campaign Info
-- **Template:** 0403 促销型（黑底白字）— 双 hero 布局
-- **Type:** Promotional / Day 5 — Sunday Flash (Dual Hero)
-- **Send Date:** 2026-05-24 (Sunday — Memorial Day 5)
-- **Send Time:** 9:00 AM ET
-- **Segment:** Full List（exclude buyers <7 days）
-- **Product Focus:** 🌟 **Bakuchiol Smoothing Serum Stick (G) — $9 CLEARANCE 主 hero** + **M1 New Patches (B/E) — 50% 副 hero（首促）**
-- **Goal:** Sunday flash — 双 lever 抗周日疲劳；Bakuchiol 70% 清仓 + M1 升级首促 = 全月最大单日 sticker shock 组合
+- **Template:** Memorial 主题型（白底 + 红蓝 STAR badge，模板 A — 主题切换）
+- **Type:** Promotional / Memorial Day 5 AM — Sunday Essentials（H1 主题切换 + 双 hero）
+- **Send Date:** 2026-05-24 (Sunday)
+- **Send Time:** **9:00 AM ET**（与 5 PM 24 Hours Left 双发，**Smart Sending OFF**）
+- **Segment:** Full List（exclude buyers <7 days + 标准 Excluded）
+- **Product Focus:** Bakuchiol Stick $9 (清空) + M1 升级版 50% 首促（双 hero 并列）
+- **Goal:** 库存清空 + M1 升级首促（参考 2025 5/25 AM $9 Sunscreen $11,812；2026 加 M1 增量预期 $14-18k）
+- **Klaviyo Campaign Name:** `[DEP]_20260524_Memorial_Sunday_Essentials`
 
 ---
 
-## Subject Lines
-1. Two Sunday picks: $9 Bakuchiol clearance + first sale ever on the new M1.
-2. $9 Bakuchiol Stick today + first M1 sale at 50%.
-3. Sunday flash: Bakuchiol $9 (clearance) + new M1 50%.
-4. The Sunday picks: $9 retinol alternative + first M1 sale.
+## Subject Lines（A/B 测试）
+
+**A 组（双 hero 并列）：**
+1. Two Sunday picks: $9 Bakuchiol + first-ever M1 sale 50% off.
+2. $9 Bakuchiol Stick + 50% off the new M1 patches.
+
+**B 组（季节切换型 — 复刻 2025 "Sun Protection" 主题切换套路）：**
+3. Your Sunday skin essentials, now Memorial-priced.
+4. The Sunday picks our team can't stop using.
 
 ## Preview Text
-Bakuchiol Stick — final clearance at $9. The new M1 (with retinol) at 50% off. Sunday only.
+$9 Bakuchiol Smoothing Stick + first-ever 50% off the new M1 Retinol Patches. US exclusive — limited stock.
 
 ---
 
 ## Hero Section
 
-**Hero Image 方向：** 双产品 hero — 左 Bakuchiol Stick 配 "$9" 大字，右 M1 patch 配 "50% OFF" 大字。黑底白字 + 红色 "$9" / 红色 "50%" 单点亮色突出。Premium flash sale 视觉。
+**Hero Image 方向：** 双 hero 视觉 — 主体：Bakuchiol Smoothing Serum Stick 立式摆拍（白色 stick 在白底上，柔软自然光，"$9" STAR badge 居中或左侧）；副体：M1 升级版 patches 包装在右下角小卡位带 "50% OFF / NEW WITH RETINOL" 角标。Sunday 悠闲清新感（vs 5/24 PM 红警示形成视觉对比）。
 
-**Headline：**
-Two Sunday Picks.
+**Headline (深蓝，居中)：**
+Celebrate Memorial Day with Sunday Essentials
 
-**Subheadline：**
-Line 1: $9 Bakuchiol clearance.
-Line 2: First-ever M1 sale at 50%.
+**Hero Badge：**
+⭐ ⭐ ⭐
+**ONLY**
+**$9**
+**BAKUCHIOL**
+⭐ ⭐
+（红蓝双圈 STAR badge 主体）
 
-**Hero CTA：**
-SHOP SUNDAY FLASH
-
----
-
-## Body Section
-
-**Body Headline：**
-Two Levers, One Sunday.
-
-**Body Copy（3 段）：**
-Paragraph 1: Two unrelated products. Two reasons to read this Sunday.
-
-Paragraph 2: First — Bakuchiol Smoothing Stick at $9. It's a clearance price, our best for those who can't tolerate retinol. Plant-derived smoothing in a glide-on stick, no irritation, no purging. While supplies last.
-
-Paragraph 3: Second — the upgraded M1 with 3,300 IU/g of Retinol, on sale for the first time ever at 50% off. The microdart delivery system that bypasses the irritation entry point. Both end Sunday at midnight (or earlier if Bakuchiol sells out).
+**副 hero 角标：** "M1 NEW WITH RETINOL — 50% OFF (FIRST EVER)"
 
 ---
 
-## Product Section
+## Lead Copy
 
-**Section Title：**
-The Sunday Picks
+Your Sunday skin essential, now just **$9.**
 
-### Product 1 — Hero（Clearance）
-- **产品名：** Bakuchiol Smoothing Serum Stick — **CLEARANCE $9**
-- **描述：** ~~$30~~ **$9** while supplies last. Plant-derived retinol alternative for sensitive skin. The gentle smoother for those who can't tolerate retinol. Final stock.
-- **CTA：** SHOP $9 CLEARANCE
-- **链接：** https://depology.com/pages/memorial-2026-sale
+Our **Bakuchiol Smoothing Serum Stick** softens fine lines and smooths texture — without retinol's irritation. (Original $30. While supplies last.)
 
-### Product 2 — Hero（First-Ever 50%）
-- **产品名：** Deepcare+® Serum-Infused Micro Dart Patches (Upgraded with Retinol)
-- **描述：** **First time at 50% off.** 3,300 IU/g of Retinol delivered through hydrocolloid microdarts — bypasses the irritation entry point. Cica + 5-peptide buffer for nightly wear.
-- **CTA：** SHOP THE NEW M1
-- **链接：** https://depology.com/pages/memorial-2026-sale
+**Plus: First-ever 50% off the new M1 Retinol Micro-dart Patches.**
+（"First-ever 50% off" 红色加粗）
+
+**US exclusive for the final 48 hours of Memorial Sale!**
+（红色加粗）
 
 ---
 
-## Closing Section
+## Primary CTA
+**SHOP $9 BAKUCHIOL!**
+- **链接：** `https://depology.com/products/bakuchiol-smoothing-serum-stick`
+
+---
+
+## 4-Card Product Grid（2×2）
+
+### Card 1 — 蓝色横条 "ONLY $9" — 主 hero card
+- **产品名：** Bakuchiol Smoothing Serum Stick
+- **Tag：** Improve Fine Lines & Wrinkles
+- **评分：** ⭐⭐⭐⭐½
+- **价格：** **$9** ~~$30~~
+- **CTA：** SAVE $21
+- **链接：** `https://depology.com/products/bakuchiol-smoothing-serum-stick`
+
+### Card 2 — 蓝色横条 "50% OFF / FIRST EVER" + NEW 角标 — M1 升级首促
+- **产品名：** Deepcare+® Micro-dart Patches (with 3,300 IU/g Retinol)
+- **Tag：** Now Stronger — Retinol Inside
+- **评分：** ⭐⭐⭐⭐½ (3000+)
+- **价格：** **[TBD]** ~~[TBD]~~ ⚠️ **待 Leon 提供 M1 升级版 Memorial 价格**
+- **CTA：** SAVE 50%
+- **链接：** `https://depology.com/products/deepcare-serum-infused-micro-dart-patches-lp1-t0`
+
+### Card 3 — 蓝色横条 "50% OFF"
+- **产品名：** Moisturizing Caviar Multi Balm Stick
+- **Tag：** On-the-Go Moisturizing
+- **评分：** ⭐⭐⭐⭐½
+- **价格：** **$15** ~~$30~~
+- **CTA：** SAVE $15
+- **链接：** `https://depology.com/products/caviar-multi-balm-serum-stick`
+
+### Card 4 — 蓝色横条 "3 FOR 2" + BEST + Seal（cross-sell 高客单）
+- **产品名：** Matrixyl® 3000 Collagen Serum 3 for 2
+- **Tag：** Target Static Wrinkles
+- **评分：** ⭐⭐⭐⭐½ (2000+)
+- **价格：** **$80** ~~$120~~
+- **CTA：** SAVE $40
+- **链接：** `https://depology.com/products/[NEW_M3K_3F2_SLUG]` ⚠️
+
+---
+
+## Closing Section（黑底白字 banner）
 
 **Closing Copy：**
-Two reasons to shop Sunday. Bakuchiol while it lasts. M1 50% through Monday midnight.
+Limited stock available — grab yours while you can!
 
-**Final CTA：**
-SHOP BOTH
+**Secondary CTA：**
+**SHOP MEMORIAL SALE**
+- **链接：** `https://depology.com/pages/memorial-2026-sale`
 
 ---
 
-## Mandatory Compliance Disclaimer（M1 retinol 必须放邮件底部 small text）
-
-> **A note on Retinol:** Apply sunscreen during daytime — retinol can increase sensitivity to UV. If you're new to retinol, your skin may need a short adjustment period (mild redness or slight peeling can be normal at first; this typically subsides within a few uses). Sensitive skin: start 2-3 times per week and gradually increase to nightly use.
+## Hero Image Brief
+**AI Prompt：**
+```
+Sunday morning aesthetic product shot: white Bakuchiol smoothing serum stick standing upright as hero center on white surface, soft natural morning sunlight, subtle red and navy ribbon accent at base, secondary product (M1 micro-dart patch package) angled to bottom right corner with NEW label visible, peaceful and clean composition with airy negative space, premium yet approachable Sunday vibe, no text overlay, --ar 3:2 --style raw
+```
 
 ---
 
 ## 备注
 
-### 关键执行
-- ⚠️ Bakuchiol Shopify 库存设置必须支持当日 sell-out 自动隐藏（避免点击进去无货）
-- ⚠️ "$9" 价格在 Shopify 单独配置（不走 Memorial 50% 通用降价）
-- ⚠️ 配套 SMS 5/24 11AM "Sunday Flash" 增强（dual lever 同步）
-
 ### 预期 Revenue
-- $14,000 - $22,000（参考 2025 5/25 Sun AM $9 SPF $11,812 + Sun PM 24hrs $15,152；2026 双 lever 预期更高）
+- **$7,000 - $9,000**（2025 5/25 AM $9 Sunscreen $11.8k 减半基准 + M1 升级首促小增量）
 
-### 与 5/24 PM 24 Hours Left 的关系
-- AM 5/24 = 双 lever 带新 offer 进场
-- PM 5/24 = 通用 24 hours left 倒计时（不再单推 Bakuchiol/M1）
-- SMS 11AM 夹在两封 email 中间增强
+### H1 主题切换（关键叙事节点）
+- 5/21-23 三天连用 "Power of Peptides"
+- **5/24 AM 切换到 "Sunday Essentials"** — 季节性 + 周日感钩子
+- 5/24 PM 切换到 "ONLY 24 HOURS LEFT"（红警示）
+- 5/25 切换到 "LAST CHANCE"
+
+### 链接策略
+- MEM10 已失效，所有链接走标准产品 URL
+
+### M1 价格 placeholder
+- ⚠️ Leon 需提供 M1 升级版当前售价 + Memorial 50% 后价格
+- Hero badge 与 Card 2 价格同步更新
+
+### 与 PM 24 Hours Left 的视觉对比
+- AM 9 AM：白底 + 自然光 + Sunday 悠闲（本封）
+- PM 5 PM：**红顶 banner + 倾斜动感 + 危机感**（5/24 PM 邮件）
+- 同日双发用情绪冲突制造行动

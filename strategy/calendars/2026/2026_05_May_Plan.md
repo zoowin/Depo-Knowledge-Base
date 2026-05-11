@@ -3,7 +3,7 @@
 **Theme:** Upgrade & Memorial Momentum（升级 × 大促）
 **Core Events:** M1 (Micro-dart Patches) Retinol Upgrade Launch (May 4), Mother's Day (May 8), Memorial Day Sale (May 20-25)
 **Strategy Backbone:**
-5 月有两个核心商业节点：① M1 微针眼贴升级（新增 3,300 IU/g Retinol）需要专属公告 + 自然带入多封教育；② Memorial Day Sale 是 2025 年除 BFCM 外全年第二大活动（$182k revenue），完全复刻 2025 节奏（Wed launch + 同日 9AM/5PM 双发 + 每日轮换 SKU offer + Sun 双发 + Mon Last Chance）。Mother's Day Arc = 4/30 Pre-warm（已重写）+ 5/8 Bundle Launch + 5/10 Sun Q&A 软教育（复制 2025 5/11 Sun MOP 节奏）。整月 18 封 emails + 3 条 SMS，Memorial 系列 8 emails + 3 SMS + Evergreen/教育 10 封。
+5 月有两个核心商业节点：① M1 微针眼贴升级（新增 3,300 IU/g Retinol）需要专属公告 + 自然带入多封教育；② Memorial Day Sale 是 2025 年除 BFCM 外全年第二大活动（$185k revenue），完全复刻 2025 节奏（Wed launch + 同日 9AM/5PM 双发 + 每日轮换 SKU offer + Sun 双发 + Mon Last Chance）。**2026 预期取 2025 减半基准（$87-114k 含 SMS），反映 list 健康度 / OR 趋势的实际衰减。** Mother's Day Arc = 4/30 Pre-warm（已重写）+ 5/8 Bundle Launch + 5/10 Sun Q&A 软教育（复制 2025 5/11 Sun MOP 节奏）。整月 18 封 emails + 3 条 SMS，Memorial 系列 8 emails + 3 SMS + Evergreen/教育 10 封。
 **🆕 新增渠道：** SMS 首次正式纳入 5 月计划，集中在 Memorial 高峰期（5/20 Launch + 5/24 Sunday Flash + 5/25 Last Chance），非 Memorial 时段不发 SMS 保渠道珍贵感。
 
 ---
@@ -32,12 +32,15 @@
   - 5/25 Sun PM 24hrs Left: $15,152
   - 5/26 Mon Last Chance: $21,095
 
-**5 月策略调整：**
-1. Memorial Sale 完全复刻 2025 节奏，预期 Revenue $180-220k
+**5 月策略调整（2026-05-08 基于 2025 真实邮件破译后升级）：**
+1. Memorial Sale 高保真复刻 2025 节奏 + 3 个增量（M1 首促 / SMS / Bakuchiol $9 替换），预期 Revenue **$87-114k（含 SMS，2025 $185k 减半基准）**
 2. 不做 VIP 分层（2025 全盘发送已验证），单一 Public Sale 落地页
-3. Launch 当日 9AM + 5PM 双发同人群（关闭 Smart Sending），不同 SL 制造"错过早上"心理
-4. 每日轮换单品 50% offer 抗疲劳（2025 验证有效）
-5. M1 升级仅 1 封专属（5/4），其余在 5/12 Skin Cycling、5/21 / 5/24 Memorial 自然带入或单品促销
+3. Launch 当日 9AM + 5PM 双发同人群（关闭 Smart Sending），**Resend 完全重写视觉/H1/lead/grid**（不是简单提醒，是动量叙事）
+4. **每日 offer 是分层定价，不是 50% sitewide flat**（30% / 35% / 50% / 3F2 / Bundle 混合）+ MEM10 code 叠加 10%（仅 Day 1-2 内 48hrs）
+5. **Day 3 (5/22) Face & Eye Duo 100-cap 硬稀缺**（"Run, don't walk"）+ Day 4 (5/23) 售罄叙事补位
+6. **Day 5 同日双发用视觉冲突**（AM 白底清新 + PM 红警示），不是 audience 切换
+7. **Day 6 Last Chance 用遗憾叙事 + dermatologist-approved + midnight PDT** 三重锚点
+8. M1 升级仅 1 封专属（5/4），其余在 5/12 Skin Cycling、5/21 / 5/24 Memorial 自然带入或单品促销
 
 ---
 
@@ -54,14 +57,14 @@
 | **May 14** | Thu | 9 AM | 🟢 Educational | **Texture vs Wrinkles: The Mature Skin Issue Most Routines Miss**<br>Subject: They look the same. They're not. Here's the difference. | **Deepcare+ Boosting Cream (E, MOP) + Matriplex (A)** | Engaged + Non-buyers | Education / Cross-sell |
 | **May 17** | Sun | 10 AM | 🟡 Lifestyle | **The Travel-Ready Skin Kit: Memorial Weekend Edition**<br>Subject: 3 products, 1 small bag — your weekend skin survival kit. | **Bakuchiol Stick (G) + Opuntia Balm (F) + Eye Cream (B)** | Engaged | Lifestyle / Pre-Memorial Travel |
 | **May 19** | Tue | 9 AM | 🟢 Educational | **Why Premium Skincare Actually Costs Less Per Use**<br>Subject: The math on your $80 serum (you might be surprised). | **Anti-Aging Trio 💰 + M3K Matrixyl Serum (A) + Argireline MPS (B)** | Engaged + Non-buyers | Value Prime → Memorial |
-| **May 20** | Wed | **9 AM** | 🔴 **Memorial LAUNCH** | **Memorial Day Sale IS LIVE — 50% Off Sitewide** 🇺🇸<br>Subject: Memorial Day Sale IS LIVE! 50% off starts NOW. | Sitewide hero (top sellers grid) | Full List (exclude buyers <7d) | Revenue Launch |
-| **May 20** | Wed | **5 PM** | 🔴 **Memorial Resend (SS OFF, same audience)** | **Did You Miss This Morning? — 50% Off Still On**<br>Subject: Don't miss it — Memorial 50% off ends Monday. | Same as AM | Same as AM (Smart Sending OFF) | Revenue Layer |
-| **May 21** | Thu | 9 AM | 🔴 **Day 2 — NEW Offer** | **The Eye + Texture Trio — All 50% Off This Weekend**<br>Subject: New offer dropped: The Eye + Texture Trio is 50% off. | **Deepcare+ Boosting Cream (E, MOP) + Argireline Eye Cream (B) + MPS Argireline Serum (B)** | Full List (exclude buyers <7d) | Revenue / Cross-sell |
-| **May 22** | Fri | 9 AM | 🔴 **Day 3 — NEW Offer** | **New Offer: Peptide Serums — 3 for 2**<br>Subject: 3 for 2 on Peptide Serums starts now. | **M3K Matrixyl Serum (A) + MPS Argireline Serum (B)** | Full List (exclude buyers <7d) | Revenue / Stack Buy |
-| **May 23** | Sat | 9 AM | 🔴 **Day 4 — NEW Offer** | **New Offer: Matriplex Cream — 50% Off**<br>Subject: Matriplex Peptide Cream is 50% off this weekend. | **Matriplex Peptide Intense Cream (A)** | Full List (exclude buyers <7d) | Revenue / Cream Day |
-| **May 24** | Sun | 9 AM | 🔴 **Day 5 — Bakuchiol $9 Clearance + M1 Upgrade Promo** | **$9 Bakuchiol Clearance (For Those Who Can't Tolerate Retinol) + First-Ever M1 Sale 50% Off**<br>Subject: Two Sunday picks: $9 Bakuchiol clearance + first sale ever on the new M1. | 🌟 **Bakuchiol Stick (G) — $9 clearance hero** + **M1 New Patches (B/E) — 50% off副 hero** | Full List (exclude buyers <7d) | Revenue / Inventory Clear + M1 First Promo |
-| **May 24** | Sun | 5 PM | 🔴 **24 Hrs Left** | **24 Hours Left — Memorial Sale Ends Tomorrow Night**<br>Subject: 24 hours left on 50% off. | Final urgency mix（top sellers + bundle） | Full List (exclude buyers <7d) | Urgency |
-| **May 25** | Mon | 9 AM | 🔴 **Last Chance** | **Final Hours — Memorial Sale Ends Tonight**<br>Subject: LAST CHANCE! Memorial 50% off ends tonight. | Final urgency mix | Full List (exclude buyers <7d) | Final Revenue |
+| **May 20** | Wed | **9 AM** | 🔴 **Memorial LAUNCH_1** | **Memorial Day Sale IS LIVE — UP TO 50% Off + Extra 10% with MEM10** 🇺🇸<br>Subject: Memorial Day Sale IS LIVE! UP TO 50% off + extra 10% with MEM10. | Multi-SKU 群像 hero + STAR badge "UP TO 50% OFF" | Full List (exclude buyers <7d) | Revenue Launch + Code 强呈现 |
+| **May 20** | Wed | **5 PM** | 🔴 **Memorial LAUNCH_2 Resend (SS OFF, same audience)** | **It's Moving Faster Than We Thought — Memorial Sale**<br>Subject: It's already going fast — UP TO 50% off + MEM10. | 不同视觉 + 不同 H1 + 不同 4-card grid（复刻 2025 Resend 套路）| Same as AM (Smart Sending OFF) | Revenue Layer + 动量叙事 |
+| **May 21** | Thu | 9 AM | 🔴 **Day 2 — Eye + Texture Trio** | **Celebrate Memorial Day with Smarter Eye + Texture Care**<br>Subject: New offer: PEC + MPS + MOP all 50% off. | **PEC Eye Cream (B) + MPS Serum (B) + MOP Boosting Cream (E)** | Full List (exclude buyers <7d) | Revenue / Cross-sell |
+| **May 22** | Fri | 9 AM | 🔴 **Day 3 — Peptide 3F2 + 100-Cap** | **Celebrate Memorial Day with the Power of Peptides**<br>Subject: 3 for 2 Peptide Serums + only 100 Face & Eye Duos. Run, don't walk. | **M3K Matrixyl 3F2 + MPS 3F2 群像 hero** + Face & Eye Duo 100-cap 副线 | Full List (exclude buyers <7d) | Revenue / **硬稀缺峰值** |
+| **May 23** | Sat | 9 AM | 🔴 **Day 4 — Matriplex + 售罄叙事** | **Face & Eye Duo Sold Out — Matriplex Cream Just Added at 50% Off**<br>Subject: Face & Eye Duo is gone. Matriplex Cream just dropped at 50%. | **Matriplex Cream solo hero** + 4-card grid | Full List (exclude buyers <7d) | Revenue / 售罄社会证明 + 动量重启 |
+| **May 24** | Sun | 9 AM | 🔴 **Day 5 AM — Sunday Essentials（白底清新）** | **Celebrate Memorial Day with Sunday Essentials**<br>Subject: $9 Bakuchiol + first-ever 50% off the new M1. | 🌟 **Bakuchiol Stick (G) — $9 clearance hero** + **M1 New Patches — 50% 副 hero** | Full List (exclude buyers <7d) | Revenue / Inventory Clear + M1 首促 |
+| **May 24** | Sun | 5 PM | 🔴 **Day 5 PM — 24 HOURS LEFT（红警示视觉切换）** | **ONLY 24 HOURS LEFT — THE MEMORIAL DAY SALE**<br>Subject: 24 hours left. Won't be back until Black Friday. | **顶部红 banner + 倾斜动感 hero**（视觉切换关键封）+ 价格 CTA（"$X ONLY"）| Same as AM (Smart Sending OFF) | Urgency / 视觉冲突情绪曲线 |
+| **May 25** | Mon | 9 AM | 🔴 **Day 6 Last Chance — Memorial Day 当天** | **LAST CHANCE — THE MEMORIAL DAY SALE**<br>Subject: Last chance. You'll regret missing the BIGGEST sale of the summer. | Multi-SKU 群像 + STAR "UP TO 50%" badge + dermatologist-approved 话术 + midnight PDT 时间锚 | Full List (exclude buyers <7d) | Final Revenue / 遗憾叙事 |
 | **May 29** | Fri | 9 AM | 💗 **Brand Story（无销售）** | **Give n' Glow Partnership — Behind the Boxes**<br>Subject: TBD（待 Leon 提供 Give n' Glow 背景 + 活动细节 + 照片版权确认）| Charity event 现场图 + 产品 close-up | Engaged 30/60/90 | Brand Equity / 减疲劳 / 长期信任 |
 
 ---
@@ -174,11 +177,27 @@
   - **测试观察指标：** Bundle CTR / Bundle 转化数 / Bundle vs Anti-Aging Trio 销量比 / Avg cart size
   - **后续动作：** 5/12-13 review 数据，决定 Memorial 之后是否启动 Activation Trio paid launch（Alex 完整 playbook 含 Free M3K + 500 cap + UGC + ads）
 - **Memorial Sale (May 20-25):**
-  - **Sale page (`/pages/memorial-2026-sale`) 提前 1 周建好**，SKU 层面 50% 降价直接生效，无需输入码
+  - **Sale page (`/pages/memorial-2026-sale`) 提前 1 周建好**，所有 Memorial SKU 在 5/19 24:00 自动启用降价（详见 Pricing Matrix）
+  - **MEM10 code** Shopify 配置：5/20 9 AM ET → 5/22 9 AM ET 有效，订阅者可用，全站叠加 10%
+  - **链接格式（关键）：** 所有带 code 的产品链接必须用 `/discount/MEM10?redirect=/products/{slug}` 格式（CLAUDE.md 非协商规则）；5/22+ code 失效后切回标准产品 URL
+  - **🔴 Face & Eye Peptide Firming Duo 100-cap 配置：** Shopify 库存上限设 100，Day 3 售罄后 Day 4 邮件实时引用售罄状态（如未售罄则保留 50% 不变但话术弱化稀缺）
   - VIP 层取消，所有邮件指向同一 sale page
-  - 每日轮换 offer 的 hero image 需提前批量准备（5/21 Eye+Texture Trio, 5/22 Peptide 3F2, 5/23 Matriplex Cream, 5/24 M1+Sticks）
-  - **Smart Sending：** May 20 Launch 双发需在 Klaviyo Campaign 设置中关闭 Smart Sending（标准设置是开启，需手动改）
-  - Last Chance (5/25) 倒计时素材准备
+  - 每日轮换 offer 的 hero image 需提前批量准备：
+    - 5/20 AM Launch 群像 + STAR "UP TO 50%" badge
+    - 5/20 PM Resend 不同群像 + 不同 H1 视觉
+    - 5/21 Eye+Texture Trio 群像
+    - 5/22 Matrixyl 3F2 双瓶 + STAR "3 FOR 2"（复刻 2025 视觉）
+    - 5/23 Matriplex Cream solo + STAR "50% OFF"
+    - 5/24 AM Bakuchiol $9 + M1 双 hero（白底）
+    - 5/24 PM **顶部红 banner + 倾斜动感 hero**（关键视觉切换）
+    - 5/25 Last Chance multi-SKU 群像 + 红字 "LAST CHANCE"
+  - **Smart Sending OFF：** May 20 双发 + May 24 双发共 4 个 slot 必须手动关闭
+  - Last Chance (5/25) 倒计时素材准备（midnight PDT 表达 + dermatologist-approved 元素）
+  - **关键文案锚点（务必复刻 2025 高 ROI 话术）：**
+    - Day 3: "ONLY 100 of each. No restocks during the sale. **Run, don't walk.**"
+    - Day 4: "Face & Eye Duo is gone — but we've just added [SKU] to the sale."
+    - Day 5 PM: "The offers below **won't be back until Black Friday**. Shop now or miss out until the end of the year."
+    - Day 6: "Yes, you'll regret missing the **BIGGEST** sale of the summer. Stock up on **dermatologist-approved** peptide serums and more — all for less! Remember—the offer ends at **midnight PDT**."
 - **Give n' Glow Brand Story (May 29):**
   - ⏳ **待 Leon 提供：** ① Give n' Glow 慈善组织背景（一句话）② 活动具体日期 ③ 捐赠产品种类 + 数量 ④ **照片版权书面确认**（人物图必须，产品图可不必）
   - 内容详细起草等以上 4 项齐全
@@ -190,13 +209,65 @@
 - **Mother's Day (May 8):** **单轨 offer，无折扣码**
   - 🆕 Peptide Activation Trio bundle: **$89 fixed price, no code**（clean concept test）
   - Anti-Aging Trio + Face & Eye Duo: 原价展示，无 MOM15（Leon 决定砍掉 MOM15，2025 也无 MD code 历史）
-- **Memorial Sale:** 50% OFF SKU 层面直接降价，无折扣码（用户加购即享），有效期 5/20 9AM ET → 5/25 11:59 PM ET
-- **每日轮换 NEW Offer:** 5/21 Eye+Texture Trio / 5/22 Peptide 3F2 / 5/23 Matriplex Cream / 5/24 **Bakuchiol $9 Clearance + M1 升级首促 50%**
-- **Memorial 排除：** 5 月 13-19 日新购客户排除，避免买家悔恨
+- **Memorial Sale 机制（2025 真实模板复刻）:**
+  - **顶层定位：** "UP TO 50% OFF" 分层定价（不是 sitewide flat 50%）
+  - **底层折扣：** SKU 层面直接降价（30% / 35% / 50% / 3F2 / Bundle），用户加购即享
+  - **叠加码：** **MEM10** — Extra 10% off site-wide for subscribers, **48 hours only**（5/20 9AM ET → 5/22 9AM ET）
+  - **Code 呈现规则：** 仅 5/20 AM/PM Launch 双发显著呈现（红色加粗 + 下划线）；5/21 Day 2 不再视觉强调；5/22+ code 失效，邮件不再展示
+  - **链接格式（CLAUDE.md 非协商）：** 所有带 code 的促销链接必须用 `https://depology.com/discount/MEM10?redirect=/products/{slug}` 自动加载
+  - **有效期：** 5/20 9AM ET → 5/25 11:59 PM PDT（Last Chance 邮件用 "midnight PDT" 精确表达）
+  - **Memorial 排除：** 5/13-19 新购客户排除，避免买家悔恨
+- **🔴 100-Cap 硬稀缺（Day 3-4 叙事核心）：**
+  - **载体：** Face & Eye Peptide Firming Duo（Matriplex Cream + Argireline Eye Cream，现价 $79 / 原价 $114）
+  - **Memorial 价：** **$57 / save $57**（vs 原价 $114）— 50% off 进一步降至约 50% off bundle 价
+  - **真实库存上限：** 100 套，售完不补
+  - **Day 3 (5/22) 邮件话术：** "ONLY 100 of each. No restocks during the sale. **Run, don't walk.**"
+  - **Day 4 (5/23) 邮件话术：** 引用 Day 3 售罄情况（如真售完）→ "Face & Eye Duo is gone — but we've just added Matriplex Cream solo at 50% off."
+- **每日轮换 NEW Offer：**
+  - 5/21 Thu — Eye + Texture Trio (PEC + MPS + MOP)
+  - 5/22 Fri — Face & Eye Peptide Firming Duo **(100-cap)** + Matrixyl 3F2 + MPS 3F2
+  - 5/23 Sat — Matriplex Cream solo 50% (Day 3 售罄叙事补位)
+  - 5/24 Sun AM — Bakuchiol Stick **$9 Clearance** + M1 升级首促 50%
+  - 5/24 Sun PM — 24 Hours Left（**红警示视觉切换**）
+  - 5/25 Mon — Last Chance（dermatologist-approved + midnight PDT + "won't be back until BFCM"）
+
+#### 📊 Memorial Sale Pricing Matrix（2026 vs 2025 对照）
+
+| SKU (2026) | 原价 | Memorial 价 | 折扣 | 2025 对照 | Shopify 实施 |
+|---|---|---|---|---|---|
+| **Memorial: Matrixyl 3000 3 for 2** | $120 (3×$40) | **$80** | 33% | $80/$120 ✅ 对齐 | 🆕 **新建 Memorial 专属 promo SKU**（不动现存 Triple Bundle $100/$120 active）|
+| **Argireline Serum Triple Bundle** | $147 (3×$49) | **$98** | 33% | $98/$147 ✅ 对齐 | ⚙️ **激活现存 draft**（id 7962315849955 → active），设价 $98 |
+| Matriplex Peptide Intense Cream | $62 | **$31** | 50% | $31/$62 ✅ 对齐 | Product Automatic Discount 50% off |
+| Peptide Complex Eye Cream (PEC) | $52 | **$26** | 50% | $26/$52 ✅ 对齐 | Product Automatic Discount 50% off |
+| **Face & Eye Peptide Firming Duo** | $114 | **$57** | 50% | — (2026 新机制) | 🔴 **Product Automatic Discount with usage limit = 100**（前 100 个 buyer 享 50% off，第 101 起恢复 $114）|
+| Deepcare+ Boosting Cream (MOP) | $34 | **$22** | 35% | $22/$34 ✅ 对齐 | Product Automatic Discount 35% off |
+| Triple Lipid + Q10 RICH (TLQ) | $44 | **$31** | 30% | $31/$44 ✅ 对齐 | Product Automatic Discount 30% off |
+| Caviar Multi-Balm Stick | $30 | **$15** | 50% | $15/$30 ✅ 对齐 | Product Automatic Discount 50% off |
+| Bakuchiol Smoothing Stick | $30 | **$9** | 70% | (2025 仅 50% $15) | 🆕 Product Automatic Discount 70% off（库存清空）|
+| Deepcare+ Micro-dart Patch (M1 升级版) | TBD | **50%** | 50% | — (2026 首促) | 🆕 Product Automatic Discount 50% off |
+| Peptide Serum Duo + Free Caviar Stick | $89 (bundle) | $89 不变 | — | $89/$119 ✅ 沿用 | active bundle，价格不动 |
+| Anti-Aging Trio | $99 (bundle) | $99 不变 | — | — | active bundle，作为 Memorial cross-sell card |
+| **MEM10 (Subscriber Code)** | — | **Extra 10% off** | — | 复刻 2025 STAR10 | ⚙️ **Order Discount Code**, usage 不限, 时效 5/20 9 AM ET → 5/22 9 AM ET, **Combinations: Product + Order 叠加启用** |
+
+**注：** Memorial 期间 SKU 直接降价生效在 5/19 24:00 → 5/26 00:00（Sale page 配置同步），用户加购自动看到降价；MEM10 code 在此基础上再叠加 10%（48hrs 内）。
+
+- **不可推荐 SKU（2026 已无库存或不在售，2025 出现但 2026 不可用）：**
+  - ❌ **Anti-Aging Retinol Night Cream**（Shopify 仍 active 但 Leon 确认无库存，2025 出现 5/21 L1 + 5/26 LC）
+  - ❌ **Pro-Firming Matrixyl 3000 + Dynalift Night Mask**（Shopify 仍 active 但 Leon 确认无库存，2025 出现 5/24 D4 + 5/26 LC）
+  - ❌ Peptide Eye Stick（已停产，2025 出现 5/21 L1 + 5/22 D2 + 5/25 PM）
+  - ❌ Essential Mineral UV Care SPF 50（2025 $9 锚位，2026 不在 product-links.md，已被 Bakuchiol $9 替代）
+  - ❌ PHA + Kombucha Daily Glow Toner（2025 出现，2026 不在 product-links.md，跳过）
+
+- **🔴 100-Cap × MEM10 叠加机制（关键配置）：**
+  - **Shopify Settings → Discounts → Combinations** 必须启用 **Product + Order 叠加**
+  - **用户体验：** Day 1-2 期间，加 Face & Eye Duo 进车 → 自动 -50% = $57 → 输入 MEM10 → checkout 再 -10% → 实付 ~$51.30
+  - **邮件文案策略：** 4-card grid 显示 SKU sale price ($57)；Lead copy 提示 "Extra 10% off site-wide with MEM10 for subscribers, 48 hours only"；用户 checkout 自己输码（与 2025 STAR10 完全一致）
+  - **Day 3+ MEM10 失效后：** 邮件链接切回标准产品 URL，4-card 仍显示 sale price
 
 ### Template 分配建议
 - **教育型（白底，0408 Hydration 模板基础）:** May 1, 4 (M1 Launch), 6, **8 (Bundle Launch + Mother's Day)**, 12, 14, 17, 19, 29（深度教育 + 概念 launch + 软销）
-- **促销型（黑底，0403 Easter 模板基础）:** May 20×2, 21, 22, 23, 24×2, 25（全部 Memorial 系列）
+- **🆕 Memorial 促销型（白底 + 红蓝 STAR badge，新建 Memorial 模板）：** May 20×2, 21, 22, 23, 24 AM, 25（基于 0408 改造，加红蓝美式爱国元素 + 4-card grid + STAR badge），详见 `knowledge/visual/Memorial Sale Style.md`
+- **🆕 Memorial 红警示型（红顶 banner + 价格 CTA）：** May 24 PM（视觉切换关键封 — 同日双发用情绪冲突制造行动）
 
 ---
 
@@ -227,12 +298,21 @@
 - ✅ **MOM15 已砍** — 不需要配置任何折扣码
 
 ### Memorial Sale (May 20-25)
-- [ ] Memorial sale page 建好（5/13 之前完成）
-- [ ] SKU 层面 50% 降价配置（5/19 凌晨生效，5/26 凌晨结束）
-- [ ] 每日 hero image 批量准备（4 张轮换 offer + Launch + Last Chance）
-- [ ] **Klaviyo Smart Sending OFF** 仅在 May 20 9AM + 5PM 两封 + May 24 9AM + 5PM 两封手动关闭
-- [ ] Memorial Launch SL A/B 测试组（"IS LIVE!" vs "50% just dropped"）
-- [ ] Last Chance (5/25) 倒计时素材
+- [ ] **Sale page `/pages/memorial-2026-sale` 建好**（5/13 之前完成）
+- [ ] **SKU 分层降价配置**（5/19 24:00 生效，5/26 00:00 结束）— 详见 Memorial Pricing Matrix（10 个 SKU）
+- [ ] **🆕 MEM10 Order Discount Code 配置**：Extra 10% off subtotal, 48 hours only (5/20 9 AM ET → 5/22 9 AM ET), 订阅者可用 (no min)
+- [ ] **🔴 Shopify Settings → Discounts → Combinations**：启用 **Product + Order 叠加**（关键，决定 MEM10 能否叠加 100-cap）
+- [ ] **🔴 Face & Eye Peptide Firming Duo 100-cap**：Product Automatic Discount with **usage limit = 100**, 50% off ($57)
+- [ ] **🆕 新建 "Memorial: Matrixyl 3000 3 for 2" SKU**：价 $80, 5/19 24:00 上架, 5/26 00:00 下架（不动现存 Matrixyl Triple Bundle $100）
+- [ ] **⚙️ 激活 Argireline Serum Triple Bundle (id 7962315849955)** draft → active, 设价 $98
+- [ ] **🆕 其他 SKU 直接降价 (Product Automatic Discount)**：Matriplex 50% / PEC 50% / MOP 35% / TLQ 30% / Caviar Stick 50% / Bakuchiol $9 / M1 50%（5/19 24:00 → 5/26 00:00）
+- [ ] **🆕 Memorial 链接 audit**：所有带 code 邮件链接走 `/discount/MEM10?redirect=/products/{slug}` 格式；5/22+ 邮件切回标准 URL
+- [ ] 每日 hero image 批量准备（共 8 张：5/20 AM/PM + 5/21 + 5/22 + 5/23 + 5/24 AM/PM + 5/25）
+- [ ] **🆕 Memorial 视觉模板建好**（白底 + 红蓝 STAR badge + 4-card grid，详见 `knowledge/visual/Memorial Sale Style.md`）
+- [ ] **🆕 Memorial 红警示视觉模板建好**（5/24 PM 用，红顶 banner + 价格 CTA）
+- [ ] **Klaviyo Smart Sending OFF** 仅在 May 20 9AM + 5PM + May 24 9AM + 5PM 共 4 个 slot 手动关闭
+- [ ] Memorial Launch SL A/B 测试组（直白型 vs 含蓄型）
+- [ ] Last Chance (5/25) 倒计时素材 + dermatologist-approved + midnight PDT 文案
 
 ### Give n' Glow Brand Story (May 29)
 - [ ] Leon 提供 Give n' Glow 慈善组织背景一句话
@@ -258,16 +338,34 @@
 
 ## 📊 Expected Performance Targets
 
+> **基准说明（2026-05-08 更新）：** 所有预期 revenue 以 2025 真实数据**减半**为基准（list 健康度 / OR 趋势 / 增长情况综合考量）。Memorial 系列基准 2025 $185k → 2026 预期 ~$92k；其他 evergreen / 节日邮件同样减半处理。
+
 | Email Group | Email Count | Expected Revenue Range |
 |---|---|---|
-| M1 Upgrade Launch (5/4) | 1 | $4,500 - $6,500（教育 + 升级好奇心驱动） |
-| Mother's Day + Bundle Soft Test (5/8) | 1 | $4,500 - $7,500（参考 2025 $6,430；无 MOM15 兜底略低于上版预期；bundle 卖好仍可接近 $7.5k）|
-| Evergreen Education (5/1, 6, 12, 14, 17, 19) | 6 | $21,000 - $27,000（$3.5-4.5k/封 × 6）|
-| 🆕 Sunday Q&A 软教育 (5/10) | 1 | $2,500 - $4,500（Q&A 软格式 + 2 个 soft product link）|
-| 🆕 SMS 增量（3 条 Memorial）| 3 SMS | $8,000 - $16,000（Memorial 高峰渠道增量）|
+| M1 Upgrade Launch (5/4) | 1 | $2,250 - $3,250（教育 + 升级好奇心驱动）|
+| Mother's Day + Bundle Soft Test (5/8) | 1 | $2,250 - $3,750（参考 2025 $6,430 减半 — bundle 卖好仍可达上限）|
+| Evergreen Education (5/1, 6, 12, 14, 17, 19) | 6 | $10,500 - $13,500（$1.75-2.25k/封 × 6）|
+| 🆕 Sunday Q&A 软教育 (5/10) | 1 | $1,250 - $2,250（Q&A 软格式 + 2 个 soft product link）|
+| 🆕 SMS 增量（3 条 Memorial）| 3 SMS | $4,000 - $8,500（Memorial 高峰渠道增量）|
 | Brand Story — Give n' Glow (5/29) | 1 | $500 - $1,500（无 CTA shop，预期 revenue 极低，价值在 OR + brand equity）|
-| Memorial Sale 系列 (5/20-25) | 8 | **$180,000 - $220,000**（参考 2025 $182k + M1 升级首促增量）|
-| **5 月总预期** | **18 emails + 3 SMS** | **$221,000 - $282,500** |
+| **Memorial Sale 系列 (5/20-25)** | 8 | **$83,000 - $105,500**（2025 $185k 减半基准）|
+| **5 月总预期** | **18 emails + 3 SMS** | **$103,750 - $138,250** |
+
+#### Memorial 系列单封预期（基于 2025 减半）
+
+| Date | Email | 2025 真实 | 2026 预期 |
+|---|---|---|---|
+| 5/20 9 AM | Launch_1 | $36,905 | **$16,000 - $21,000** |
+| 5/20 5 PM | Launch_2 Resend | $35,488 | **$15,000 - $20,000** |
+| 5/21 9 AM | Day 2 Eye+Texture Trio | $20,301 | **$9,000 - $11,000** |
+| 5/22 9 AM | Day 3 Peptide 3F2 + 100-cap | $24,830 | **$11,000 - $14,000** |
+| 5/23 9 AM | Day 4 Matriplex + 售罄叙事 | $16,544 | **$8,000 - $10,000** |
+| 5/24 9 AM | Day 5 AM Sunday Essentials | $11,812 | **$7,000 - $9,000** |
+| 5/24 5 PM | Day 5 PM 24 Hours Left | $15,152 | **$7,000 - $8,500** |
+| 5/25 9 AM | Day 6 Last Chance | $21,095 | **$10,000 - $12,000** |
+| **8 封 Email 总计** | — | **$182,127** | **$83,000 - $105,500** |
+| SMS 1 (5/20) + SMS 2 (5/24) + SMS 3 (5/25) | — | — | **$4,000 - $8,500** |
+| **Memorial 总计（含 SMS）** | — | — | **$87,000 - $114,000** |
 
 ---
 
