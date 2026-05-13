@@ -92,7 +92,7 @@ Grab yours today and **see proven results in just 28 days.**
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$24** ~~$36~~
 - **CTA：** SAVE $12
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-offer-replenishing-night-under-eye-patch` ⚠️ **Leon 提供 OFFER URL 后替换**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-replenishing-night-under-eye-patch`
 
 ---
 

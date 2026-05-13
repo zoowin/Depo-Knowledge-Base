@@ -15,7 +15,7 @@
 
 ---
 
-## ⚠️ 重大改动（vs 上版）
+## 重大改动（vs 上版）
 **Leon 反馈：聚焦单一产品，不要其他 cards，用 4 张视觉化图片讲清概念。**
 
 | 改动项 | 上版 | 新版 |
@@ -105,7 +105,7 @@ MOP's job sounds simple — but the mechanism is what makes the rest of your rou
 ## 🆕 Visual Journey Section（核心视觉教育 — 已合并 2-Step Ritual）
 > 📐 对应 Klaviyo 位置：在 Body 1 之后插入 4-row visual grid（每行 1 张图 + 1 段文案，横向 desktop / 竖向 mobile）
 > 📐 4 张图来自 Leon 提供（mature woman sequence — Awakening-needed / MOP applied / MPS dropper / Refreshed result）
-> ⚠️ **每行的 caption 必须独立** — 之前 Klaviyo render 里 Step 0 + Step 1 文案重复，现已修正
+> **每行的 caption 必须独立** — 之前 Klaviyo render 里 Step 0 + Step 1 文案重复，现已修正
 
 ### 区块标题（在 4 行图文之上）
 **4 Minutes. Every Night.**
@@ -140,7 +140,7 @@ MOP's job sounds simple — but the mechanism is what makes the rest of your rou
 - **包含：** MOP (Deepcare+ Boosting Cream) + MPS (Argireline Serum) + Eye Cream
 - **描述：** The 2-step at-home alternative to medspa microneedling. MOP primes — MPS + Eye Cream layer the peptide system. ~~$135~~ **$89, just dropped.** Save $46 vs buying separately.
 - **CTA：** SHOP THE ACTIVATION TRIO
-- **链接：** https://depology.com/products/peptide-activation-trio  ⚠️ **占位 URL — Leon 在 Shopify 建好后替换**
+- **链接：** https://depology.com/products/peptide-activation-trio  **占位 URL — Leon 在 Shopify 建好后替换**
 
 ---
 
@@ -155,7 +155,7 @@ SHOP THE TRIO
 
 ---
 
-## ⚠️ Compliance — Alex Brief Verb 表（务必遵守）
+## Compliance — Alex Brief Verb 表（务必遵守）
 
 **✅ 可用 verbs：** preps, exfoliates, lifts away, supports natural renewal, refreshes, activates skin's surface, smooths, absorbs, layers, primes
 
@@ -188,8 +188,8 @@ Three premium skincare products arranged loosely in the center of a soft blush m
 
 ### Leon 提供的 4 张视觉图（核心资产）
 - ✅ 4 张图片已确认（mature woman face: Before → MOP applied → Serum dropper → After）
-- ⚠️ Leon 上传到 Klaviyo image library 后，按上面"Visual Journey Section"表格的图位填充
-- ⚠️ 移动端布局：4 张图竖向堆叠（desktop 横向 4 列）
+- Leon 上传到 Klaviyo image library 后，按上面"Visual Journey Section"表格的图位填充
+- 移动端布局：4 张图竖向堆叠（desktop 横向 4 列）
 
 ### Bundle 信息
 - **Bundle 价格：** $89（sum-of-parts $135 → save $46，34% off）
@@ -199,7 +199,7 @@ Three premium skincare products arranged loosely in the center of a soft blush m
 
 ### Klaviyo 设置
 - ✅ 不需要任何折扣码（Activation Trio 直接 $89 fixed price 在 Shopify）
-- ⚠️ **Bundle Shopify 页面：** Leon 反馈图片制作需时间，5/8 可能延后
+- **Bundle Shopify 页面：** Leon 反馈图片制作需时间，5/8 可能延后
   - **如果延后：** 邮件 Hero CTA + Single Product Card 都改成 "JOIN THE WAITLIST" + 链接到 Klaviyo signup form，Card 1 描述改 "Coming soon — sign up to be first to know"
   - **如果按时上线：** 按当前版本发送
 

@@ -65,7 +65,7 @@ The sale has kicked off — and it's moving faster than we thought.
 - **评分：** ⭐⭐⭐⭐½ (NEW)
 - **价格：** **$89** ~~$135~~
 - **CTA：** SAVE $46
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/peptide-activation-trio` ⚠️ **Leon 确认 slug**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/peptide-activation-trio`
 
 ### Card 2 — 蓝色横条 "3 FOR 2" + BEST + Seal
 - **产品名：** Matrixyl® 3000 Collagen Serum 3 for 2
@@ -73,7 +73,7 @@ The sale has kicked off — and it's moving faster than we thought.
 - **评分：** ⭐⭐⭐⭐½ (2000+)
 - **价格：** **$80** ~~$120~~
 - **CTA：** SAVE $40
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-matrixyl-r-3000-triple-bundle` ⚠️ **待 Leon 提供新建 Memorial promo SKU 的 slug**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-matrixyl-r-3000-triple-bundle` **待 Leon 提供新建 Memorial promo SKU 的 slug**
 
 ### Card 3 — 蓝色横条 "35% OFF"
 - **产品名：** Deepcare+® MicroOperator Boosting Cream
@@ -89,7 +89,7 @@ The sale has kicked off — and it's moving faster than we thought.
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$31** ~~$44~~
 - **CTA：** SAVE $13
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-offer-offer-triple-lipid-q10-revive-moisturizing-treatment-rich`
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-triple-lipid-q10-revive-moisturizing-treatment-rich`
 
 ---
 
@@ -127,5 +127,5 @@ Premium dynamic product arrangement of 4 luxury skincare products on white surfa
 - **$15,000 - $20,000**（2025 5/21 PM $35,488 减半基准 — OR 反而高于 AM）
 
 ### 关键执行
-- ⚠️ **Smart Sending OFF** — 同 AM 人群再发
+- **Smart Sending OFF** — 同 AM 人群再发
 - 链接全部走 `/discount/MEM10?redirect=...`（MEM10 5/22 9 AM ET 失效）

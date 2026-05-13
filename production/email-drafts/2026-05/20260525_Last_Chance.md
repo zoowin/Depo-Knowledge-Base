@@ -76,7 +76,7 @@ Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and
 - **评分：** ⭐⭐⭐⭐½ (2000+)
 - **价格：** **$80** ~~$120~~
 - **CTA：** **$80 ONLY - SHOP NOW**（价格化）
-- **链接：** `https://depology.com/products/offer-matrixyl-r-3000-triple-bundle` ⚠️
+- **链接：** `https://depology.com/products/offer-matrixyl-r-3000-triple-bundle`
 
 ### Card 2 — 蓝色横条 "40% OFF · BUNDLE" + BEST + Seal — M1 升级版 + Argireline Combo
 - **产品名：** Dynamic Wrinkle Defense Duo 🆕 (M1 Patches + Argireline Serum)
@@ -84,7 +84,7 @@ Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and
 - **评分：** ⭐⭐⭐⭐½ (1500+)
 - **价格：** **$51** ~~$85~~
 - **CTA：** **SAVE $34 - SHOP NOW**（savings 混合）
-- **链接：** `https://depology.com/products/dynamic-wrinkle-defense-duo` ⚠️ **Leon 提供 OFFER URL 后替换；需补货到位 (Leon 已确认 5/20 前能到)**
+- **链接：** `https://depology.com/products/dynamic-wrinkle-defense-duo`
 
 ### Card 3 — 蓝色横条 "70% OFF / $9" — 价格 CTA
 - **产品名：** Bakuchiol Smoothing Serum Stick
@@ -142,7 +142,7 @@ Final-day Memorial Sale hero composition: 4-5 premium skincare products arranged
 
 ### Klaviyo 配置
 - SMS Last Chance Final 在 7 PM 触达（晚间最后一波收割）
-- ⚠️ 5/25 是 Memorial Day 公共假日，9 AM ET 发送时间不变
+- 5/25 是 Memorial Day 公共假日，9 AM ET 发送时间不变
 
 ### Anti-fatigue 收尾
 - H1 顶部 "LAST CHANCE" 红字 + 副标 "THE MEMORIAL DAY SALE" 深蓝 — 与 5/24 PM "ONLY 24 HOURS LEFT" 红 banner 形成连续递进（24hrs → Last Chance → 收尾）

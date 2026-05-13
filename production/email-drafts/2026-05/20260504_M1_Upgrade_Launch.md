@@ -123,7 +123,7 @@ Premium product photography of a single hydrocolloid eye patch on a clean white 
 ---
 
 ## 备注
-- ⚠️ **5/4 是 5 月最重要的 launch 邮件**，hero image 建议精修，必要时摄影棚拍摄而非 AI 生成
-- ⚠️ Compliance disclaimer 必须出现在邮件最底部（small text 12px）
-- ⚠️ 此邮件不含折扣码 — 升级公告纯教育，5/24 Memorial 首促才是首次降价
+- **5/4 是 5 月最重要的 launch 邮件**，hero image 建议精修，必要时摄影棚拍摄而非 AI 生成
+- Compliance disclaimer 必须出现在邮件最底部（small text 12px）
+- 此邮件不含折扣码 — 升级公告纯教育，5/24 Memorial 首促才是首次降价
 - 📊 预期 Revenue Range: $4,500 - $6,500（教育 + 升级好奇心驱动 + 老 M1 用户复购冲动）

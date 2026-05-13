@@ -82,7 +82,7 @@ Our **Bakuchiol Smoothing Serum Stick** softens fine lines and smooths texture �
 - **评分：** ⭐⭐⭐⭐½ (3000+)
 - **价格：** **$43** ~~$86~~
 - **CTA：** SAVE $43
-- **链接：** `https://depology.com/products/offer-deepcare-serum-infused-micro-dart-patches` ⚠️ **Leon 提供 OFFER 页 URL 后替换**
+- **链接：** `https://depology.com/products/offer-deepcare-serum-infused-micro-dart-patches`
 - **Shopify SKU：** KPM2J11（M2 variant，库存 1493）
 
 ### Card 3 — 蓝色横条 "NEW BUNDLE · SAVE $46" + BEST + Seal
@@ -91,7 +91,7 @@ Our **Bakuchiol Smoothing Serum Stick** softens fine lines and smooths texture �
 - **评分：** ⭐⭐⭐⭐½ (NEW)
 - **价格：** **$89** ~~$135~~
 - **CTA：** SAVE $46
-- **链接：** `https://depology.com/products/peptide-activation-trio` ⚠️ **Leon 确认 slug**
+- **链接：** `https://depology.com/products/peptide-activation-trio`
 
 ### Card 4 — 蓝色横条 "35% OFF · BUNDLE" + BEST + Seal — M1 升级版 + M3K Combo
 - **产品名：** Static Wrinkle Repair Duo 🆕 (M1 Patches + Matrixyl 3000 Serum)
@@ -99,7 +99,7 @@ Our **Bakuchiol Smoothing Serum Stick** softens fine lines and smooths texture �
 - **评分：** ⭐⭐⭐⭐½ (1500+)
 - **价格：** **$49** ~~$76~~
 - **CTA：** SAVE $27
-- **链接：** `https://depology.com/products/static-wrinkle-repair-duo` ⚠️ **Leon 提供 OFFER URL 后替换；前 2 个 Duo 需补货到位 (Leon 已确认 5/20 前能到)**
+- **链接：** `https://depology.com/products/static-wrinkle-repair-duo`
 
 ---
 

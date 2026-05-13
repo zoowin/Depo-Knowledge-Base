@@ -65,7 +65,7 @@ Memorial Day is here. We're offering our **BIGGEST** summer deal — with new la
 - **评分：** ⭐⭐⭐⭐½ (2000+)
 - **价格：** **$80** ~~$120~~
 - **CTA：** SAVE $40
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-matrixyl-r-3000-triple-bundle` ⚠️ **待 Leon 提供新建 Memorial promo SKU 的 slug**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-matrixyl-r-3000-triple-bundle` **待 Leon 提供新建 Memorial promo SKU 的 slug**
 
 ### Card 2 — 蓝色横条 "3 FOR 2" + BEST + Seal
 - **产品名：** Peptide Complex Argireline™ Serum 3 for 2
@@ -73,7 +73,7 @@ Memorial Day is here. We're offering our **BIGGEST** summer deal — with new la
 - **评分：** ⭐⭐⭐⭐½ (800+)
 - **价格：** **$98** ~~$147~~
 - **CTA：** SAVE $49
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-peptide-complex-10-serum-3-for-2` ⚠️ **待 Leon 激活 Argireline Triple Bundle (id 7962315849955) draft → active**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-peptide-complex-10-serum-3-for-2` **待 Leon 激活 Argireline Triple Bundle (id 7962315849955) draft → active**
 
 ### Card 3 — 蓝色横条 "50% OFF" + BEST + Seal + 🔴 LIMITED 100 spots
 - **产品名：** Face & Eye Peptide Firming Duo
@@ -116,11 +116,11 @@ Premium product still life arrangement of 4-5 luxury skincare products on white 
 ## 备注
 
 ### 关键执行
-- ⚠️ **Smart Sending 必须关闭** — 否则 5PM resend 会被屏蔽
-- ⚠️ Sale page (`/pages/memorial-2026-sale`) 必须在 5/19 24:00 前建好
-- ⚠️ MEM10 在 Shopify Discounts 配置完成（Order Discount Code，48hrs，no min spend，site-wide）
-- ⚠️ Shopify Combinations 启用 Product + Order 叠加
-- ⚠️ Face & Eye Duo 100-cap Automatic Discount 配置完成（usage limit 100）
+- **Smart Sending 必须关闭** — 否则 5PM resend 会被屏蔽
+- Sale page (`/pages/memorial-2026-sale`) 必须在 5/19 24:00 前建好
+- MEM10 在 Shopify Discounts 配置完成（Order Discount Code，48hrs，no min spend，site-wide）
+- Shopify Combinations 启用 Product + Order 叠加
+- Face & Eye Duo 100-cap Automatic Discount 配置完成（usage limit 100）
 
 ### 预期 Revenue
 - **$16,000 - $21,000**（2025 5/21 AM $36,905 减半基准）

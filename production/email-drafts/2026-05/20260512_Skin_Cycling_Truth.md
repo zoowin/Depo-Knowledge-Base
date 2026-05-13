@@ -117,6 +117,6 @@ Editorial conceptual illustration: a clean horizontal weekly calendar grid (7 ce
 ## 备注
 - 📊 预期 Revenue Range: $4,500 - $6,500（trend hook 驱动 OR + M1 升级二次曝光 + Bakuchiol 替代方案分流转化）
 - 🎯 双 hero 策略：M1 主推 + Bakuchiol 副推，覆盖两类目标用户
-- ⚠️ Bakuchiol 5/24 会做 $9 clearance — 此封 5/12 推 Bakuchiol 在合理 inventory 周期内，不预告清仓避免抑制本封销量
+- Bakuchiol 5/24 会做 $9 clearance — 此封 5/12 推 Bakuchiol 在合理 inventory 周期内，不预告清仓避免抑制本封销量
 - 🔬 Skin Cycling 趋势源自 Whitney Bowe MD（2022-2023 走红），是公认的护肤热议话题
 - 📝 与 4/24 "Tolerance Myth" 角度区别：那封讨论"耐受性"是不是必须的，这封讨论"rest days"是不是必须的 — 都是 myth/trend debunk 但话题完全不同

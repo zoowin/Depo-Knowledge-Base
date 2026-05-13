@@ -139,5 +139,5 @@ Urgent crisis aesthetic product shot: top half is solid red banner background DC
 - MEM10 已失效，所有链接走标准产品 URL
 
 ### Klaviyo 配置提醒
-- ⚠️ **Smart Sending OFF**（与 9 AM 同人群）
+- **Smart Sending OFF**（与 9 AM 同人群）
 - SMS Sunday Flash 在 11 AM 触达（夹在 AM + PM email 之间）

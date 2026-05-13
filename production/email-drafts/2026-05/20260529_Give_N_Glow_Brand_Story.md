@@ -61,6 +61,6 @@
 
 ## 备注
 
-- ⚠️ 这是占位 draft 文件，待 Leon 补全信息后由 Claude 起草完整内容
+- 这是占位 draft 文件，待 Leon 补全信息后由 Claude 起草完整内容
 - 📅 5/27-28 中场休息（Memorial 后），5/29 Brand Story，6/1 Summer-Ready 接力
 - 🔗 飞书原始消息引用 + 现场图见 `Marketing` chat（chat_id: oc_842dc6021f8e970844031cffdaf2038b）或团队相关讨论
