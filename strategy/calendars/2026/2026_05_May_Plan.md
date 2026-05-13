@@ -57,8 +57,8 @@
 | **May 14** | Thu | 9 AM | 🟢 Educational | **Texture vs Wrinkles: The Mature Skin Issue Most Routines Miss**<br>Subject: They look the same. They're not. Here's the difference. | **Deepcare+ Boosting Cream (E, MOP) + Matriplex (A)** | Engaged + Non-buyers | Education / Cross-sell |
 | **May 17** | Sun | 10 AM | 🟡 Lifestyle | **The Travel-Ready Skin Kit: Memorial Weekend Edition**<br>Subject: 3 products, 1 small bag — your weekend skin survival kit. | **Bakuchiol Stick (G) + Opuntia Balm (F) + Eye Cream (B)** | Engaged | Lifestyle / Pre-Memorial Travel |
 | **May 19** | Tue | 9 AM | 🟢 Educational | **Why Premium Skincare Actually Costs Less Per Use**<br>Subject: The math on your $80 serum (you might be surprised). | **Anti-Aging Trio 💰 + M3K Matrixyl Serum (A) + Argireline MPS (B)** | Engaged + Non-buyers | Value Prime → Memorial |
-| **May 20** | Wed | **9 AM** | 🔴 **Memorial LAUNCH_1** | **Memorial Day Sale IS LIVE — UP TO 50% Off + Extra 10% with MEM10** 🇺🇸<br>Subject: Memorial Day Sale IS LIVE! UP TO 50% off + extra 10% with MEM10. | Multi-SKU 群像 hero + STAR badge "UP TO 50% OFF" | Full List (exclude buyers <7d) | Revenue Launch + Code 强呈现 |
-| **May 20** | Wed | **5 PM** | 🔴 **Memorial LAUNCH_2 Resend (SS OFF, same audience)** | **It's Moving Faster Than We Thought — Memorial Sale**<br>Subject: It's already going fast — UP TO 50% off + MEM10. | 不同视觉 + 不同 H1 + 不同 4-card grid（复刻 2025 Resend 套路）| Same as AM (Smart Sending OFF) | Revenue Layer + 动量叙事 |
+| **May 20** | Wed | **9 AM** | 🔴 **Memorial LAUNCH_1** | **Memorial Day Sale IS LIVE — UP TO 60% Off + Extra 10% with MEM10** 🇺🇸<br>Subject: Memorial Day Sale IS LIVE! UP TO 60% off + extra 10% with MEM10. | Multi-SKU 群像 hero + STAR badge **"UP TO 60% OFF"** | Full List (exclude buyers <7d) | Revenue Launch + Code 强呈现 |
+| **May 20** | Wed | **5 PM** | 🔴 **Memorial LAUNCH_2 Resend (SS OFF, same audience)** | **It's Moving Faster Than We Thought — Memorial Sale**<br>Subject: It's already going fast — UP TO 60% off + MEM10. | 不同视觉 + 不同 H1 + 不同 4-card grid（复刻 2025 Resend 套路）| Same as AM (Smart Sending OFF) | Revenue Layer + 动量叙事 |
 | **May 21** | Thu | 9 AM | 🔴 **Day 2 — Eye + Texture Trio** | **Celebrate Memorial Day with Smarter Eye + Texture Care**<br>Subject: New offer: PEC + MPS + MOP all 50% off. | **PEC Eye Cream (B) + MPS Serum (B) + MOP Boosting Cream (E)** | Full List (exclude buyers <7d) | Revenue / Cross-sell |
 | **May 22** | Fri | 9 AM | 🔴 **Day 3 — Peptide 3F2 + 100-Cap** | **Celebrate Memorial Day with the Power of Peptides**<br>Subject: 3 for 2 Peptide Serums + only 100 Face & Eye Duos. Run, don't walk. | **M3K Matrixyl 3F2 + MPS 3F2 群像 hero** + Face & Eye Duo 100-cap 副线 | Full List (exclude buyers <7d) | Revenue / **硬稀缺峰值** |
 | **May 23** | Sat | 9 AM | 🔴 **Day 4 — Matriplex + 售罄叙事** | **Face & Eye Duo Sold Out — Matriplex Cream Just Added at 50% Off**<br>Subject: Face & Eye Duo is gone. Matriplex Cream just dropped at 50%. | **Matriplex Cream solo hero** + 4-card grid | Full List (exclude buyers <7d) | Revenue / 售罄社会证明 + 动量重启 |
@@ -224,11 +224,11 @@
   - **Day 3 (5/22) 邮件话术：** "ONLY 100 of each. No restocks during the sale. **Run, don't walk.**"
   - **Day 4 (5/23) 邮件话术：** 引用 Day 3 售罄情况（如真售完）→ "Face & Eye Duo is gone — but we've just added Matriplex Cream solo at 50% off."
 - **每日轮换 NEW Offer：**
-  - 5/21 Thu — Eye + Texture Trio (PEC + MPS + MOP)
+  - 5/21 Thu — Eye + Texture Trio (PEC 40% + MPS 3F2 + MOP 35% + Matriplex 40%)
   - 5/22 Fri — Face & Eye Peptide Firming Duo **(100-cap)** + Matrixyl 3F2 + MPS 3F2
-  - 5/23 Sat — Matriplex Cream solo 50% (Day 3 售罄叙事补位)
-  - 5/24 Sun AM — Bakuchiol Stick **$9 Clearance** + M1 升级首促 50%
-  - 5/24 Sun PM — 24 Hours Left（**红警示视觉切换**）
+  - 5/23 Sat — Matriplex Cream solo **40%** (Day 3 售罄叙事补位)
+  - 5/24 Sun AM — Bakuchiol Stick **$9 Clearance** + M1 升级首促 50% + Peptide Activation Trio cross-sell
+  - 5/24 Sun PM — 24 Hours Left（**红警示视觉切换** — Matriplex 40% 替代 Caviar 在 Card 2）
   - 5/25 Mon — Last Chance（dermatologist-approved + midnight PDT + "won't be back until BFCM"）
 
 #### 📊 Memorial Sale Pricing Matrix（2026 vs 2025 对照）
@@ -237,17 +237,23 @@
 |---|---|---|---|---|---|
 | **Memorial: Matrixyl 3000 3 for 2** | $120 (3×$40) | **$80** | 33% | $80/$120 ✅ 对齐 | 🆕 **新建 Memorial 专属 promo SKU**（不动现存 Triple Bundle $100/$120 active）|
 | **Argireline Serum Triple Bundle** | $147 (3×$49) | **$98** | 33% | $98/$147 ✅ 对齐 | ⚙️ **激活现存 draft**（id 7962315849955 → active），设价 $98 |
-| Matriplex Peptide Intense Cream | $62 | **$31** | 50% | $31/$62 ✅ 对齐 | Product Automatic Discount 50% off |
-| Peptide Complex Eye Cream (PEC) | $52 | **$26** | 50% | $26/$52 ✅ 对齐 | Product Automatic Discount 50% off |
+| Matriplex Peptide Intense Cream | $62 | **$37** | **40%** | $31/$62 (2025 50%) → 2026 调整为 40% | Product Automatic Discount **40% off**（让 Face & Eye Duo 50% 有价值优势）|
+| Peptide Complex Eye Cream (PEC) | $52 | **$31** | **40%** | $26/$52 (2025 50%) → 2026 调整为 40% | Product Automatic Discount **40% off**（让 Face & Eye Duo 50% 有价值优势）|
 | **Face & Eye Peptide Firming Duo** | $114 | **$57** | 50% | — (2026 新机制) | 🔴 **Product Automatic Discount with usage limit = 100**（前 100 个 buyer 享 50% off，第 101 起恢复 $114）|
 | Deepcare+ Boosting Cream (MOP) | $34 | **$22** | 35% | $22/$34 ✅ 对齐 | Product Automatic Discount 35% off |
 | Triple Lipid + Q10 RICH (TLQ) | $44 | **$31** | 30% | $31/$44 ✅ 对齐 | Product Automatic Discount 30% off |
-| Caviar Multi-Balm Stick | $30 | **$15** | 50% | $15/$30 ✅ 对齐 | Product Automatic Discount 50% off |
-| Bakuchiol Smoothing Stick | $30 | **$9** | 70% | (2025 仅 50% $15) | 🆕 Product Automatic Discount 70% off（库存清空）|
-| Deepcare+ Micro-dart Patch (M1 升级版) | TBD | **50%** | 50% | — (2026 首促) | 🆕 Product Automatic Discount 50% off |
-| Peptide Serum Duo + Free Caviar Stick | $89 (bundle) | $89 不变 | — | $89/$119 ✅ 沿用 | active bundle，价格不动 |
+| Bakuchiol Smoothing Stick | $30 | **$9** | 70% | (2025 仅 50% $15) | 🆕 Product Automatic Discount 70% off（库存清空 — 🔝 Memorial 最大折扣锚位）|
+| Deepcare+ Micro-dart Patch (**M2 with Retinol**, 16 pairs/8 weeks, SKU KPM2J11) | $86 | **$43** | 50% | — (2026 首促) | 🆕 Product Automatic Discount 50% off — 1493 units 库存（仅 16-pairs M2 variant，不触发 12-pairs 旧 M1 variant KPM1S11）|
+| 🆕 **Peptide Activation Trio** | $135 (bundle) | **$89** | 34% | — (2026 NEW) | ⚙️ Shopify 显示 $135 原价 / $89 sale（5/8 Mother's Day 首发，Memorial 期间继续以此价 anchor）|
+| 🆕 **Static Wrinkle Repair Duo** (M1 + M3K) | $76 (bundle) | **$49** | 35% | — (2026 NEW) | 🔴 OFFER SKU 当前 OOS — Leon 5/13 确认 5/20 前能补货到位；M1 库存共享风险 |
+| 🆕 **Dynamic Wrinkle Defense Duo** (M1 + Argireline) | $85 (bundle) | **$51** | 40% | — (2026 NEW) | 🔴 OFFER SKU 当前 OOS — Leon 5/13 确认 5/20 前能补货到位；M1 库存共享风险 |
+| 🆕 **Replenishing Night Under Eye Patch** | $36 (60 patches) | **$24** | 33% | — (2026 NEW) | Product Auto Discount 33% off |
 | Anti-Aging Trio | $99 (bundle) | $99 不变 | — | — | active bundle，作为 Memorial cross-sell card |
 | **MEM10 (Subscriber Code)** | — | **Extra 10% off** | — | 复刻 2025 STAR10 | ⚙️ **Order Discount Code**, usage 不限, 时效 5/20 9 AM ET → 5/22 9 AM ET, **Combinations: Product + Order 叠加启用** |
+
+**⚠️ 已废弃 SKU（5/13 更新，从 Memorial 移除）：**
+- Caviar Multi-Balm Stick（库存归零）
+- Peptide Serum Duo + Free Caviar Stick Bundle（因 Caviar 无货，bundle 不可售）
 
 **注：** Memorial 期间 SKU 直接降价生效在 5/19 24:00 → 5/26 00:00（Sale page 配置同步），用户加购自动看到降价；MEM10 code 在此基础上再叠加 10%（48hrs 内）。
 
@@ -257,6 +263,8 @@
   - ❌ Peptide Eye Stick（已停产，2025 出现 5/21 L1 + 5/22 D2 + 5/25 PM）
   - ❌ Essential Mineral UV Care SPF 50（2025 $9 锚位，2026 不在 product-links.md，已被 Bakuchiol $9 替代）
   - ❌ PHA + Kombucha Daily Glow Toner（2025 出现，2026 不在 product-links.md，跳过）
+  - ❌ **Caviar Multi-Balm Stick** 🆕 5/13 更新（库存归零）
+  - ❌ **Peptide Serum Duo + Free Caviar Stick Bundle** 🆕 5/13 更新（因 Caviar 无货不可售，原 Card 位由 **Peptide Activation Trio $89/$135** 替换）
 
 - **🔴 100-Cap × MEM10 叠加机制（关键配置）：**
   - **Shopify Settings → Discounts → Combinations** 必须启用 **Product + Order 叠加**
@@ -305,7 +313,8 @@
 - [ ] **🔴 Face & Eye Peptide Firming Duo 100-cap**：Product Automatic Discount with **usage limit = 100**, 50% off ($57)
 - [ ] **🆕 新建 "Memorial: Matrixyl 3000 3 for 2" SKU**：价 $80, 5/19 24:00 上架, 5/26 00:00 下架（不动现存 Matrixyl Triple Bundle $100）
 - [ ] **⚙️ 激活 Argireline Serum Triple Bundle (id 7962315849955)** draft → active, 设价 $98
-- [ ] **🆕 其他 SKU 直接降价 (Product Automatic Discount)**：Matriplex 50% / PEC 50% / MOP 35% / TLQ 30% / Caviar Stick 50% / Bakuchiol $9 / M1 50%（5/19 24:00 → 5/26 00:00）
+- [ ] **🆕 其他 SKU 直接降价 (Product Automatic Discount)**：Matriplex **40%** / PEC **40%** / MOP 35% / TLQ 30% / Bakuchiol $9 (70%) / M2 50% / **Night Eye Patch 33%** / **Static Duo 35%** / **Dynamic Duo 40%**（5/19 24:00 → 5/26 00:00）— Caviar 已移除（库存归零）
+- [ ] **🔴 Static + Dynamic Duo 补货确认（5/20 前必须到货）** — Leon 5/13 确认能到位，跟 Tatia 一起核库存
 - [ ] **🆕 Memorial 链接 audit**：所有带 code 邮件链接走 `/discount/MEM10?redirect=/products/{slug}` 格式；5/22+ 邮件切回标准 URL
 - [ ] 每日 hero image 批量准备（共 8 张：5/20 AM/PM + 5/21 + 5/22 + 5/23 + 5/24 AM/PM + 5/25）
 - [ ] **🆕 Memorial 视觉模板建好**（白底 + 红蓝 STAR badge + 4-card grid，详见 `knowledge/visual/Memorial Sale Style.md`）
