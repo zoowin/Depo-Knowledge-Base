@@ -73,7 +73,7 @@ The offers below **won't be back until Black Friday.**
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$22** ~~$34~~
 - **CTA：** **$22 ONLY - SHOP NOW**（价格化）
-- **链接：** `https://depology.com/products/deepcare-r-microoperator-boosting-cream-beginner`
+- **链接：** `https://depology.com/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only`
 
 ### Card 2 — 蓝色横条 "40% OFF"
 - **产品名：** Matriplex™ Peptide Intense Cream
@@ -81,7 +81,7 @@ The offers below **won't be back until Black Friday.**
 - **评分：** ⭐⭐⭐⭐½ (1500+)
 - **价格：** **$37** ~~$62~~
 - **CTA：** **$37 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/tri-active-matrixyl-complex-cream`
+- **链接：** `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy`
 
 ### Card 3 — 蓝色横条 "70% OFF / $9"
 - **产品名：** Bakuchiol Smoothing Serum Stick
@@ -97,7 +97,7 @@ The offers below **won't be back until Black Friday.**
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$31** ~~$52~~
 - **CTA：** **$31 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/peptide-complex-wrinkle-defense-eye-cream`
+- **链接：** `https://depology.com/products/offer-peptide-complex-wrinkle-defense-eye-cream-copy`
 
 ---
 

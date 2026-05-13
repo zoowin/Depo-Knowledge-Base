@@ -59,7 +59,7 @@ With Matrixyl® and a clinically formulated peptide complex, **it firms, lifts a
 
 ## Primary CTA
 **SAVE 40% TODAY**
-- **链接：** `https://depology.com/products/tri-active-matrixyl-complex-cream`
+- **链接：** `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy`
 
 ---
 
@@ -71,7 +71,7 @@ With Matrixyl® and a clinically formulated peptide complex, **it firms, lifts a
 - **评分：** ⭐⭐⭐⭐½ (1500+)
 - **价格：** **$37** ~~$62~~
 - **CTA：** SAVE $25
-- **链接：** `https://depology.com/products/tri-active-matrixyl-complex-cream`
+- **链接：** `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy`
 
 ### Card 2 — 蓝色横条 "30% OFF"
 - **产品名：** Triple Lipid + Q10 Revive Moisturizing Treatment RICH
@@ -79,7 +79,7 @@ With Matrixyl® and a clinically formulated peptide complex, **it firms, lifts a
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$31** ~~$44~~
 - **CTA：** SAVE $13
-- **链接：** `https://depology.com/products/triple-lipid-q10-revive-moisturizing-treatment-rich`
+- **链接：** `https://depology.com/products/offer-offer-triple-lipid-q10-revive-moisturizing-treatment-rich`
 
 ### Card 3 — 蓝色横条 "35% OFF"
 - **产品名：** Deepcare+® MicroOperator Boosting Cream
@@ -87,7 +87,7 @@ With Matrixyl® and a clinically formulated peptide complex, **it firms, lifts a
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$22** ~~$34~~
 - **CTA：** SAVE $12
-- **链接：** `https://depology.com/products/deepcare-r-microoperator-boosting-cream-beginner`
+- **链接：** `https://depology.com/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only`
 
 ### Card 4 — 蓝色横条 "NEW BUNDLE · SAVE $46" + BEST + Seal
 - **产品名：** Peptide Activation Trio 🆕

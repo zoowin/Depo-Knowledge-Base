@@ -65,7 +65,7 @@ Memorial Day is here. We're offering our **BIGGEST** summer deal — with new la
 - **评分：** ⭐⭐⭐⭐½ (2000+)
 - **价格：** **$80** ~~$120~~
 - **CTA：** SAVE $40
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/[NEW_M3K_3F2_SLUG]` ⚠️ **待 Leon 提供新建 Memorial promo SKU 的 slug**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-matrixyl-r-3000-triple-bundle` ⚠️ **待 Leon 提供新建 Memorial promo SKU 的 slug**
 
 ### Card 2 — 蓝色横条 "3 FOR 2" + BEST + Seal
 - **产品名：** Peptide Complex Argireline™ Serum 3 for 2
@@ -73,7 +73,7 @@ Memorial Day is here. We're offering our **BIGGEST** summer deal — with new la
 - **评分：** ⭐⭐⭐⭐½ (800+)
 - **价格：** **$98** ~~$147~~
 - **CTA：** SAVE $49
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/argireline-serum-triple-bundle` ⚠️ **待 Leon 激活 Argireline Triple Bundle (id 7962315849955) draft → active**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-peptide-complex-10-serum-3-for-2` ⚠️ **待 Leon 激活 Argireline Triple Bundle (id 7962315849955) draft → active**
 
 ### Card 3 — 蓝色横条 "50% OFF" + BEST + Seal + 🔴 LIMITED 100 spots
 - **产品名：** Face & Eye Peptide Firming Duo

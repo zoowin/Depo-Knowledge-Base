@@ -76,7 +76,7 @@ Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and
 - **评分：** ⭐⭐⭐⭐½ (2000+)
 - **价格：** **$80** ~~$120~~
 - **CTA：** **$80 ONLY - SHOP NOW**（价格化）
-- **链接：** `https://depology.com/products/[NEW_M3K_3F2_SLUG]` ⚠️
+- **链接：** `https://depology.com/products/offer-matrixyl-r-3000-triple-bundle` ⚠️
 
 ### Card 2 — 蓝色横条 "40% OFF · BUNDLE" + BEST + Seal — M1 升级版 + Argireline Combo
 - **产品名：** Dynamic Wrinkle Defense Duo 🆕 (M1 Patches + Argireline Serum)
@@ -100,7 +100,7 @@ Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and
 - **评分：** ⭐⭐⭐⭐½ (1500+)
 - **价格：** **$37** ~~$62~~
 - **CTA：** **SAVE $25 - SHOP NOW**（混合）
-- **链接：** `https://depology.com/products/tri-active-matrixyl-complex-cream`
+- **链接：** `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy`
 
 ---
 

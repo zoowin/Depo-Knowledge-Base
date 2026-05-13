@@ -82,7 +82,7 @@ Our **Bakuchiol Smoothing Serum Stick** softens fine lines and smooths texture �
 - **评分：** ⭐⭐⭐⭐½ (3000+)
 - **价格：** **$43** ~~$86~~
 - **CTA：** SAVE $43
-- **链接：** `https://depology.com/products/deepcare-serum-infused-micro-dart-patches-lp1-t0` ⚠️ **Leon 提供 OFFER 页 URL 后替换**
+- **链接：** `https://depology.com/products/offer-deepcare-serum-infused-micro-dart-patches` ⚠️ **Leon 提供 OFFER 页 URL 后替换**
 - **Shopify SKU：** KPM2J11（M2 variant，库存 1493）
 
 ### Card 3 — 蓝色横条 "NEW BUNDLE · SAVE $46" + BEST + Seal

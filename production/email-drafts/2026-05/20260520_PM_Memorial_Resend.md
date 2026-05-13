@@ -73,7 +73,7 @@ The sale has kicked off — and it's moving faster than we thought.
 - **评分：** ⭐⭐⭐⭐½ (2000+)
 - **价格：** **$80** ~~$120~~
 - **CTA：** SAVE $40
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/[NEW_M3K_3F2_SLUG]` ⚠️ **待 Leon 提供新建 Memorial promo SKU 的 slug**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-matrixyl-r-3000-triple-bundle` ⚠️ **待 Leon 提供新建 Memorial promo SKU 的 slug**
 
 ### Card 3 — 蓝色横条 "35% OFF"
 - **产品名：** Deepcare+® MicroOperator Boosting Cream
@@ -81,7 +81,7 @@ The sale has kicked off — and it's moving faster than we thought.
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$22** ~~$34~~
 - **CTA：** SAVE $12
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/deepcare-r-microoperator-boosting-cream-beginner`
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only`
 
 ### Card 4 — 蓝色横条 "30% OFF"
 - **产品名：** Triple Lipid + Q10 Revive Moisturizing Treatment RICH
@@ -89,7 +89,7 @@ The sale has kicked off — and it's moving faster than we thought.
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$31** ~~$44~~
 - **CTA：** SAVE $13
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/triple-lipid-q10-revive-moisturizing-treatment-rich`
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-offer-offer-triple-lipid-q10-revive-moisturizing-treatment-rich`
 
 ---
 
