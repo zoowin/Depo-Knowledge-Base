@@ -353,38 +353,24 @@ def lead_block(lead_copy_html, mem10_callout_html=None, primary_cta_text="SHOP M
     return "".join(parts)
 
 
-def card_html(sku_key, badge_text, badge_color, price, original, cta_text, cta_url, show_best, show_seal):
-    """One product card. badge_color: '#1E3A8A' (blue) or '#C8102E' (red 100-cap/scarcity)"""
+def card_html(sku_key, badge_text, badge_color, price, original, cta_text, cta_url):
+    """One product card. badge_color: '#1E3A8A' (blue) or '#C8102E' (red 100-cap/scarcity).
+    Note: BEST tag + Dermatologist seal removed per Leon 2026-05-13 feedback.
+    Product image fills full card width (820x920 ratio, no L/R padding)."""
     s = SKU[sku_key]
     rating_html = ""
     if s["rating_count"]:
         rating_html = f"""★★★★½ <span style="color:#888;">{s["rating_count"]}</span>"""
     else:
         rating_html = "★★★★½"
-    best_tag_html = ""
-    if show_best:
-        best_tag_html = """<td align="left" style="font-family:Helvetica,Arial,sans-serif;font-size:10px;font-weight:700;letter-spacing:1px;color:#1E3A8A;border:1.5px solid #1E3A8A;border-radius:14px;padding:3px 10px;display:inline-block;background:#FFFFFF;">&nbsp;BEST&nbsp;</td>"""
-    else:
-        best_tag_html = """<td align="left" style="font-family:Helvetica,Arial,sans-serif;font-size:10px;font-weight:700;letter-spacing:1px;color:#888;">&nbsp;&nbsp;</td>"""
-    seal_html = ""
-    if show_seal:
-        seal_html = """<td align="right" style="font-family:Helvetica,Arial,sans-serif;font-size:9px;font-weight:600;color:#888;">⊕ Dermatologist</td>"""
-    else:
-        seal_html = """<td align="right" style="font-family:Helvetica,Arial,sans-serif;font-size:9px;font-weight:600;color:#888;">&nbsp;</td>"""
     return f"""<td class="mem-card-col" style="width:50%;vertical-align:top;padding:8px;" valign="top">
   <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;border:2px solid {badge_color};background:#FFFFFF;">
     <tbody>
       <tr><td align="center" style="background:{badge_color};color:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:700;letter-spacing:1.5px;padding:10px 8px;">{badge_text}</td></tr>
-      <tr><td style="padding:8px 12px 0 12px;">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
-          {best_tag_html}
-          {seal_html}
-        </tr></tbody></table>
+      <tr><td style="padding:0;font-size:0;line-height:0;">
+        <img alt="{s["alt"]}" src="{s["img"]}" style="display:block;width:100%;height:auto;" width="296"/>
       </td></tr>
-      <tr><td align="center" style="padding:8px 12px 4px 12px;">
-        <img alt="{s["alt"]}" src="{s["img"]}" style="display:block;width:100%;max-width:180px;height:auto;" width="180"/>
-      </td></tr>
-      <tr><td align="center" style="font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#666;padding:0 12px 6px 12px;background:#F5F5F5;line-height:1.4;">{s["tag"]}</td></tr>
+      <tr><td align="center" style="font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#666;padding:6px 12px 6px 12px;background:#F5F5F5;line-height:1.4;">{s["tag"]}</td></tr>
       <tr><td align="left" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:700;color:#000;padding:10px 12px 4px 12px;line-height:1.3;">{s["name"]}</td></tr>
       <tr><td align="left" style="font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#999;padding:0 12px 4px 12px;">{s["volume"]}</td></tr>
       <tr><td align="left" style="font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#1E3A8A;padding:0 12px 4px 12px;">{rating_html}</td></tr>
@@ -778,18 +764,14 @@ def render(cfg):
     use_mem10 = cfg.get("use_mem10", False)
     sale_link = sale_page_url(use_mem10)
 
-    # Build cards
-    cards_html = []
-    for sku_key, badge_txt, badge_color, price, original, cta_txt, _, show_best, show_seal in [(*c, None) for c in cfg["cards"]]:
-        pass  # placeholder, real loop below
-
-    # Real card build loop
+    # Build cards (BEST tag + Dermatologist seal removed per Leon 2026-05-13)
     card_blocks = []
     for c in cfg["cards"]:
-        sku_key, badge_txt, badge_color, price, original, cta_txt, show_best, show_seal = c
+        # Cards may still carry legacy 8-tuple form (..., show_best, show_seal) — slice first 6
+        sku_key, badge_txt, badge_color, price, original, cta_txt = c[:6]
         card_blocks.append(
             card_html(sku_key, badge_txt, badge_color, price, original, cta_txt,
-                      product_url(sku_key, use_mem10), show_best, show_seal)
+                      product_url(sku_key, use_mem10))
         )
 
     grid = grid_2x2(card_blocks)
