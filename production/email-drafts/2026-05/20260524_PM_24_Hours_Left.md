@@ -73,15 +73,15 @@ The offers below **won't be back until Black Friday.**
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$22** ~~$34~~
 - **CTA：** **$22 ONLY - SHOP NOW**（价格化）
-- **链接：** `https://depology.com/products/deepcare-r-microoperator-boosting-cream-beginner`
+- **链接：** `https://depology.com/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only`
 
-### Card 2 — 蓝色横条 "50% OFF"
-- **产品名：** Moisturizing Caviar Multi Balm Stick
-- **Tag：** On-the-Go Moisturizing
-- **评分：** ⭐⭐⭐⭐½
-- **价格：** **$15** ~~$30~~
-- **CTA：** **$15 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/caviar-multi-balm-serum-stick`
+### Card 2 — 蓝色横条 "40% OFF"
+- **产品名：** Matriplex™ Peptide Intense Cream
+- **Tag：** Intensive Peptide Care
+- **评分：** ⭐⭐⭐⭐½ (1500+)
+- **价格：** **$37** ~~$62~~
+- **CTA：** **$37 ONLY - SHOP NOW**
+- **链接：** `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy`
 
 ### Card 3 — 蓝色横条 "70% OFF / $9"
 - **产品名：** Bakuchiol Smoothing Serum Stick
@@ -91,13 +91,13 @@ The offers below **won't be back until Black Friday.**
 - **CTA：** **$9 ONLY - SHOP NOW**
 - **链接：** `https://depology.com/products/bakuchiol-smoothing-serum-stick`
 
-### Card 4 — 蓝色横条 "50% OFF"
+### Card 4 — 蓝色横条 "40% OFF"
 - **产品名：** Peptide Complex Wrinkle Defense Eye Cream
 - **Tag：** Smooth Eye Wrinkles
 - **评分：** ⭐⭐⭐⭐½
-- **价格：** **$26** ~~$52~~
-- **CTA：** **$26 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/peptide-complex-wrinkle-defense-eye-cream`
+- **价格：** **$31** ~~$52~~
+- **CTA：** **$31 ONLY - SHOP NOW**
+- **链接：** `https://depology.com/products/offer-peptide-complex-wrinkle-defense-eye-cream-copy`
 
 ---
 

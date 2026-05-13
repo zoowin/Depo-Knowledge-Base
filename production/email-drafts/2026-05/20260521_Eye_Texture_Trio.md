@@ -6,7 +6,7 @@
 - **Send Date:** 2026-05-21 (Thursday)
 - **Send Time:** **9:00 AM ET**
 - **Segment:** Full List（exclude buyers <7 days + 标准 Excluded）
-- **Product Focus:** Eye + Texture Care 主题（PEC 50% + MOP 35% + MPS 50%）
+- **Product Focus:** Eye + Texture Care 主题（PEC 40% + MOP 35% + MPS 3F2 + Night Eye Patch 33%）
 - **Goal:** Day 2 cross-sell（参考 2025 5/22 Peptide 3F2 $20,301）
 - **Klaviyo Campaign Name:** `[DEP]_20260521_Memorial_Eye_Texture_Trio`
 
@@ -23,7 +23,7 @@
 4. Two upgrades your routine needs (both 50% off).
 
 ## Preview Text
-PEC Eye Cream 50%, MOP Boosting Cream 35%, Argireline Serum 3 for 2 — Memorial pricing live now.
+PEC Eye Cream 40%, MOP Boosting Cream 35%, Argireline 3 for 2, Night Under Eye Patch 33% — Memorial pricing live now.
 
 ---
 
@@ -62,13 +62,13 @@ Grab yours today and **see proven results in just 28 days.**
 
 ## 4-Card Product Grid（2×2）
 
-### Card 1 — 蓝色横条 "50% OFF"
+### Card 1 — 蓝色横条 "40% OFF"
 - **产品名：** Peptide Complex Wrinkle Defense Eye Cream
 - **Tag：** Smooth Eye Wrinkles
 - **评分：** ⭐⭐⭐⭐½
-- **价格：** **$26** ~~$52~~
-- **CTA：** SAVE $26
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/peptide-complex-wrinkle-defense-eye-cream`
+- **价格：** **$31** ~~$52~~
+- **CTA：** SAVE $21
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-peptide-complex-wrinkle-defense-eye-cream-copy`
 
 ### Card 2 — 蓝色横条 "35% OFF"
 - **产品名：** Deepcare+® MicroOperator Boosting Cream
@@ -76,7 +76,7 @@ Grab yours today and **see proven results in just 28 days.**
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$22** ~~$34~~
 - **CTA：** SAVE $12
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/deepcare-r-microoperator-boosting-cream-beginner`
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only`
 
 ### Card 3 — 蓝色横条 "3 FOR 2" + BEST + Seal
 - **产品名：** Peptide Complex Argireline™ Serum 3 for 2
@@ -84,15 +84,15 @@ Grab yours today and **see proven results in just 28 days.**
 - **评分：** ⭐⭐⭐⭐½ (800+)
 - **价格：** **$98** ~~$147~~
 - **CTA：** SAVE $49
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/argireline-serum-triple-bundle`
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-peptide-complex-10-serum-3-for-2`
 
-### Card 4 — 蓝色横条 "50% OFF"
-- **产品名：** Matriplex™ Peptide Intense Cream
-- **Tag：** Intensive Peptide Care
+### Card 4 — 蓝色横条 "33% OFF" + BEST + Seal
+- **产品名：** Replenishing Night Under Eye Patch 🆕
+- **Tag：** Deep Overnight Care · 60 patches
 - **评分：** ⭐⭐⭐⭐½
-- **价格：** **$31** ~~$62~~
-- **CTA：** SAVE $31
-- **链接：** `https://depology.com/discount/MEM10?redirect=/products/tri-active-matrixyl-complex-cream`
+- **价格：** **$24** ~~$36~~
+- **CTA：** SAVE $12
+- **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-offer-replenishing-night-under-eye-patch` ⚠️ **Leon 提供 OFFER URL 后替换**
 
 ---
 

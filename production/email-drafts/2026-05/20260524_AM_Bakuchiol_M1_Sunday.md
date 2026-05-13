@@ -76,29 +76,30 @@ Our **Bakuchiol Smoothing Serum Stick** softens fine lines and smooths texture �
 - **CTA：** SAVE $21
 - **链接：** `https://depology.com/products/bakuchiol-smoothing-serum-stick`
 
-### Card 2 — 蓝色横条 "50% OFF / FIRST EVER" + NEW 角标 — M1 升级首促
+### Card 2 — 蓝色横条 "50% OFF / FIRST EVER" + NEW 角标 — M2 升级首促
 - **产品名：** Deepcare+® Micro-dart Patches (with 3,300 IU/g Retinol)
-- **Tag：** Now Stronger — Retinol Inside
+- **Tag：** Now Stronger — Retinol Inside · 16 pairs (8 weeks)
 - **评分：** ⭐⭐⭐⭐½ (3000+)
-- **价格：** **[TBD]** ~~[TBD]~~ ⚠️ **待 Leon 提供 M1 升级版 Memorial 价格**
-- **CTA：** SAVE 50%
-- **链接：** `https://depology.com/products/deepcare-serum-infused-micro-dart-patches-lp1-t0`
+- **价格：** **$43** ~~$86~~
+- **CTA：** SAVE $43
+- **链接：** `https://depology.com/products/offer-deepcare-serum-infused-micro-dart-patches` ⚠️ **Leon 提供 OFFER 页 URL 后替换**
+- **Shopify SKU：** KPM2J11（M2 variant，库存 1493）
 
-### Card 3 — 蓝色横条 "50% OFF"
-- **产品名：** Moisturizing Caviar Multi Balm Stick
-- **Tag：** On-the-Go Moisturizing
-- **评分：** ⭐⭐⭐⭐½
-- **价格：** **$15** ~~$30~~
-- **CTA：** SAVE $15
-- **链接：** `https://depology.com/products/caviar-multi-balm-serum-stick`
+### Card 3 — 蓝色横条 "NEW BUNDLE · SAVE $46" + BEST + Seal
+- **产品名：** Peptide Activation Trio 🆕
+- **Tag：** Smooth & Youthful Glow — 3-Step Activation
+- **评分：** ⭐⭐⭐⭐½ (NEW)
+- **价格：** **$89** ~~$135~~
+- **CTA：** SAVE $46
+- **链接：** `https://depology.com/products/peptide-activation-trio` ⚠️ **Leon 确认 slug**
 
-### Card 4 — 蓝色横条 "3 FOR 2" + BEST + Seal（cross-sell 高客单）
-- **产品名：** Matrixyl® 3000 Collagen Serum 3 for 2
-- **Tag：** Target Static Wrinkles
-- **评分：** ⭐⭐⭐⭐½ (2000+)
-- **价格：** **$80** ~~$120~~
-- **CTA：** SAVE $40
-- **链接：** `https://depology.com/products/[NEW_M3K_3F2_SLUG]` ⚠️
+### Card 4 — 蓝色横条 "35% OFF · BUNDLE" + BEST + Seal — M1 升级版 + M3K Combo
+- **产品名：** Static Wrinkle Repair Duo 🆕 (M1 Patches + Matrixyl 3000 Serum)
+- **Tag：** Deep Wrinkle Fix · 2 items
+- **评分：** ⭐⭐⭐⭐½ (1500+)
+- **价格：** **$49** ~~$76~~
+- **CTA：** SAVE $27
+- **链接：** `https://depology.com/products/static-wrinkle-repair-duo` ⚠️ **Leon 提供 OFFER URL 后替换；前 2 个 Duo 需补货到位 (Leon 已确认 5/20 前能到)**
 
 ---
 
@@ -135,9 +136,11 @@ Sunday morning aesthetic product shot: white Bakuchiol smoothing serum stick sta
 ### 链接策略
 - MEM10 已失效，所有链接走标准产品 URL
 
-### M1 价格 placeholder
-- ⚠️ Leon 需提供 M1 升级版当前售价 + Memorial 50% 后价格
-- Hero badge 与 Card 2 价格同步更新
+### M2 价格已锁定（2026-05-13 Leon 确认）
+- ✅ M2 升级版 16-pairs (KPM2J11): $86 → **$43** (50% off, save $43)
+- 库存 1493 units
+- 4-pairs + 8-pairs M2 variants 已 OOS（不可用作 hero）
+- 12-pairs 是旧 M1（无 Retinol），不能搭"first-ever 50% off the new M1 with retinol"叙事
 
 ### 与 PM 24 Hours Left 的视觉对比
 - AM 9 AM：白底 + 自然光 + Sunday 悠闲（本封）

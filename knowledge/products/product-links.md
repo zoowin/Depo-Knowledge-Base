@@ -10,18 +10,20 @@
 
 | Line | Product Name | Shopify URL | Offer URL | Klaviyo CDN Image (PNG) |
 |------|-------------|-------------|-----------|------------------------|
-| **A** | Matrixyl® 3000 Collagen Serum | `https://depology.com/products/depology-matrixyl-3000-serum` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/44a0bdde-9c05-4c2b-854b-fe92895a2a6f.png` |
-| **A** | Matriplex™ Peptide Intense Cream | `https://depology.com/products/tri-active-matrixyl-complex-cream` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/420e0d8e-091d-4a94-ad76-e4c2bea97c46.png` |
-| **B** | Peptide Complex 10% Argireline™ Serum | `https://depology.com/products/argireline-anti-wrinkle-serum` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/160b6da8-e5a3-4202-bcef-a511922d5954.png` |
-| **B** | Deepcare+ Micro-dart Eye Patch | `https://depology.com/products/deepcare-serum-infused-micro-dart-patches-lp1-t0` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/bdb87085-8617-43d8-be9b-f2cc405c16d1.png` |
-| **B** | Peptide Complex Eye Cream | `https://depology.com/products/peptide-complex-wrinkle-defense-eye-cream` | `https://depology.com/products/offer-peptide-complex-wrinkle-defense-eye-cream-copy` | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/17182a51-02dc-4114-8b61-d82e29c46bcb.png` |
-| **B** | Replenishing Night Under Eye Patch | `https://depology.com/products/replenishing-night-under-eye-patch` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/fb01a6c6-6cdf-4159-b40b-9f605f71ab65.png` |
+| **A** | Matrixyl® 3000 Collagen Serum | `https://depology.com/products/offer-matrixyl-r-3000-triple-bundle` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/44a0bdde-9c05-4c2b-854b-fe92895a2a6f.png` |
+| **A** | Matriplex™ Peptide Intense Cream | `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/420e0d8e-091d-4a94-ad76-e4c2bea97c46.png` |
+| **B** | Peptide Complex 10% Argireline™ Serum | `https://depology.com/products/offer-peptide-complex-10-serum-3-for-2` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/160b6da8-e5a3-4202-bcef-a511922d5954.png` |
+| **B** | Deepcare+ Micro-dart Eye Patch | `https://depology.com/products/offer-deepcare-serum-infused-micro-dart-patches` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/bdb87085-8617-43d8-be9b-f2cc405c16d1.png` |
+| **B** | Peptide Complex Eye Cream | `https://depology.com/products/offer-peptide-complex-wrinkle-defense-eye-cream-copy` | `https://depology.com/products/offer-peptide-complex-wrinkle-defense-eye-cream-copy` | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/17182a51-02dc-4114-8b61-d82e29c46bcb.png` |
+| **B** | Replenishing Night Under Eye Patch | `https://depology.com/products/offer-offer-replenishing-night-under-eye-patch` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/fb01a6c6-6cdf-4159-b40b-9f605f71ab65.png` |
 | **C** | Retinol Radiance Rescue Body Lotion | `https://depology.com/products/retinol-radiance-body-lotion` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/65227851-df6d-4cbd-bcae-6a5c9e446619.png` |
-| **E** | Deepcare+® MicroOperator Boosting Cream | `https://depology.com/products/deepcare-r-microoperator-boosting-cream-beginner` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/6db87278-16b2-48dd-bb79-837047b7142f.png` |
+| **E** | Deepcare+® MicroOperator Boosting Cream | `https://depology.com/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/6db87278-16b2-48dd-bb79-837047b7142f.png` |
 | **F** | Opuntia-C Relief Cleansing Balm | `https://depology.com/products/opuntia-c-relief-cleansing-balm` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/63b261a2-9e8a-403f-8343-cde631ec3b49.png` |
 | **G** | Bakuchiol Smoothing Serum Stick | `https://depology.com/products/bakuchiol-smoothing-serum-stick` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/642001c5-54b0-4900-90fd-bc0c5dc37dc0.png` |
-| **G** | Caviar Multi-Balm Serum Stick | `https://depology.com/products/caviar-multi-balm-serum-stick` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/7488ad7b-1062-4c3f-ab01-65ec941435e0.png` |
-| **H** | Triple Lipid + Q10 Moisturizing Treatment RICH | `https://depology.com/products/triple-lipid-q10-revive-moisturizing-treatment-rich` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/f11a370d-d5dc-426a-90b0-1ec12a1f8c85.png` |
+| **H** | Triple Lipid + Q10 Moisturizing Treatment RICH | `https://depology.com/products/offer-offer-triple-lipid-q10-revive-moisturizing-treatment-rich` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/f11a370d-d5dc-426a-90b0-1ec12a1f8c85.png` |
+| **Bundle** | Peptide Activation Trio (NEW 2026) | `https://depology.com/products/peptide-activation-trio` ⚠️ Leon 确认 slug | — | ⚠️ Leon 上传新图后补 |
+| **Bundle** | Static Wrinkle Repair Duo (M1 + M3K) | `https://depology.com/products/static-wrinkle-repair-duo` ⚠️ Leon 提供 OFFER URL | — | ⚠️ Leon 上传新图后补 |
+| **Bundle** | Dynamic Wrinkle Defense Duo (M1 + Argireline) | `https://depology.com/products/dynamic-wrinkle-defense-duo` ⚠️ Leon 提供 OFFER URL | — | ⚠️ Leon 上传新图后补 |
 
 ---
 
