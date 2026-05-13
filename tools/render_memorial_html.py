@@ -234,17 +234,21 @@ LOGO_BLOCK = """<!-- Logo -->
 """
 
 
-def hero_placeholder_a(badge_text, hero_link):
-    """Template A: white-base hero with STAR badge text overlay note in placeholder"""
-    return f"""<!-- Hero Image PLACEHOLDER — Leon to replace with AI-generated 600x400 image (multi-SKU still life + STAR badge text "{badge_text}" built into image) -->
+def hero_placeholder_a(badge_text, hero_link, hero_url=None, alt_text="Memorial Day Sale"):
+    """Template A: white-base hero. If hero_url provided, render real img; else placeholder div."""
+    if hero_url:
+        media_block = f"""<img alt="{alt_text}" src="{hero_url}" style="display:block;width:100%;max-width:600px;height:auto;" width="600"/>"""
+    else:
+        media_block = f"""<!-- REPLACE THIS DIV WITH: <img src="HERO_IMAGE_URL_HERE" alt="{alt_text}" width="600" style="display:block;width:100%;max-width:600px;height:auto;"/> -->
+<div style="background:#E8E8E8;width:100%;max-width:600px;height:400px;display:block;text-align:center;line-height:400px;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#999;font-style:italic;letter-spacing:1px;">
+[ HERO IMAGE PLACEHOLDER 600×400 — STAR badge "{badge_text}" ]
+</div>"""
+    return f"""<!-- Hero Image (Template A) — STAR badge text: "{badge_text}" -->
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
 <tbody><tr>
 <td align="center" style="font-size:0px;word-break:break-word;padding:0;">
 <a href="{hero_link}" style="color:#444;text-decoration:underline;display:block">
-<!-- REPLACE THIS DIV WITH: <img src="HERO_IMAGE_URL_HERE" alt="Memorial Day Sale" width="600" style="display:block;width:100%;max-width:600px;height:auto;"/> -->
-<div style="background:#E8E8E8;width:100%;max-width:600px;height:400px;display:block;text-align:center;line-height:400px;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#999;font-style:italic;letter-spacing:1px;">
-[ HERO IMAGE PLACEHOLDER 600×400 — STAR badge "{badge_text}" ]
-</div>
+{media_block}
 </a>
 </td>
 </tr></tbody>
@@ -252,14 +256,12 @@ def hero_placeholder_a(badge_text, hero_link):
 """
 
 
-def hero_placeholder_b(banner_line_1, banner_line_2, hero_link):
-    """Template B: red banner overlay on top + tilted product hero placeholder"""
-    return f"""<!-- Hero Image PLACEHOLDER (Template B) — red banner + tilted product hero. Leon to replace with full 600x400 image including banner text + tilted products. -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
-<tbody><tr>
-<td align="center" style="font-size:0px;word-break:break-word;padding:0;">
-<a href="{hero_link}" style="color:#444;text-decoration:underline;display:block">
-<!-- Red banner mockup (will be part of hero image once Leon generates it) -->
+def hero_placeholder_b(banner_line_1, banner_line_2, hero_link, hero_url=None, alt_text="Only 24 Hours Left"):
+    """Template B: red banner + tilted hero. If hero_url provided, single img replaces both (assumes banner baked in)."""
+    if hero_url:
+        media_block = f"""<img alt="{alt_text}" src="{hero_url}" style="display:block;width:100%;max-width:600px;height:auto;" width="600"/>"""
+    else:
+        media_block = f"""<!-- Red banner mockup (will be part of hero image once Leon generates it) -->
 <div style="background:#DC2626;width:100%;max-width:600px;padding:18px 12px;text-align:center;font-family:Helvetica,Arial,sans-serif;color:#FFFFFF;letter-spacing:1px;">
 <div style="font-size:24px;font-weight:700;line-height:1.2;">{banner_line_1}</div>
 <div style="font-size:16px;font-weight:600;line-height:1.4;margin-top:4px;">{banner_line_2}</div>
@@ -267,7 +269,13 @@ def hero_placeholder_b(banner_line_1, banner_line_2, hero_link):
 <!-- Tilted hero image placeholder -->
 <div style="background:#E8E8E8;width:100%;max-width:600px;height:320px;display:block;text-align:center;line-height:320px;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#999;font-style:italic;letter-spacing:1px;">
 [ HERO IMAGE PLACEHOLDER 600×320 — tilted products + red urgency aesthetic ]
-</div>
+</div>"""
+    return f"""<!-- Hero Image (Template B) — Red banner: "{banner_line_1} / {banner_line_2}" -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody><tr>
+<td align="center" style="font-size:0px;word-break:break-word;padding:0;">
+<a href="{hero_link}" style="color:#444;text-decoration:underline;display:block">
+{media_block}
 </a>
 </td>
 </tr></tbody>
@@ -275,19 +283,23 @@ def hero_placeholder_b(banner_line_1, banner_line_2, hero_link):
 """
 
 
-def hero_placeholder_c(overlay_red, overlay_blue, badge_text, hero_link):
-    """Template C: hero with LAST CHANCE red + sub blue overlay text + STAR badge"""
-    return f"""<!-- Hero Image PLACEHOLDER (Template C) — Multi-SKU group + STAR badge "{badge_text}" + top overlay text. -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
-<tbody><tr>
-<td align="center" style="font-size:0px;word-break:break-word;padding:0;">
-<a href="{hero_link}" style="color:#444;text-decoration:underline;display:block">
-<!-- Hero placeholder with text-overlay mockup (will be part of generated image) -->
+def hero_placeholder_c(overlay_red, overlay_blue, badge_text, hero_link, hero_url=None, alt_text="Last Chance Memorial Sale"):
+    """Template C: overlay text + STAR badge. If hero_url provided, render real img."""
+    if hero_url:
+        media_block = f"""<img alt="{alt_text}" src="{hero_url}" style="display:block;width:100%;max-width:600px;height:auto;" width="600"/>"""
+    else:
+        media_block = f"""<!-- Hero placeholder with text-overlay mockup (will be part of generated image) -->
 <div style="background:#E8E8E8;width:100%;max-width:600px;height:400px;display:block;text-align:center;font-family:Helvetica,Arial,sans-serif;letter-spacing:1px;position:relative;padding-top:36px;box-sizing:border-box;">
 <div style="font-size:38px;font-weight:700;color:#DC2626;line-height:1.0;">{overlay_red}</div>
 <div style="font-size:18px;font-weight:700;color:#1E3A8A;line-height:1.4;margin-top:6px;">{overlay_blue}</div>
 <div style="font-size:13px;color:#999;font-style:italic;margin-top:60px;">[ HERO IMAGE PLACEHOLDER 600×400 — multi-SKU group + STAR "{badge_text}" ]</div>
-</div>
+</div>"""
+    return f"""<!-- Hero Image (Template C) — overlay "{overlay_red} / {overlay_blue}" + STAR "{badge_text}" -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody><tr>
+<td align="center" style="font-size:0px;word-break:break-word;padding:0;">
+<a href="{hero_link}" style="color:#444;text-decoration:underline;display:block">
+{media_block}
 </a>
 </td>
 </tr></tbody>
@@ -599,6 +611,7 @@ EMAILS = [
         "template": "A",
         "use_mem10": True,
         "hero_badge": "UP TO 60% OFF",
+        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/416e231c-6611-4b7b-babf-35745e0e61f7.jpeg",
         "h1": "The Summer Sale You&rsquo;ve Been Waiting For&hellip; IS LIVE!",
         "lead": f'Memorial Day is here. We&rsquo;re offering our {rb("BIGGEST")} summer deal &mdash; with new launches and our best-selling peptide series.',
         "mem10_callout": f'Extra 10% off site-wide with code {ul("MEM10")} for subscribers, 48 hours only.',
@@ -778,14 +791,15 @@ def render(cfg):
 
     # Hero + headline + lead per template
     template = cfg["template"]
+    hero_url = cfg.get("hero_image_url")  # optional; if None, render grey placeholder
     if template == "A":
-        hero = hero_placeholder_a(cfg["hero_badge"], sale_link)
+        hero = hero_placeholder_a(cfg["hero_badge"], sale_link, hero_url=hero_url)
         head_block = headline_block(cfg["h1"])
     elif template == "B":
-        hero = hero_placeholder_b(cfg["banner_line_1"], cfg["banner_line_2"], sale_link)
+        hero = hero_placeholder_b(cfg["banner_line_1"], cfg["banner_line_2"], sale_link, hero_url=hero_url)
         head_block = ""  # banner replaces H1 in template B
     elif template == "C":
-        hero = hero_placeholder_c(cfg["overlay_red"], cfg["overlay_blue"], cfg["hero_badge"], sale_link)
+        hero = hero_placeholder_c(cfg["overlay_red"], cfg["overlay_blue"], cfg["hero_badge"], sale_link, hero_url=hero_url)
         head_block = ""  # overlay text replaces H1 in template C
     else:
         raise ValueError(f"Unknown template: {template}")
