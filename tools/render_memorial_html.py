@@ -30,6 +30,7 @@ SKU = {
     "m3k_3f2": {
         "name": "Matrixyl® 3000 Collagen Serum",
         "tag": "Target Static Wrinkles",
+        "benefit": "Visible plumping in 28 days",
         "rating_count": "(2000+)",
         "volume": "30ml*3",
         "img": f"{IMG_BASE}/19ffd3a2-1cee-4a87-96f2-4dda1a5878d2.jpeg",
@@ -39,6 +40,7 @@ SKU = {
     "argireline_3f2": {
         "name": "Peptide Complex Argireline™ Serum",
         "tag": "Target Dynamic Wrinkles",
+        "benefit": "Softens expression lines",
         "rating_count": "(800+)",
         "volume": "30ml*3",
         "img": f"{IMG_BASE}/922c97bf-7f09-4545-b04d-805354e5b770.jpeg",
@@ -48,6 +50,7 @@ SKU = {
     "face_eye_duo": {
         "name": "Face &amp; Eye Peptide Firming Duo",
         "tag": "Smooth &amp; Firm — Cream Duo",
+        "benefit": "Firms + smooths in 14 days",
         "rating_count": "(500+)",
         "volume": "50ml + 15ml",
         "img": f"{IMG_BASE}/85a9714d-4d1c-45c9-8b50-3bd6b040c1be.jpeg",
@@ -57,6 +60,7 @@ SKU = {
     "matriplex": {
         "name": "Matriplex™ Peptide Intense Cream",
         "tag": "Intensive Peptide Care",
+        "benefit": "Firms, lifts, smooths overnight",
         "rating_count": "(1500+)",
         "volume": "50ml",
         "img": f"{IMG_BASE}/3a22afe6-fe59-4f2d-953e-bacf46f4bfc5.jpeg",
@@ -66,6 +70,7 @@ SKU = {
     "pec": {
         "name": "Peptide Complex Wrinkle Defense Eye Cream",
         "tag": "Smooth Eye Wrinkles",
+        "benefit": "Brightens &amp; de-puffs",
         "rating_count": "",
         "volume": "15ml",
         "img": f"{IMG_BASE}/73fc6218-3682-4111-89bb-e18f46fbfa46.jpeg",
@@ -75,6 +80,7 @@ SKU = {
     "mop": {
         "name": "Deepcare+® MicroOperator Boosting Cream",
         "tag": "Boosts Skin Renewal &amp; Radiance",
+        "benefit": "Refreshes &amp; evens texture",
         "rating_count": "",
         "volume": "50ml",
         "img": f"{IMG_BASE}/784eeb0d-b743-4f5d-b31c-c20f068bcefc.jpeg",
@@ -84,6 +90,7 @@ SKU = {
     "tlq": {
         "name": "Triple Lipid + Q10 RICH",
         "tag": "Support Skin Barrier",
+        "benefit": "Restores moisture barrier",
         "rating_count": "",
         "volume": "50ml",
         "img": f"{IMG_BASE}/3c2e2c94-913d-4568-afe0-85347f641eb9.jpeg",
@@ -93,6 +100,7 @@ SKU = {
     "bakuchiol": {
         "name": "Bakuchiol Smoothing Serum Stick",
         "tag": "Improve Fine Lines &amp; Wrinkles",
+        "benefit": "Retinol-like results, gentler",
         "rating_count": "",
         "volume": "10g",
         "img": f"{IMG_BASE}/996a4cfa-1508-40d8-8866-10419c175a92.jpeg",
@@ -102,6 +110,7 @@ SKU = {
     "m2": {
         "name": "Deepcare+® Micro-dart Patches",
         "tag": "Now Stronger — Retinol Inside · 16 pairs",
+        "benefit": "Targeted retinol delivery",
         "rating_count": "(3000+)",
         "volume": "8 weeks supply",
         "img": f"{IMG_BASE}/9e3d370f-de96-4240-88b2-3f4f229b084f.jpeg",
@@ -111,6 +120,7 @@ SKU = {
     "pat": {
         "name": "Peptide Activation Trio",
         "tag": "Smooth &amp; Youthful Glow — 3-Step Activation",
+        "benefit": "Prime · layer · seal in 3 steps",
         "rating_count": "(NEW)",
         "volume": "3 items",
         "img": f"{IMG_BASE}/42ce5493-c458-47db-b07e-ea974578f7f5.jpeg",
@@ -120,6 +130,7 @@ SKU = {
     "static_duo": {
         "name": "Static Wrinkle Repair Duo",
         "tag": "Deep Wrinkle Fix · M1 + M3K",
+        "benefit": "Patches + serum, one routine",
         "rating_count": "(1500+)",
         "volume": "2 items",
         "img": f"{IMG_BASE}/68e2e5d9-ce35-47f7-b8ac-1b1295156323.jpeg",
@@ -129,6 +140,7 @@ SKU = {
     "dynamic_duo": {
         "name": "Dynamic Wrinkle Defense Duo",
         "tag": "Early Line Defense · M1 + Argireline",
+        "benefit": "Defends against expression lines",
         "rating_count": "(1500+)",
         "volume": "2 items",
         "img": f"{IMG_BASE}/9856be7d-aff5-491e-b26c-4db02e5c5104.jpeg",
@@ -138,6 +150,7 @@ SKU = {
     "night_eye": {
         "name": "Replenishing Night Under Eye Patch",
         "tag": "Deep Overnight Care",
+        "benefit": "Replenishes while you sleep",
         "rating_count": "",
         "volume": "60 patches",
         "img": f"{IMG_BASE}/ed2bfcb0-8b14-4cf2-ad3e-5b26f457626c.jpeg",
@@ -256,21 +269,20 @@ def hero_placeholder_a(badge_text, hero_link, hero_url=None, alt_text="Memorial 
 """
 
 
-def hero_placeholder_b(banner_line_1, banner_line_2, hero_link, hero_url=None, alt_text="Only 24 Hours Left"):
-    """Template B: red banner + tilted hero. If hero_url provided, single img replaces both (assumes banner baked in)."""
+def hero_placeholder_b(banner_text, hero_link, hero_url=None, alt_text="Only 24 Hours Left"):
+    """Template B: single-line restrained red banner + tilted hero. If hero_url provided, single img replaces both."""
     if hero_url:
         media_block = f"""<img alt="{alt_text}" src="{hero_url}" style="display:block;width:100%;max-width:600px;height:auto;" width="600"/>"""
     else:
-        media_block = f"""<!-- Red banner mockup (will be part of hero image once Leon generates it) -->
-<div style="background:#DC2626;width:100%;max-width:600px;padding:18px 12px;text-align:center;font-family:Helvetica,Arial,sans-serif;color:#FFFFFF;letter-spacing:1px;">
-<div style="font-size:24px;font-weight:700;line-height:1.2;">{banner_line_1}</div>
-<div style="font-size:16px;font-weight:600;line-height:1.4;margin-top:4px;">{banner_line_2}</div>
+        media_block = f"""<!-- Restrained single-line red banner (Leon feedback: one line, less heavy) -->
+<div style="background:#DC2626;width:100%;max-width:600px;padding:11px 12px;text-align:center;font-family:Helvetica,Arial,sans-serif;color:#FFFFFF;letter-spacing:1.2px;">
+<div style="font-size:17px;font-weight:700;line-height:1.2;">{banner_text}</div>
 </div>
 <!-- Tilted hero image placeholder -->
 <div style="background:#E8E8E8;width:100%;max-width:600px;height:320px;display:block;text-align:center;line-height:320px;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#999;font-style:italic;letter-spacing:1px;">
 [ HERO IMAGE PLACEHOLDER 600×320 — tilted products + red urgency aesthetic ]
 </div>"""
-    return f"""<!-- Hero Image (Template B) — Red banner: "{banner_line_1} / {banner_line_2}" -->
+    return f"""<!-- Hero Image (Template B) — Red banner (single line): "{banner_text}" -->
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
 <tbody><tr>
 <td align="center" style="font-size:0px;word-break:break-word;padding:0;">
@@ -365,16 +377,43 @@ def lead_block(lead_copy_html, mem10_callout_html=None, primary_cta_text="SHOP M
     return "".join(parts)
 
 
+def _save_amount(price_str, original_str):
+    """Compute SAVE amount from price strings like '80.00' and '120.00'."""
+    try:
+        p, o = float(price_str), float(original_str)
+        save = o - p
+        # Drop .00 for whole-dollar amounts
+        if save == int(save):
+            return f"${int(save)}"
+        return f"${save:.2f}"
+    except Exception:
+        return ""
+
+
 def card_html(sku_key, badge_text, badge_color, price, original, cta_text, cta_url):
     """One product card. badge_color: '#1E3A8A' (blue) or '#C8102E' (red 100-cap/scarcity).
-    Note: BEST tag + Dermatologist seal removed per Leon 2026-05-13 feedback.
-    Product image fills full card width (820x920 ratio, no L/R padding)."""
+    Card structure (no BEST/Derm per Leon 2026-05-13):
+      1. Discount badge bar (full width)
+      2. Product image (full width, 820x920 source)
+      3. Tag (grey bg)
+      4. Benefit line (italic, small, on grey bg under tag)  ← 🆕 added 2026-05-13
+      5. Product name + volume + rating + price
+      6. SAVE $X red horizontal bar  ← 🆕 added 2026-05-13
+      7. Black CTA button
+    """
     s = SKU[sku_key]
     rating_html = ""
     if s["rating_count"]:
         rating_html = f"""★★★★½ <span style="color:#888;">{s["rating_count"]}</span>"""
     else:
         rating_html = "★★★★½"
+    benefit_html = ""
+    if s.get("benefit"):
+        benefit_html = f"""<tr><td align="center" style="font-family:Helvetica,Arial,sans-serif;font-size:10px;font-style:italic;color:#555;padding:0 12px 8px 12px;background:#F5F5F5;line-height:1.3;">{s["benefit"]}</td></tr>"""
+    save_amt = _save_amount(price, original)
+    save_bar_html = ""
+    if save_amt:
+        save_bar_html = f"""<tr><td align="center" style="background:#C8102E;color:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;padding:7px 8px;">SAVE {save_amt} &middot; MEMORIAL PRICING</td></tr>"""
     return f"""<td class="mem-card-col" style="width:50%;vertical-align:top;padding:8px;" valign="top">
   <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;border:2px solid {badge_color};background:#FFFFFF;">
     <tbody>
@@ -382,11 +421,13 @@ def card_html(sku_key, badge_text, badge_color, price, original, cta_text, cta_u
       <tr><td style="padding:0;font-size:0;line-height:0;">
         <img alt="{s["alt"]}" src="{s["img"]}" style="display:block;width:100%;height:auto;" width="296"/>
       </td></tr>
-      <tr><td align="center" style="font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#666;padding:6px 12px 6px 12px;background:#F5F5F5;line-height:1.4;">{s["tag"]}</td></tr>
+      <tr><td align="center" style="font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#666;padding:6px 12px 4px 12px;background:#F5F5F5;line-height:1.4;">{s["tag"]}</td></tr>
+      {benefit_html}
       <tr><td align="left" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:700;color:#000;padding:10px 12px 4px 12px;line-height:1.3;">{s["name"]}</td></tr>
       <tr><td align="left" style="font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#999;padding:0 12px 4px 12px;">{s["volume"]}</td></tr>
       <tr><td align="left" style="font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#1E3A8A;padding:0 12px 4px 12px;">{rating_html}</td></tr>
       <tr><td align="left" style="font-family:Helvetica,Arial,sans-serif;font-size:14px;padding:4px 12px 10px 12px;"><span style="color:#C8102E;font-weight:700;">${price}</span> <span style="color:#999;text-decoration:line-through;">${original}</span></td></tr>
+      {save_bar_html}
       <tr><td align="center" style="background:#000000;padding:0;">
         <a href="{cta_url}" style="display:block;color:#FFF;text-decoration:none;font-family:Helvetica,Arial,sans-serif;font-size:13px;font-weight:700;letter-spacing:1px;padding:12px 8px;" target="_blank">{cta_text}</a>
       </td></tr>
@@ -705,47 +746,46 @@ EMAILS = [
         "closing": "Limited stock available &mdash; grab yours while you can!",
         "secondary_cta": "SHOP MEMORIAL SALE",
     },
-    # ─── 5/24 AM Bakuchiol $9 + M2 50% ───
+    # ─── 5/24 AM Sunday Essentials — M2 First-Ever 50% (Bakuchiol removed, depleted Day 1) ───
     {
         "filename": "20260524_AM_Bakuchiol_M1_Sunday.html",
-        "title": "$9 Bakuchiol + M2 50% First-Ever",
+        "title": "First-Ever 50% Off M2 with Retinol",
         "template": "A",
         "use_mem10": False,
-        "hero_badge": "ONLY $9 BAKUCHIOL · M2 50% NEW WITH RETINOL",
+        "hero_badge": "FIRST-EVER 50% OFF · M2 WITH RETINOL",
         "h1": "Celebrate Memorial Day with Sunday Essentials",
-        "lead": f"Your Sunday skin essential, now just <b>$9.</b><br/><br/>Our <b>Bakuchiol Smoothing Serum Stick</b> softens fine lines and smooths texture &mdash; without retinol&rsquo;s irritation. (Original $30. While supplies last.)<br/><br/>{rb('Plus: First-ever 50% off the new M2 Retinol Micro-dart Patches.')}<br/><br/>{rb('US exclusive for the final 48 hours of Memorial Sale!')}",
+        "lead": f"Your Sunday skin essential is here.<br/><br/>For the first time ever, our upgraded <b>M2 Retinol Micro-dart Patches</b> are {rb('50% off')} — Memorial-exclusive Sunday flash.<br/><br/>The 3,300 IU/g Retinol formula delivers targeted renewal without the irritation. (16 pairs · 8 weeks of overnight care.)<br/><br/>{rb('US exclusive for the final 48 hours of Memorial Sale!')}",
         "mem10_callout": None,
-        "primary_cta": "SHOP $9 BAKUCHIOL!",
+        "primary_cta": "SHOP M2 50% OFF!",
         "cards": [
-            ("bakuchiol", "ONLY $9", "#1E3A8A", "9.00", "30.00", "SAVE $21", False, True),
-            ("m2", "50% OFF · FIRST EVER", "#1E3A8A", "43.00", "86.00", "SAVE $43", True, True),
-            ("pat", "NEW BUNDLE · SAVE $46", "#1E3A8A", "89.00", "135.00", "SAVE $46", True, True),
-            ("static_duo", "35% OFF · BUNDLE", "#1E3A8A", "49.00", "76.00", "SAVE $27", True, True),
+            ("m2", "50% OFF · FIRST EVER", "#1E3A8A", "43.00", "86.00", "SAVE $43"),
+            ("pat", "NEW BUNDLE", "#1E3A8A", "89.00", "135.00", "SAVE $46"),
+            ("static_duo", "35% OFF · BUNDLE", "#1E3A8A", "49.00", "76.00", "SAVE $27"),
+            ("night_eye", "33% OFF", "#1E3A8A", "24.00", "36.00", "SAVE $12"),
         ],
         "closing": "Limited stock available &mdash; grab yours while you can!",
         "secondary_cta": "SHOP MEMORIAL SALE",
     },
-    # ─── 5/24 PM 24 Hours Left (Template B) ───
+    # ─── 5/24 PM 24 Hours Left (Template B, restrained single-line banner) ───
     {
         "filename": "20260524_PM_24_Hours_Left.html",
         "title": "Only 24 Hours Left",
         "template": "B",
         "use_mem10": False,
-        "banner_line_1": "ONLY 24 HOURS LEFT!",
-        "banner_line_2": "THE MEMORIAL DAY SALE",
+        "banner_text": "ONLY 24 HOURS LEFT!",
         "lead": f"This is your {rb('last chance')} to get the BEST savings of the season!<br/><br/>The offers below {ul('won&rsquo;t be back until Black Friday.')}<br/><br/>{bi('Shop now or miss out until the end of the year.')}",
         "mem10_callout": None,
         "primary_cta": "LAST CHANCE TO SAVE!",
         "cards": [
-            ("mop", "35% OFF", "#1E3A8A", "22.00", "34.00", "$22 ONLY - SHOP NOW", False, False),
-            ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "$37 ONLY - SHOP NOW", True, True),
-            ("bakuchiol", "70% OFF / $9", "#1E3A8A", "9.00", "30.00", "$9 ONLY - SHOP NOW", False, True),
-            ("pec", "40% OFF", "#1E3A8A", "31.00", "52.00", "$31 ONLY - SHOP NOW", False, False),
+            ("mop", "35% OFF", "#1E3A8A", "22.00", "34.00", "$22 ONLY - SHOP NOW"),
+            ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "$37 ONLY - SHOP NOW"),
+            ("night_eye", "33% OFF", "#1E3A8A", "24.00", "36.00", "$24 ONLY - SHOP NOW"),
+            ("pec", "40% OFF", "#1E3A8A", "31.00", "52.00", "$31 ONLY - SHOP NOW"),
         ],
         "closing": "The offer is ending soon, so be sure not to miss out!",
         "secondary_cta": "SHOP MEMORIAL SALE",
     },
-    # ─── 5/25 Last Chance (Template C) ───
+    # ─── 5/25 Last Chance (Template C) — Bakuchiol replaced with Night Eye Patch ───
     {
         "filename": "20260525_Last_Chance.html",
         "title": "LAST CHANCE — Memorial Sale",
@@ -758,10 +798,10 @@ EMAILS = [
         "mem10_callout": None,
         "primary_cta": "SAVE 50% NOW!",
         "cards": [
-            ("m3k_3f2", "3 FOR 2", "#1E3A8A", "80.00", "120.00", "$80 ONLY - SHOP NOW", True, True),
-            ("dynamic_duo", "40% OFF · BUNDLE", "#1E3A8A", "51.00", "85.00", "SAVE $34 - SHOP NOW", True, True),
-            ("bakuchiol", "70% OFF / $9", "#1E3A8A", "9.00", "30.00", "$9 ONLY - SHOP NOW", False, True),
-            ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "SAVE $25 - SHOP NOW", True, True),
+            ("m3k_3f2", "3 FOR 2", "#1E3A8A", "80.00", "120.00", "$80 ONLY - SHOP NOW"),
+            ("dynamic_duo", "40% OFF · BUNDLE", "#1E3A8A", "51.00", "85.00", "SAVE $34 - SHOP NOW"),
+            ("night_eye", "33% OFF", "#1E3A8A", "24.00", "36.00", "$24 ONLY - SHOP NOW"),
+            ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "SAVE $25 - SHOP NOW"),
         ],
         "closing": "The offer is ending soon, so be sure not to miss out!",
         "secondary_cta": "SHOP MEMORIAL SALE",
@@ -796,7 +836,7 @@ def render(cfg):
         hero = hero_placeholder_a(cfg["hero_badge"], sale_link, hero_url=hero_url)
         head_block = headline_block(cfg["h1"])
     elif template == "B":
-        hero = hero_placeholder_b(cfg["banner_line_1"], cfg["banner_line_2"], sale_link, hero_url=hero_url)
+        hero = hero_placeholder_b(cfg["banner_text"], sale_link, hero_url=hero_url)
         head_block = ""  # banner replaces H1 in template B
     elif template == "C":
         hero = hero_placeholder_c(cfg["overlay_red"], cfg["overlay_blue"], cfg["hero_badge"], sale_link, hero_url=hero_url)
