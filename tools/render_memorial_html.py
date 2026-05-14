@@ -129,22 +129,22 @@ SKU = {
     },
     "static_duo": {
         "name": "Static Wrinkle Repair Duo",
-        "tag": "Deep Wrinkle Fix · M1 + M3K",
+        "tag": "Deep Wrinkle Fix · Patches + Matrixyl Serum",
         "benefit": "Patches + serum, one routine",
         "rating_count": "(1500+)",
         "volume": "2 items",
         "img": f"{IMG_BASE}/68e2e5d9-ce35-47f7-b8ac-1b1295156323.jpeg",
-        "alt": "Static Wrinkle Repair Duo M1 plus M3K",
+        "alt": "Static Wrinkle Repair Duo Patches plus Matrixyl Serum",
         "slug": "static-wrinkle-repair-duo",
     },
     "dynamic_duo": {
         "name": "Dynamic Wrinkle Defense Duo",
-        "tag": "Early Line Defense · M1 + Argireline",
+        "tag": "Early Line Defense · Patches + Argireline Serum",
         "benefit": "Defends against expression lines",
         "rating_count": "(1500+)",
         "volume": "2 items",
         "img": f"{IMG_BASE}/9856be7d-aff5-491e-b26c-4db02e5c5104.jpeg",
-        "alt": "Dynamic Wrinkle Defense Duo M1 plus Argireline",
+        "alt": "Dynamic Wrinkle Defense Duo Patches plus Argireline Serum",
         "slug": "dynamic-wrinkle-defense-duo",
     },
     "night_eye": {
@@ -769,17 +769,18 @@ EMAILS = [
         "closing": "Limited stock available &mdash; grab yours while you can!",
         "secondary_cta": "SHOP MEMORIAL SALE",
     },
-    # ─── 5/24 AM Sunday Essentials — M2 First-Ever 50% (Bakuchiol removed, depleted Day 1) ───
+    # ─── 5/24 AM Sunday Essentials — New Retinol Patches First-Ever 50% ───
+    # Note: M2 is internal codename only — never appears in customer-facing copy (Leon 2026-05-13 r4)
     {
-        "filename": "20260524_AM_Bakuchiol_M1_Sunday.html",
-        "title": "First-Ever 50% Off M2 with Retinol",
+        "filename": "20260524_AM_M2.html",
+        "title": "First-Ever 50% Off — New Retinol Patches",
         "template": "A",
         "use_mem10": False,
-        "hero_badge": "FIRST-EVER 50% OFF · M2 WITH RETINOL",
+        "hero_badge": "FIRST-EVER 50% OFF · NEW WITH RETINOL",
         "h1": "Celebrate Memorial Day with Sunday Essentials",
-        "lead": f"Your Sunday skin essential is here.<br/><br/>For the first time ever, our upgraded <b>M2 Retinol Micro-dart Patches</b> are {rb('50% off')} — Memorial-exclusive Sunday flash.<br/><br/>The 3,300 IU/g Retinol formula delivers targeted renewal without the irritation. (16 pairs · 8 weeks of overnight care.)<br/><br/>{rb('US exclusive for the final 48 hours of Memorial Sale!')}",
+        "lead": f"Your Sunday skin essential is here.<br/><br/>For the first time ever, our <b>new Retinol Micro-dart Patches</b> are {rb('50% off')} — Memorial-exclusive Sunday flash.<br/><br/>The 3,300 IU/g Retinol formula delivers targeted renewal without the irritation. (16 pairs · 8 weeks of overnight care.)<br/><br/>{rb('US exclusive for the final 48 hours of Memorial Sale!')}",
         "mem10_callout": None,
-        "primary_cta": "SHOP M2 50% OFF!",
+        "primary_cta": "SHOP THE NEW RETINOL!",
         "cards": [
             ("m2", "50% OFF · FIRST EVER", "#1E3A8A", "43.00", "86.00", "SAVE $43"),
             ("pat", "NEW BUNDLE", "#1E3A8A", "89.00", "135.00", "SAVE $46"),
