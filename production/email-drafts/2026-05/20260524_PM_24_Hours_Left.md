@@ -83,13 +83,13 @@ The offers below **won't be back until Black Friday.**
 - **CTA：** **$37 ONLY - SHOP NOW**
 - **链接：** `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy`
 
-### Card 3 — 蓝色横条 "70% OFF / $9"
-- **产品名：** Bakuchiol Smoothing Serum Stick
-- **Tag：** Improve Fine Lines & Wrinkles
+### Card 3 — 蓝色横条 "33% OFF"
+- **产品名：** Replenishing Night Under Eye Patch
+- **Tag：** Deep Overnight Care · 60 patches
 - **评分：** ⭐⭐⭐⭐½
-- **价格：** **$9** ~~$30~~
-- **CTA：** **$9 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/bakuchiol-smoothing-serum-stick`
+- **价格：** **$24** ~~$36~~
+- **CTA：** **$24 ONLY - SHOP NOW**
+- **链接：** `https://depology.com/products/offer-replenishing-night-under-eye-patch`
 
 ### Card 4 — 蓝色横条 "40% OFF"
 - **产品名：** Peptide Complex Wrinkle Defense Eye Cream

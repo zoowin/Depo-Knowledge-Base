@@ -64,7 +64,7 @@ Memorial Day is here. We're offering our **BIGGEST** summer deal — with new la
 - **Tag：** Target Static Wrinkles
 - **评分：** ⭐⭐⭐⭐½ (2000+)
 - **价格：** **$80** ~~$120~~
-- **CTA：** SAVE $40
+- **CTA：** SAVE $40 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-matrixyl-r-3000-triple-bundle` **待 Leon 提供新建 Memorial promo SKU 的 slug**
 
 ### Card 2 — 蓝色横条 "3 FOR 2" + BEST + Seal
@@ -72,7 +72,7 @@ Memorial Day is here. We're offering our **BIGGEST** summer deal — with new la
 - **Tag：** Target Dynamic Wrinkles
 - **评分：** ⭐⭐⭐⭐½ (800+)
 - **价格：** **$98** ~~$147~~
-- **CTA：** SAVE $49
+- **CTA：** SAVE $49 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-peptide-complex-10-serum-3-for-2` **待 Leon 激活 Argireline Triple Bundle (id 7962315849955) draft → active**
 
 ### Card 3 — 蓝色横条 "50% OFF" + BEST + Seal + 🔴 LIMITED 100 spots
@@ -80,7 +80,7 @@ Memorial Day is here. We're offering our **BIGGEST** summer deal — with new la
 - **Tag：** Smooth & Firm — Cream Duo
 - **评分：** ⭐⭐⭐⭐½ (500+)
 - **价格：** **$57** ~~$114~~
-- **CTA：** SAVE $57
+- **CTA：** SAVE $57 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/face-eye-peptide-firming-duo`
 - **副标 / 角标：** "🔴 ONLY 100 SPOTS"
 
@@ -89,7 +89,7 @@ Memorial Day is here. We're offering our **BIGGEST** summer deal — with new la
 - **Tag：** Improve Fine Lines & Wrinkles
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$9** ~~$30~~
-- **CTA：** SAVE $21
+- **CTA：** SAVE $21 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/bakuchiol-smoothing-serum-stick`
 
 ---

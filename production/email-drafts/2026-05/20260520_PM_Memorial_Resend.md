@@ -64,7 +64,7 @@ The sale has kicked off — and it's moving faster than we thought.
 - **Tag：** Smooth & Youthful Glow — 3-Step Activation
 - **评分：** ⭐⭐⭐⭐½ (NEW)
 - **价格：** **$89** ~~$135~~
-- **CTA：** SAVE $46
+- **CTA：** SAVE $46 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/peptide-activation-trio`
 
 ### Card 2 — 蓝色横条 "3 FOR 2" + BEST + Seal
@@ -72,7 +72,7 @@ The sale has kicked off — and it's moving faster than we thought.
 - **Tag：** Target Static Wrinkles
 - **评分：** ⭐⭐⭐⭐½ (2000+)
 - **价格：** **$80** ~~$120~~
-- **CTA：** SAVE $40
+- **CTA：** SAVE $40 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-matrixyl-r-3000-triple-bundle` **待 Leon 提供新建 Memorial promo SKU 的 slug**
 
 ### Card 3 — 蓝色横条 "35% OFF"
@@ -80,7 +80,7 @@ The sale has kicked off — and it's moving faster than we thought.
 - **Tag：** Boosts Skin Renewal and Radiance
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$22** ~~$34~~
-- **CTA：** SAVE $12
+- **CTA：** SAVE $12 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only`
 
 ### Card 4 — 蓝色横条 "30% OFF"
@@ -88,7 +88,7 @@ The sale has kicked off — and it's moving faster than we thought.
 - **Tag：** Support Skin Barrier
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$31** ~~$44~~
-- **CTA：** SAVE $13
+- **CTA：** SAVE $13 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-triple-lipid-q10-revive-moisturizing-treatment-rich`
 
 ---

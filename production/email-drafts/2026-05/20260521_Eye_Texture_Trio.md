@@ -67,7 +67,7 @@ Grab yours today and **see proven results in just 28 days.**
 - **Tag：** Smooth Eye Wrinkles
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$31** ~~$52~~
-- **CTA：** SAVE $21
+- **CTA：** SAVE $21 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-peptide-complex-wrinkle-defense-eye-cream-copy`
 
 ### Card 2 — 蓝色横条 "35% OFF"
@@ -75,7 +75,7 @@ Grab yours today and **see proven results in just 28 days.**
 - **Tag：** Boosts Skin Renewal & Radiance
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$22** ~~$34~~
-- **CTA：** SAVE $12
+- **CTA：** SAVE $12 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only`
 
 ### Card 3 — 蓝色横条 "3 FOR 2" + BEST + Seal
@@ -83,7 +83,7 @@ Grab yours today and **see proven results in just 28 days.**
 - **Tag：** Target Dynamic Wrinkles
 - **评分：** ⭐⭐⭐⭐½ (800+)
 - **价格：** **$98** ~~$147~~
-- **CTA：** SAVE $49
+- **CTA：** SAVE $49 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-peptide-complex-10-serum-3-for-2`
 
 ### Card 4 — 蓝色横条 "33% OFF" + BEST + Seal
@@ -91,7 +91,7 @@ Grab yours today and **see proven results in just 28 days.**
 - **Tag：** Deep Overnight Care · 60 patches
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$24** ~~$36~~
-- **CTA：** SAVE $12
+- **CTA：** SAVE $12 - SHOP NOW
 - **链接：** `https://depology.com/discount/MEM10?redirect=/products/offer-replenishing-night-under-eye-patch`
 
 ---
