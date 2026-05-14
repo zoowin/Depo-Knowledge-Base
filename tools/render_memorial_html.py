@@ -270,19 +270,33 @@ def hero_placeholder_a(badge_text, hero_link, hero_url=None, alt_text="Memorial 
 
 
 def hero_placeholder_b(banner_text, hero_link, hero_url=None, alt_text="Only 24 Hours Left"):
-    """Template B: single-line restrained red banner + tilted hero. If hero_url provided, single img replaces both."""
+    """Template B: single-line red banner with horizontal gradient + side-padded (no edge bleed).
+    Leon feedback (2026-05-13 r3): banner was bleeding to white container edges; add 16px white
+    side padding + horizontal gradient (B30D26 → DC2626 → B30D26) for central glow."""
     if hero_url:
         media_block = f"""<img alt="{alt_text}" src="{hero_url}" style="display:block;width:100%;max-width:600px;height:auto;" width="600"/>"""
     else:
-        media_block = f"""<!-- Restrained single-line red banner (Leon feedback: one line, less heavy) -->
-<div style="background:#DC2626;width:100%;max-width:600px;padding:11px 12px;text-align:center;font-family:Helvetica,Arial,sans-serif;color:#FFFFFF;letter-spacing:1.2px;">
-<div style="font-size:17px;font-weight:700;line-height:1.2;">{banner_text}</div>
+        media_block = f"""<!-- Restrained single-line red banner with central-glow gradient + side margin -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody><tr>
+<td align="center" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:14px 18px;">
+<div bgcolor="#DC2626" style="background:#DC2626;background-image:linear-gradient(90deg, #A30C24 0%, #DC2626 50%, #A30C24 100%);padding:11px 12px;text-align:center;font-family:Helvetica,Arial,sans-serif;color:#FFFFFF;letter-spacing:1.2px;border-radius:3px;">
+<div style="font-size:17px;font-weight:700;line-height:1.2;color:#FFFFFF;">{banner_text}</div>
 </div>
+</td>
+</tr></tbody>
+</table>
 <!-- Tilted hero image placeholder -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody><tr>
+<td align="center" style="padding:0;">
 <div style="background:#E8E8E8;width:100%;max-width:600px;height:320px;display:block;text-align:center;line-height:320px;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#999;font-style:italic;letter-spacing:1px;">
 [ HERO IMAGE PLACEHOLDER 600×320 — tilted products + red urgency aesthetic ]
-</div>"""
-    return f"""<!-- Hero Image (Template B) — Red banner (single line): "{banner_text}" -->
+</div>
+</td>
+</tr></tbody>
+</table>"""
+    return f"""<!-- Hero Image (Template B) — Red banner (single line, side-padded, gradient): "{banner_text}" -->
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
 <tbody><tr>
 <td align="center" style="font-size:0px;word-break:break-word;padding:0;">
@@ -390,16 +404,22 @@ def _save_amount(price_str, original_str):
         return ""
 
 
+def _badge_gradient(badge_color):
+    """Return vertical gradient CSS for badge bar.
+    Outlook (no gradient support) falls back to solid bgcolor.
+    Modern clients render gradient over the solid."""
+    if badge_color == "#C8102E":
+        # Red — top brighter, bottom deeper for 3D feel
+        return "linear-gradient(180deg, #E62844 0%, #C8102E 50%, #A30C24 100%)"
+    # Default blue — top lighter navy, bottom deep navy
+    return "linear-gradient(180deg, #2A4FA8 0%, #1E3A8A 50%, #15296F 100%)"
+
+
 def card_html(sku_key, badge_text, badge_color, price, original, cta_text, cta_url):
-    """One product card. badge_color: '#1E3A8A' (blue) or '#C8102E' (red 100-cap/scarcity).
-    Card structure (no BEST/Derm per Leon 2026-05-13):
-      1. Discount badge bar (full width)
-      2. Product image (full width, 820x920 source)
-      3. Tag (grey bg)
-      4. Benefit line (italic, small, on grey bg under tag)  ← 🆕 added 2026-05-13
-      5. Product name + volume + rating + price
-      6. SAVE $X red horizontal bar  ← 🆕 added 2026-05-13
-      7. Black CTA button
+    """One product card with subtle gradient design (Leon 2026-05-13 r3 feedback):
+    - Badge bar: vertical gradient (top brighter → bottom deeper)
+    - SAVE bar: horizontal gradient (sides darker → center brighter for central glow)
+    - Outlook fallback via bgcolor attribute
     """
     s = SKU[sku_key]
     rating_html = ""
@@ -413,11 +433,14 @@ def card_html(sku_key, badge_text, badge_color, price, original, cta_text, cta_u
     save_amt = _save_amount(price, original)
     save_bar_html = ""
     if save_amt:
-        save_bar_html = f"""<tr><td align="center" style="background:#C8102E;color:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;padding:7px 8px;">SAVE {save_amt} &middot; MEMORIAL PRICING</td></tr>"""
+        # Red horizontal gradient — central glow
+        save_grad = "linear-gradient(90deg, #A30C24 0%, #DC2626 50%, #A30C24 100%)"
+        save_bar_html = f"""<tr><td align="center" bgcolor="#C8102E" style="background:#C8102E;background-image:{save_grad};color:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;padding:7px 8px;">SAVE {save_amt} &middot; MEMORIAL PRICING</td></tr>"""
+    badge_grad = _badge_gradient(badge_color)
     return f"""<td class="mem-card-col" style="width:50%;vertical-align:top;padding:8px;" valign="top">
   <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;border:2px solid {badge_color};background:#FFFFFF;">
     <tbody>
-      <tr><td align="center" style="background:{badge_color};color:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:700;letter-spacing:1.5px;padding:10px 8px;">{badge_text}</td></tr>
+      <tr><td align="center" bgcolor="{badge_color}" style="background:{badge_color};background-image:{badge_grad};color:#FFFFFF;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:700;letter-spacing:1.5px;padding:10px 8px;">{badge_text}</td></tr>
       <tr><td style="padding:0;font-size:0;line-height:0;">
         <img alt="{s["alt"]}" src="{s["img"]}" style="display:block;width:100%;height:auto;" width="296"/>
       </td></tr>
