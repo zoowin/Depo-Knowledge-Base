@@ -6,7 +6,7 @@
 - **Send Date:** 2026-05-20 (Wednesday)
 - **Send Time:** **5:00 PM ET**（**Smart Sending OFF** — 同 AM 人群再发）
 - **Segment:** 与 9 AM Launch_1 同一 Full List（exclude buyers <7 days + 标准 Excluded）
-- **Product Focus:** Sitewide UP TO 60% + MEM10 仍有效（剩 16 hours，但邮件不强调时间）
+- **Product Focus:** Sitewide 50% + MEM10 +10% 仍有效（剩 16 hours，但邮件不强调时间）
 - **Goal:** 单日 Revenue 第二波（参考 2025 5/21 8:45 AM $35,488，OR 反而高于第一封 69.82%）
 - **Klaviyo Campaign Name:** `[DEP]_20260520_Memorial_Launch_PM`
 
@@ -15,28 +15,28 @@
 ## Subject Lines（A/B 测试）
 
 **A 组（动量型 — 复刻 2025 "moving fast" 套路）：**
-1. It's already going fast — UP TO 60% off + MEM10.
+1. It's already going fast — 50% off + extra 10% with MEM10.
 2. Memorial Sale is moving faster than we thought. 🇺🇸
 
 **B 组（错过型）：**
 3. Did you miss this morning? Memorial Sale is still on.
-4. UP TO 60% off — and MEM10 expires soon.
+4. 50% off + extra 10% — MEM10 expires soon.
 
 ## Preview Text
-The sale kicked off this morning and it's already moving fast. UP TO 60% off + extra 10% with MEM10.
+The sale kicked off this morning and it's already moving fast. 50% off + extra 10% with MEM10.
 
 ---
 
 ## Hero Section
 
-**Hero Image 方向：** 与 AM Launch_1 完全不同的视觉 — Multi-SKU 群像但产品组合不同（**Peptide Activation Trio 三件套** + Peptide Serum 双瓶 + Matriplex Cream 立体摆拍）+ 角度更动感（部分产品倾斜）+ 国旗布料更明显。STAR badge "UP TO 60% OFF" 居中或左侧。
+**Hero Image 方向：** 与 AM Launch_1 完全不同的视觉 — Multi-SKU 群像但产品组合不同（**Peptide Activation Trio 三件套** + Peptide Serum 双瓶 + Matriplex Cream 立体摆拍）+ 角度更动感（部分产品倾斜）+ 国旗布料更明显。STAR badge "50% OFF + 10%" 居中或左侧。
 
 **Headline (深蓝，居中)：**
 Memorial Day Sale — It's On, and It's Going Fast!
 
 **Hero Badge：**
 ⭐ ⭐ ⭐
-**UP TO 60% OFF**
+**50% OFF + 10%**
 ⭐ ⭐
 （红蓝双圈 STAR badge）
 
@@ -53,7 +53,7 @@ The sale has kicked off — and it's moving faster than we thought.
 
 ## Primary CTA
 **SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorial-sale-2026`
 
 ---
 
@@ -100,7 +100,7 @@ More amazing offers waiting for you — click here to shop them before they're g
 
 **Secondary CTA（白底黑字按钮）：**
 **SHOP ALL SALE**
-- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorial-sale-2026`
 
 ---
 

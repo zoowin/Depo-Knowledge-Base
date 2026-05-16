@@ -1,11 +1,11 @@
 # 🇺🇸 Memorial Sale 2026 — Product Image & OFFER URL Registry
 
 > **Memorial Sale 2026 专用**（5/20-5/25）。这些 URL + 图片仅用于本次 Memorial 邮件系列 / HTML / SMS，**不可写入 `knowledge/products/product-links.md`**（那个是 canonical 全局参考）。
-> Last updated: 2026-05-13
+> Last updated: 2026-05-14（+ Body Lotion Trio）
 
 ---
 
-## 13 个 SKU — Memorial OFFER URL + 邮件用图
+## 14 个 SKU — Memorial OFFER URL + 邮件用图
 
 | # | SKU | Memorial OFFER URL | Memorial Email Image (Klaviyo CDN) |
 |---|---|---|---|
@@ -22,6 +22,7 @@
 | 11 | Static Wrinkle Repair Duo (M1 + M3K) | `https://depology.com/products/static-wrinkle-repair-duo` | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/68e2e5d9-ce35-47f7-b8ac-1b1295156323.jpeg` |
 | 12 | Dynamic Wrinkle Defense Duo (M1 + Argireline) | `https://depology.com/products/dynamic-wrinkle-defense-duo` | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/9856be7d-aff5-491e-b26c-4db02e5c5104.jpeg` |
 | 13 | Replenishing Night Under Eye Patch | `https://depology.com/products/offer-replenishing-night-under-eye-patch` | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/ed2bfcb0-8b14-4cf2-ad3e-5b26f457626c.jpeg` |
+| 14 | Ultra-Size Retinol Body Firming Lotion Trio 🆕 | `https://depology.com/products/offer-retinol-body-firming-lotion-trio` | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/131c47f6-9439-4057-93a5-62bdceb14ae4.jpeg` |
 
 ---
 

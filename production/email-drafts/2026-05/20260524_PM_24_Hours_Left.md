@@ -61,7 +61,7 @@ The offers below **won't be back until Black Friday.**
 
 ## Primary CTA（黑底白字按钮）
 **LAST CHANCE TO SAVE!**
-- **链接：** `https://depology.com/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/pages/memorial-sale-2026`
 
 ---
 
@@ -108,7 +108,7 @@ The offer is ending soon, so be sure not to miss out!
 
 **Secondary CTA：**
 **SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/pages/memorial-sale-2026`
 
 ---
 

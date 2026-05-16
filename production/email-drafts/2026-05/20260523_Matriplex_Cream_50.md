@@ -73,13 +73,13 @@ With Matrixyl® and a clinically formulated peptide complex, **it firms, lifts a
 - **CTA：** SAVE $25 - SHOP NOW
 - **链接：** `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy`
 
-### Card 2 — 蓝色横条 "30% OFF"
-- **产品名：** Triple Lipid + Q10 Revive Moisturizing Treatment RICH
-- **Tag：** Support Skin Barrier
+### Card 2 — 蓝色横条 "33% OFF · TRIO"
+- **产品名：** Ultra-Size Retinol Body Firming Lotion Trio 🆕
+- **Tag：** Smooth & Firm Body Care
 - **评分：** ⭐⭐⭐⭐½
-- **价格：** **$31** ~~$44~~
-- **CTA：** SAVE $13 - SHOP NOW
-- **链接：** `https://depology.com/products/offer-triple-lipid-q10-revive-moisturizing-treatment-rich`
+- **价格：** **$52** ~~$78~~
+- **CTA：** SAVE $26 - SHOP NOW
+- **链接：** `https://depology.com/products/offer-retinol-body-firming-lotion-trio`
 
 ### Card 3 — 蓝色横条 "35% OFF"
 - **产品名：** Deepcare+® MicroOperator Boosting Cream
@@ -106,7 +106,7 @@ Limited stock available — grab yours while you can!
 
 **Secondary CTA：**
 **SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/pages/memorial-sale-2026`
 
 ---
 
@@ -134,5 +134,5 @@ Hero product shot of Matriplex Peptide Intense Cream jar standing upright on whi
 
 ### Anti-fatigue 设计
 - H1 第三天连用 "Celebrate Memorial Day with the Power of Peptides"（系列感建立）
-- 4-card 加入 TLQ + Bundle，避免 5/22 完全重复
+- 4-card 加入 Body Lotion Trio + Bundle，避免 5/22 完全重复（Body Lotion 借 Cream 主题切入身体护理）
 - 售罄叙事是 Day 4 与 Day 3 的关键差异化机制

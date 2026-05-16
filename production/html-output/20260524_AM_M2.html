@@ -16,6 +16,10 @@ a:link {color:#444;text-decoration:underline}
 a:visited {color:#444;text-decoration:underline}
 a:active {color:#444;text-decoration:underline}
 a:hover {color:#444;text-decoration:underline}
+/* Neutralize Apple Mail data detectors (prevents auto-link styling on words like CHANCE/NCE/etc.) */
+a[x-apple-data-detectors] {color:inherit !important;text-decoration:none !important;font-size:inherit !important;font-family:inherit !important;font-weight:inherit !important;line-height:inherit !important;}
+.appleLinks a {color:inherit !important;text-decoration:none !important;}
+u + #body a {color:inherit;text-decoration:none;}
 </style>
 <style>
 @import url(https://static-forms.klaviyo.com/fonts/api/v1/XbHdQN/custom_fonts.css);
@@ -79,11 +83,8 @@ h1 { color:#1E3A8A; font-family:'Times New Roman', Times, Baskerville, Georgia, 
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
 <tbody><tr>
 <td align="center" style="font-size:0px;word-break:break-word;padding:0;">
-<a href="https://depology.com/pages/memorial-2026-sale" style="color:#444;text-decoration:underline;display:block">
-<!-- REPLACE THIS DIV WITH: <img src="HERO_IMAGE_URL_HERE" alt="Memorial Day Sale" width="600" style="display:block;width:100%;max-width:600px;height:auto;"/> -->
-<div style="background:#E8E8E8;width:100%;max-width:600px;height:400px;display:block;text-align:center;line-height:400px;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#999;font-style:italic;letter-spacing:1px;">
-[ HERO IMAGE PLACEHOLDER 600×400 — STAR badge "FIRST-EVER 50% OFF · NEW WITH RETINOL" ]
-</div>
+<a href="https://depology.com/pages/memorial-sale-2026" style="color:#444;text-decoration:underline;display:block">
+<img alt="Memorial Day Sale" src="https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/64d98f8c-e69e-4615-a66a-ff88a98f9c90.jpeg" style="display:block;width:100%;max-width:600px;height:auto;" width="600"/>
 </a>
 </td>
 </tr></tbody>
@@ -113,8 +114,8 @@ Your Sunday skin essential is here.<br/><br/>For the first time ever, our <b>new
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;line-height:100%;">
 <tr>
 <td align="center" bgcolor="#000000" role="presentation" style="border:none;border-radius:2px;cursor:auto;mso-padding-alt:16px 64px;background:#000000;" valign="middle">
-<a href="https://depology.com/pages/memorial-2026-sale" style='color:#FFF;text-decoration:none;display:inline-block;background:#000;font-family:"Aktiv Regular + Bold", Helvetica, Arial, sans-serif;font-size:18px;font-weight:700;line-height:100%;letter-spacing:1.5px;margin:0;padding:16px 64px;border-radius:2px;' target="_blank">
-SHOP THE NEW RETINOL!
+<a href="https://depology.com/pages/memorial-sale-2026" style='color:#FFFFFF;text-decoration:none;display:inline-block;background:#000;font-family:"Aktiv Regular + Bold", Helvetica, Arial, sans-serif;font-size:18px;font-weight:700;line-height:100%;letter-spacing:1.5px;margin:0;padding:16px 64px;border-radius:2px;' target="_blank">
+<span style="color:#FFFFFF;text-decoration:none;">SHOP THE NEW RETINOL!</span>
 </a>
 </td>
 </tr>
@@ -273,8 +274,8 @@ Limited stock available &mdash; grab yours while you can!
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;line-height:100%;">
 <tr>
 <td align="center" bgcolor="#FFFFFF" role="presentation" style="border:none;border-radius:2px;cursor:auto;mso-padding-alt:16px 64px;background:#FFFFFF;" valign="middle">
-<a href="https://depology.com/pages/memorial-2026-sale" style='color:#000;text-decoration:none;display:inline-block;background:#FFF;font-family:"Aktiv Regular + Bold", Helvetica, Arial, sans-serif;font-size:18px;font-weight:700;line-height:100%;letter-spacing:1.5px;margin:0;padding:16px 64px;border-radius:2px;' target="_blank">
-SHOP MEMORIAL SALE
+<a href="https://depology.com/pages/memorial-sale-2026" style='color:#000000;text-decoration:none;display:inline-block;background:#FFF;font-family:"Aktiv Regular + Bold", Helvetica, Arial, sans-serif;font-size:18px;font-weight:700;line-height:100%;letter-spacing:1.5px;margin:0;padding:16px 64px;border-radius:2px;' target="_blank">
+<span style="color:#000000;text-decoration:none;">SHOP MEMORIAL SALE</span>
 </a>
 </td>
 </tr>
@@ -338,7 +339,7 @@ SHOP MEMORIAL SALE
 <span style="color:#f7f7f7;text-transform:uppercase;font-family:futura-pt,'Century Gothic',CenturyGothic,AppleGothic,sans-serif;font-weight:500;font-size:14px;">
 &copy; Depology, <br/>
 <span style="font-size:10px;color:#d9d9d7;">support@depology.com</span><br/><br/><br/>
-<a href="#" style="color:#fff;text-decoration:underline;font-weight:500">UNSUBSCRIBE</a>
+{% unsubscribe 'UNSUBSCRIBE' %}
 </span>
 </div>
 </div>

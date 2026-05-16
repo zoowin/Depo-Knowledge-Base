@@ -157,6 +157,16 @@ SKU = {
         "alt": "Replenishing Night Under Eye Patch",
         "slug": "offer-replenishing-night-under-eye-patch",
     },
+    "body_lotion_trio": {
+        "name": "Retinol Body Firming Lotion Trio",
+        "tag": "Smooth &amp; Firm Body Care",
+        "benefit": "Retinol-powered body firming",
+        "rating_count": "",
+        "volume": "3 items",
+        "img": f"{IMG_BASE}/131c47f6-9439-4057-93a5-62bdceb14ae4.jpeg",
+        "alt": "Retinol Body Firming Lotion Trio",
+        "slug": "offer-retinol-body-firming-lotion-trio",
+    },
 }
 
 
@@ -169,8 +179,8 @@ def product_url(sku_key, use_mem10):
 
 def sale_page_url(use_mem10):
     if use_mem10:
-        return "https://depology.com/discount/MEM10?redirect=/pages/memorial-2026-sale"
-    return "https://depology.com/pages/memorial-2026-sale"
+        return "https://depology.com/discount/MEM10?redirect=/pages/memorial-sale-2026"
+    return "https://depology.com/pages/memorial-sale-2026"
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -196,6 +206,10 @@ a:link {{color:#444;text-decoration:underline}}
 a:visited {{color:#444;text-decoration:underline}}
 a:active {{color:#444;text-decoration:underline}}
 a:hover {{color:#444;text-decoration:underline}}
+/* Neutralize Apple Mail data detectors (prevents auto-link styling on words like CHANCE/NCE/etc.) */
+a[x-apple-data-detectors] {{color:inherit !important;text-decoration:none !important;font-size:inherit !important;font-family:inherit !important;font-weight:inherit !important;line-height:inherit !important;}}
+.appleLinks a {{color:inherit !important;text-decoration:none !important;}}
+u + #body a {{color:inherit;text-decoration:none;}}
 </style>
 <style>
 @import url(https://static-forms.klaviyo.com/fonts/api/v1/XbHdQN/custom_fonts.css);
@@ -276,22 +290,12 @@ def hero_placeholder_b(banner_text, hero_link, hero_url=None, alt_text="Only 24 
     if hero_url:
         media_block = f"""<img alt="{alt_text}" src="{hero_url}" style="display:block;width:100%;max-width:600px;height:auto;" width="600"/>"""
     else:
-        media_block = f"""<!-- Restrained single-line red banner with central-glow gradient + side margin -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
-<tbody><tr>
-<td align="center" bgcolor="#FFFFFF" style="background:#FFFFFF;padding:14px 18px;">
-<div bgcolor="#DC2626" style="background:#DC2626;background-image:linear-gradient(90deg, #A30C24 0%, #DC2626 50%, #A30C24 100%);padding:11px 12px;text-align:center;font-family:Helvetica,Arial,sans-serif;color:#FFFFFF;letter-spacing:1.2px;border-radius:3px;">
-<div style="font-size:17px;font-weight:700;line-height:1.2;color:#FFFFFF;">{banner_text}</div>
-</div>
-</td>
-</tr></tbody>
-</table>
-<!-- Tilted hero image placeholder -->
+        media_block = f"""<!-- Hero image placeholder (red banner removed per Leon 2026-05-14) -->
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
 <tbody><tr>
 <td align="center" style="padding:0;">
-<div style="background:#E8E8E8;width:100%;max-width:600px;height:320px;display:block;text-align:center;line-height:320px;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#999;font-style:italic;letter-spacing:1px;">
-[ HERO IMAGE PLACEHOLDER 600×320 — tilted products + red urgency aesthetic ]
+<div style="background:#E8E8E8;width:100%;max-width:600px;height:400px;display:block;text-align:center;line-height:400px;font-family:Helvetica,Arial,sans-serif;font-size:14px;color:#999;font-style:italic;letter-spacing:1px;">
+[ HERO IMAGE PLACEHOLDER 600×400 — tilted products + red urgency aesthetic ]
 </div>
 </td>
 </tr></tbody>
@@ -378,8 +382,8 @@ def lead_block(lead_copy_html, mem10_callout_html=None, primary_cta_text="SHOP M
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;line-height:100%;">
 <tr>
 <td align="center" bgcolor="#000000" role="presentation" style="border:none;border-radius:2px;cursor:auto;mso-padding-alt:16px 64px;background:#000000;" valign="middle">
-<a href="{primary_cta_url}" style='color:#FFF;text-decoration:none;display:inline-block;background:#000;font-family:"Aktiv Regular + Bold", Helvetica, Arial, sans-serif;font-size:18px;font-weight:700;line-height:100%;letter-spacing:1.5px;margin:0;padding:16px 64px;border-radius:2px;' target="_blank">
-{primary_cta_text}
+<a href="{primary_cta_url}" style='color:#FFFFFF;text-decoration:none;display:inline-block;background:#000;font-family:"Aktiv Regular + Bold", Helvetica, Arial, sans-serif;font-size:18px;font-weight:700;line-height:100%;letter-spacing:1.5px;margin:0;padding:16px 64px;border-radius:2px;' target="_blank">
+<span style="color:#FFFFFF;text-decoration:none;">{primary_cta_text}</span>
 </a>
 </td>
 </tr>
@@ -529,8 +533,8 @@ def closing_block(closing_copy_html, secondary_cta_text, secondary_cta_url):
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:separate;line-height:100%;">
 <tr>
 <td align="center" bgcolor="#FFFFFF" role="presentation" style="border:none;border-radius:2px;cursor:auto;mso-padding-alt:16px 64px;background:#FFFFFF;" valign="middle">
-<a href="{secondary_cta_url}" style='color:#000;text-decoration:none;display:inline-block;background:#FFF;font-family:"Aktiv Regular + Bold", Helvetica, Arial, sans-serif;font-size:18px;font-weight:700;line-height:100%;letter-spacing:1.5px;margin:0;padding:16px 64px;border-radius:2px;' target="_blank">
-{secondary_cta_text}
+<a href="{secondary_cta_url}" style='color:#000000;text-decoration:none;display:inline-block;background:#FFF;font-family:"Aktiv Regular + Bold", Helvetica, Arial, sans-serif;font-size:18px;font-weight:700;line-height:100%;letter-spacing:1.5px;margin:0;padding:16px 64px;border-radius:2px;' target="_blank">
+<span style="color:#000000;text-decoration:none;">{secondary_cta_text}</span>
 </a>
 </td>
 </tr>
@@ -597,7 +601,7 @@ FOOTER_BLOCK = """<!-- ============================================ -->
 <span style="color:#f7f7f7;text-transform:uppercase;font-family:futura-pt,'Century Gothic',CenturyGothic,AppleGothic,sans-serif;font-weight:500;font-size:14px;">
 &copy; Depology, <br/>
 <span style="font-size:10px;color:#d9d9d7;">support@depology.com</span><br/><br/><br/>
-<a href="#" style="color:#fff;text-decoration:underline;font-weight:500">UNSUBSCRIBE</a>
+{% unsubscribe 'UNSUBSCRIBE' %}
 </span>
 </div>
 </div>
@@ -674,7 +678,7 @@ EMAILS = [
         "title": "Memorial Day Sale IS LIVE",
         "template": "A",
         "use_mem10": True,
-        "hero_badge": "UP TO 60% OFF",
+        "hero_badge": "50% OFF + 10%",
         "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/416e231c-6611-4b7b-babf-35745e0e61f7.jpeg",
         "h1": "The Summer Sale You&rsquo;ve Been Waiting For&hellip; IS LIVE!",
         "lead": f'Memorial Day is here. We&rsquo;re offering our {rb("BIGGEST")} summer deal &mdash; with new launches and our best-selling peptide series.',
@@ -695,7 +699,8 @@ EMAILS = [
         "title": "Memorial Day Sale Going Fast",
         "template": "A",
         "use_mem10": True,
-        "hero_badge": "UP TO 60% OFF",
+        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/4251ebcf-6374-487e-9d39-6738e70391ed.jpeg",
+        "hero_badge": "50% OFF + 10%",
         "h1": "Memorial Day Sale &mdash; It&rsquo;s On, and It&rsquo;s Going Fast!",
         "lead": "The sale has kicked off &mdash; and it&rsquo;s moving faster than we thought.",
         "mem10_callout": f'Extra 10% off site-wide with code {ul("MEM10")} for subscribers, 48 hours only.',
@@ -715,6 +720,7 @@ EMAILS = [
         "title": "Smarter Eye + Texture Care",
         "template": "A",
         "use_mem10": True,  # MEM10 still valid morning of 5/21
+        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/d4a53900-fd2e-4d38-9022-e838396245ac.jpeg",
         "hero_badge": "UP TO 50% OFF",
         "h1": "Celebrate Memorial Day with Smarter Eye + Texture Care",
         "lead": f"Don&rsquo;t miss your chance to upgrade your <b>eye + texture routine</b> with our most-loved peptide trio.<br/><br/>Grab yours today and {ul('see proven results in just 28 days.')}<br/><br/><b>Memorial Day pricing through Monday at midnight PDT.</b>",
@@ -735,6 +741,7 @@ EMAILS = [
         "title": "3 for 2 Peptides + 100-Cap Duo",
         "template": "A",
         "use_mem10": False,  # MEM10 expired 9 AM 5/22
+        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/e03ffe85-ffb8-4f48-872d-817e8d0a8168.jpeg",
         "hero_badge": "3 FOR 2",
         "h1": "Celebrate Memorial Day with the Power of Peptides",
         "lead": f"Don&rsquo;t miss your chance to stock up on our {rb('#1 bestselling peptide serums.')}<br/><br/>Grab yours today and {ul('see proven results in just 28 days.')}<br/><br/>{rb('🔴 ONLY 100 Face &amp; Eye Peptide Duos at this price. No restocks at $57. Run, don&rsquo;t walk.')}",
@@ -755,6 +762,7 @@ EMAILS = [
         "title": "Matriplex Cream 40% Off",
         "template": "A",
         "use_mem10": False,
+        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/93cdb79c-c366-48a0-9032-ac6b945ac278.jpeg",
         "hero_badge": "40% OFF / LIMITED",
         "h1": "Celebrate Memorial Day with the Power of Peptides",
         "lead": f"{rb('The first 100 Face &amp; Eye Duos are claimed')} &mdash; but our most powerful anti-aging peptide cream is still <b>solo at 40% off</b> this weekend.<br/><br/>With Matrixyl&reg; and a clinically formulated peptide complex, {bi('it firms, lifts and smooths your skin overnight.')}<br/><br/><b>Memorial pricing through Monday at midnight PDT.</b>",
@@ -762,7 +770,7 @@ EMAILS = [
         "primary_cta": "SAVE 40% TODAY",
         "cards": [
             ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "SAVE $25 - SHOP NOW", True, True),
-            ("tlq", "30% OFF", "#1E3A8A", "31.00", "44.00", "SAVE $13 - SHOP NOW", False, False),
+            ("body_lotion_trio", "33% OFF · TRIO", "#1E3A8A", "52.00", "78.00", "SAVE $26 - SHOP NOW", False, False),
             ("mop", "35% OFF", "#1E3A8A", "22.00", "34.00", "SAVE $12 - SHOP NOW", False, False),
             ("pat", "NEW BUNDLE · SAVE $46", "#1E3A8A", "89.00", "135.00", "SAVE $46 - SHOP NOW", True, True),
         ],
@@ -776,6 +784,7 @@ EMAILS = [
         "title": "First-Ever 50% Off — New Retinol Patches",
         "template": "A",
         "use_mem10": False,
+        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/64d98f8c-e69e-4615-a66a-ff88a98f9c90.jpeg",
         "hero_badge": "FIRST-EVER 50% OFF · NEW WITH RETINOL",
         "h1": "Celebrate Memorial Day with Sunday Essentials",
         "lead": f"Your Sunday skin essential is here.<br/><br/>For the first time ever, our <b>new Retinol Micro-dart Patches</b> are {rb('50% off')} — Memorial-exclusive Sunday flash.<br/><br/>The 3,300 IU/g Retinol formula delivers targeted renewal without the irritation. (16 pairs · 8 weeks of overnight care.)<br/><br/>{rb('US exclusive for the final 48 hours of Memorial Sale!')}",
@@ -796,6 +805,7 @@ EMAILS = [
         "title": "Only 24 Hours Left",
         "template": "B",
         "use_mem10": False,
+        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/879bcf7d-936d-4c98-afbe-bd2a0ca69ce8.jpeg",
         "banner_text": "ONLY 24 HOURS LEFT!",
         "lead": f"This is your {rb('last chance')} to get the BEST savings of the season!<br/><br/>The offers below {ul('won&rsquo;t be back until Black Friday.')}<br/><br/>{bi('Shop now or miss out until the end of the year.')}",
         "mem10_callout": None,
@@ -815,6 +825,7 @@ EMAILS = [
         "title": "LAST CHANCE — Memorial Sale",
         "template": "C",
         "use_mem10": False,
+        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/62155801-15f3-4bcc-a686-881086970eaf.jpeg",
         "overlay_red": "LAST CHANCE",
         "overlay_blue": "THE MEMORIAL DAY SALE",
         "hero_badge": "UP TO 50% OFF",
@@ -823,7 +834,7 @@ EMAILS = [
         "primary_cta": "SAVE 50% NOW!",
         "cards": [
             ("m3k_3f2", "3 FOR 2", "#1E3A8A", "80.00", "120.00", "$80 ONLY - SHOP NOW"),
-            ("dynamic_duo", "40% OFF · BUNDLE", "#1E3A8A", "51.00", "85.00", "SAVE $34 - SHOP NOW"),
+            ("body_lotion_trio", "33% OFF · TRIO", "#1E3A8A", "52.00", "78.00", "SAVE $26 - SHOP NOW"),
             ("night_eye", "33% OFF", "#1E3A8A", "24.00", "36.00", "$24 ONLY - SHOP NOW"),
             ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "SAVE $25 - SHOP NOW"),
         ],

@@ -98,10 +98,10 @@
 | Caviar Stick (G) | Apr 3 (Easter) | May 8 (Mother's Day) | 35 天 | ✅ |
 | Opuntia Balm (F) | Apr 22 (Earth Day) | May 17 (Travel Kit) | 25 天 | ⚠️ 配角，可接受 |
 | Triple Lipid + Q10 RICH (H) | Apr 27 (Skin Health Shift) | May 1 (SPF) | 4 天 | ⚠️ 间隔过短，May 1 配角可接受 |
-| **Body Lotion (C)** | Apr 27 (Skin Health Shift) | **5 月全月休息** | — | ✅ 完全休息 30+ 天 |
+| **Body Lotion (C) Trio** | Apr 27 (Skin Health Shift) | **5/23 + 5/25 Memorial 配角** | 26 天 | ✅ 配角出场，OK |
 | **Night Eye Patch (B)** | Apr 20 (Neck/Body) | **5 月全月休息** | — | ✅ |
 
-**结论：** 5 月初（May 1-6）需注意 A/B 线 hero 频率过高问题，已通过"配角化"避免冲突；Body Lotion 与 Night Eye Patch 全月休息以补偿 4 月高频使用；M1 升级公告是合规例外（产品本身是新版）。
+**结论：** 5 月初（May 1-6）需注意 A/B 线 hero 频率过高问题，已通过"配角化"避免冲突；Night Eye Patch 全月休息以补偿 4 月高频使用，Body Lotion Trio 5/23 + 5/25 仅作 Memorial 配角出场（不做 hero）；M1 升级公告是合规例外（产品本身是新版）。
 
 ---
 
@@ -177,7 +177,7 @@
   - **测试观察指标：** Bundle CTR / Bundle 转化数 / Bundle vs Anti-Aging Trio 销量比 / Avg cart size
   - **后续动作：** 5/12-13 review 数据，决定 Memorial 之后是否启动 Activation Trio paid launch（Alex 完整 playbook 含 Free M3K + 500 cap + UGC + ads）
 - **Memorial Sale (May 20-25):**
-  - **Sale page (`/pages/memorial-2026-sale`) 提前 1 周建好**，所有 Memorial SKU 在 5/19 24:00 自动启用降价（详见 Pricing Matrix）
+  - **Sale page (`/pages/memorial-sale-2026`) 提前 1 周建好**，所有 Memorial SKU 在 5/19 24:00 自动启用降价（详见 Pricing Matrix）
   - **MEM10 code** Shopify 配置：5/20 9 AM ET → 5/22 9 AM ET 有效，订阅者可用，全站叠加 10%
   - **链接格式（关键）：** 所有带 code 的产品链接必须用 `/discount/MEM10?redirect=/products/{slug}` 格式（CLAUDE.md 非协商规则）；5/22+ code 失效后切回标准产品 URL
   - **🔴 Face & Eye Peptide Firming Duo 100-cap 配置：** Shopify 库存上限设 100，Day 3 售罄后 Day 4 邮件实时引用售罄状态（如未售罄则保留 50% 不变但话术弱化稀缺）
@@ -248,6 +248,7 @@
 | 🆕 **Static Wrinkle Repair Duo** (M1 + M3K) | $76 (bundle) | **$49** | 35% | — (2026 NEW) | 🔴 OFFER SKU 当前 OOS — Leon 5/13 确认 5/20 前能补货到位；M1 库存共享风险 |
 | 🆕 **Dynamic Wrinkle Defense Duo** (M1 + Argireline) | $85 (bundle) | **$51** | 40% | — (2026 NEW) | 🔴 OFFER SKU 当前 OOS — Leon 5/13 确认 5/20 前能补货到位；M1 库存共享风险 |
 | 🆕 **Replenishing Night Under Eye Patch** | $36 (60 patches) | **$24** | 33% | — (2026 NEW) | Product Auto Discount 33% off |
+| 🆕 **Ultra-Size Retinol Body Firming Lotion Trio** | $78 (3 items) | **$52** | 33% | — (2026 NEW) | OFFER SKU `offer-retinol-body-firming-lotion-trio`（5/14 Leon 补加，覆盖 5/23 + 5/25 两封）|
 | Anti-Aging Trio | $99 (bundle) | $99 不变 | — | — | active bundle，作为 Memorial cross-sell card |
 | **MEM10 (Subscriber Code)** | — | **Extra 10% off** | — | 复刻 2025 STAR10 | ⚙️ **Order Discount Code**, usage 不限, 时效 5/20 9 AM ET → 5/22 9 AM ET, **Combinations: Product + Order 叠加启用** |
 
@@ -306,7 +307,7 @@
 - ✅ **MOM15 已砍** — 不需要配置任何折扣码
 
 ### Memorial Sale (May 20-25)
-- [ ] **Sale page `/pages/memorial-2026-sale` 建好**（5/13 之前完成）
+- [ ] **Sale page `/pages/memorial-sale-2026` 建好**（5/13 之前完成）
 - [ ] **SKU 分层降价配置**（5/19 24:00 生效，5/26 00:00 结束）— 详见 Memorial Pricing Matrix（10 个 SKU）
 - [ ] **🆕 MEM10 Order Discount Code 配置**：Extra 10% off subtotal, 48 hours only (5/20 9 AM ET → 5/22 9 AM ET), 订阅者可用 (no min)
 - [ ] **🔴 Shopify Settings → Discounts → Combinations**：启用 **Product + Order 叠加**（关键，决定 MEM10 能否叠加 100-cap）

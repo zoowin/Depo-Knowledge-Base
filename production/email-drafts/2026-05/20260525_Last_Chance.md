@@ -64,7 +64,7 @@ Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and
 
 ## Primary CTA（黑底白字按钮）
 **SAVE 50% NOW!**
-- **链接：** `https://depology.com/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/pages/memorial-sale-2026`
 
 ---
 
@@ -78,13 +78,13 @@ Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and
 - **CTA：** **$80 ONLY - SHOP NOW**（价格化）
 - **链接：** `https://depology.com/products/offer-matrixyl-r-3000-triple-bundle`
 
-### Card 2 — 蓝色横条 "40% OFF · BUNDLE" + BEST + Seal — M1 升级版 + Argireline Combo
-- **产品名：** Dynamic Wrinkle Defense Duo 🆕
-- **Tag：** Early Line Defense · 2 items
-- **评分：** ⭐⭐⭐⭐½ (1500+)
-- **价格：** **$51** ~~$85~~
-- **CTA：** **SAVE $34 - SHOP NOW**（savings 混合）
-- **链接：** `https://depology.com/products/dynamic-wrinkle-defense-duo`
+### Card 2 — 蓝色横条 "33% OFF · TRIO" — savings CTA
+- **产品名：** Ultra-Size Retinol Body Firming Lotion Trio 🆕
+- **Tag：** Smooth & Firm Body Care · 3 items
+- **评分：** ⭐⭐⭐⭐½
+- **价格：** **$52** ~~$78~~
+- **CTA：** **SAVE $26 - SHOP NOW**（savings 混合）
+- **链接：** `https://depology.com/products/offer-retinol-body-firming-lotion-trio`
 
 ### Card 3 — 蓝色横条 "33% OFF" — 价格 CTA
 - **产品名：** Replenishing Night Under Eye Patch
@@ -111,7 +111,7 @@ The offer is ending soon, so be sure not to miss out!
 
 **Secondary CTA：**
 **SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/pages/memorial-sale-2026`
 
 ---
 
