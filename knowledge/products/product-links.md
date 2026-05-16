@@ -2,13 +2,15 @@
 
 > **Single source of truth** for all product URLs and Klaviyo CDN image URLs.
 > Agent reads this file when building email HTML to populate product cards.
-> Last updated: 2026-04-16
+> **Canonical / global reference** — campaign-specific assets (e.g., Memorial Sale, BFCM)
+> live in their own registry files (see `knowledge/visual/Memorial Sale Product Images.md`).
+> Last updated: 2026-05-13
 
 ---
 
 ## Active Products
 
-| Line | Product Name | Shopify URL | Offer URL | Klaviyo CDN Image (PNG) |
+| Line | Product Name | Shopify URL | Offer URL | Klaviyo CDN Image |
 |------|-------------|-------------|-----------|------------------------|
 | **A** | Matrixyl® 3000 Collagen Serum | `https://depology.com/products/depology-matrixyl-3000-serum` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/44a0bdde-9c05-4c2b-854b-fe92895a2a6f.png` |
 | **A** | Matriplex™ Peptide Intense Cream | `https://depology.com/products/tri-active-matrixyl-complex-cream` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/420e0d8e-091d-4a94-ad76-e4c2bea97c46.png` |
@@ -20,8 +22,13 @@
 | **E** | Deepcare+® MicroOperator Boosting Cream | `https://depology.com/products/deepcare-r-microoperator-boosting-cream-beginner` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/6db87278-16b2-48dd-bb79-837047b7142f.png` |
 | **F** | Opuntia-C Relief Cleansing Balm | `https://depology.com/products/opuntia-c-relief-cleansing-balm` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/63b261a2-9e8a-403f-8343-cde631ec3b49.png` |
 | **G** | Bakuchiol Smoothing Serum Stick | `https://depology.com/products/bakuchiol-smoothing-serum-stick` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/642001c5-54b0-4900-90fd-bc0c5dc37dc0.png` |
-| **G** | Caviar Multi-Balm Serum Stick | `https://depology.com/products/caviar-multi-balm-serum-stick` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/7488ad7b-1062-4c3f-ab01-65ec941435e0.png` |
 | **H** | Triple Lipid + Q10 Moisturizing Treatment RICH | `https://depology.com/products/triple-lipid-q10-revive-moisturizing-treatment-rich` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/f11a370d-d5dc-426a-90b0-1ec12a1f8c85.png` |
+| **Bundle** | Peptide Activation Trio (NEW 2026, 5/8 launch) | `https://depology.com/products/peptide-activation-trio` | — | ⚠️ canonical image TBD by Leon |
+| **Bundle** | Static Wrinkle Repair Duo (M1 + M3K) | `https://depology.com/products/static-wrinkle-repair-duo` | — | ⚠️ canonical image TBD by Leon |
+| **Bundle** | Dynamic Wrinkle Defense Duo (M1 + Argireline) | `https://depology.com/products/dynamic-wrinkle-defense-duo` | — | ⚠️ canonical image TBD by Leon |
+
+**⚠️ 已废弃 SKU（库存归零，2026-05-13）：**
+- Caviar Multi-Balm Stick + Peptide Serum Duo + Free Caviar Bundle
 
 ---
 
@@ -30,6 +37,7 @@
 - **有 Offer URL 的产品**：促销邮件中使用 Offer URL，教育邮件使用标准 URL
 - **Offer URL 为 `—` 的产品**：统一使用标准 Shopify URL
 - **带折扣码的促销**：使用 `/discount/{CODE}?redirect=/products/{slug}` 格式（见 CLAUDE.md）
+- **大型 Sale（如 Memorial / BFCM）**：使用 campaign-specific OFFER URL，不写入本文件（参见对应 campaign 的视觉注册表，如 `knowledge/visual/Memorial Sale Product Images.md`）
 
 ---
 

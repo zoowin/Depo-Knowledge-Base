@@ -61,7 +61,7 @@ The offers below **won't be back until Black Friday.**
 
 ## Primary CTA（黑底白字按钮）
 **LAST CHANCE TO SAVE!**
-- **链接：** `https://depology.com/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/pages/memorial-sale-2026`
 
 ---
 
@@ -73,31 +73,31 @@ The offers below **won't be back until Black Friday.**
 - **评分：** ⭐⭐⭐⭐½
 - **价格：** **$22** ~~$34~~
 - **CTA：** **$22 ONLY - SHOP NOW**（价格化）
-- **链接：** `https://depology.com/products/deepcare-r-microoperator-boosting-cream-beginner`
+- **链接：** `https://depology.com/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only`
 
-### Card 2 — 蓝色横条 "50% OFF"
-- **产品名：** Moisturizing Caviar Multi Balm Stick
-- **Tag：** On-the-Go Moisturizing
+### Card 2 — 蓝色横条 "40% OFF"
+- **产品名：** Matriplex™ Peptide Intense Cream
+- **Tag：** Intensive Peptide Care
+- **评分：** ⭐⭐⭐⭐½ (1500+)
+- **价格：** **$37** ~~$62~~
+- **CTA：** **$37 ONLY - SHOP NOW**
+- **链接：** `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy`
+
+### Card 3 — 蓝色横条 "33% OFF"
+- **产品名：** Replenishing Night Under Eye Patch
+- **Tag：** Deep Overnight Care · 60 patches
 - **评分：** ⭐⭐⭐⭐½
-- **价格：** **$15** ~~$30~~
-- **CTA：** **$15 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/caviar-multi-balm-serum-stick`
+- **价格：** **$24** ~~$36~~
+- **CTA：** **$24 ONLY - SHOP NOW**
+- **链接：** `https://depology.com/products/offer-replenishing-night-under-eye-patch`
 
-### Card 3 — 蓝色横条 "70% OFF / $9"
-- **产品名：** Bakuchiol Smoothing Serum Stick
-- **Tag：** Improve Fine Lines & Wrinkles
-- **评分：** ⭐⭐⭐⭐½
-- **价格：** **$9** ~~$30~~
-- **CTA：** **$9 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/bakuchiol-smoothing-serum-stick`
-
-### Card 4 — 蓝色横条 "50% OFF"
+### Card 4 — 蓝色横条 "40% OFF"
 - **产品名：** Peptide Complex Wrinkle Defense Eye Cream
 - **Tag：** Smooth Eye Wrinkles
 - **评分：** ⭐⭐⭐⭐½
-- **价格：** **$26** ~~$52~~
-- **CTA：** **$26 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/peptide-complex-wrinkle-defense-eye-cream`
+- **价格：** **$31** ~~$52~~
+- **CTA：** **$31 ONLY - SHOP NOW**
+- **链接：** `https://depology.com/products/offer-peptide-complex-wrinkle-defense-eye-cream-copy`
 
 ---
 
@@ -108,7 +108,7 @@ The offer is ending soon, so be sure not to miss out!
 
 **Secondary CTA：**
 **SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/pages/memorial-sale-2026`
 
 ---
 
@@ -139,5 +139,5 @@ Urgent crisis aesthetic product shot: top half is solid red banner background DC
 - MEM10 已失效，所有链接走标准产品 URL
 
 ### Klaviyo 配置提醒
-- ⚠️ **Smart Sending OFF**（与 9 AM 同人群）
+- **Smart Sending OFF**（与 9 AM 同人群）
 - SMS Sunday Flash 在 11 AM 触达（夹在 AM + PM email 之间）

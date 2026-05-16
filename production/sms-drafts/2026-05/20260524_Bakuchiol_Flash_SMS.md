@@ -49,7 +49,7 @@ Depology: First time ever — 50% off the new M1 patches with retinol + $9 Bakuc
 
 ## 备注
 - ⚠️ **Smart Sending OFF**
-- ⚠️ Link 短链指向 `/pages/memorial-2026-sale`（落地页含两 hero 产品）
+- ⚠️ Link 短链指向 `/pages/memorial-sale-2026`（落地页含两 hero 产品）
 - 📊 预期增量 revenue **$1,000 - $2,000**（2025 baseline 减半）
 - 🚨 5/24 是 3 触点天（AM email + 11 AM SMS + PM 24Hrs Left email）
 - ✉️ MMS 可选：Bakuchiol Stick + M1 双产品图，提升点击

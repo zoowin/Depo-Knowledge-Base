@@ -114,9 +114,10 @@ Memorial Sale 是**美式爱国主义 × 高端护肤**的视觉语境。
 - **中心文字：** 黑色 bold sans-serif，"XX% OFF" 或 "3 FOR 2" 或 "ONLY $9 SUNSCREEN"
 - **尺寸：** Hero 图右下或居中叠加，约占 hero 高度的 35-40%
 - **变体：**
-  - "UP TO 50% OFF" — Day 1 群像 hero 用
+  - "UP TO 60% OFF" — **Day 1 (5/20 AM + PM) 群像 hero 用**（MEM10 叠加后真实有效折扣可达 60-77%；Bakuchiol 70% 锚定）
+  - "UP TO 50% OFF" — Day 2 (5/21) + Day 6 (5/25) 群像 hero 用（MEM10 已不强调或失效，回归核心 SKU 50% 锚位）
   - "3 FOR 2" — Day 3 Peptide 双瓶 hero 用
-  - "50% OFF / LIMITED AVAILABILITY" — Day 4 Matriplex solo hero 用
+  - "40% OFF / LIMITED AVAILABILITY" — Day 4 Matriplex solo hero 用
   - "$9 ONLY" — Day 5 AM Bakuchiol hero 用
 
 ### Lead Copy 规范
@@ -156,14 +157,23 @@ Memorial Sale 是**美式爱国主义 × 高端护肤**的视觉语境。
 
 | Day | 主题 | 4 张产品卡 |
 |---|---|---|
-| 5/20 AM Launch_1 | 群像揭幕 | Matrixyl 3F2 / MPS 3F2 / PEC 50% / Bakuchiol $9 |
-| 5/20 PM Launch_2 | 群像动量 | Peptide Duo+Caviar Bundle / Matriplex 50% / MOP 35% / TLQ 30% |
-| 5/21 Eye+Texture Trio | Eye + Texture 主题 | PEC 50% / MOP 35% / MPS 3F2 / Matriplex 50% |
-| 5/22 Peptide 3F2 + 100-cap | Peptide 主题 | Matrixyl 3F2 / MPS 3F2 / **Face & Eye Duo $57 (100-cap)** / Peptide Duo+Caviar Bundle |
-| 5/23 Matriplex + 售罄叙事 | Cream 主题 | Matriplex 50% (hero) / TLQ 30% / MOP 35% / Peptide Duo+Caviar Bundle |
-| 5/24 AM Bakuchiol + M1 | Sunday Essentials | Bakuchiol $9 (hero) / M1 50% / Caviar Stick 50% / Matrixyl 3F2 |
-| 5/24 PM 24 Hours Left | 红警示（模板 B）| MOP 35% / Caviar 50% / Bakuchiol $9 / PEC 50% (价格 CTA) |
-| 5/25 Last Chance | 收尾（模板 C）| Matrixyl 3F2 / MPS 3F2 / MOP 35% / Matriplex 50% (混合 CTA) |
+| 5/20 AM Launch_1 | 群像揭幕（UP TO 60%）| Matrixyl 3F2 / MPS 3F2 / **Face & Eye Duo $57 (100-cap)** / Bakuchiol $9 |
+| 5/20 PM Launch_2 | 群像动量（UP TO 60%）| **Peptide Activation Trio $89** / Matrixyl 3F2 / MOP 35% / TLQ 30% |
+| 5/21 Eye+Texture Trio | Eye + Texture 主题 | PEC **40%** / MOP 35% / MPS 3F2 / **🆕 Night Eye Patch $24 (33%)** |
+| 5/22 Peptide 3F2 + 100-cap | Peptide 主题 | Matrixyl 3F2 / MPS 3F2 / **Face & Eye Duo $57 (100-cap)** / **Peptide Activation Trio $89** |
+| 5/23 Matriplex + 售罄叙事 | Cream 主题 | Matriplex **40%** (hero) / TLQ 30% / MOP 35% / **Peptide Activation Trio $89** |
+| 5/24 AM Bakuchiol + M1 | Sunday Essentials | Bakuchiol $9 (hero) / **M2 $43 (50%)** / **Peptide Activation Trio $89** / **🆕 Static Wrinkle Repair Duo $49 (35%)** |
+| 5/24 PM 24 Hours Left | 红警示（模板 B）| MOP 35% / **Matriplex 40%** / Bakuchiol $9 / PEC **40%** (价格 CTA) |
+| 5/25 Last Chance | 收尾（模板 C）| Matrixyl 3F2 / **🆕 Dynamic Wrinkle Defense Duo $51 (40%)** / Bakuchiol $9 / Matriplex **40%** (混合 CTA) |
+
+**⚠️ 已废弃 SKU：** Caviar Multi-Balm Stick + Peptide Serum Duo + Free Caviar Bundle（库存归零，2026-05-13 起从所有 Memorial 邮件移除）
+
+**🆕 新 SKU 整理（2026-05-13 更新）：**
+- **Peptide Activation Trio** $89 ~~$135~~ (34%, SAVE $46) — 4 次出场：5/20 PM / 5/22 / 5/23 / 5/24 AM
+- **Static Wrinkle Repair Duo** (M1+M3K) $49 ~~$76~~ (35%, SAVE $27) — 1 次：5/24 AM Card 4
+- **Dynamic Wrinkle Defense Duo** (M1+Argireline) $51 ~~$85~~ (40%, SAVE $34) — 1 次：5/25 Card 2
+- **Replenishing Night Under Eye Patch** $24 ~~$36~~ (33%, SAVE $12) — 1 次：5/21 Card 4
+- **M2 升级版** (Deepcare+ Micro-dart 16 pairs KPM2J11) $43 ~~$86~~ (50%, SAVE $43) — 1 次：5/24 AM Card 2 first-ever 50% off promo
 
 ---
 

@@ -96,7 +96,7 @@ BUILD THE FULL ROUTINE
 
 ---
 
-## ⚠️ Compliance — Alex Brief Verb 表（MOP 出场必须遵守）
+## Compliance — Alex Brief Verb 表（MOP 出场必须遵守）
 
 **✅ 可用 verbs：** preps, exfoliates, lifts away, supports natural renewal, refreshes, activates skin's surface, smooths, absorbs, layers
 

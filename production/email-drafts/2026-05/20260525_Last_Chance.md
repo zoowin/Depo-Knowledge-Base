@@ -29,7 +29,7 @@ You'll regret missing this. Stock up on dermatologist-approved peptide serums an
 
 ## Hero Section（模板 C — 收尾型）
 
-**Hero Image 方向：** Multi-SKU 群像（4-5 件 best-seller：Caviar Stick + Matrixyl 双瓶 + Argireline + Matriplex Cream + 多种产品立体摆放）+ 国旗布料 accent，居中或右侧 STAR badge "UP TO 50% OFF"。**顶部覆盖红字 "LAST CHANCE" + 深蓝字 "THE MEMORIAL DAY SALE"**（不是红 banner，而是 hero 内的覆盖文字）。
+**Hero Image 方向：** Multi-SKU 群像（4-5 件 best-seller：**Matrixyl 双瓶 + Dynamic Duo + Matriplex Cream + Night Eye Patch + Peptide Activation Trio** 立体摆放）+ 国旗布料 accent，居中或右侧 STAR badge "UP TO 50% OFF"。**顶部覆盖红字 "LAST CHANCE" + 深蓝字 "THE MEMORIAL DAY SALE"**（不是红 banner，而是 hero 内的覆盖文字）。
 
 **顶部 Hero 文字（覆盖 hero image）：**
 
@@ -64,7 +64,7 @@ Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and
 
 ## Primary CTA（黑底白字按钮）
 **SAVE 50% NOW!**
-- **链接：** `https://depology.com/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/pages/memorial-sale-2026`
 
 ---
 
@@ -76,31 +76,31 @@ Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and
 - **评分：** ⭐⭐⭐⭐½ (2000+)
 - **价格：** **$80** ~~$120~~
 - **CTA：** **$80 ONLY - SHOP NOW**（价格化）
-- **链接：** `https://depology.com/products/[NEW_M3K_3F2_SLUG]` ⚠️
+- **链接：** `https://depology.com/products/offer-matrixyl-r-3000-triple-bundle`
 
-### Card 2 — 蓝色横条 "3 FOR 2" + BEST + Seal — savings CTA
-- **产品名：** Peptide Complex Argireline™ Serum 3 for 2
-- **Tag：** Target Dynamic Wrinkles
-- **评分：** ⭐⭐⭐⭐½ (800+)
-- **价格：** **$98** ~~$147~~
-- **CTA：** **SAVE $49 - SHOP NOW**（混合）
-- **链接：** `https://depology.com/products/argireline-serum-triple-bundle`
-
-### Card 3 — 蓝色横条 "70% OFF / $9" — 价格 CTA
-- **产品名：** Bakuchiol Smoothing Serum Stick
-- **Tag：** Improve Fine Lines & Wrinkles
+### Card 2 — 蓝色横条 "33% OFF · TRIO" — savings CTA
+- **产品名：** Ultra-Size Retinol Body Firming Lotion Trio 🆕
+- **Tag：** Smooth & Firm Body Care · 3 items
 - **评分：** ⭐⭐⭐⭐½
-- **价格：** **$9** ~~$30~~
-- **CTA：** **$9 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/bakuchiol-smoothing-serum-stick`
+- **价格：** **$52** ~~$78~~
+- **CTA：** **SAVE $26 - SHOP NOW**（savings 混合）
+- **链接：** `https://depology.com/products/offer-retinol-body-firming-lotion-trio`
 
-### Card 4 — 蓝色横条 "50% OFF" — savings CTA
+### Card 3 — 蓝色横条 "33% OFF" — 价格 CTA
+- **产品名：** Replenishing Night Under Eye Patch
+- **Tag：** Deep Overnight Care · 60 patches
+- **评分：** ⭐⭐⭐⭐½
+- **价格：** **$24** ~~$36~~
+- **CTA：** **$24 ONLY - SHOP NOW**
+- **链接：** `https://depology.com/products/offer-replenishing-night-under-eye-patch`
+
+### Card 4 — 蓝色横条 "40% OFF" — savings CTA
 - **产品名：** Matriplex™ Peptide Intense Cream
 - **Tag：** Intensive Peptide Care
 - **评分：** ⭐⭐⭐⭐½ (1500+)
-- **价格：** **$31** ~~$62~~
-- **CTA：** **SAVE $31 - SHOP NOW**（混合）
-- **链接：** `https://depology.com/products/tri-active-matrixyl-complex-cream`
+- **价格：** **$37** ~~$62~~
+- **CTA：** **SAVE $25 - SHOP NOW**（混合）
+- **链接：** `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy`
 
 ---
 
@@ -111,14 +111,14 @@ The offer is ending soon, so be sure not to miss out!
 
 **Secondary CTA：**
 **SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/pages/memorial-2026-sale`
+- **链接：** `https://depology.com/pages/memorial-sale-2026`
 
 ---
 
 ## Hero Image Brief
 **AI Prompt：**
 ```
-Final-day Memorial Sale hero composition: 4-5 premium skincare products arranged in artful editorial layout on white surface with dramatic red navy ribbon accents, includes Caviar serum stick, two Matrixyl serum dropper bottles, white peptide cream jar, additional product variety, soft yet dramatic studio lighting suggesting end-of-sale gravity, top portion of frame leaves negative space for "LAST CHANCE" text overlay (no actual text in image), sophisticated finale composition, --ar 3:2 --style raw
+Final-day Memorial Sale hero composition: 4-5 premium skincare products arranged in artful editorial layout on white surface with dramatic red navy ribbon accents, includes two Matrixyl serum dropper bottles, Dynamic Wrinkle Defense Duo packaging (M1 patches + Argireline serum), white Matriplex peptide cream jar, Replenishing Night Under Eye Patch jar, and Peptide Activation Trio bundle packaging, soft yet dramatic studio lighting suggesting end-of-sale gravity, top portion of frame leaves negative space for "LAST CHANCE" text overlay (no actual text in image), sophisticated finale composition, --ar 3:2 --style raw
 ```
 
 ---
@@ -142,7 +142,7 @@ Final-day Memorial Sale hero composition: 4-5 premium skincare products arranged
 
 ### Klaviyo 配置
 - SMS Last Chance Final 在 7 PM 触达（晚间最后一波收割）
-- ⚠️ 5/25 是 Memorial Day 公共假日，9 AM ET 发送时间不变
+- 5/25 是 Memorial Day 公共假日，9 AM ET 发送时间不变
 
 ### Anti-fatigue 收尾
 - H1 顶部 "LAST CHANCE" 红字 + 副标 "THE MEMORIAL DAY SALE" 深蓝 — 与 5/24 PM "ONLY 24 HOURS LEFT" 红 banner 形成连续递进（24hrs → Last Chance → 收尾）

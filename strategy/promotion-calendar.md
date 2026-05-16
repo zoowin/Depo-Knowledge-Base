@@ -34,7 +34,7 @@
 |------|------|------|------|------|--------------|------|
 | **Apr** | Easter Weekend | 🟡 Small | 4/5 (2026) | 15-20% OFF | ❌ | 周末促销 |
 | **May** | Mother's Day | 🟡 Small | 5/11 (2026) | 15-20% OFF | ❌ | 礼物角度 + 促销 |
-| **May** | Memorial Weekend | 🟠 Middle | 5/20-25 (2026) | **UP TO 50% OFF + MEM10 code** (10% subscriber, 48hrs) | ❌ | 2025 真实数据 $185k / 8 emails；分层定价（30/35/50/3F2），不是 sitewide flat |
+| **May** | Memorial Weekend | 🟠 Middle | 5/20-25 (2026) | **Day 1 UP TO 60% + MEM10 stack**；Day 2-6 UP TO 50% | ❌ | 2025 真实数据 $185k / 8 emails；分层定价（30/33/35/40/50/70/3F2），不是 sitewide flat；Bakuchiol $9 70% off 锚位 |
 | **Jun** | Father's Day | 🟡 Small | 6/15 (2026) | 15-20% OFF | ❌ | Optional，男性产品角度有限 |
 
 ### Q3

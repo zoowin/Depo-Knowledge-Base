@@ -112,4 +112,4 @@ Three premium skincare products arranged in a clean horizontal line on a soft cr
 ## 备注
 - 📊 预期 Revenue: $4,000 - $6,000（Memorial 前最后一封教育，价值锚定 + 暗示折扣激发囤货）
 - 🎯 Closing 一句"tomorrow the math gets better"是软暗示 Memorial Sale，不剧透 50%
-- ⚠️ 不带任何 promo code — 维持教育属性
+- 不带任何 promo code — 维持教育属性
