@@ -54,7 +54,7 @@ Grab yours today and **see proven results in just 28 days.**
 
 ## Primary CTA
 **SHOP THE TRIO**
-- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorial-sale-2026`
+- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorialday-sale-2026`
 
 > **MEM10 仍有效** — Day 2 的 9 AM ET 仍在 48hrs 窗口内（5/22 9 AM ET 失效），但邮件不再视觉强调 code（按 2025 节奏）
 
@@ -102,8 +102,8 @@ Grab yours today and **see proven results in just 28 days.**
 Limited stock available — grab yours while you can!
 
 **Secondary CTA：**
-**SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorial-sale-2026`
+**SHOP MEMORIAL DAY SALE**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorialday-sale-2026`
 
 ---
 

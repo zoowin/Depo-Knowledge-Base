@@ -179,8 +179,8 @@ def product_url(sku_key, use_mem10):
 
 def sale_page_url(use_mem10):
     if use_mem10:
-        return "https://depology.com/discount/MEM10?redirect=/pages/memorial-sale-2026"
-    return "https://depology.com/pages/memorial-sale-2026"
+        return "https://depology.com/discount/MEM10?redirect=/pages/memorialday-sale-2026"
+    return "https://depology.com/pages/memorialday-sale-2026"
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -313,7 +313,7 @@ def hero_placeholder_b(banner_text, hero_link, hero_url=None, alt_text="Only 24 
 """
 
 
-def hero_placeholder_c(overlay_red, overlay_blue, badge_text, hero_link, hero_url=None, alt_text="Last Chance Memorial Sale"):
+def hero_placeholder_c(overlay_red, overlay_blue, badge_text, hero_link, hero_url=None, alt_text="Last Chance Memorial Day Sale"):
     """Template C: overlay text + STAR badge. If hero_url provided, render real img."""
     if hero_url:
         media_block = f"""<img alt="{alt_text}" src="{hero_url}" style="display:block;width:100%;max-width:600px;height:auto;" width="600"/>"""
@@ -350,7 +350,7 @@ def headline_block(h1_text):
 """
 
 
-def lead_block(lead_copy_html, mem10_callout_html=None, primary_cta_text="SHOP MEMORIAL SALE", primary_cta_url=""):
+def lead_block(lead_copy_html, mem10_callout_html=None, primary_cta_text="SHOP MEMORIAL DAY SALE", primary_cta_url=""):
     parts = []
     parts.append(f"""<!-- Lead Copy -->
 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
@@ -680,17 +680,17 @@ EMAILS = [
         "use_mem10": True,
         "hero_badge": "50% OFF + 10%",
         "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/416e231c-6611-4b7b-babf-35745e0e61f7.jpeg",
-        "h1": "The Summer Sale You&rsquo;ve Been Waiting For&hellip; IS LIVE!",
-        "lead": f'Memorial Day is here. We&rsquo;re offering our {rb("BIGGEST")} summer deal &mdash; with new launches and our best-selling peptide series.',
+        "h1": "The Summer Sale You&#39;ve Been Waiting For&hellip; IS LIVE!",
+        "lead": f'Memorial Day is here. We&#39;re offering our {rb("BIGGEST")} summer deal &mdash; with new launches and our best-selling peptide series.',
         "mem10_callout": f'Extra 10% off site-wide with code {ul("MEM10")} for subscribers, 48 hours only.',
-        "primary_cta": "SHOP MEMORIAL SALE",
+        "primary_cta": "SHOP MEMORIAL DAY SALE",
         "cards": [
-            ("m3k_3f2", "3 FOR 2", "#1E3A8A", "80.00", "120.00", "SAVE $40 - SHOP NOW", True, True),
-            ("argireline_3f2", "3 FOR 2", "#1E3A8A", "98.00", "147.00", "SAVE $49 - SHOP NOW", True, True),
-            ("face_eye_duo", "50% OFF · ONLY 100 SPOTS", "#C8102E", "57.00", "114.00", "SAVE $57 - SHOP NOW", True, True),
-            ("bakuchiol", "70% OFF · $9", "#1E3A8A", "9.00", "30.00", "SAVE $21 - SHOP NOW", False, True),
+            ("m3k_3f2", "3 FOR 2", "#1E3A8A", "80.00", "120.00", "SHOP NOW", True, True),
+            ("argireline_3f2", "3 FOR 2", "#1E3A8A", "98.00", "147.00", "SHOP NOW", True, True),
+            ("face_eye_duo", "50% OFF · ONLY 100 SPOTS", "#C8102E", "57.00", "114.00", "SHOP NOW", True, True),
+            ("bakuchiol", "70% OFF · $9", "#1E3A8A", "9.00", "30.00", "SHOP NOW", False, True),
         ],
-        "closing": f"With {ul('limited stock')} available, now&rsquo;s the time to secure your picks!",
+        "closing": f"With {ul('limited stock')} available, now&#39;s the time to secure your picks!",
         "secondary_cta": "SHOP ALL SALE",
     },
     # ─── 5/20 PM Memorial Resend ───
@@ -701,17 +701,17 @@ EMAILS = [
         "use_mem10": True,
         "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/4251ebcf-6374-487e-9d39-6738e70391ed.jpeg",
         "hero_badge": "50% OFF + 10%",
-        "h1": "Memorial Day Sale &mdash; It&rsquo;s On, and It&rsquo;s Going Fast!",
-        "lead": "The sale has kicked off &mdash; and it&rsquo;s moving faster than we thought.",
+        "h1": "Memorial Day Sale &mdash; It&#39;s On, and It&#39;s Going Fast!",
+        "lead": "The sale has kicked off &mdash; and it&#39;s moving faster than we thought.",
         "mem10_callout": f'Extra 10% off site-wide with code {ul("MEM10")} for subscribers, 48 hours only.',
-        "primary_cta": "SHOP MEMORIAL SALE",
+        "primary_cta": "SHOP MEMORIAL DAY SALE",
         "cards": [
-            ("pat", "NEW BUNDLE · SAVE $46", "#1E3A8A", "89.00", "135.00", "SAVE $46 - SHOP NOW", True, True),
-            ("m3k_3f2", "3 FOR 2", "#1E3A8A", "80.00", "120.00", "SAVE $40 - SHOP NOW", True, True),
-            ("mop", "35% OFF", "#1E3A8A", "22.00", "34.00", "SAVE $12 - SHOP NOW", False, False),
-            ("tlq", "30% OFF", "#1E3A8A", "31.00", "44.00", "SAVE $13 - SHOP NOW", False, False),
+            ("pat", "NEW BUNDLE · SAVE $46", "#1E3A8A", "89.00", "135.00", "SHOP NOW", True, True),
+            ("m3k_3f2", "3 FOR 2", "#1E3A8A", "80.00", "120.00", "SHOP NOW", True, True),
+            ("mop", "35% OFF", "#1E3A8A", "22.00", "34.00", "SHOP NOW", False, False),
+            ("tlq", "30% OFF", "#1E3A8A", "31.00", "44.00", "SHOP NOW", False, False),
         ],
-        "closing": "More amazing offers waiting for you &mdash; click here to shop them before they&rsquo;re gone!",
+        "closing": "More amazing offers waiting for you &mdash; click here to shop them before they&#39;re gone!",
         "secondary_cta": "SHOP ALL SALE",
     },
     # ─── 5/21 Eye + Texture Trio ───
@@ -723,38 +723,38 @@ EMAILS = [
         "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/d4a53900-fd2e-4d38-9022-e838396245ac.jpeg",
         "hero_badge": "UP TO 50% OFF",
         "h1": "Celebrate Memorial Day with Smarter Eye + Texture Care",
-        "lead": f"Don&rsquo;t miss your chance to upgrade your <b>eye + texture routine</b> with our most-loved peptide trio.<br/><br/>Grab yours today and {ul('see proven results in just 28 days.')}<br/><br/><b>Memorial Day pricing through Monday at midnight PDT.</b>",
+        "lead": f"Don&#39;t miss your chance to upgrade your <b>eye + texture routine</b> with our most-loved peptide trio.<br/><br/>Grab yours today and {ul('see proven results in just 28 days.')}<br/><br/><b>Memorial Day pricing through Monday at midnight PDT.</b>",
         "mem10_callout": None,
         "primary_cta": "SHOP THE TRIO",
         "cards": [
-            ("pec", "40% OFF", "#1E3A8A", "31.00", "52.00", "SAVE $21 - SHOP NOW", False, False),
-            ("mop", "35% OFF", "#1E3A8A", "22.00", "34.00", "SAVE $12 - SHOP NOW", False, False),
-            ("argireline_3f2", "3 FOR 2", "#1E3A8A", "98.00", "147.00", "SAVE $49 - SHOP NOW", True, True),
-            ("night_eye", "33% OFF", "#1E3A8A", "24.00", "36.00", "SAVE $12 - SHOP NOW", True, True),
+            ("pec", "40% OFF", "#1E3A8A", "31.00", "52.00", "SHOP NOW", False, False),
+            ("mop", "35% OFF", "#1E3A8A", "22.00", "34.00", "SHOP NOW", False, False),
+            ("argireline_3f2", "3 FOR 2", "#1E3A8A", "98.00", "147.00", "SHOP NOW", True, True),
+            ("night_eye", "33% OFF", "#1E3A8A", "24.00", "36.00", "SHOP NOW", True, True),
         ],
         "closing": "Limited stock available &mdash; grab yours while you can!",
-        "secondary_cta": "SHOP MEMORIAL SALE",
+        "secondary_cta": "SHOP MEMORIAL DAY SALE",
     },
     # ─── 5/22 Peptide 3F2 + 100-cap ───
     {
         "filename": "20260522_Peptide_3F2.html",
-        "title": "3 for 2 Peptides + 100-Cap Duo",
+        "title": "Pair the Patches + Serums",
         "template": "A",
         "use_mem10": False,  # MEM10 expired 9 AM 5/22
-        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/e03ffe85-ffb8-4f48-872d-817e8d0a8168.jpeg",
-        "hero_badge": "3 FOR 2",
-        "h1": "Celebrate Memorial Day with the Power of Peptides",
-        "lead": f"Don&rsquo;t miss your chance to stock up on our {rb('#1 bestselling peptide serums.')}<br/><br/>Grab yours today and {ul('see proven results in just 28 days.')}<br/><br/>{rb('🔴 ONLY 100 Face &amp; Eye Peptide Duos at this price. No restocks at $57. Run, don&rsquo;t walk.')}",
+        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/13cc04dd-5c5f-4804-90cd-e35fa74f6fe7.jpeg",
+        "hero_badge": "UP TO 40% OFF",
+        "h1": "Pair the Patches + Serums",
+        "lead": f"Double down on wrinkle defense &mdash; {rb('patches deliver peptides exactly where you need them')}, while serums work all-over.<br/><br/>Two duos. Two ways to fight wrinkles. {ul('See proven results in just 28 days.')}<br/><br/><b>Memorial pricing through Monday at midnight PDT.</b>",
         "mem10_callout": None,
-        "primary_cta": "SHOP 3 FOR 2!",
+        "primary_cta": "SHOP THE DUOS",
         "cards": [
-            ("m3k_3f2", "3 FOR 2", "#1E3A8A", "80.00", "120.00", "SAVE $40 - SHOP NOW", True, True),
-            ("argireline_3f2", "3 FOR 2", "#1E3A8A", "98.00", "147.00", "SAVE $49 - SHOP NOW", True, True),
-            ("face_eye_duo", "50% OFF · ONLY 100 SPOTS", "#C8102E", "57.00", "114.00", "SAVE $57 - SHOP NOW", True, True),
-            ("pat", "NEW BUNDLE · SAVE $46", "#1E3A8A", "89.00", "135.00", "SAVE $46 - SHOP NOW", True, True),
+            ("static_duo", "35% OFF · BUNDLE", "#1E3A8A", "49.00", "76.00", "SHOP NOW", True, True),
+            ("dynamic_duo", "40% OFF · BUNDLE", "#1E3A8A", "51.00", "85.00", "SHOP NOW", True, True),
+            ("argireline_3f2", "3 FOR 2", "#1E3A8A", "98.00", "147.00", "SHOP NOW", True, True),
+            ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "SHOP NOW", True, True),
         ],
         "closing": "Limited stock available &mdash; grab yours while you can!",
-        "secondary_cta": "SHOP MEMORIAL SALE",
+        "secondary_cta": "SHOP MEMORIAL DAY SALE",
     },
     # ─── 5/23 Matriplex Solo + 售罄叙事 ───
     {
@@ -769,35 +769,35 @@ EMAILS = [
         "mem10_callout": None,
         "primary_cta": "SAVE 40% TODAY",
         "cards": [
-            ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "SAVE $25 - SHOP NOW", True, True),
-            ("body_lotion_trio", "33% OFF · TRIO", "#1E3A8A", "52.00", "78.00", "SAVE $26 - SHOP NOW", False, False),
-            ("mop", "35% OFF", "#1E3A8A", "22.00", "34.00", "SAVE $12 - SHOP NOW", False, False),
-            ("pat", "NEW BUNDLE · SAVE $46", "#1E3A8A", "89.00", "135.00", "SAVE $46 - SHOP NOW", True, True),
+            ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "SHOP NOW", True, True),
+            ("body_lotion_trio", "33% OFF · TRIO", "#1E3A8A", "52.00", "78.00", "SHOP NOW", False, False),
+            ("face_eye_duo", "50% OFF · ALMOST GONE", "#C8102E", "57.00", "114.00", "SHOP NOW", True, True),
+            ("pat", "NEW BUNDLE · SAVE $46", "#1E3A8A", "89.00", "135.00", "SHOP NOW", True, True),
         ],
         "closing": "Limited stock available &mdash; grab yours while you can!",
-        "secondary_cta": "SHOP MEMORIAL SALE",
+        "secondary_cta": "SHOP MEMORIAL DAY SALE",
     },
     # ─── 5/24 AM Sunday Essentials — New Retinol Patches First-Ever 50% ───
     # Note: M2 is internal codename only — never appears in customer-facing copy (Leon 2026-05-13 r4)
     {
         "filename": "20260524_AM_M2.html",
-        "title": "First-Ever 50% Off — New Retinol Patches",
+        "title": "Up to 40% Off — New Retinol Patches",
         "template": "A",
         "use_mem10": False,
-        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/64d98f8c-e69e-4615-a66a-ff88a98f9c90.jpeg",
-        "hero_badge": "FIRST-EVER 50% OFF · NEW WITH RETINOL",
+        "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/9ac31b95-3be8-4c78-8295-627726f0cc6f.jpeg",
+        "hero_badge": "UP TO 40% OFF · NEW WITH RETINOL",
         "h1": "Celebrate Memorial Day with Sunday Essentials",
-        "lead": f"Your Sunday skin essential is here.<br/><br/>For the first time ever, our <b>new Retinol Micro-dart Patches</b> are {rb('50% off')} — Memorial-exclusive Sunday flash.<br/><br/>The 3,300 IU/g Retinol formula delivers targeted renewal without the irritation. (16 pairs · 8 weeks of overnight care.)<br/><br/>{rb('US exclusive for the final 48 hours of Memorial Sale!')}",
+        "lead": f"Your Sunday skin essential is here.<br/><br/>For the first time ever, our <b>new Retinol Micro-dart Patches</b> are {rb('up to 40% off')} — Memorial-exclusive Sunday flash.<br/><br/>The 3,300 IU/g Retinol formula delivers targeted renewal without the irritation. (16 pairs · 8 weeks of overnight care.)<br/><br/>{rb('US exclusive for the final 48 hours of Memorial Day Sale!')}",
         "mem10_callout": None,
         "primary_cta": "SHOP THE NEW RETINOL!",
         "cards": [
-            ("m2", "50% OFF · FIRST EVER", "#1E3A8A", "43.00", "86.00", "SAVE $43 - SHOP NOW"),
-            ("pat", "NEW BUNDLE", "#1E3A8A", "89.00", "135.00", "SAVE $46 - SHOP NOW"),
-            ("static_duo", "35% OFF · BUNDLE", "#1E3A8A", "49.00", "76.00", "SAVE $27 - SHOP NOW"),
-            ("night_eye", "33% OFF", "#1E3A8A", "24.00", "36.00", "SAVE $12 - SHOP NOW"),
+            ("m2", "40% OFF · 16 PAIRS", "#1E3A8A", "86.00", "144.00", "SHOP NOW"),
+            ("pat", "NEW BUNDLE", "#1E3A8A", "89.00", "135.00", "SHOP NOW"),
+            ("static_duo", "35% OFF · BUNDLE", "#1E3A8A", "49.00", "76.00", "SHOP NOW"),
+            ("night_eye", "33% OFF", "#1E3A8A", "24.00", "36.00", "SHOP NOW"),
         ],
         "closing": "Limited stock available &mdash; grab yours while you can!",
-        "secondary_cta": "SHOP MEMORIAL SALE",
+        "secondary_cta": "SHOP MEMORIAL DAY SALE",
     },
     # ─── 5/24 PM 24 Hours Left (Template B, restrained single-line banner) ───
     {
@@ -807,39 +807,39 @@ EMAILS = [
         "use_mem10": False,
         "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/879bcf7d-936d-4c98-afbe-bd2a0ca69ce8.jpeg",
         "banner_text": "ONLY 24 HOURS LEFT!",
-        "lead": f"This is your {rb('last chance')} to get the BEST savings of the season!<br/><br/>The offers below {ul('won&rsquo;t be back until Black Friday.')}<br/><br/>{bi('Shop now or miss out until the end of the year.')}",
+        "lead": f"This is your {rb('last chance')} to get the BEST savings of the season!<br/><br/>The offers below {ul('won&#39;t be back until Black Friday.')}<br/><br/>{bi('Shop now or miss out until the end of the year.')}",
         "mem10_callout": None,
         "primary_cta": "LAST CHANCE TO SAVE!",
         "cards": [
             ("mop", "35% OFF", "#1E3A8A", "22.00", "34.00", "$22 ONLY - SHOP NOW"),
-            ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "$37 ONLY - SHOP NOW"),
-            ("night_eye", "33% OFF", "#1E3A8A", "24.00", "36.00", "$24 ONLY - SHOP NOW"),
+            ("tlq", "30% OFF", "#1E3A8A", "31.00", "44.00", "$31 ONLY - SHOP NOW"),
+            ("dynamic_duo", "40% OFF · BUNDLE", "#1E3A8A", "51.00", "85.00", "$51 ONLY - SHOP NOW"),
             ("pec", "40% OFF", "#1E3A8A", "31.00", "52.00", "$31 ONLY - SHOP NOW"),
         ],
         "closing": "The offer is ending soon, so be sure not to miss out!",
-        "secondary_cta": "SHOP MEMORIAL SALE",
+        "secondary_cta": "SHOP MEMORIAL DAY SALE",
     },
     # ─── 5/25 Last Chance (Template C) — Bakuchiol replaced with Night Eye Patch ───
     {
         "filename": "20260525_Last_Chance.html",
-        "title": "LAST CHANCE — Memorial Sale",
+        "title": "LAST CHANCE — Memorial Day Sale",
         "template": "C",
         "use_mem10": False,
         "hero_image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/62155801-15f3-4bcc-a686-881086970eaf.jpeg",
         "overlay_red": "LAST CHANCE",
         "overlay_blue": "THE MEMORIAL DAY SALE",
         "hero_badge": "UP TO 50% OFF",
-        "lead": f"Yes, you&rsquo;ll regret missing the {rb('BIGGEST')} sale of the summer.<br/><br/>Stock up on {ul('dermatologist-approved')} peptide serums, retinol body lotions, and more &mdash; all for less!<br/><br/>{bi('Remember &mdash; the offer ends at <b>midnight PDT</b>.')}",
+        "lead": f"Yes, you&#39;ll regret missing the {rb('BIGGEST')} sale of the summer.<br/><br/>Stock up on {ul('dermatologist-approved')} peptide serums, retinol body lotions, and more &mdash; all for less!<br/><br/>{bi('Remember &mdash; the offer ends at <b>midnight PDT</b>.')}",
         "mem10_callout": None,
         "primary_cta": "SAVE 50% NOW!",
         "cards": [
             ("m3k_3f2", "3 FOR 2", "#1E3A8A", "80.00", "120.00", "$80 ONLY - SHOP NOW"),
-            ("body_lotion_trio", "33% OFF · TRIO", "#1E3A8A", "52.00", "78.00", "SAVE $26 - SHOP NOW"),
+            ("body_lotion_trio", "33% OFF · TRIO", "#1E3A8A", "52.00", "78.00", "SHOP NOW"),
             ("night_eye", "33% OFF", "#1E3A8A", "24.00", "36.00", "$24 ONLY - SHOP NOW"),
-            ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "SAVE $25 - SHOP NOW"),
+            ("matriplex", "40% OFF", "#1E3A8A", "37.00", "62.00", "SHOP NOW"),
         ],
         "closing": "The offer is ending soon, so be sure not to miss out!",
-        "secondary_cta": "SHOP MEMORIAL SALE",
+        "secondary_cta": "SHOP MEMORIAL DAY SALE",
     },
 ]
 

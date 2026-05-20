@@ -81,13 +81,13 @@ With Matrixyl® and a clinically formulated peptide complex, **it firms, lifts a
 - **CTA：** SAVE $26 - SHOP NOW
 - **链接：** `https://depology.com/products/offer-retinol-body-firming-lotion-trio`
 
-### Card 3 — 蓝色横条 "35% OFF"
-- **产品名：** Deepcare+® MicroOperator Boosting Cream
-- **Tag：** Boosts Skin Renewal & Radiance
-- **评分：** ⭐⭐⭐⭐½
-- **价格：** **$22** ~~$34~~
-- **CTA：** SAVE $12 - SHOP NOW
-- **链接：** `https://depology.com/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only`
+### Card 3 — 🔴 红色横条 "50% OFF · ALMOST GONE"（接续 5/20 AM 的 100-spot 叙事，售罄收尾）
+- **产品名：** Face & Eye Peptide Firming Duo
+- **Tag：** Smooth & Firm — Cream Duo
+- **评分：** ⭐⭐⭐⭐½ (500+)
+- **价格：** **$57** ~~$114~~
+- **CTA：** SAVE $57 - SHOP NOW
+- **链接：** `https://depology.com/products/face-eye-peptide-firming-duo`
 
 ### Card 4 — 蓝色横条 "NEW BUNDLE · SAVE $46" + BEST + Seal
 - **产品名：** Peptide Activation Trio 🆕
@@ -105,8 +105,8 @@ With Matrixyl® and a clinically formulated peptide complex, **it firms, lifts a
 Limited stock available — grab yours while you can!
 
 **Secondary CTA：**
-**SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/pages/memorial-sale-2026`
+**SHOP MEMORIAL DAY SALE**
+- **链接：** `https://depology.com/pages/memorialday-sale-2026`
 
 ---
 

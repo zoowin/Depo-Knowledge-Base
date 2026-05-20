@@ -52,8 +52,8 @@ Memorial Day is here. We're offering our **BIGGEST** summer deal — with new la
 ---
 
 ## Primary CTA（黑底白字按钮）
-**SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorial-sale-2026`
+**SHOP MEMORIAL DAY SALE**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorialday-sale-2026`
 
 ---
 
@@ -101,7 +101,7 @@ With limited stock available, now's the time to secure your picks!
 
 **Secondary CTA（白底黑字按钮）：**
 **SHOP ALL SALE**
-- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorial-sale-2026`
+- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorialday-sale-2026`
 
 ---
 
@@ -117,7 +117,7 @@ Premium product still life arrangement of 4-5 luxury skincare products on white 
 
 ### 关键执行
 - **Smart Sending 必须关闭** — 否则 5PM resend 会被屏蔽
-- Sale page (`/pages/memorial-sale-2026`) 必须在 5/19 24:00 前建好
+- Sale page (`/pages/memorialday-sale-2026`) 必须在 5/19 24:00 前建好
 - MEM10 在 Shopify Discounts 配置完成（Order Discount Code，48hrs，no min spend，site-wide）
 - Shopify Combinations 启用 Product + Order 叠加
 - Face & Eye Duo 100-cap Automatic Discount 配置完成（usage limit 100）

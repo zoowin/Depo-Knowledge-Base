@@ -57,7 +57,7 @@ Depology: MEM10 unlocks an extra 10% off Memorial Sale — but only for 48hrs. U
 
 ## 备注
 - ⚠️ **Smart Sending OFF**（确保 SMS 触达，不被 Klaviyo 频率限制屏蔽）
-- ⚠️ Link 用 Klaviyo 自动短链，指向 `/discount/MEM10?redirect=/pages/memorial-sale-2026`（自动加载 code）
+- ⚠️ Link 用 Klaviyo 自动短链，指向 `/discount/MEM10?redirect=/pages/memorialday-sale-2026`（自动加载 code）
 - 📊 SMS 平均 CTR 15-25%，Memorial Launch 预期增量 revenue **$1,500 - $3,000**（2025 baseline 减半）
 - 🚨 5/20 是 3 触点天（AM email + 11 AM SMS + PM email），确保 SMS Subscribers segment 已从 PM email 中排除（避免叠加疲劳）
 - ✉️ MMS 可选：上传 Memorial UP TO 60% 主视觉一图，提升点击率

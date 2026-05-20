@@ -16,7 +16,7 @@
 
 **A 组（遗憾叙事型 — 复刻 2025 高 ROI 套路）：**
 1. Last chance. You'll regret missing the BIGGEST sale of the summer.
-2. LAST CHANCE — Memorial Sale ends at midnight tonight.
+2. LAST CHANCE — Memorial Day Sale ends at midnight tonight.
 
 **B 组（直白型）：**
 3. Final hours. Memorial Sale ends midnight PDT.
@@ -64,7 +64,7 @@ Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and
 
 ## Primary CTA（黑底白字按钮）
 **SAVE 50% NOW!**
-- **链接：** `https://depology.com/pages/memorial-sale-2026`
+- **链接：** `https://depology.com/pages/memorialday-sale-2026`
 
 ---
 
@@ -110,8 +110,8 @@ Stock up on **dermatologist-approved** peptide serums, retinol body lotions, and
 The offer is ending soon, so be sure not to miss out!
 
 **Secondary CTA：**
-**SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/pages/memorial-sale-2026`
+**SHOP MEMORIAL DAY SALE**
+- **链接：** `https://depology.com/pages/memorialday-sale-2026`
 
 ---
 

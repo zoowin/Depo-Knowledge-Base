@@ -177,7 +177,7 @@
   - **测试观察指标：** Bundle CTR / Bundle 转化数 / Bundle vs Anti-Aging Trio 销量比 / Avg cart size
   - **后续动作：** 5/12-13 review 数据，决定 Memorial 之后是否启动 Activation Trio paid launch（Alex 完整 playbook 含 Free M3K + 500 cap + UGC + ads）
 - **Memorial Sale (May 20-25):**
-  - **Sale page (`/pages/memorial-sale-2026`) 提前 1 周建好**，所有 Memorial SKU 在 5/19 24:00 自动启用降价（详见 Pricing Matrix）
+  - **Sale page (`/pages/memorialday-sale-2026`) 提前 1 周建好**，所有 Memorial SKU 在 5/19 24:00 自动启用降价（详见 Pricing Matrix）
   - **MEM10 code** Shopify 配置：5/20 9 AM ET → 5/22 9 AM ET 有效，订阅者可用，全站叠加 10%
   - **链接格式（关键）：** 所有带 code 的产品链接必须用 `/discount/MEM10?redirect=/products/{slug}` 格式（CLAUDE.md 非协商规则）；5/22+ code 失效后切回标准产品 URL
   - **🔴 Face & Eye Peptide Firming Duo 100-cap 配置：** Shopify 库存上限设 100，Day 3 售罄后 Day 4 邮件实时引用售罄状态（如未售罄则保留 50% 不变但话术弱化稀缺）
@@ -243,7 +243,7 @@
 | Deepcare+ Boosting Cream (MOP) | $34 | **$22** | 35% | $22/$34 ✅ 对齐 | Product Automatic Discount 35% off |
 | Triple Lipid + Q10 RICH (TLQ) | $44 | **$31** | 30% | $31/$44 ✅ 对齐 | Product Automatic Discount 30% off |
 | Bakuchiol Smoothing Stick | $30 | **$9** | 70% | (2025 仅 50% $15) | 🆕 Product Automatic Discount 70% off（库存清空 — 🔝 Memorial 最大折扣锚位）|
-| Deepcare+ Micro-dart Patch (**M2 with Retinol**, 16 pairs/8 weeks, SKU KPM2J11) | $86 | **$43** | 50% | — (2026 首促) | 🆕 Product Automatic Discount 50% off — 1493 units 库存（仅 16-pairs M2 variant，不触发 12-pairs 旧 M1 variant KPM1S11）|
+| Deepcare+ Micro-dart Patch (**M2 with Retinol**, 16 pairs/8 weeks, SKU KPM2J11) | **$144 MSRP** | **$86** | **40%** (save $58) | — (2026 首促) | ⚠️ **不破价** — $86 = Shopify 现行 sale 价（已 40% off MSRP $144）。邮件展示 $86/~~$144~~ 给"save $58"省钱锚点。**2026-05-14 Leon 三次确认：50%→40%，使用 MSRP $144 对照不再额外降价** |
 | 🆕 **Peptide Activation Trio** | $135 (bundle) | **$89** | 34% | — (2026 NEW) | ⚙️ Shopify 显示 $135 原价 / $89 sale（5/8 Mother's Day 首发，Memorial 期间继续以此价 anchor）|
 | 🆕 **Static Wrinkle Repair Duo** (M1 + M3K) | $76 (bundle) | **$49** | 35% | — (2026 NEW) | 🔴 OFFER SKU 当前 OOS — Leon 5/13 确认 5/20 前能补货到位；M1 库存共享风险 |
 | 🆕 **Dynamic Wrinkle Defense Duo** (M1 + Argireline) | $85 (bundle) | **$51** | 40% | — (2026 NEW) | 🔴 OFFER SKU 当前 OOS — Leon 5/13 确认 5/20 前能补货到位；M1 库存共享风险 |
@@ -307,7 +307,7 @@
 - ✅ **MOM15 已砍** — 不需要配置任何折扣码
 
 ### Memorial Sale (May 20-25)
-- [ ] **Sale page `/pages/memorial-sale-2026` 建好**（5/13 之前完成）
+- [ ] **Sale page `/pages/memorialday-sale-2026` 建好**（5/13 之前完成）
 - [ ] **SKU 分层降价配置**（5/19 24:00 生效，5/26 00:00 结束）— 详见 Memorial Pricing Matrix（10 个 SKU）
 - [ ] **🆕 MEM10 Order Discount Code 配置**：Extra 10% off subtotal, 48 hours only (5/20 9 AM ET → 5/22 9 AM ET), 订阅者可用 (no min)
 - [ ] **🔴 Shopify Settings → Discounts → Combinations**：启用 **Product + Order 叠加**（关键，决定 MEM10 能否叠加 100-cap）

@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Memorial Day Sale 2026 — Campaign Overview</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; background:#f4f4f6; margin:0; padding:24px; color:#1a1a1a; line-height:1.5; }
+  .container { max-width: 1600px; margin: 0 auto; }
+  h1 { font-size:32px; color:#1E3A8A; margin:0 0 8px 0; border-bottom:3px solid #C8102E; padding-bottom:12px; }
+  h1 .flag { color:#C8102E; }
+  .subtitle { color:#666; font-size:15px; margin-bottom:24px; }
+
+  /* TOC sticky nav */
+  .toc { position:sticky; top:0; z-index:100; background:#1E3A8A; padding:10px 16px; border-radius:8px; margin-bottom:24px; box-shadow:0 2px 8px rgba(0,0,0,0.15); display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+  .toc strong { color:#fff; font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-right:8px; }
+  .toc a { background:rgba(255,255,255,0.15); color:#fff; padding:6px 10px; border-radius:4px; text-decoration:none; font-size:12px; font-weight:600; transition:background 0.15s; }
+  .toc a:hover { background:rgba(255,255,255,0.3); }
+  .toc a.last { background:#C8102E; }
+
+  /* Summary cards */
+  .summary-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:16px; margin-bottom:32px; }
+  .summary-card { background:#fff; border-radius:8px; padding:16px; box-shadow:0 1px 3px rgba(0,0,0,0.08); }
+  .summary-card .label { font-size:11px; color:#999; text-transform:uppercase; letter-spacing:1px; margin-bottom:4px; }
+  .summary-card .value { font-size:22px; font-weight:700; color:#1E3A8A; }
+  .summary-card .meta { font-size:12px; color:#666; margin-top:4px; }
+
+  h2 { font-size:22px; color:#1E3A8A; margin:32px 0 16px 0; border-left:4px solid #C8102E; padding-left:12px; }
+
+  /* Tables */
+  table { width:100%; background:#fff; border-collapse:collapse; border-radius:8px; overflow:hidden; box-shadow:0 1px 3px rgba(0,0,0,0.08); margin-bottom:24px; font-size:12px; }
+  th { background:#1E3A8A; color:#fff; padding:8px 10px; text-align:left; font-size:11px; font-weight:600; letter-spacing:0.5px; }
+  td { padding:8px 10px; border-bottom:1px solid #eee; vertical-align:top; }
+  tr:last-child td { border-bottom:none; }
+  tr:hover { background:#fafafa; }
+  .day-badge { display:inline-block; background:#C8102E; color:#fff; padding:3px 8px; border-radius:3px; font-size:11px; font-weight:700; letter-spacing:0.5px; }
+  .day-badge.am { background:#1E3A8A; }
+  .day-badge.pm { background:#C8102E; }
+  .day-badge.last { background:#000; }
+
+  /* Email section */
+  .email-section { background:#fff; border-radius:10px; padding:20px; margin-bottom:24px; box-shadow:0 2px 8px rgba(0,0,0,0.06); scroll-margin-top:80px; }
+  .email-header { display:flex; gap:16px; align-items:center; margin-bottom:14px; padding-bottom:12px; border-bottom:2px solid #eee; }
+  .email-date { background:#1E3A8A; color:#fff; padding:8px 12px; border-radius:6px; text-align:center; min-width:75px; }
+  .email-date .day { font-size:20px; font-weight:700; line-height:1; }
+  .email-date .month { font-size:10px; text-transform:uppercase; letter-spacing:1px; margin-top:2px; }
+  .email-date .time { font-size:10px; opacity:0.8; margin-top:4px; }
+  .email-title { flex:1; }
+  .email-title h3 { font-size:17px; color:#1E3A8A; margin:0 0 4px 0; }
+  .email-title .theme { color:#666; font-size:12px; font-style:italic; }
+  .open-btn { background:#C8102E; color:#fff; padding:8px 14px; border-radius:5px; text-decoration:none; font-size:12px; font-weight:700; letter-spacing:0.5px; transition:background 0.15s; }
+  .open-btn:hover { background:#A30C24; }
+
+  /* Side-by-side: left meta + right iframe */
+  .email-body { display:grid; grid-template-columns: 360px 1fr; gap:20px; }
+  .email-meta { font-size:12px; }
+  .email-meta .row { display:grid; grid-template-columns:90px 1fr; gap:6px 12px; padding:6px 0; border-bottom:1px solid #f0f0f0; }
+  .email-meta .row:last-child { border-bottom:none; }
+  .email-meta .label { color:#999; font-weight:600; text-transform:uppercase; font-size:10px; letter-spacing:0.5px; padding-top:2px; }
+  .subject-row { background:#FFF7E6; padding:6px 10px; border-radius:4px; border-left:3px solid #FFA500; font-family:Menlo, Monaco, monospace; font-size:11px; }
+  .preview-row { background:#F0F4FF; padding:6px 10px; border-radius:4px; border-left:3px solid #1E3A8A; font-style:italic; color:#444; font-size:11px; }
+  .cards { display:grid; grid-template-columns:repeat(2,1fr); gap:6px; margin-top:8px; }
+  .card { background:#FAFAFA; border:1px solid #e0e0e0; border-radius:5px; padding:7px 9px; font-size:10px; }
+  .card.scarcity { border-color:#C8102E; background:#FEF5F5; }
+  .card .badge { display:inline-block; background:#1E3A8A; color:#fff; padding:2px 5px; border-radius:3px; font-size:9px; font-weight:700; letter-spacing:0.3px; margin-bottom:4px; }
+  .card.scarcity .badge { background:#C8102E; }
+  .card .name { font-weight:700; color:#1a1a1a; line-height:1.3; margin-bottom:3px; font-size:11px; }
+  .card .price { color:#C8102E; font-weight:700; font-size:12px; }
+  .card .original { color:#999; text-decoration:line-through; font-size:10px; margin-left:4px; }
+  .card .save { color:#666; font-size:9px; margin-top:2px; }
+
+  .kid { background:#1E3A8A; color:#fff; padding:2px 6px; border-radius:3px; font-size:10px; font-family:Menlo,monospace; }
+  .kid.tpl { background:#666; }
+
+  /* Iframe preview */
+  .iframe-wrap { border:2px solid #ddd; border-radius:6px; overflow:hidden; background:#DDDDDD; height:800px; box-shadow: inset 0 1px 3px rgba(0,0,0,0.05); }
+  .iframe-wrap iframe { width:100%; height:100%; border:0; display:block; }
+  .iframe-hint { font-size:10px; color:#999; text-align:center; padding:6px; background:#fff; border-top:1px solid #eee; }
+
+  /* Notes section */
+  .stats { background:#fff; border-radius:8px; padding:20px; margin-bottom:24px; box-shadow:0 1px 3px rgba(0,0,0,0.08); }
+  .stats code { background:#f4f4f6; padding:2px 6px; border-radius:3px; font-size:11px; font-family:Menlo,monospace; }
+
+  .footer { margin-top:48px; padding:20px; text-align:center; color:#999; font-size:12px; border-top:1px solid #ddd; }
+  .footer strong { color:#1E3A8A; }
+
+  @media (max-width: 1100px) {
+    .email-body { grid-template-columns: 1fr; }
+    .iframe-wrap { height:600px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1><span class="flag">🇺🇸</span> Memorial Day Sale 2026 — Campaign Overview</h1>
+<div class="subtitle">5/20 (Wed) → 5/25 (Mon) · 6 days · 8 emails · All campaigns in Draft</div>
+
+<!-- ─── STICKY TOC NAV ─── -->
+<div class="toc">
+  <strong>Jump to:</strong>
+  <a href="#email-520am">5/20 AM</a>
+  <a href="#email-520pm">5/20 PM</a>
+  <a href="#email-521">5/21</a>
+  <a href="#email-522">5/22</a>
+  <a href="#email-523">5/23</a>
+  <a href="#email-524am">5/24 AM</a>
+  <a href="#email-524pm">5/24 PM</a>
+  <a href="#email-525" class="last">5/25 LAST</a>
+  <a href="#timeline" style="margin-left:auto">📅 Timeline</a>
+  <a href="#skugrid">📊 SKU Grid</a>
+</div>
+
+<!-- ─── SUMMARY CARDS ─── -->
+<div class="summary-grid">
+  <div class="summary-card">
+    <div class="label">Total Emails</div>
+    <div class="value">8</div>
+    <div class="meta">6× Template A · 1× B · 1× C</div>
+  </div>
+  <div class="summary-card">
+    <div class="label">SKUs Featured</div>
+    <div class="value">14</div>
+    <div class="meta">All Memorial-eligible products</div>
+  </div>
+  <div class="summary-card">
+    <div class="label">Double-Send Days</div>
+    <div class="value">2</div>
+    <div class="meta">5/20 + 5/24 · Smart Sending OFF</div>
+  </div>
+  <div class="summary-card">
+    <div class="label">MEM10 Window</div>
+    <div class="value">48 hrs</div>
+    <div class="meta">5/20 9 AM ET → 5/22 9 AM ET</div>
+  </div>
+</div>
+
+<!-- ─── TIMELINE ─── -->
+<h2 id="timeline">📅 Campaign Timeline</h2>
+<table>
+  <thead><tr><th>Day</th><th>Date</th><th>Time</th><th>Theme</th><th>Subject A1</th><th>Klaviyo Campaign ID</th><th>Template ID</th></tr></thead>
+  <tbody>
+    <tr><td><a href="#email-520am" style="text-decoration:none"><span class="day-badge am">D1 AM</span></a></td><td>5/20 Wed</td><td>9 AM ET</td><td>Sale Launch + MEM10</td><td>Memorial Day Sale IS LIVE! 50% off + extra 10% with MEM10. 🇺🇸</td><td><span class="kid">01KRK77J</span></td><td><span class="kid tpl">Sk5F47</span></td></tr>
+    <tr><td><a href="#email-520pm" style="text-decoration:none"><span class="day-badge pm">D1 PM</span></a></td><td>5/20 Wed</td><td>5 PM ET</td><td>Going Fast resend</td><td>It's already going fast — 50% off + extra 10% with MEM10.</td><td><span class="kid">01KRZHKF</span></td><td><span class="kid tpl">UBfbfy</span></td></tr>
+    <tr><td><a href="#email-521" style="text-decoration:none"><span class="day-badge">D2</span></a></td><td>5/21 Thu</td><td>9 AM ET</td><td>Eye + Texture Care</td><td>New offer: Eye + Texture Care all 50% off.</td><td><span class="kid">01KRZK6H</span></td><td><span class="kid tpl">U9XTf4</span></td></tr>
+    <tr><td><a href="#email-522" style="text-decoration:none"><span class="day-badge">D3</span></a></td><td>5/22 Fri</td><td>9 AM local</td><td>Pair Patches + Serums</td><td>Pair the patches + serums. Up to 40% off this Friday.</td><td><span class="kid">01KRZNSC</span></td><td><span class="kid tpl">SNnxny</span></td></tr>
+    <tr><td><a href="#email-523" style="text-decoration:none"><span class="day-badge">D4</span></a></td><td>5/23 Sat</td><td>9 AM local</td><td>Matriplex 40% + F&E scarcity</td><td>Almost gone: 100 Face & Eye Duos. Matriplex Cream just dropped 40%.</td><td><span class="kid">01KRZRZP</span></td><td><span class="kid tpl">UzLawF</span></td></tr>
+    <tr><td><a href="#email-524am" style="text-decoration:none"><span class="day-badge am">D5 AM</span></a></td><td>5/24 Sun</td><td>9 AM local</td><td>Sunday Retinol Patches</td><td>First-ever 40% off our new Retinol Patches. Today only.</td><td><span class="kid">01KRZTSC</span></td><td><span class="kid tpl">Rara3S</span></td></tr>
+    <tr><td><a href="#email-524pm" style="text-decoration:none"><span class="day-badge pm">D5 PM</span></a></td><td>5/24 Sun</td><td>5 PM local</td><td>24 Hours Left urgency</td><td>ONLY 24 HOURS LEFT — Memorial Sale ends tomorrow night.</td><td><span class="kid">01KRZTYT</span></td><td><span class="kid tpl">RssFe3</span></td></tr>
+    <tr><td><a href="#email-525" style="text-decoration:none"><span class="day-badge last">D6</span></a></td><td>5/25 Mon</td><td>9 AM local</td><td>LAST CHANCE finale</td><td>Last chance. You'll regret missing the BIGGEST sale of the summer.</td><td><span class="kid">01KS00E0</span></td><td><span class="kid tpl">Uh6CAq</span></td></tr>
+  </tbody>
+</table>
+
+<!-- ─── SKU DISTRIBUTION ─── -->
+<h2 id="skugrid">📊 SKU Distribution Matrix</h2>
+<table>
+  <thead><tr><th style="width:240px">SKU</th><th align="center">5/20 AM</th><th align="center">5/20 PM</th><th align="center">5/21</th><th align="center">5/22</th><th align="center">5/23</th><th align="center">5/24 AM</th><th align="center">5/24 PM</th><th align="center">5/25</th><th align="center">Total</th></tr></thead>
+  <tbody>
+    <tr><td>Matrixyl 3000 3 for 2 ($80)</td><td align="center">✅</td><td align="center">✅</td><td></td><td></td><td></td><td></td><td></td><td align="center">✅</td><td align="center"><b>3</b></td></tr>
+    <tr><td>Argireline 3 for 2 ($98)</td><td align="center">✅</td><td></td><td align="center">✅</td><td align="center">✅</td><td></td><td></td><td></td><td></td><td align="center"><b>3</b></td></tr>
+    <tr><td>Face & Eye Duo ($57, 50%) 🔴</td><td align="center">✅</td><td></td><td></td><td></td><td align="center">✅</td><td></td><td></td><td></td><td align="center"><b>2</b></td></tr>
+    <tr><td>Matriplex Cream ($37)</td><td></td><td></td><td></td><td align="center">✅</td><td align="center">✅</td><td></td><td></td><td align="center">✅</td><td align="center"><b>3</b></td></tr>
+    <tr><td>PEC Eye Cream ($31)</td><td></td><td></td><td align="center">✅</td><td></td><td></td><td></td><td align="center">✅</td><td></td><td align="center"><b>2</b></td></tr>
+    <tr><td>Deepcare+ MOP ($22)</td><td></td><td align="center">✅</td><td align="center">✅</td><td></td><td></td><td></td><td align="center">✅</td><td></td><td align="center"><b>3</b></td></tr>
+    <tr><td>TLQ Q10 RICH ($31)</td><td></td><td align="center">✅</td><td></td><td></td><td></td><td></td><td align="center">✅</td><td></td><td align="center"><b>2</b></td></tr>
+    <tr><td>Bakuchiol Stick ($9, 70%)</td><td align="center">✅</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td align="center"><b>1</b></td></tr>
+    <tr><td>M2 Patches with Retinol ($86)</td><td></td><td></td><td></td><td></td><td></td><td align="center">⭐</td><td></td><td></td><td align="center"><b>1</b></td></tr>
+    <tr><td>Peptide Activation Trio 🆕 ($89)</td><td></td><td align="center">✅</td><td></td><td></td><td align="center">✅</td><td align="center">✅</td><td></td><td></td><td align="center"><b>3</b></td></tr>
+    <tr><td>Static Wrinkle Repair Duo ($49)</td><td></td><td></td><td></td><td align="center">✅</td><td></td><td align="center">✅</td><td></td><td></td><td align="center"><b>2</b></td></tr>
+    <tr><td>Dynamic Wrinkle Defense Duo ($51)</td><td></td><td></td><td></td><td align="center">✅</td><td></td><td></td><td align="center">✅</td><td></td><td align="center"><b>2</b></td></tr>
+    <tr><td>Night Eye Patch 🆕 ($24)</td><td></td><td></td><td align="center">✅</td><td></td><td></td><td align="center">✅</td><td></td><td align="center">✅</td><td align="center"><b>3</b></td></tr>
+    <tr><td>Retinol Body Lotion Trio 🆕 ($52)</td><td></td><td></td><td></td><td></td><td align="center">✅</td><td></td><td></td><td align="center">✅</td><td align="center"><b>2</b></td></tr>
+  </tbody>
+</table>
+
+<h2>📧 All 8 Emails — Inline Preview</h2>
+
+<!-- ════════════ 5/20 AM ════════════ -->
+<div class="email-section" id="email-520am">
+  <div class="email-header">
+    <div class="email-date"><div class="day">20</div><div class="month">May Wed</div><div class="time">9 AM ET</div></div>
+    <div class="email-title">
+      <h3>[D1 AM] Memorial Day Sale IS LIVE</h3>
+      <div class="theme">Sale Launch — Sitewide 50% + MEM10 +10% / Day 1 hero</div>
+    </div>
+    <a class="open-btn" href="20260520_AM_Memorial_Launch.html" target="_blank">Open Full ↗</a>
+  </div>
+  <div class="email-body">
+    <div class="email-meta">
+      <div class="row"><div class="label">Subject</div><div class="subject-row">Memorial Day Sale IS LIVE! 50% off + extra 10% with MEM10. 🇺🇸</div></div>
+      <div class="row"><div class="label">Preview</div><div class="preview-row">50% off sitewide + extra 10% with code MEM10 for subscribers. 48 hours only. Shop now before it's gone.</div></div>
+      <div class="row"><div class="label">Hero Badge</div><div>50% OFF + 10%</div></div>
+      <div class="row"><div class="label">Primary CTA</div><div>SHOP MEMORIAL DAY SALE</div></div>
+      <div class="row"><div class="label">Send Mode</div><div>9 AM ET (UTC 13:00) · Smart Sending <b>OFF</b></div></div>
+      <div class="row"><div class="label">Klaviyo</div><div><span class="kid">01KRK77J</span> · <span class="kid tpl">Sk5F47</span></div></div>
+      <div class="cards">
+        <div class="card"><span class="badge">3 FOR 2</span><div class="name">Matrixyl 3000 3 for 2</div><div><span class="price">$80</span><span class="original">$120</span></div><div class="save">SAVE $40</div></div>
+        <div class="card"><span class="badge">3 FOR 2</span><div class="name">Argireline 3 for 2</div><div><span class="price">$98</span><span class="original">$147</span></div><div class="save">SAVE $49</div></div>
+        <div class="card scarcity"><span class="badge">50% · 100 SPOTS</span><div class="name">Face & Eye Firming Duo</div><div><span class="price">$57</span><span class="original">$114</span></div><div class="save">SAVE $57</div></div>
+        <div class="card"><span class="badge">70% · $9</span><div class="name">Bakuchiol Stick</div><div><span class="price">$9</span><span class="original">$30</span></div><div class="save">SAVE $21 · anchor</div></div>
+      </div>
+    </div>
+    <div class="iframe-wrap">
+      <iframe src="20260520_AM_Memorial_Launch.html" loading="lazy"></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════ 5/20 PM ════════════ -->
+<div class="email-section" id="email-520pm">
+  <div class="email-header">
+    <div class="email-date" style="background:#C8102E"><div class="day">20</div><div class="month">May Wed</div><div class="time">5 PM ET</div></div>
+    <div class="email-title">
+      <h3>[D1 PM] Going Fast — Resend</h3>
+      <div class="theme">Momentum re-send with different SKUs</div>
+    </div>
+    <a class="open-btn" href="20260520_PM_Memorial_Resend.html" target="_blank">Open Full ↗</a>
+  </div>
+  <div class="email-body">
+    <div class="email-meta">
+      <div class="row"><div class="label">Subject</div><div class="subject-row">It's already going fast — 50% off + extra 10% with MEM10.</div></div>
+      <div class="row"><div class="label">Preview</div><div class="preview-row">The sale kicked off this morning and it's already moving fast. 50% off + extra 10% with MEM10.</div></div>
+      <div class="row"><div class="label">Hero Badge</div><div>50% OFF + 10%</div></div>
+      <div class="row"><div class="label">Primary CTA</div><div>SHOP MEMORIAL DAY SALE</div></div>
+      <div class="row"><div class="label">Send Mode</div><div>5 PM ET (UTC 21:00) · Smart Sending <b>OFF</b></div></div>
+      <div class="row"><div class="label">Klaviyo</div><div><span class="kid">01KRZHKF</span> · <span class="kid tpl">UBfbfy</span></div></div>
+      <div class="cards">
+        <div class="card"><span class="badge">NEW · SAVE $46</span><div class="name">Peptide Activation Trio 🆕</div><div><span class="price">$89</span><span class="original">$135</span></div><div class="save">SAVE $46</div></div>
+        <div class="card"><span class="badge">3 FOR 2</span><div class="name">Matrixyl 3 for 2</div><div><span class="price">$80</span><span class="original">$120</span></div><div class="save">SAVE $40</div></div>
+        <div class="card"><span class="badge">35% OFF</span><div class="name">Deepcare+ MOP</div><div><span class="price">$22</span><span class="original">$34</span></div><div class="save">SAVE $12</div></div>
+        <div class="card"><span class="badge">30% OFF</span><div class="name">Triple Lipid + Q10 RICH</div><div><span class="price">$31</span><span class="original">$44</span></div><div class="save">SAVE $13</div></div>
+      </div>
+    </div>
+    <div class="iframe-wrap">
+      <iframe src="20260520_PM_Memorial_Resend.html" loading="lazy"></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════ 5/21 ════════════ -->
+<div class="email-section" id="email-521">
+  <div class="email-header">
+    <div class="email-date"><div class="day">21</div><div class="month">May Thu</div><div class="time">9 AM ET</div></div>
+    <div class="email-title">
+      <h3>[D2] Smarter Eye + Texture Care</h3>
+      <div class="theme">Eye + Texture cross-sell · Night Eye Patch NEW debut</div>
+    </div>
+    <a class="open-btn" href="20260521_Eye_Texture_Trio.html" target="_blank">Open Full ↗</a>
+  </div>
+  <div class="email-body">
+    <div class="email-meta">
+      <div class="row"><div class="label">Subject</div><div class="subject-row">New offer: Eye + Texture Care all 50% off.</div></div>
+      <div class="row"><div class="label">Preview</div><div class="preview-row">PEC Eye Cream 40%, MOP Boosting Cream 35%, Argireline 3 for 2, Night Under Eye Patch 33% — Memorial pricing live now.</div></div>
+      <div class="row"><div class="label">Hero Badge</div><div>UP TO 50% OFF</div></div>
+      <div class="row"><div class="label">Primary CTA</div><div>SHOP THE TRIO</div></div>
+      <div class="row"><div class="label">Send Mode</div><div>9 AM ET (UTC 13:00) · Smart Sending ON</div></div>
+      <div class="row"><div class="label">Klaviyo</div><div><span class="kid">01KRZK6H</span> · <span class="kid tpl">U9XTf4</span></div></div>
+      <div class="cards">
+        <div class="card"><span class="badge">40% OFF</span><div class="name">PEC Eye Cream</div><div><span class="price">$31</span><span class="original">$52</span></div><div class="save">SAVE $21</div></div>
+        <div class="card"><span class="badge">35% OFF</span><div class="name">Deepcare+ MOP</div><div><span class="price">$22</span><span class="original">$34</span></div><div class="save">SAVE $12</div></div>
+        <div class="card"><span class="badge">3 FOR 2</span><div class="name">Argireline 3 for 2</div><div><span class="price">$98</span><span class="original">$147</span></div><div class="save">SAVE $49</div></div>
+        <div class="card"><span class="badge">33% OFF</span><div class="name">Night Eye Patch 🆕</div><div><span class="price">$24</span><span class="original">$36</span></div><div class="save">SAVE $12</div></div>
+      </div>
+    </div>
+    <div class="iframe-wrap">
+      <iframe src="20260521_Eye_Texture_Trio.html" loading="lazy"></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════ 5/22 ════════════ -->
+<div class="email-section" id="email-522">
+  <div class="email-header">
+    <div class="email-date"><div class="day">22</div><div class="month">May Fri</div><div class="time">9 AM local</div></div>
+    <div class="email-title">
+      <h3>[D3] Pair the Patches + Serums</h3>
+      <div class="theme">Static + Dynamic Duo debut · isLocal: true starts here</div>
+    </div>
+    <a class="open-btn" href="20260522_Peptide_3F2.html" target="_blank">Open Full ↗</a>
+  </div>
+  <div class="email-body">
+    <div class="email-meta">
+      <div class="row"><div class="label">Subject</div><div class="subject-row">Pair the patches + serums. Up to 40% off this Friday.</div></div>
+      <div class="row"><div class="label">Preview</div><div class="preview-row">Static Duo $49, Dynamic Duo $51, Argireline 3 for 2, Matriplex Cream — Memorial pricing through Monday.</div></div>
+      <div class="row"><div class="label">Hero Badge</div><div>UP TO 40% OFF</div></div>
+      <div class="row"><div class="label">Primary CTA</div><div>SHOP THE DUOS</div></div>
+      <div class="row"><div class="label">Send Mode</div><div>9 AM <b>local</b> (isLocal: true) · Smart Sending ON</div></div>
+      <div class="row"><div class="label">Klaviyo</div><div><span class="kid">01KRZNSC</span> · <span class="kid tpl">SNnxny</span></div></div>
+      <div class="cards">
+        <div class="card"><span class="badge">35% · BUNDLE</span><div class="name">Static Wrinkle Repair Duo 🆕</div><div><span class="price">$49</span><span class="original">$76</span></div><div class="save">SAVE $27</div></div>
+        <div class="card"><span class="badge">40% · BUNDLE</span><div class="name">Dynamic Defense Duo 🆕</div><div><span class="price">$51</span><span class="original">$85</span></div><div class="save">SAVE $34</div></div>
+        <div class="card"><span class="badge">3 FOR 2</span><div class="name">Argireline 3 for 2</div><div><span class="price">$98</span><span class="original">$147</span></div><div class="save">SAVE $49</div></div>
+        <div class="card"><span class="badge">40% OFF</span><div class="name">Matriplex Cream</div><div><span class="price">$37</span><span class="original">$62</span></div><div class="save">SAVE $25</div></div>
+      </div>
+    </div>
+    <div class="iframe-wrap">
+      <iframe src="20260522_Peptide_3F2.html" loading="lazy"></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════ 5/23 ════════════ -->
+<div class="email-section" id="email-523">
+  <div class="email-header">
+    <div class="email-date"><div class="day">23</div><div class="month">May Sat</div><div class="time">9 AM local</div></div>
+    <div class="email-title">
+      <h3>[D4] Matriplex 40% + F&E "Almost Gone"</h3>
+      <div class="theme">Matriplex solo hero · 100-spot scarcity carryover from 5/20 AM</div>
+    </div>
+    <a class="open-btn" href="20260523_Matriplex_Cream_50.html" target="_blank">Open Full ↗</a>
+  </div>
+  <div class="email-body">
+    <div class="email-meta">
+      <div class="row"><div class="label">Subject</div><div class="subject-row">Almost gone: 100 Face & Eye Duos. Matriplex Cream just dropped 40%.</div></div>
+      <div class="row"><div class="label">Preview</div><div class="preview-row">Matriplex Peptide Intense Cream — our most powerful anti-aging peptide cream — is 40% off through Monday.</div></div>
+      <div class="row"><div class="label">Hero Badge</div><div>40% OFF / LIMITED</div></div>
+      <div class="row"><div class="label">Primary CTA</div><div>SAVE 40% TODAY</div></div>
+      <div class="row"><div class="label">Send Mode</div><div>9 AM <b>local</b> · Smart Sending ON</div></div>
+      <div class="row"><div class="label">Klaviyo</div><div><span class="kid">01KRZRZP</span> · <span class="kid tpl">UzLawF</span></div></div>
+      <div class="cards">
+        <div class="card"><span class="badge">40% OFF</span><div class="name">Matriplex Cream · HERO</div><div><span class="price">$37</span><span class="original">$62</span></div><div class="save">SAVE $25</div></div>
+        <div class="card"><span class="badge">33% · TRIO</span><div class="name">Body Lotion Trio 🆕</div><div><span class="price">$52</span><span class="original">$78</span></div><div class="save">SAVE $26 · NEW</div></div>
+        <div class="card scarcity"><span class="badge">50% · ALMOST GONE</span><div class="name">Face & Eye Duo</div><div><span class="price">$57</span><span class="original">$114</span></div><div class="save">SAVE $57</div></div>
+        <div class="card"><span class="badge">NEW · SAVE $46</span><div class="name">Peptide Activation Trio 🆕</div><div><span class="price">$89</span><span class="original">$135</span></div><div class="save">SAVE $46</div></div>
+      </div>
+    </div>
+    <div class="iframe-wrap">
+      <iframe src="20260523_Matriplex_Cream_50.html" loading="lazy"></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════ 5/24 AM ════════════ -->
+<div class="email-section" id="email-524am">
+  <div class="email-header">
+    <div class="email-date"><div class="day">24</div><div class="month">May Sun</div><div class="time">9 AM local</div></div>
+    <div class="email-title">
+      <h3>[D5 AM] Sunday Essentials — New Retinol Patches</h3>
+      <div class="theme">M2 Retinol upgrade first-ever (16-pairs only)</div>
+    </div>
+    <a class="open-btn" href="20260524_AM_M2.html" target="_blank">Open Full ↗</a>
+  </div>
+  <div class="email-body">
+    <div class="email-meta">
+      <div class="row"><div class="label">Subject</div><div class="subject-row">First-ever 40% off our new Retinol Patches. Today only.</div></div>
+      <div class="row"><div class="label">Preview</div><div class="preview-row">Up to 40% off our new Retinol Micro-dart Patches (16 pairs). 3,300 IU/g · Memorial-exclusive Sunday flash. US only.</div></div>
+      <div class="row"><div class="label">Hero Badge</div><div>UP TO 40% OFF · NEW WITH RETINOL</div></div>
+      <div class="row"><div class="label">Primary CTA</div><div>SHOP THE NEW RETINOL!</div></div>
+      <div class="row"><div class="label">Send Mode</div><div>9 AM <b>local</b> · Smart Sending <b>OFF</b> (PM resend)</div></div>
+      <div class="row"><div class="label">Klaviyo</div><div><span class="kid">01KRZTSC</span> · <span class="kid tpl">Rara3S</span></div></div>
+      <div class="cards">
+        <div class="card"><span class="badge">40% · 16 PAIRS</span><div class="name">Retinol Patches ⭐ HERO</div><div><span class="price">$86</span><span class="original">$144</span></div><div class="save">SAVE $58</div></div>
+        <div class="card"><span class="badge">NEW · SAVE $46</span><div class="name">Peptide Activation Trio 🆕</div><div><span class="price">$89</span><span class="original">$135</span></div><div class="save">SAVE $46</div></div>
+        <div class="card"><span class="badge">35% · BUNDLE</span><div class="name">Static Wrinkle Repair Duo 🆕</div><div><span class="price">$49</span><span class="original">$76</span></div><div class="save">SAVE $27</div></div>
+        <div class="card"><span class="badge">33% OFF</span><div class="name">Night Eye Patch 🆕</div><div><span class="price">$24</span><span class="original">$36</span></div><div class="save">SAVE $12</div></div>
+      </div>
+    </div>
+    <div class="iframe-wrap">
+      <iframe src="20260524_AM_M2.html" loading="lazy"></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════ 5/24 PM ════════════ -->
+<div class="email-section" id="email-524pm">
+  <div class="email-header">
+    <div class="email-date" style="background:#C8102E"><div class="day">24</div><div class="month">May Sun</div><div class="time">5 PM local</div></div>
+    <div class="email-title">
+      <h3>[D5 PM] Only 24 Hours Left — Urgency</h3>
+      <div class="theme">Template B (red urgency) · $X ONLY price-anchored CTAs</div>
+    </div>
+    <a class="open-btn" href="20260524_PM_24_Hours_Left.html" target="_blank">Open Full ↗</a>
+  </div>
+  <div class="email-body">
+    <div class="email-meta">
+      <div class="row"><div class="label">Subject</div><div class="subject-row">ONLY 24 HOURS LEFT — Memorial Sale ends tomorrow night.</div></div>
+      <div class="row"><div class="label">Preview</div><div class="preview-row">Memorial Sale ends tomorrow at midnight PDT. These offers won't be back until Black Friday. Final 24 hours.</div></div>
+      <div class="row"><div class="label">Hero Badge</div><div>Hero image carries urgency (template B)</div></div>
+      <div class="row"><div class="label">Primary CTA</div><div>LAST CHANCE TO SAVE!</div></div>
+      <div class="row"><div class="label">Send Mode</div><div>5 PM <b>local</b> · Smart Sending <b>OFF</b></div></div>
+      <div class="row"><div class="label">Klaviyo</div><div><span class="kid">01KRZTYT</span> · <span class="kid tpl">RssFe3</span></div></div>
+      <div class="cards">
+        <div class="card"><span class="badge">35% OFF</span><div class="name">Deepcare+ MOP</div><div><span class="price">$22 ONLY</span><span class="original">$34</span></div><div class="save">price-anchored</div></div>
+        <div class="card"><span class="badge">30% OFF</span><div class="name">Triple Lipid + Q10 RICH</div><div><span class="price">$31 ONLY</span><span class="original">$44</span></div><div class="save">price-anchored</div></div>
+        <div class="card"><span class="badge">40% · BUNDLE</span><div class="name">Dynamic Defense Duo 🆕</div><div><span class="price">$51 ONLY</span><span class="original">$85</span></div><div class="save">price-anchored</div></div>
+        <div class="card"><span class="badge">40% OFF</span><div class="name">PEC Eye Cream</div><div><span class="price">$31 ONLY</span><span class="original">$52</span></div><div class="save">price-anchored</div></div>
+      </div>
+    </div>
+    <div class="iframe-wrap">
+      <iframe src="20260524_PM_24_Hours_Left.html" loading="lazy"></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- ════════════ 5/25 ════════════ -->
+<div class="email-section" id="email-525">
+  <div class="email-header">
+    <div class="email-date" style="background:#000"><div class="day">25</div><div class="month">May Mon</div><div class="time">9 AM local</div></div>
+    <div class="email-title">
+      <h3>[D6] LAST CHANCE — Memorial Day Finale</h3>
+      <div class="theme">Template C · LAST CHANCE overlay · regret narrative · mixed CTAs</div>
+    </div>
+    <a class="open-btn" href="20260525_Last_Chance.html" target="_blank">Open Full ↗</a>
+  </div>
+  <div class="email-body">
+    <div class="email-meta">
+      <div class="row"><div class="label">Subject</div><div class="subject-row">Last chance. You'll regret missing the BIGGEST sale of the summer.</div></div>
+      <div class="row"><div class="label">Preview</div><div class="preview-row">You'll regret missing this. Stock up on dermatologist-approved peptide serums and more — all for less. Ends midnight PDT.</div></div>
+      <div class="row"><div class="label">Hero Badge</div><div>UP TO 50% OFF (LAST CHANCE overlay)</div></div>
+      <div class="row"><div class="label">Primary CTA</div><div>SAVE 50% NOW!</div></div>
+      <div class="row"><div class="label">Send Mode</div><div>9 AM <b>local</b> · Smart Sending ON · Memorial Day · Sale ends midnight PDT</div></div>
+      <div class="row"><div class="label">Klaviyo</div><div><span class="kid">01KS00E0</span> · <span class="kid tpl">Uh6CAq</span></div></div>
+      <div class="cards">
+        <div class="card"><span class="badge">3 FOR 2</span><div class="name">Matrixyl 3 for 2</div><div><span class="price">$80 ONLY</span><span class="original">$120</span></div><div class="save">SAVE $40</div></div>
+        <div class="card"><span class="badge">33% · TRIO</span><div class="name">Body Lotion Trio 🆕</div><div><span class="price">$52</span><span class="original">$78</span></div><div class="save">SAVE $26</div></div>
+        <div class="card"><span class="badge">33% OFF</span><div class="name">Night Eye Patch 🆕</div><div><span class="price">$24 ONLY</span><span class="original">$36</span></div><div class="save">SAVE $12</div></div>
+        <div class="card"><span class="badge">40% OFF</span><div class="name">Matriplex Cream</div><div><span class="price">$37</span><span class="original">$62</span></div><div class="save">SAVE $25</div></div>
+      </div>
+    </div>
+    <div class="iframe-wrap">
+      <iframe src="20260525_Last_Chance.html" loading="lazy"></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- ─── KEY NOTES ─── -->
+<h2>🔑 Key Campaign Notes</h2>
+<div class="stats">
+  <p><strong>Sale page URL:</strong> <code>https://depology.com/pages/memorialday-sale-2026</code> (5/14 changed from <code>memorial-sale-2026</code>, redirect set up)</p>
+  <p><strong>MEM10 Discount Code:</strong> Order discount · 10% off · stacks with product discounts · 48 hrs (5/20 9 AM ET → 5/22 9 AM ET)</p>
+  <p><strong>Send Strategy:</strong> 5/20 AM/PM + 5/21 use fixed UTC (ET time). 5/22 onwards uses <b>isLocal: true</b> (9 AM local time per recipient).</p>
+  <p><strong>Smart Sending:</strong> OFF for 5/20 AM+PM double-send and 5/24 AM+PM double-send. ON for all other days.</p>
+  <p><strong>Templates: Three variants used:</strong></p>
+  <ul>
+    <li><b>Template A</b> (white-base + STAR badge + 4-card 2×2 grid) — 6 emails: 5/20 AM, 5/20 PM, 5/21, 5/22, 5/23, 5/24 AM</li>
+    <li><b>Template B</b> (urgency hero + price-anchored $X ONLY CTAs) — 1 email: 5/24 PM</li>
+    <li><b>Template C</b> (LAST CHANCE text overlay + mixed CTAs) — 1 email: 5/25</li>
+  </ul>
+  <p><strong>Klaviyo Audiences:</strong></p>
+  <ul>
+    <li>Included: <code>QPetUg</code> (Signed up 30 days), <code>X9GvQv</code> (Engaged 120 days), <code>XQqrAQ</code> (Reviewed 3×), <code>YbRy3S</code> (Repeat Buyers)</li>
+    <li>Excluded (9 standard suppression segments)</li>
+  </ul>
+  <p><strong>From:</strong> Dēpology &lt;support@depology.com&gt;</p>
+</div>
+
+<div class="footer">
+  <strong>🇺🇸 Memorial Day Sale 2026</strong> · 8 emails · All in Draft status awaiting Leon's Klaviyo review.<br>
+  HTMLs: <code>production/html-output/</code> · Source: <code>tools/render_memorial_html.py</code>
+</div>
+
+</div>
+</body>
+</html>

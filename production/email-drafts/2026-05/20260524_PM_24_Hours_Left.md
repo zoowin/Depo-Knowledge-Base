@@ -61,7 +61,7 @@ The offers below **won't be back until Black Friday.**
 
 ## Primary CTA（黑底白字按钮）
 **LAST CHANCE TO SAVE!**
-- **链接：** `https://depology.com/pages/memorial-sale-2026`
+- **链接：** `https://depology.com/pages/memorialday-sale-2026`
 
 ---
 
@@ -75,21 +75,21 @@ The offers below **won't be back until Black Friday.**
 - **CTA：** **$22 ONLY - SHOP NOW**（价格化）
 - **链接：** `https://depology.com/products/offer-deepcare-%C2%AE-microoperator-boosting-cream-beginner-us-exclusive-only`
 
-### Card 2 — 蓝色横条 "40% OFF"
-- **产品名：** Matriplex™ Peptide Intense Cream
-- **Tag：** Intensive Peptide Care
-- **评分：** ⭐⭐⭐⭐½ (1500+)
-- **价格：** **$37** ~~$62~~
-- **CTA：** **$37 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/offer-matriplex-peptide-intense-cream-copy`
-
-### Card 3 — 蓝色横条 "33% OFF"
-- **产品名：** Replenishing Night Under Eye Patch
-- **Tag：** Deep Overnight Care · 60 patches
+### Card 2 — 蓝色横条 "30% OFF"
+- **产品名：** Triple Lipid + Q10 Revive Moisturizing Treatment RICH
+- **Tag：** Support Skin Barrier
 - **评分：** ⭐⭐⭐⭐½
-- **价格：** **$24** ~~$36~~
-- **CTA：** **$24 ONLY - SHOP NOW**
-- **链接：** `https://depology.com/products/offer-replenishing-night-under-eye-patch`
+- **价格：** **$31** ~~$44~~
+- **CTA：** **$31 ONLY - SHOP NOW**（价格化）
+- **链接：** `https://depology.com/products/offer-triple-lipid-q10-revive-moisturizing-treatment-rich`
+
+### Card 3 — 蓝色横条 "40% OFF · BUNDLE"
+- **产品名：** Dynamic Wrinkle Defense Duo 🆕
+- **Tag：** Early Line Defense · Patches + Argireline Serum
+- **评分：** ⭐⭐⭐⭐½ (1500+)
+- **价格：** **$51** ~~$85~~
+- **CTA：** **$51 ONLY - SHOP NOW**
+- **链接：** `https://depology.com/products/dynamic-wrinkle-defense-duo`
 
 ### Card 4 — 蓝色横条 "40% OFF"
 - **产品名：** Peptide Complex Wrinkle Defense Eye Cream
@@ -107,8 +107,8 @@ The offers below **won't be back until Black Friday.**
 The offer is ending soon, so be sure not to miss out!
 
 **Secondary CTA：**
-**SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/pages/memorial-sale-2026`
+**SHOP MEMORIAL DAY SALE**
+- **链接：** `https://depology.com/pages/memorialday-sale-2026`
 
 ---
 

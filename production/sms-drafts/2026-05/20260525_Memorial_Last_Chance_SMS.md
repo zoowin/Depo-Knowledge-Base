@@ -50,7 +50,7 @@ Depology: Last call. Memorial Sale ends midnight PDT. UP TO 50% off — won't be
 
 ## 备注
 - ⚠️ **Smart Sending OFF**
-- ⚠️ Link 短链指向 `/pages/memorial-sale-2026`
+- ⚠️ Link 短链指向 `/pages/memorialday-sale-2026`
 - 📊 预期增量 revenue **$1,500 - $3,500**（2025 baseline 减半，Last Chance 收尾时段 SMS 转化率高）
 - 🚨 5/25 是 2 触点天（AM email + 7 PM SMS）— 不在 PM 加 email，避免疲劳
 - 🕐 时区注意：midnight PDT = midnight Pacific = 3 AM ET 次日，邮件/SMS 都用 "midnight PDT" 精确表达

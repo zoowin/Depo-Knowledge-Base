@@ -52,8 +52,8 @@ The sale has kicked off — and it's moving faster than we thought.
 ---
 
 ## Primary CTA
-**SHOP MEMORIAL SALE**
-- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorial-sale-2026`
+**SHOP MEMORIAL DAY SALE**
+- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorialday-sale-2026`
 
 ---
 
@@ -100,7 +100,7 @@ More amazing offers waiting for you — click here to shop them before they're g
 
 **Secondary CTA（白底黑字按钮）：**
 **SHOP ALL SALE**
-- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorial-sale-2026`
+- **链接：** `https://depology.com/discount/MEM10?redirect=/pages/memorialday-sale-2026`
 
 ---
 
