@@ -5,6 +5,24 @@
 
 ---
 
+> ⚠️ **schema 校准说明(2026-05-22)** —— 本文档按早期"机器任务队列"设计,但线上
+> Task Queue 表已被重设计为**人读任务板**,字段与枚举全部变了。**以 `feishu-edm-os-setup.md` 为准。**
+>
+> | 本文档写的 | 线上实际(Task Queue `tblWz66HAx8BkseB`) |
+> |-----------|---------|
+> | `Task Type`(generate_draft / build_html …) | `Type`:Campaign Build / Draft Review / Image Gen / HTML Build / Data Sync / Research |
+> | `Status` ⏳Pending / 🔄Processing / ✅Done / ❌Failed | `Todo / In Progress / Done / Blocked` |
+> | `Priority` High / Normal / Low | `P1 / P2 / P3` |
+> | `Task ID`(时间戳格式主字段) | 主字段是 `Task Name`(文本),另有自动 `ID` |
+> | `Payload`(JSON) | `Task Context`(文本) |
+> | `Created By` Aily / Leon / Cron | 增加了 `Claude` |
+> | —— | 新增 `Owner`(人员)、`Due Date`、`Trigger Message ID` |
+>
+> **后果:** 下方"event → Task Type"映射表需重做,映射到新的 `Type` 枚举值。
+> 桥接机制本身(自动化发结构化消息)仍可用,但 Aily 写 Task Queue 时字段要按新 schema。
+
+---
+
 ## 桥接群角色
 
 ```

@@ -5,6 +5,22 @@
 
 ---
 
+> ⚠️ **schema 校准说明(2026-05-22)** —— 本文档是早期设计稿,部分字段名/枚举值与
+> 线上真实表不一致。**线上表结构以 `feishu-edm-os-setup.md` 为准。** 已知偏差:
+>
+> | 本文档写的 | 线上实际 |
+> |-----------|---------|
+> | Campaign Calendar 单一 `Subject Line` | 拆为 `Subject Line A` / `Subject Line B` |
+> | Draft Status 带 emoji(`👀 Ready for Review`、`✏️ Revision Needed`) | 无 emoji:`Requested / Generating / Ready for Review / Revision Needed / Approved` |
+> | Draft Status `🎨 Awaiting Image`、`🔧 HTML Ready` | 线上不存在;`Approved` 之后无更细的 Draft Status |
+> | Campaign Calendar Status `📤 Sent` | 线上不存在,发送后直接进 `📊 Live` |
+> | 表名 `Performance Dashboard` | 线上叫 `Campaign 数据`,指标字段名带 `(%)`/`($)` 后缀 |
+> | Task Queue(机器任务队列) | 已重设计为人读任务板,见 `feishu-bridge-protocol.md` 顶部校准说明 |
+>
+> 下方 flow 的**逻辑设计仍然有效**,执行前按上表换算字段名与枚举值。
+
+---
+
 ## Flow 时间轴
 
 ```
