@@ -64,21 +64,30 @@ Line 2: [≤30 字符]
 **Body Headline：**
 [≤5 英文词 / ≤30 字符]
 
-**Body Copy（3 段）：**
-Paragraph 1: [场景代入 / 问题 — ~110 字符]
-Paragraph 2: [原因解释 / 痛点深化 — ~145 字符]
-Paragraph 3: [转折 / 引导解决方案 — ~120 字符]
+**Body Copy（2 段为默认 — 简洁优先）：**
+Paragraph 1: [场景 / 问题陈述 — ~130 字符]
+Paragraph 2: [原因 + 解决方案合并 — ~170 字符]
 
-**总计正文：~376 字符 / ~70 词**
+**总计正文：~300 字符 / ~55 词**
+
+**例外（可放宽到 3 段）：** Real Results 客户证言 / Brand Story / 复杂科学话题（在备注标明理由）
 
 ---
 
-## Goals / Key Points（可选）
+## Goals / Key Points（默认 SKIP — 仅例外加）
 > 📐 对应 Klaviyo 位置：Body 下方 checklist 区域
+>
+> **判断规则（ALL 满足才加，否则删整块）：**
+> 1. 有 ≥ 2 个 actionable points 是 body / product cards / quote cards / decade cards / principle cards 里**没出现过**的
+> 2. 内容不已经被结构化展示（例如 decade cards / principle cards / quote collage 已经是 bullet 结构，再加 checklist 重复）
+> 3. 邮件类型不是 story-driven（Scenario / Real Results / Brand Manifesto 全 skip）
+> 4. 加的话最多 2 条 — 选最 actionable / 最 NEW 的，其他全删
+>
+> **典型 SKIP 案例：** Scenario hook 邮件、Real Results 客户证言邮件、已有 decade/principle/quote cards 的结构化邮件
+> **典型 KEEP 案例：** 长篇科学教育（如 Sleep PM）中有读者带走的具体动作（"30 min before bed on damp skin"）
 
-- ✔ [要点 1 — ~50 字符]
-- ✔ [要点 2 — ~45 字符]
-- ✔ [要点 3 — ~50 字符]
+- ✔ [actionable point 1 — ~50 字符，必须是 body 没说的]
+- ✔ [actionable point 2 — ~50 字符，必须是 body 没说的]
 
 ---
 
@@ -145,8 +154,8 @@ Paragraph 3: [转折 / 引导解决方案 — ~120 字符]
 | Subheadline | 2 行，每行 ≤30 字符 | 承接 Headline |
 | Hero CTA | ≤15 字符 | 非购买类 |
 | Body Headline | ≤5 词 / ≤30 字符 | 被忽视的事实 |
-| Body Copy | 共 ~376 字符 / 3 段 | 场景→原因→转折 |
-| Goals 列表 | 3 条，每条 ≤50 字符 | ✔ 开头 |
+| Body Copy | 共 ~300 字符 / **2 段为默认** | 场景→原因+方案合并；3 段仅 Real Results / Brand Story 例外 |
+| Goals 列表 | **默认 SKIP**；例外加时最多 2 条，每条 ≤50 字符 | ✔ 开头；仅当有 ≥2 个 NEW actionable 才加 |
 | Product 描述 | 每个 ~120 字符 | 结果导向 |
 | Product CTA | ≤20 字符 | SHOP [NAME] |
 | Closing Copy | ~80 字符 | 长期价值 |
