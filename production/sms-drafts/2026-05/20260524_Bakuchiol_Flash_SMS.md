@@ -1,4 +1,10 @@
-# SMS Campaign: Sunday Flash — Bakuchiol $9 + M1 50%
+# [DEPRECATED 2026-05-20] SMS Campaign: Sunday Flash — Bakuchiol $9 + M1 50%
+
+> ⚠️ **本草稿已废弃，不发送。**
+> - Bakuchiol Stick 库存浅，Day 1 (5/20) 已售罄假设 → Sunday SMS 不能再推
+> - M1 已升级为 M2 (Retinol 版)，定价从 50% off 改为 40% off MSRP
+> - 最终 3 条 SMS 精简方案保留 5/20 / 5/23 / 5/25，不含 5/24
+> - 保留此文件仅作历史记录
 
 **Campaign:** Memorial Day 5 — Sunday Flash
 **Send Date:** 2026-05-24 (Sunday)

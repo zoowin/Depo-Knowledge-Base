@@ -25,6 +25,48 @@
 
 ---
 
+## 2026-05 May Campaigns
+
+| Date | Campaign | Type | Subject Line | OR | CR | CTOR | Conv% | Revenue | RPR | Unsub | Learning |
+|------|----------|------|-------------|-----|-----|------|-------|---------|-----|-------|----------|
+| 04/30 | Mother's Day Pre-warm | Pre-warm/Lifestyle | (MD tease, no code) | 64.6% | 0.59% | 0.92% | 0.05% | $5,329 | $0.072 | 0.11% | Pre-warm 软铺垫表现稳定，为 5/8 bundle launch 蓄势 |
+| 05/01 | SPF Conversation | Educational | Your SPF only works as well as the routine underneath it. | 62.6% | 0.35% | 0.56% | 0.046% | $4,838 | $0.066 | 0.16% | 屏障教育角度成立，AOV $142（high）— 用户买的不只是 SPF 替代品 |
+| 05/04 | M1 Upgrade Launch | Launch/Educational | We added one ingredient. It changed everything. | 64.2% | 0.65% | 1.01% | 0.075% | $7,053 | $0.096 | 0.16% | 🔥 教育型 launch 超 $4.5-6.5k 预测上限，M2 retinol 升级 narrative 成立 |
+| 05/06 | First 4 Weeks | Educational | Day 7. Day 14. Day 28. Here's what's really happening. | 63.8% | 0.40% | 0.62% | 0.047% | $4,195 | $0.057 | 0.15% | 期待管理类教育稳定，retention 角度有效 |
+| 05/08 | Mother's Day + Activation Trio Launch | Promo + Bundle Launch | Skincare just got a primer. (For $89.) | 62.4% | 0.75% | 1.20% | 0.098% | **$10,487** | $0.138 | 0.12% | 🔥🔥 **Bundle Test 大胜** — 比 2025 MD $6,430 高 +63%。"Skincare Priming" 概念在老客中成立。无折扣码 clean signal |
+| 05/10 | Sunday Q&A | Educational/Brand Voice | 5 questions our team gets asked most. (And the answers.) | **66.7%** | 0.37% | 0.55% | 0.05% | $4,188 | $0.057 | 0.12% | 🔥 **OR 全月最高** — Sunday 软对话格式 > 促销 SL；reply CTA 提升互动 |
+| 05/12 | Skin Cycling Truth | Trend/Education | Skin Cycling went viral. Here's what science actually says. | 65.5% | 0.31% | 0.47% | 0.036% | $3,076 | $0.043 | 0.17% | ⚠️ 全月 CR/Rev 最低；trend debunk 角度好但 M2 二次曝光转化弱（首次 launch 已吸收需求） |
+| 05/14 | Texture vs Wrinkles | Educational | They look the same. They're not. Here's the difference. | 65.3% | 0.50% | 0.77% | 0.038% | $3,705 | $0.052 | 0.14% | Refresh+Layer 教育稳定，激活 E 线 MOP cross-sell |
+| 05/17 | Travel-Ready Skin Kit | Lifestyle | 3 products, 1 small bag — your weekend skin survival kit. | 65.1% | 0.68% | 1.04% | 0.049% | $4,372 | $0.057 | 0.18% | Sunday lifestyle 表现超预期（vs 5/15 Reset 56.4% OR），Memorial 前 lifestyle 角度成立 |
+| 05/19 | Premium Cost Per Use | Educational/Value Prime | The math on your $80 serum (you might be surprised). | 62.9% | 0.43% | 0.68% | 0.041% | $4,550 | $0.064 | 0.11% | Memorial primer 角度成立，AOV $157（全月最高）|
+| 05/20 AM | Memorial Launch | Promotional | Memorial Day Sale IS LIVE! UP TO 60% off + extra 10% with MEM10. | 61.3% | 1.34% | 2.18% | 0.19% | **$22,344** | $0.297 | 0.08% | 🔥 双发首发，MEM10 + UP TO 60% hook 强；2025 减半基准内 |
+| 05/20 PM | Memorial Resend | Promotional | It's already going fast — UP TO 50% off + MEM10. | 62.7% | 1.28% | 2.04% | 0.19% | **$19,840** | $0.264 | 0.10% | 🔥 同日双发 OR 反而略高，动量叙事重写有效 |
+| 05/21 | Eye + Texture Trio | Promotional | New offer dropped: The Eye + Texture Trio is 50% off. | 63.1% | 0.53% | 0.83% | 0.09% | $8,160 | $0.113 | 0.10% | Day 2 NEW Offer 抗疲劳成立 |
+| 05/22 | Pair Patches + Serums | Promotional | Pair the patches + serums. Up to 40% off this Friday. | 59.7% | 0.47% | 0.79% | 0.06% | $7,030 | $0.095 | 0.09% | Day 3 启用 Static/Dynamic Duo 双 NEW bundle，组合叙事 |
+| 05/23 | Matriplex Cream 40% | Promotional | Face & Eye Duo is gone. Matriplex Cream just dropped at 40%. | 61.6% | 0.56% | 0.91% | 0.08% | $7,507 | $0.101 | 0.09% | 售罄叙事补位，单品 spotlight + 100-spot 收尾 |
+| 05/24 AM | Sunday M2 + Retinol | Promotional | Two Sunday picks: $9 Bakuchiol + first-ever M2 sale 50%. | 60.0% | 0.66% | 1.10% | 0.08% | $8,245 | $0.111 | 0.07% | 双 hero 策略 + Sunday Essentials H1 切换有效 |
+| 05/24 PM | 24 Hours Left | Promotional | ONLY 24 HOURS LEFT — Memorial Sale ends tomorrow night. | 61.6% | 0.62% | 1.01% | 0.08% | $8,041 | $0.111 | 0.09% | 红警示模板 B 视觉切换 + 价格 CTA 锚化 |
+| 05/25 | Last Chance | Promotional | Last chance. You'll regret missing the BIGGEST sale of the summer. | 52.2% | 0.64% | 1.23% | 0.11% | **$11,131** | $0.151 | 0.10% | ⚠️ OR 52%（全月最低 — recipient fatigue）但 CR 反弹至 0.11%；遗憾叙事 + dermatologist + midnight PDT 三锚点成立 |
+| 05/20 SMS | Memorial Launch (MEM10) | SMS Promotional | Memorial 50% off + MEM10 — shop now | — | **15.96%** | — | 0.17% | **$9,213** | $0.214 | 1.37% | 🔥🔥🔥 **全月 ROI 之王** — SMS CR 16% 远超任何 email；7 月 4 日大促必须重点用 SMS |
+
+**5 月小结：**
+- 总发送 18 emails + 1 SMS（含 4/30 pre-warm）；Memorial Sale 8 emails 占月 Revenue 62%
+- **May 总 Revenue ≈ $147,012**（含 SMS）
+  - Memorial Sale 8 emails + SMS = **$101,511**（不含 SMS $92.3k；含 SMS $101.5k — 落入 $87-114k 预测上限）
+  - Evergreen 9 emails = **$45,501**
+  - Pre-warm 4/30 = $5,329
+- **🏆 Top 5 Revenue:** ① 5/20 AM Memorial Launch $22,344 / ② 5/20 PM Memorial Resend $19,840 / ③ 5/25 Last Chance $11,131 / ④ 5/8 Activation Trio Launch $10,487 / ⑤ 5/20 SMS Memorial Launch $9,213
+- **关键学习：**
+  1. **Activation Trio bundle test 大胜** — $10,487 比 2025 MD $6,430 高 +63%，"Skincare Priming" 概念在老客中成立 → 6 月可继续 narrative，7 月起动 paid launch
+  2. **M2 (M1+Retinol) launch 教育成立** — $7k 超预测，retention 角度有效
+  3. **SMS CR 16% 颠覆性** — 7 月 4 日必须 SMS-first，至少 4-6 条 SMS（vs 5 月只 3 条）
+  4. **Sunday Q&A OR 66.7% 最高** — 软对话格式 > 促销 SL，6 月可复制（6/14 Sun）
+  5. **Last Chance OR 52% 警告** — 6 天 promo 后 list 疲劳明显；6 月需 brand rest（无 sale）养回健康
+  6. **同日双发动量叙事成立** — 5/20 PM OR 反而高于 AM，重写 H1/Hero/Lead/Grid（不是简单提醒）是关键
+  7. **AOV 全月 $113-157** — 老客在 promo 期间高客单稳定，Memorial bundle 拉高了客单结构
+
+---
+
 ## 2026-03 March Campaigns
 
 | Date | Campaign | Type | Subject Line | OR | CR | CTOR | Conv% | Revenue | RPR | Unsub | Learning |
