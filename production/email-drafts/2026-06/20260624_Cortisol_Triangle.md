@@ -139,15 +139,15 @@ BUILD THE SUMMER ROUTINE
 ---
 
 ## Hero Image Brief
-> 📐 用于即梦或 ChatGPT 生成
+> 📐 **Hero image uploaded** — Poster-style triangle system
 
-**概念：** Editorial science infographic hero — clean minimal isoceles triangle diagram on soft warm cream background. Three labeled vertices: "HEAT" at the top, "CORTISOL" at the bottom-left, "SKIN" at the bottom-right. Thin charcoal or navy line work, simple sans-serif typography for labels, generous negative space surrounding the triangle. Aesthetic: science magazine editorial (think *Wired* / *Scientific American*), not medical chart. Premium, calm, intellectual.
+**Hero CDN URL:** https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/3c12076a-ec7d-4003-aada-107324d53c1c.jpeg
 
-**风格：** MEL Style + science editorial — minimal, intellectual, calm.
+**概念：** Poster-style triangle system on a cool white / pale blue-gray background. Three visible nodes and curved triangle arrows suggest the Heat + Cortisol + Skin cycle without using readable in-image text. More approachable than a clinical science chart; no products, people, medical tools, or yellow-dominant palette.
 
 **AI Prompt：**
 ```
-Editorial scientific infographic hero image: clean minimal isoceles triangle diagram centered on soft warm cream background, three labeled vertices "HEAT" at top, "CORTISOL" at bottom-left, "SKIN" at bottom-right, thin charcoal or deep navy line work, simple modern sans-serif typography for labels (Inter or Helvetica), generous negative space surrounding the triangle, premium science magazine editorial aesthetic, no busy elements, no medical equipment, no people, no products, photorealistic premium minimalist composition --ar 3:2 --style raw
+Final hero selected and uploaded to Klaviyo. Use the CDN URL above for HTML build.
 ```
 
 ---

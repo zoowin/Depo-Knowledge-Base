@@ -122,15 +122,17 @@ BUILD YOUR SUMMER ROUTINE
 ---
 
 ## Hero Image Brief
-> 📐 用于即梦或 ChatGPT 生成
+> 📐 **Hero image uploaded** — Summer routine pre-July4 still life
 
-**概念：** Premium summer morning still life suggesting "ready for the season." Soft cream-beige linen layered over a pale stone surface, warm natural sunlight streaming from the left. Three unbranded skincare-shaped neutral silhouettes (a jar, a serum bottle, a slightly taller tube) arranged together in soft staggered composition. One tiny detail: a folded white linen napkin at the edge with the faintest red and blue thin stripe edge — barely visible, suggesting summer Americana subtly. Generous negative space. Mood: anticipation, calm, premium-ready. NOT literal flags, fireworks, or patriotic kitsch.
+**Hero CDN URL:** https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/0d753740-2fed-4a93-8534-f51e1a2e3602.jpeg
+
+**概念：** Premium summer morning still life suggesting "ready for the season." Clean pale stone / vanity surface, soft natural sunlight, and three neutral skincare-shaped products arranged as a summer routine. July 4 is hinted only through a very subtle red/navy linen detail; no literal flags, fireworks, stars-and-stripes, or sale graphics.
 
 **风格：** MEL Style + premium summer editorial — anticipatory, calm, subtle Americana.
 
 **AI Prompt：**
 ```
-Premium summer morning skincare still life suggesting "ready for July": soft cream-beige linen layered over pale stone surface, warm natural sunlight streaming from the left, three unbranded neutral skincare-shaped silhouettes (one low jar, one clear serum bottle, one slightly taller tube) arranged together in soft staggered composition near right side of frame, generous negative space on the left, one folded white linen napkin at the edge of frame with the faintest barely-visible thin red and blue stripe edge as subtle summer Americana detail, premium beauty editorial still life, photorealistic, warm cream and soft blush tones, no literal American flags, no fireworks, no stars-and-stripes, no people, no hands, no text, no products with logos --ar 3:2 --style raw
+Final hero selected and uploaded to Klaviyo. Use the CDN URL above for HTML build.
 ```
 
 ---

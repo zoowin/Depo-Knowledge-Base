@@ -60,12 +60,10 @@ SEE THE 6-WEEK UPDATE
 **Body Headline：**
 Skincare Priming, At Week Six.
 
-**Body Copy（3 段 — Real Results 例外，~560 字符）：**
-Paragraph 1: Six weeks ago we launched something we believed in but couldn't fully prove yet: the Peptide Activation Trio. The idea was "skincare priming" — three formulas designed to work as a sequence, not three products grabbed off a shelf. We told you it would settle in around four to six weeks. So here's the actual six-week update.
+**Body Copy（2 段，~450 字符 — Real Results 已压缩到接近标准）：**
+Paragraph 1: Six weeks ago we launched something we believed in but couldn't fully prove yet: the Peptide Activation Trio. The idea was "skincare priming" — three formulas built to work as a sequence. We said you'd notice it around four to six weeks. Here's what's true so far: repeat orders in the first 30 days exceeded our forecast, and customers who normally buy one product came back for components separately. That's exactly what priming was meant to do.
 
-Paragraph 2: Repeat orders within the first 30 days exceeded our forecast by a wide margin. Customers who normally buy a single product came back for one or two of the components separately — which tells us the Trio is teaching people which formulas they want to keep using. That's exactly what "priming" was supposed to do.
-
-Paragraph 3: We're not claiming miracles (see Monday's note). What we are claiming is that the three components, used in sequence for six weeks, change how mature skin feels week over week — and customers are telling us with their second orders. Below is the breakdown.
+Paragraph 2: We won't claim miracles here. What we will claim: three components, used in sequence for six weeks, change how mature skin feels week over week — and customers are telling us with their second orders. Below is the breakdown.
 
 ---
 
@@ -135,15 +133,17 @@ SHOP THE ACTIVATION TRIO
 ---
 
 ## Hero Image Brief
-> 📐 用于即梦或 ChatGPT 生成
+> 📐 **Hero image uploaded** — Activation Trio 6-week editorial still life
 
-**概念：** Editorial product still life of the Peptide Activation Trio — three components arranged together on a soft cream linen or pale stone surface. Top-down or low 3/4 angle. Components: Deepcare+® MicroOperator Boosting Cream (black cap, ~taller jar), Argireline™ MPS Serum (clear glass dropper bottle), Peptide Complex Wrinkle Defense Eye Cream (small jar with cooling tip). Soft natural morning light from upper left. Generous negative space on right side. Mood: premium product editorial, reliable, lived-in (not stock photo glossy).
+**Hero CDN URL:** https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/127ea31f-fb59-4aad-afe8-fc260c2ab15a.jpeg
+
+**概念：** Editorial product still life of the Peptide Activation Trio — three components arranged naturally on a soft cream linen / pale stone surface with a subtle 6-week routine cue. Components: Deepcare+® MicroOperator Boosting Cream as the wide jar anchor, Argireline™ MPS Serum as the taller dropper bottle, and Peptide Complex Wrinkle Defense Eye Cream as the smaller jar. Mood: premium, reliable, lived-in, not glossy stock photography.
 
 **风格：** MEL Style + bundle editorial — premium, calm, lived-in.
 
 **AI Prompt：**
 ```
-Editorial bundle product still life: three skincare products arranged together on soft cream linen surface, slight 3/4 angle view, one taller jar with black cap centered, one clear glass dropper bottle with cream contents to the left, one smaller cream jar with cooling glass applicator tip to the right, soft natural morning sunlight from upper left, generous negative space on right side, photorealistic premium skincare bundle editorial photography, warm cream and beige tones, no extra text, no hands, no people, no medical equipment, products front and center but lived-in feel --ar 3:2 --style raw
+Final hero selected and uploaded to Klaviyo. Use the CDN URL above for HTML build.
 ```
 
 ---
@@ -159,7 +159,13 @@ Editorial bundle product still life: three skincare products arranged together o
 
 ### Hook 设计
 - Authority hook 选择是因为 5/8 是品牌"提出概念"邮件，6/26 是品牌"验证概念"邮件 — Authority via own-brand validation
-- "We're not claiming miracles" 一句直接 callback 6/22 Brand Manifesto — 形成 narrative thread
+- "We won't claim miracles here" 独立成句，不依赖用户记得 6/22 内容 — Real Results 邮件独立信任建立优先
+
+### 与 6/22 Why We Made the Anti-Aging Trio narrative thread
+- 6/22（Monday）= "我们怎么思考做 bundle"（Anti-Aging Trio origin story）
+- 6/26（Friday）= "另一个 bundle 6 周后实际表现"（Activation Trio validation）
+- 同周 2 封不同 bundle，统一在品牌"我们怎么做 bundle"主线下
+- 不强 cross-reference（避免依赖用户记得 Monday），narrative thread 通过 brand tone 自然承接
 
 ### Cross-Bundle 软推逻辑
 - 主 bundle = Activation Trio（本封 hero）
@@ -183,6 +189,12 @@ Editorial bundle product still life: three skincare products arranged together o
 - Real Results 类型 → 默认 SKIP（per `feedback_checklist_default_skip.md`）
 - Trio Breakdown 已是结构化 bullet（Week 1-2 / 3-4 / 5-6 三个 component card）
 - checklist 会重复 component card 内容
+
+### v2 长度压缩（per Leon "控制长度"反馈）
+- Body 3 段 ~860 chars → **2 段 ~450 chars**（合并旧 P1+P2 lead 进新 P1 / 用旧 P3 内容进新 P2）
+- 删除 "(see Monday's note)" 括号 callback — 因 6/22 主题已从 anti-miracle 立场改为 Anti-Aging Trio origin story，原 callback 不再准确
+- 改为 "We won't claim miracles here" 独立成句 — Real Results 邮件独立信任建立优先
+- 整体邮件 reading time 从 ~80 秒 → ~50 秒
 
 ### 预期 Revenue
 $5,500 - $8,000（Real Results DNA + 6-week milestone framing + Activation Trio hero + Peptide Duo cross-sell + 5/8 launch 验证后的 buyer confidence —参考 5/8 $10,487 但本封不是首发，预期 50-70%）

@@ -24,6 +24,7 @@
 | 11 | Cica Serum | D — Cica (已停产) | Cica H.A Serum | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/fc33e5c3-ab65-40a0-92f1-031418fc7478.png` |
 | 12 | Peptide Duo + Caviar Stick Set | Bundle | Peptide Duo + Free Caviar | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/562035fe-955a-42d6-8210-56bf78c79ebb.png` |
 | 13 | M1 Micro-dart Patch | E — Technology-Driven | Micro-dart Patch (M1) | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/bdb87085-8617-43d8-be9b-f2cc405c16d1.png` |
+| 14 | Matrixyl® 3000 Triple Bundle | Bundle | 3× Matrixyl® 3000 Serum | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/4d8a50fb-d5af-4615-b99b-cca4eb1bf7fc.png` |
 
 ---
 
