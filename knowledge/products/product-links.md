@@ -4,7 +4,7 @@
 > Agent reads this file when building email HTML to populate product cards.
 > **Canonical / global reference** — campaign-specific assets (e.g., Memorial Sale, BFCM)
 > live in their own registry files (see `knowledge/visual/Memorial Sale Product Images.md`).
-> Last updated: 2026-05-13
+> Last updated: 2026-06-04
 
 ---
 
@@ -16,6 +16,7 @@
 | **A** | Matriplex™ Peptide Intense Cream | `https://depology.com/products/tri-active-matrixyl-complex-cream` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/420e0d8e-091d-4a94-ad76-e4c2bea97c46.png` |
 | **B** | Peptide Complex 10% Argireline™ Serum | `https://depology.com/products/argireline-anti-wrinkle-serum` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/160b6da8-e5a3-4202-bcef-a511922d5954.png` |
 | **B** | Deepcare+ Micro-dart Eye Patch | `https://depology.com/products/deepcare-serum-infused-micro-dart-patches-lp1-t0` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/bdb87085-8617-43d8-be9b-f2cc405c16d1.png` |
+| **B** | Deepcare+® Retinol Forehead Micro Dart Patches 🆕 | `https://depology.com/products/deepcare-retinol-forehead-micro-dart-patches` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/6df074e5-4930-49b2-8c4f-052336c9a7be.png` |
 | **B** | Peptide Complex Eye Cream | `https://depology.com/products/peptide-complex-wrinkle-defense-eye-cream` | `https://depology.com/products/offer-peptide-complex-wrinkle-defense-eye-cream-copy` | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/17182a51-02dc-4114-8b61-d82e29c46bcb.png` |
 | **B** | Replenishing Night Under Eye Patch | `https://depology.com/products/replenishing-night-under-eye-patch` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/fb01a6c6-6cdf-4159-b40b-9f605f71ab65.png` |
 | **C** | Retinol Radiance Rescue Body Lotion | `https://depology.com/products/retinol-radiance-body-lotion` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/65227851-df6d-4cbd-bcae-6a5c9e446619.png` |

@@ -103,14 +103,14 @@ Depo-Knowledge-Base/
 
 ---
 
-## Product System (7 Active Lines, 14 SKUs)
+## Product System (7 Active Lines, 15 SKUs)
 
 All product communication must follow this structure. Never invent new categories.
 
 | Line | Name | SKUs | Role | EDM Focus |
 |------|------|------|------|-----------|
 | **A** | Matrixyl® | Collagen Serum, Matriplex Cream | Foundation anti-aging, collagen support | Education-first, routine building |
-| **B** | Argireline™ | MPS Serum, Micro-dart Patch (M1), Eye Cream, Night Under Eye Patch | Expression wrinkle targeting | Problem→solution, conversion |
+| **B** | Argireline™ | MPS Serum, Micro-dart Eye Patch (M1), Forehead Micro-dart Patch, Eye Cream, Night Under Eye Patch | Expression wrinkle targeting | Problem→solution, conversion |
 | **C** | Retinoid | Body Lotion | Advanced renewal | Guided education, progression |
 | **E** | Technology-Driven | Micro-needling Cream | "Micro-needling in a jar" | Concept education, differentiation |
 | **F** | Opuntia | Cleansing Balm | Gentle cleansing | Cross-sell, routine completion |
