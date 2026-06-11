@@ -6,8 +6,8 @@ from pathlib import Path
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / 'production' / 'html-output' / '20260403_Easter_Sale_Opening.html'
-OUT = ROOT / 'production' / 'html-output' / '20260424_Tolerance_Myth.html'
+SRC = ROOT / 'production' / 'html-output' / '2026-04' / '20260403_Easter_Sale_Opening.html'
+OUT = ROOT / 'production' / 'html-output' / '2026-04' / '20260424_Tolerance_Myth.html'
 
 html = SRC.read_text(encoding='utf-8')
 

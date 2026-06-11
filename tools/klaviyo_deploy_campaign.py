@@ -44,18 +44,26 @@ def update_template(template_id, html):
     print(f'Template updated: {template_id}')
 
 
-def create_campaign(name, subject, preview_text, list_id, send_time=None,
+# Standard audiences per CLAUDE.md (4 included + 9 excluded)
+STD_INCLUDED = ['QPetUg', 'X9GvQv', 'XQqrAQ', 'YbRy3S']
+STD_EXCLUDED = ['RNUDwR', 'RsM7QF', 'TCpjZJ', 'TWCwGW', 'U9crDJ',
+                'UzTR6W', 'VFjbHB', 'XVbFC5', 'XWFhWE']
+
+
+def create_campaign(name, subject, preview_text, list_id=None, send_time=None,
                     from_email='support@depology.com', from_label='Dēpology'):
     send_strategy = {'method': 'immediate'} if not send_time else {
         'method': 'static',
         'options_static': {'datetime': send_time, 'is_local': False}
     }
+    included = [list_id] if list_id else STD_INCLUDED
+    excluded = [] if list_id else STD_EXCLUDED
     payload = {
         'data': {
             'type': 'campaign',
             'attributes': {
                 'name': name,
-                'audiences': {'included': [list_id], 'excluded': []},
+                'audiences': {'included': included, 'excluded': excluded},
                 'send_strategy': send_strategy,
                 'send_options': {'use_smart_sending': True},
                 'tracking_options': {'is_tracking_clicks': True, 'is_tracking_opens': True},
@@ -110,7 +118,8 @@ def main():
     p.add_argument('--name', required=True, help='Campaign name')
     p.add_argument('--subject', required=True, help='Email subject line')
     p.add_argument('--preview', required=True, help='Preview text')
-    p.add_argument('--list-id', default='U6wD8G', help='Audience list ID (default: Engaged)')
+    p.add_argument('--list-id', default=None,
+                   help='Single audience list ID override. Default: standard 4 included + 9 excluded segments per CLAUDE.md')
     p.add_argument('--send-time', help='ISO send time, e.g. 2026-04-05T10:00:00.000Z')
     args = p.parse_args()
 

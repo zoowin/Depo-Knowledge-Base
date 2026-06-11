@@ -17,7 +17,7 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 ROOT = Path(__file__).parent.parent
-OUT_DIR = ROOT / "production" / "html-output"
+OUT_DIR = ROOT / "production" / "html-output" / "2026-05"
 
 # ══════════════════════════════════════════════════════════════════════
 # SKU REGISTRY (Memorial Sale 2026 specific images + URLs)

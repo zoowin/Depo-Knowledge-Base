@@ -81,7 +81,7 @@ Depo-Knowledge-Base/
 │   ├── email-drafts/      ← Monthly folders: 2026-01/, 2026-02/, 2026-03/
 │   ├── sms-drafts/        ← SMS campaign drafts
 │   ├── blog-drafts/       ← SEO blog articles + templates
-│   ├── html-output/       ← Rendered email HTML for preview
+│   ├── html-output/       ← Rendered email HTML（按月份分夹 2026-XX/）
 │   ├── assets/            ← Images and prompts
 │   ├── campaign-workflow.md   ← Klaviyo execution guide
 │   └── edm-workflow-guide.md  ← Full system workflow documentation
@@ -156,40 +156,31 @@ All product communication must follow this structure. Never invent new categorie
 - **Claude 生成完整 HTML**，Leon 只需上传 hero image
 - **所有 HTML 操作在本地完成**（Python 脚本，零 token 消耗）
 
-### 基础模板（本地文件）
+### 基础模板（`tools/templates/`，详见该目录 README.md）
 
-| 文件 | 基于 | 类型 | 布局 | 配色 |
+| 代际 | 文件 | 类型 | 配色 | 状态 |
 |------|------|------|------|------|
-| `R5x7wg_base_template.html` | Klaviyo drag-and-drop | 通用促销型 | 单 hero + body + checklist + 3 产品卡 | 黑底白字 |
-| `VE92sd_base_template.html` | Klaviyo drag-and-drop | 教育型 | 单 hero + 产品角色标签 + 底部总 CTA | 黑底白字 |
-| `20260408_Hydration_Hierarchy.html` | 0403 改造 | **教育型（白底）** | 双 hero + checklist + 角色标签 + 3 产品卡 | **白底黑字** |
+| **3（主力）** | `base_block_education_cards_0624.html` | 教育 + 编号产品卡（手写 BLOCK，~200 行） | 白底黑字 | ✅ 教育/evergreen 首选 |
+| **3（主力）** | `base_block_promo_sale_0520.html` | 促销/Sale（Memorial 风格 BLOCK） | 促销黑/深底 | ✅ 促销首选 |
+| 2 | `base_education_white_0408.html` | 教育型（MJML 结构，~750 行） | 白底黑字 | 可用 |
+| 2 | `base_promo_black_0403.html` | 促销型（MJML 结构） | 黑底白字 | 可用 |
+| 1 | `R5x7wg` / `VE92sd_base_template.html` | Klaviyo 拖拽导出（1600+ 行冗余） | 黑底白字 | ⚠️ 遗留不推荐 |
 
-**重要经验：** Klaviyo drag-and-drop 模板（R5x7wg/VE92sd）有 1600+ 行，desktop/mobile 双版本冗余，修改困难。推荐做法：**以已验证的 production HTML（如 0403）为基础，Python 替换内容生成新邮件**。0408 模板是目前最干净的白底教育型模板（~750 行），未来教育类邮件优先基于它。
-
-### 模板选择规则
-
-| 邮件类型 | 基础模板 | 配色 |
-|---------|---------|------|
-| 教育/Evergreen（白底） | `20260408_Hydration_Hierarchy.html` | 白底黑字 |
-| 促销/Sale（黑底） | `20260403_Easter_Sale_Opening.html` | 黑底白字 |
-| 未来扩展 | 按需从已有模板改造 | — |
-
-未来新布局（如双主图促销、强促销倒计时）作为新模板类型管理。
+**重要经验：** 以已验证的 production HTML 为基础，Python 替换内容生成新邮件。第 3 代手写 BLOCK 结构（单 600px container + `<!-- BLOCK N -->` 注释分块）最易改，新邮件优先用。`production/html-output/` 按月份分文件夹（`2026-06/` 等），归档已发送 campaign 的 HTML；模板副本统一放 `tools/templates/`，改模板只改副本不动月份夹源文件。
 
 ### 部署脚本
 
 ```bash
 # Step 1: 构建 HTML（本地替换内容，可浏览器预览）
 python3 tools/build_campaign_html.py replacements.json \
-  --base R5x7wg --output YYYYMMDD_Campaign.html --preview
+  --base base_block_education_cards_0624 --output YYYY-MM/YYYYMMDD_Campaign.html --preview
 
 # Step 2: 一键部署到 Klaviyo（创建模板 + 创建 campaign + assign）
-python3 tools/klaviyo_deploy_campaign.py production/html-output/YYYYMMDD_Campaign.html \
-  --name "[DEP]_MMDD_Campaign_Name" \
+python3 tools/klaviyo_deploy_campaign.py production/html-output/YYYY-MM/YYYYMMDD_Campaign.html \
+  --name "[DEP]_YYYYMMDD_Campaign_Name" \
   --subject "Subject line" \
   --preview "Preview text" \
-  --list-id U6wD8G \
-  --send-time "2026-04-05T10:00:00.000Z"
+  --send-time "2026-04-05T13:00:00.000Z"
 ```
 
 API Key 存储在 `.env`（已在 `.gitignore`）。
@@ -293,7 +284,7 @@ For each email in the monthly calendar:
 5. Include: Subject lines, preview text, full copy blocks, product card HTML, hero image brief
 
 ### Phase 2: Build HTML & Deploy (Claude — 本地脚本，零 token)
-1. Claude 选择基础模板（白底教育型 → 0408，黑底促销型 → 0403）
+1. Claude 从 `tools/templates/` 选基础模板（教育 → base_block_education_cards_0624，促销 → base_block_promo_sale_0520）
 2. Claude 写 Python 脚本从基础模板替换内容（文案/图片/链接/CTA）→ 本地生成完整 HTML
 3. Leon 浏览器预览 HTML，确认无误后微调
 4. `python3 tools/klaviyo_deploy_campaign.py` → 一键上传模板 + 创建 campaign + assign

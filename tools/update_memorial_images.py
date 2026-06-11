@@ -58,7 +58,7 @@ HTML_FACE_EYE_DUO_FIX = [
 
 TARGETS = [
     "knowledge/products/product-links.md",
-    "production/html-output/20260520_AM_Memorial_Launch.html",
+    "production/html-output/2026-05/20260520_AM_Memorial_Launch.html",
     "production/email-drafts/2026-05/20260520_AM_Memorial_Launch.md",
     "production/email-drafts/2026-05/20260520_PM_Memorial_Resend.md",
     "production/email-drafts/2026-05/20260521_Eye_Texture_Trio.md",

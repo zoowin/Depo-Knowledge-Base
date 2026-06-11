@@ -63,7 +63,7 @@ TARGET_FILES = [
     "production/email-drafts/2026-05/20260524_AM_Bakuchiol_M1_Sunday.md",
     "production/email-drafts/2026-05/20260524_PM_24_Hours_Left.md",
     "production/email-drafts/2026-05/20260525_Last_Chance.md",
-    "production/html-output/20260520_AM_Memorial_Launch.html",
+    "production/html-output/2026-05/20260520_AM_Memorial_Launch.html",
     "knowledge/products/product-links.md",
 ]
 
