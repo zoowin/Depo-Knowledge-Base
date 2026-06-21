@@ -1,5 +1,55 @@
 # 20260614_Forehead_Early_Access
 
+---
+
+## ⭐ v2 — STORY VERSION (2026-06-12, current)
+
+> 从 teaser 改为**故事驱动**版。新增"为什么做/怎么做"研发故事 + 2 张过程稿拼贴图。
+> **构建脚本:** `tools/build_0614_forehead_early_access_v2.py`（基于 v1 HTML 转换）
+> **产出:** `production/html-output/2026-06/20260614_Forehead_Early_Access_v2.html`
+> **文案规则:** 全文**不使用破折号(—)**；不点供应商名；不报针数/尺寸/retinol%（概念可露、成品形态留 7 月）。
+
+**Subject:** Some lines speak for you.
+**Preview:** The full story and the reveal come this July. The first batch is limited.
+
+**Hero**
+- Eyebrow: COMING IN JULY · A FIRST FOR DĒPOLOGY
+- Headline: **We took the micro-dart somewhere new.**
+- Subheadline: Some lines speak for you.
+- CTA: GET EARLY ACCESS → （→ `https://depology.com/pages/early-access`）
+
+**Body（共情，落地页声线）**
+- Headline: It's not about getting older.
+- Copy: These lines are years of expression, quietly set into the skin.
+- 斜体: Most creams only ever reach the surface, never where the line forms.
+
+**Why we made it**
+For years, we kept hearing the same thing from you. The only "real" fixes meant needles, or a frozen face, and you didn't want either. We didn't think those should be your only options. So we went back to the lab.
+
+**How we made it（2 张图文行，左右交替，图位 50% 宽竖版）**
+- 图位1（左）· The hardest place to reach. — We chose one of the most expressive, hardest-to-stick places on the face. It moves, it creases, it curves. A flat patch simply won't stay.
+  - IMG1: `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/b7de851b-b2bb-47d6-a607-8255f408d174.jpeg`
+- 图位2（右）· Months of prototyping. — Version after version, we shaped the curve so it would hold, tuning the formula so hundreds of self-dissolving darts carry their actives below the surface, instead of leaving them on top. We kept going until it could sit steadily on the one place that refuses to cooperate.
+  - IMG2: `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/4c0983a9-8291-43c0-83b5-d35ae9e98bd3.jpeg`
+- 图素材: 韩文研发聊天 + 打样/样品 + 波形图纸的拼贴过程稿（已去供应商名；额头=内部员工授权；韩文保留作真实感）。
+
+**What it is**
+A micro-dart patch shaped to the skin, with hundreds of self-dissolving darts that deliver their actives just below the surface. Wear it about an hour, every few nights. No needles, no downtime, no frozen look. Every expression stays yours.
+
+**Why get on the list（3 卡）**
+1. Be first — Shop before the public launch.
+2. **A limited first batch — Made in small quantities.** （← 原 "A launch-day offer / Reserved just for the list."，去 offer）
+3. See the making — Front-row, from sketch to reveal.
+
+**Sign-up CTA Block**
+- Headline: Get early access.
+- Copy: The full reveal comes in July, and the first batch is limited. Be on the list when it opens.
+- Button: SIGN ME UP →
+
+**待办:** 部署时把 Subject/Preview 写进 Klaviyo campaign；正文 HTML 已含真图，可直接 deploy 或更新模板 `X4nAnC`。
+
+---
+
 ## Campaign Info
 - **Template:** 自定义 teaser/sign-up 型(基于 0408 白底教育骨架,header/footer 保留;中段为单一 sign-up CTA)→ HTML: `production/html-output/20260614_Forehead_Early_Access.html`
 - **Type:** Pre-Launch Teaser / List-Building(Early Access sign-up)

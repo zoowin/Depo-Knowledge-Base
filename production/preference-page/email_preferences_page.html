@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Depology — Email Preferences</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: #DDDDDD;
+    font-family: 'Century Gothic', 'AppleGothic', Arial, sans-serif;
+    color: #000000;
+    padding: 48px 16px;
+  }
+  .card {
+    max-width: 560px;
+    margin: 0 auto;
+    background: #FFFFFF;
+    border: 1px solid rgba(0,0,0,0.10);
+    padding: 44px 40px 34px;
+  }
+  .logo-wrap { text-align: center; margin-bottom: 32px; }
+  .logo-wrap img { max-width: 210px; width: 100%; height: auto; }
+  .page-title {
+    font-size: 32px; font-weight: 500; letter-spacing: 0.5px;
+    padding-bottom: 14px; border-bottom: 1px solid #e6e6e6; margin-bottom: 20px;
+  }
+  .intro { font-size: 14px; line-height: 1.6; color: #555; margin: 0 0 28px; }
+  .field-label {
+    display: block; font-size: 13px; font-weight: 500;
+    letter-spacing: 1px; margin-bottom: 8px;
+  }
+  .required { color: #c0392b; }
+  input[type="email"] {
+    width: 100%; padding: 11px 13px; font-size: 14px;
+    border: 1px solid #cfcfcf; border-radius: 3px;
+    background: #f7f7f7; color: #333; font-family: inherit;
+  }
+  .block { margin-bottom: 24px; }
+  .freq-opt {
+    display: flex; align-items: center; gap: 12px;
+    padding: 13px 15px; border: 1px solid #d8d8d8; border-radius: 4px;
+    margin-bottom: 9px; cursor: pointer; transition: border .15s, background .15s;
+  }
+  .freq-opt .dot {
+    width: 17px; height: 17px; border-radius: 50%;
+    border: 2px solid #999; flex-shrink: 0; box-sizing: border-box;
+    transition: border .15s;
+  }
+  .freq-opt.selected { border: 1px solid #000; background: #fafafa; }
+  .freq-opt.selected .dot { border: 5px solid #000; }
+  .freq-opt span.opt-label { font-size: 15px; }
+  .unsub-block { border-top: 1px solid #eee; padding-top: 18px; margin-bottom: 28px; }
+  .unsub-row { display: flex; align-items: flex-start; gap: 10px; cursor: pointer; }
+  .unsub-row input { width: 16px; height: 16px; margin-top: 2px; flex-shrink: 0; }
+  .unsub-title { font-size: 14px; letter-spacing: 0.5px; }
+  .unsub-note { display: block; font-size: 12px; color: #999; margin-top: 4px; }
+  .actions { text-align: right; }
+  button.save {
+    background: #000; color: #fff; border: none; padding: 13px 30px;
+    font-size: 14px; letter-spacing: 1px; border-radius: 3px;
+    cursor: pointer; font-family: inherit;
+  }
+  .footer {
+    text-align: center; margin-top: 32px; padding-top: 16px;
+    border-top: 1px solid #eee; font-size: 12px; color: #999;
+  }
+  .footer a { color: #5a7da0; text-decoration: none; }
+  #freq-group.disabled { opacity: 0.35; pointer-events: none; }
+</style>
+</head>
+<body>
+  <div class="card">
+
+    <div class="logo-wrap">
+      <img src="https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/9f6f4d9d-43c3-4ea9-9349-46260d0073c6.png" alt="Depology" />
+    </div>
+
+    <div class="page-title">Email Preferences</div>
+
+    <p class="intro">Prefer fewer emails? Set how often you hear from us below &mdash; there's no need to leave entirely.</p>
+
+    <div class="block">
+      <label class="field-label">EMAIL ADDRESS <span class="required">*</span></label>
+      <input type="email" value="leon.zenan@gmail.com" readonly />
+    </div>
+
+    <div id="freq-group" class="block">
+      <div class="field-label">HOW OFTEN WOULD YOU LIKE TO HEAR FROM US?</div>
+      <div class="freq-opt" data-v="2week">
+        <span class="dot"></span><span class="opt-label">Twice per Week</span>
+      </div>
+      <div class="freq-opt selected" data-v="1week">
+        <span class="dot"></span><span class="opt-label">Once per Week</span>
+      </div>
+      <div class="freq-opt" data-v="1month">
+        <span class="dot"></span><span class="opt-label">Once per Month</span>
+      </div>
+    </div>
+
+    <div class="unsub-block">
+      <label class="unsub-row">
+        <input type="checkbox" id="unsub" />
+        <span>
+          <span class="unsub-title">Unsubscribe me from all emails</span>
+          <span class="unsub-note" id="unsub-note">You'll stop receiving everything, including offers reserved for subscribers.</span>
+        </span>
+      </label>
+    </div>
+
+    <div class="actions">
+      <button class="save">Update Preferences</button>
+    </div>
+
+    <div class="footer">&copy; 2026 D&#274;pology &mdash; <a href="#">Privacy Policy</a></div>
+  </div>
+
+<script>
+(function(){
+  var opts = document.querySelectorAll('.freq-opt');
+  var group = document.getElementById('freq-group');
+  var unsub = document.getElementById('unsub');
+  opts.forEach(function(o){
+    o.addEventListener('click', function(){
+      if (unsub.checked) return;
+      opts.forEach(function(x){ x.classList.remove('selected'); });
+      o.classList.add('selected');
+    });
+  });
+  unsub.addEventListener('change', function(){
+    group.classList.toggle('disabled', unsub.checked);
+    document.getElementById('unsub-note').style.color = unsub.checked ? '#c0392b' : '#999';
+  });
+})();
+</script>
+</body>
+</html>

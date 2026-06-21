@@ -22,7 +22,6 @@
 | **C** | Retinol Radiance Rescue Body Lotion | `https://depology.com/products/retinol-radiance-body-lotion` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/65227851-df6d-4cbd-bcae-6a5c9e446619.png` |
 | **E** | Deepcare+® MicroOperator Boosting Cream | `https://depology.com/products/deepcare-r-microoperator-boosting-cream-beginner` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/6db87278-16b2-48dd-bb79-837047b7142f.png` |
 | **F** | Opuntia-C Relief Cleansing Balm | `https://depology.com/products/opuntia-c-relief-cleansing-balm` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/63b261a2-9e8a-403f-8343-cde631ec3b49.png` |
-| **G** | Bakuchiol Smoothing Serum Stick | `https://depology.com/products/bakuchiol-smoothing-serum-stick` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/642001c5-54b0-4900-90fd-bc0c5dc37dc0.png` |
 | **H** | Triple Lipid + Q10 Moisturizing Treatment RICH | `https://depology.com/products/triple-lipid-q10-revive-moisturizing-treatment-rich` | — | `https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/f11a370d-d5dc-426a-90b0-1ec12a1f8c85.png` |
 | **Bundle** | Peptide Activation Trio (NEW 2026, 5/8 launch) | `https://depology.com/products/peptide-activation-trio` | — | ⚠️ canonical image TBD by Leon |
 | **Bundle** | Static Wrinkle Repair Duo (M1 + M3K) | `https://depology.com/products/static-wrinkle-repair-duo` | — | ⚠️ canonical image TBD by Leon |
@@ -30,6 +29,7 @@
 
 **⚠️ 已废弃 SKU（库存归零，2026-05-13）：**
 - Caviar Multi-Balm Stick + Peptide Serum Duo + Free Caviar Bundle
+- **Bakuchiol Smoothing Serum Stick（停产，2026-06-15 Leon 确认）** — G 线（Serum Stick）连同 Caviar 已全线停产，EDM 不再推荐
 
 ---
 
