@@ -3,7 +3,7 @@
 ## Campaign Info
 - **Template:** `base_block_promo_sale_0520`（促销 BLOCK，深底）
 - **Type:** Promotional / Category Deepening（Cream 线）
-- **Send Date:** 2026-07-05 (Saturday)
+- **Send Date:** 2026-07-05 (Sunday)
 - **Send Time:** 9:00 AM ET
 - **Segment:** 全列表（标准）
 - **Product Focus:** A Matriplex Cream + B Peptide Eye Cream（30–40%）— 与 7/1 精华、7/4 patch 错开产品线

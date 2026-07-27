@@ -6,7 +6,7 @@
 ---
 
 ## 1. 顶部滚动 Marquee 条
-`THE JULY 4TH SALE · UP TO 45% OFF · EXTRA 10% WITH CODE JULY4TH10 ·`（循环）
+`THE JULY 4TH SALE · UP TO 50% OFF · EXTRA 10% WITH CODE JULY4TH10 ·`（循环）
 
 ---
 
@@ -16,7 +16,7 @@
 THE JULY 4TH SALE
 
 **Headline（大标，对应 "UP TO 50% OFF"）：**
-UP TO 45% OFF
+UP TO 50% OFF
 
 **Sub-line（对应 "Limited Stock, Lasting Results"）— 选一：**
 1. Extra 10% with code JULY4TH10. ← 功能清晰，主推
@@ -24,7 +24,7 @@ UP TO 45% OFF
 3. Star-Spangled Skin, Lasting Results.
 4. Six Days. Best Prices. Smoother Skin.
 
-> 推荐组合：Eyebrow `THE JULY 4TH SALE` + Headline `UP TO 45% OFF` + Sub `Extra 10% with code JULY4TH10`。
+> 推荐组合：Eyebrow `THE JULY 4TH SALE` + Headline `UP TO 50% OFF` + Sub `Extra 10% with code JULY4TH10`。
 > Hero 右侧产品群像沿用深色金属面摆拍（micro-dart + 双精华 + cream），可加红/蓝/金烟花光感区别 Memorial。
 
 ---
@@ -54,4 +54,6 @@ UP TO 45% OFF
 
 ## 备注
 - 含 retinol 的 M2F 卡若展示产品功效，落地页底部需保留 retinol disclaimer（同邮件）。
-- All Offers 产品卡（折扣角标 + NEW IN + 价格 + ADD TO CART）沿用现格式，填本次 sale SKU：micro-dart up to 45%、双精华 3f2（$80/$98）、Matriplex/Eye Cream 30–40%、Activation Trio $89、Body Lotion、Night Eye Patch。M2F **不进活动页**（unlisted，仅邮件直链）。
+- All Offers 产品卡（折扣角标 + NEW IN + 价格 + ADD TO CART）沿用现格式，填本次 sale SKU：micro-dart up to 45%、双精华 3f2（$80/$98）、Matriplex/Eye Cream 30%、Activation Trio $89、RBL Trio $52、Night Eye Patch、Static/Dynamic Duo、Opuntia 清仓 $25.20。
+- **🆕 新增 2 个 trio bundle 仅 sale page 收录（邮件不放，Leon 2026-06-18 确认）：** Eye Cream Trio + Matriplex Trio（⚠️ 价格待 Leon 给，按 ~30% 设角标）。
+- M2F **不进活动页**（unlisted，仅 sign-up 邮件直链）。

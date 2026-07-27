@@ -3,22 +3,22 @@
 ## Campaign Info
 - **Template:** `base_block_promo_sale_0520`（促销 BLOCK，深底）
 - **Type:** Promotional / Bundle 主推
-- **Send Date:** 2026-07-03 (Thursday)
+- **Send Date:** 2026-07-03 (Friday)
 - **Send Time:** 9:00 AM ET
 - **Segment:** 全列表（标准）
 - **Product Focus:** Bundle — Peptide Activation Trio（MOP Cream + Argireline MPS Serum + Peptide Eye Cream）
-- **Goal:** Trio 主推位转化（承接 6/26 6-week results narrative）；$89 活动价 + 前 500 份赠 M3K 拉客单与紧迫感。
+- **Goal:** Trio 主推位转化（承接 6/26 6-week results narrative）；$89 活动价（save $46）主推 3-step 客单。**赠 M3K 已取消**（之前活动没送完）。
 - **Klaviyo Campaign Name:** `[DEP]_20260703_July4th_ActivationTrio`
 
 ---
 
 ## Subject Lines
-1. The Activation Trio — now $89, plus a free Matrixyl® 3000 🎁
-2. Skincare priming for $89 (and the first 500 get a free serum).
-3. Our 3-step Trio is on sale — there's a gift inside.
+1. The Activation Trio — the 3-step priming routine, now $89 🎉
+2. Skincare priming for $89 (save $46 on the full routine).
+3. Our 3-step Trio is on sale — $89, save $46.
 
 ## Preview Text
-The 3-step priming routine, $89 this week. First 500 orders get a full-size Matrixyl® 3000 free.
+The 3-step priming routine, $89 this week — save $46 on six weeks of skincare priming.
 
 ---
 
@@ -30,7 +30,7 @@ The Activation Trio. Now $89.
 
 **Subheadline：**
 Line 1: 3-step skincare priming.
-Line 2: First 500 get a free M3K.
+Line 2: Save $46 on the full routine.
 
 **Hero CTA：**
 SHOP THE TRIO
@@ -45,7 +45,7 @@ Three steps, one sequence.
 **Body Copy（2 段）：**
 Paragraph 1: Six weeks ago we launched the Peptide Activation Trio — three formulas built to work as a sequence, not in isolation. Repeat orders beat our forecast.
 
-Paragraph 2: This week it's $89, and the first 500 orders get a full-size Matrixyl® 3000 Collagen Serum free. The priming routine, plus the collagen layer.
+Paragraph 2: This week it's $89 — save $46 on the full three-step routine. Six weeks of skincare priming, in one sequence.
 
 ---
 
@@ -70,9 +70,9 @@ Paragraph 2: This week it's $89, and the first 500 orders get a full-size Matrix
 - **描述：** Closes the routine in the delicate eye zone — the daily layer that holds the progress in place.
 
 ### Featured Bundle
-- **横条标签：** $89 · FIRST 500 GET A FREE M3K 🎁
+- **横条标签：** $89 · SAVE $46
 - **产品名：** Peptide Activation Trio
-- **描述：** All three steps, one sequence. This week $89 — and the first 500 orders include a full-size Matrixyl® 3000 free.
+- **描述：** All three steps, one sequence. This week $89 (was $135) — save $46 on the full routine.
 - **价格：** **$89**
 - **CTA：** SHOP THE TRIO
 - **链接：** `https://depology.com/products/peptide-activation-trio`
@@ -81,7 +81,7 @@ Paragraph 2: This week it's $89, and the first 500 orders get a full-size Matrix
 
 ## Closing Section
 **Closing Copy：**
-Six weeks is enough to know what a routine does. This week is the best time to start one — gift included, while the first 500 last.
+Six weeks is enough to know what a routine does. This week is the best time to start one — $89, save $46.
 
 **Final CTA：**
 START WITH THE TRIO
@@ -100,5 +100,5 @@ Editorial still life of three skincare products as a set on soft cream linen, a 
 
 ## 备注
 - **合规：** 不用 miracle/guaranteed/transformation；用 "change how skin feels week over week / repeat orders beat forecast"（真实数据，无引言版权风险）。承接 6/26「we won't claim miracles」立场。
-- **价格/赠品：** $89 为活动价，**不叠 JULY4TH10**（标准产品链接）。⚠️ Leon 配「前 500 份自动赠 full-size M3K」规则；售罄/到量后文案需去掉赠品提示。
+- **价格：** $89 活动价（was $135，save $46），**不叠 JULY4TH10**。**赠 M3K 机制已取消**（之前活动一直没送完）。
 - **Real Results 类不放 checklist**（per draft-output-template Goals SKIP 规则；3-step 已是结构化）。

@@ -1,18 +1,19 @@
-# 202607XX_Mature_Skin_Decade_Reality
+# 20260710_Mature_Skin_Decade_Reality
 
-> 📅 **已移入 2026-07（日期待定）** — 原 6/14 排期，让位给 Forehead Early Access。排 7 月日历时定具体日期并把文件名 XX 改为实际日期。
+> 📅 **2026-07-10 定稿方向** — 原 6/14 排期，让位给 Forehead Early Access；7 月作为 July 4th sale 后第一封 trend-led evergreen，用 "age-specific routine / skin longevity" 入口重新包装。
 
 ## Campaign Info
 - **Template:** 0408 教育型（白底黑字）— 长篇 decade-by-decade reality
 - **Type:** Educational / Mature Skin Truth 核心专题
-- **Send Date:** 2026-06-14 (Sunday)
-- **Send Time:** 10:00 AM ET（Sunday 慢节奏专属时段）
+- **Send Date:** 2026-07-10 (Friday)
+- **Send Time:** 9:00 AM ET
 - **Segment:** Full List（Mature Skin Truth 核心 DNA 覆盖 35-65 全用户群）
 - **Product Focus:** Matrixyl® 3000 Collagen Serum (A) + Matriplex™ Peptide Intense Cream (A) + Triple Lipid + Q10 RICH (H) + Peptide Serum Duo bundle（闭幕带入）
 - **DNA Tags:** 👵 Mature Skin Truth（核心 DNA 首次专题）+ 🧴 Routine Architecture + 🔬 Science Made Simple
 - **Hook Type:** Authority
-- **Goal:** 替代 5/10 Q&A 套路重复 — 用 decade-by-decade 直击 35-65 用户群心理；A+A+H 三件套 0 B 线维持 6 月降 B 目标；闭幕 Peptide Serum Duo bundle = "foundation routine starts here" 暗示
-- **Klaviyo Campaign Name:** `[DEP]_20260614_Mature_Skin_Decade_Reality`
+- **Trend Hook:** Age-specific routines / skin longevity — mature skin care is shifting from "anti-aging everything" to routines that adapt by decade.
+- **Goal:** July 4th sale 后软着陆 — 用 trend-led decade framing 直击 35-65 用户群心理；A+A+H 三件套 0 B 线让 list 从促销和 micro-dart 密度中恢复。
+- **Klaviyo Campaign Name:** `[DEP]_20260710_Mature_Skin_Decade_Reality`
 
 ---
 
@@ -27,15 +28,15 @@
 ## Subject Lines（A/B 测试）
 
 **A 组（Authority 直白）：**
-1. What changes between 50 and 60 (no one tells you this).
-2. Mature skin at 50, 55, 60 — a decade reality check.
+1. Your skin at 55 isn't your skin at 45.
+2. What changes between 50 and 60 (no one tells you this).
 
 **B 组（场景 + curiosity）：**
-3. Your skin at 55 isn't your skin at 45. Here's what shifts.
-4. The skin conversation changes at 50. Here's how.
+3. Mature skin at 50, 55, 60 — a decade reality check.
+4. The skin longevity conversation changes at 50.
 
 ## Preview Text
-A clear-eyed look at how mature skin actually shifts between 50 and 60 — and the routine that adapts.
+A clear-eyed look at how mature skin shifts by decade — and the routine that adapts.
 
 ---
 
@@ -48,7 +49,7 @@ A clear-eyed look at how mature skin actually shifts between 50 and 60 — and t
 Your Skin at 50, 55, 60.
 
 **Subheadline：**
-Line 1: It's not the same skin.
+Line 1: Skin longevity is changing.
 Line 2: Here's what actually shifts.
 
 **Hero CTA：**
@@ -63,9 +64,9 @@ SEE THE DECADE MAP
 The Conversation Changes.
 
 **Body Copy（2 段，~380 字符）：**
-Paragraph 1: At 50, you notice the difference around your eyes first. At 55, the texture conversation moves to your cheeks and jawline. At 60, it's about luminosity and structure — not just wrinkles. The thing nobody tells you is that the routine needs to evolve with the decade.
+Paragraph 1: Skincare is moving away from one-size-fits-all anti-aging. At 50, you notice the difference around your eyes first. At 55, texture moves to your cheeks and jawline. At 60, it's about luminosity and structure — not just wrinkles.
 
-Paragraph 2: The fundamentals stay the same — peptides, lipids, retinol-adjacent support. What shifts is the emphasis. Below is the layered routine many women in their 50s and 60s settle into after a few rounds of trial and error.
+Paragraph 2: The fundamentals stay the same — peptides, lipids, steady daily support. What shifts is the emphasis. Below is the layered routine many women in their 50s and 60s settle into after a few rounds of trial and error.
 
 ---
 
@@ -112,7 +113,7 @@ The Foundation Routine — Decades-Tested
 ### Product 3
 - **角色标签（0408）：** 03 — The Lipid Seal
 - **产品名：** Triple Lipid + Q10 Moisturizing Treatment — RICH
-- **描述：** Ceramides + Cholesterol + Fatty Acids — the PM lipid seal that becomes more important after 55. CoQ10 adds antioxidant support during overnight repair.
+- **描述：** Ceramides + Cholesterol + Fatty Acids — the PM lipid seal that becomes more important after 55. CoQ10 adds antioxidant support during overnight care.
 - **CTA：** SHOP TRIPLE LIPID
 - **链接：** https://depology.com/products/triple-lipid-q10-revive-moisturizing-treatment-rich
 

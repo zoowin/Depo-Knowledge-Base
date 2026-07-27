@@ -3,33 +3,33 @@
 ## Campaign Info
 - **Template:** `base_block_promo_sale_0520`（促销 BLOCK，深底）
 - **Type:** Promotional / Peak Day
-- **Send Date:** 2026-07-04 (Friday — 正日)
+- **Send Date:** 2026-07-04 (Saturday — 正日)
 - **Send Time:** 9:00 AM ET（SMS 正日 alert 11 AM 跟进）
 - **Segment:** 全列表（标准）
-- **Product Focus:** B — Deepcare+ Micro-dart Eye Patch（招牌爆品，up to 45%；主打 Q2 新增 retinol）
+- **Product Focus:** B — Deepcare+ Micro-dart Eye Patch（招牌爆品，up to 50%；主打 Q2 新增 retinol）
 - **Goal:** 正日全站营收高峰；招牌 micro-dart 最低价做 hero（去年首封王者 offer 移到正日）。
 - **Klaviyo Campaign Name:** `[DEP]_20260704_July4th_HeroDay`
 
 ---
 
 ## Subject Lines
-1. Happy 4th — our micro-dart hero is up to 45% off 🎆
-2. The 4th is here: up to 45% off the patch everyone wants.
-3. Peak day: micro-darts up to 45% off + 40% sitewide.
+1. Happy 4th — our micro-dart hero is up to 50% off 🎆
+2. The 4th is here: up to 50% off the patch everyone wants.
+3. Peak day: micro-darts up to 50% off + 40% sitewide.
 
 ## Preview Text
-Our best-selling micro-dart eye patch, up to 45% off — the lowest of the event. Plus 40% sitewide with JULY4TH10.
+Our best-selling micro-dart eye patch, up to 50% off — the lowest of the event. Plus 40% sitewide with JULY4TH10.
 
 ---
 
 ## Hero Section
-**Hero Image 方向：** Micro-dart eye patch tin as hero, on dark reflective navy surface with restrained gold firework bokeh; one patch shown close enough to read the dart texture; red/white/blue "UP TO 45% OFF" star badge. Premium, peak-day energy.
+**Hero Image 方向：** Micro-dart eye patch tin as hero, on dark reflective navy surface with restrained gold firework bokeh; one patch shown close enough to read the dart texture; red/white/blue "UP TO 50% OFF" star badge. Premium, peak-day energy.
 
 **Headline：**
 Happy 4th. The Sale Peaks Today.
 
 **Subheadline：**
-Line 1: Micro-darts up to 45% off.
+Line 1: Micro-darts up to 50% off.
 Line 2: + 40% sitewide, JULY4TH10.
 
 **Hero CTA：**
@@ -45,7 +45,7 @@ The patch, newly upgraded.
 **Body Copy（2 段）：**
 Paragraph 1: Our micro-dart eye patch just got an upgrade — now pairing retinol with argireline across 1,000+ self-dissolving darts that work below the surface.
 
-Paragraph 2: Today it's up to 45% off — the lowest price of the event. Add JULY4TH10 for an extra 10% on everything else.
+Paragraph 2: Today it's up to 50% off — the lowest price of the event. Add JULY4TH10 for an extra 10% on everything else.
 
 ---
 
@@ -53,10 +53,10 @@ Paragraph 2: Today it's up to 45% off — the lowest price of the event. Add JUL
 **Section Title：** Peak-Day Picks
 
 ### Product 1
-- **横条标签：** UP TO 45% OFF · LOWEST OF THE EVENT
+- **横条标签：** UP TO 50% OFF · LOWEST OF THE EVENT
 - **产品名：** Deepcare+ Micro-dart Eye Patch
 - **描述：** 1,000+ self-dissolving darts of retinol + argireline to soften the look of under-eye lines. Newly upgraded.
-- **价格：** up to **45% OFF**
+- **价格：** up to **50% OFF**
 - **CTA：** SHOP NOW
 - **链接：** `https://depology.com/discount/JULY4TH10?redirect=/products/deepcare-serum-infused-micro-dart-patches-lp1-t0`
 
@@ -112,4 +112,4 @@ Hero product shot of a round skincare micro-dart patch tin on a dark reflective 
 
 ## 备注
 - **合规：** micro-dart 现含 retinol → disclaimer 必放；用 "soften the look of / below the surface"，不写 injectable/penetrate deep。
-- **链接：** micro-dart 45% 为 sale price，JULY4TH10 叠加规则 ⚠️ 待 Leon Shopify 确认；Trio $89 走标准链接不叠。
+- **链接：** micro-dart 50% 为 sale price，JULY4TH10 叠加规则 ⚠️ 待 Leon Shopify 确认；Trio $89 走标准链接不叠。

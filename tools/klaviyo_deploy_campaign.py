@@ -50,14 +50,26 @@ STD_EXCLUDED = ['RNUDwR', 'RsM7QF', 'TCpjZJ', 'TWCwGW', 'U9crDJ',
                 'UzTR6W', 'VFjbHB', 'XVbFC5', 'XWFhWE']
 
 
-def create_campaign(name, subject, preview_text, list_id=None, send_time=None,
+def create_campaign(name, subject, preview_text, list_id=None, included_ids=None,
+                    excluded_ids=None, send_time=None,
                     from_email='support@depology.com', from_label='Dēpology'):
     send_strategy = {'method': 'immediate'} if not send_time else {
         'method': 'static',
         'options_static': {'datetime': send_time, 'is_local': False}
     }
-    included = [list_id] if list_id else STD_INCLUDED
-    excluded = [] if list_id else STD_EXCLUDED
+    if included_ids:
+        included = included_ids
+    elif list_id:
+        included = [list_id]
+    else:
+        included = STD_INCLUDED
+
+    if excluded_ids is not None:
+        excluded = excluded_ids
+    elif included_ids or list_id:
+        excluded = STD_EXCLUDED
+    else:
+        excluded = STD_EXCLUDED
     payload = {
         'data': {
             'type': 'campaign',
@@ -119,7 +131,11 @@ def main():
     p.add_argument('--subject', required=True, help='Email subject line')
     p.add_argument('--preview', required=True, help='Preview text')
     p.add_argument('--list-id', default=None,
-                   help='Single audience list ID override. Default: standard 4 included + 9 excluded segments per CLAUDE.md')
+                   help='Single audience list ID override. Uses standard excluded segments unless --excluded-ids is set.')
+    p.add_argument('--included-ids', default=None,
+                   help='Comma-separated included list/segment IDs. Overrides --list-id.')
+    p.add_argument('--excluded-ids', default=None,
+                   help='Comma-separated excluded list/segment IDs. Use empty string for no exclusions. Default: standard excluded segments.')
     p.add_argument('--send-time', help='ISO send time, e.g. 2026-04-05T10:00:00.000Z')
     args = p.parse_args()
 
@@ -127,7 +143,20 @@ def main():
     print(f'HTML loaded: {len(html)} chars')
 
     tid = create_template(f'{args.name}_template', html)
-    cid, mid = create_campaign(args.name, args.subject, args.preview, args.list_id, args.send_time)
+    included_ids = [x.strip() for x in args.included_ids.split(',') if x.strip()] if args.included_ids else None
+    excluded_ids = None
+    if args.excluded_ids is not None:
+        excluded_ids = [x.strip() for x in args.excluded_ids.split(',') if x.strip()]
+
+    cid, mid = create_campaign(
+        args.name,
+        args.subject,
+        args.preview,
+        list_id=args.list_id,
+        included_ids=included_ids,
+        excluded_ids=excluded_ids,
+        send_time=args.send_time,
+    )
     assign_template(mid, tid)
 
     print(f'\nDone!')

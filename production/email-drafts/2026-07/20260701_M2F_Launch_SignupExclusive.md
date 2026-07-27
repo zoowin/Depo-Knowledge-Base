@@ -7,7 +7,7 @@
 - **Template:** 自定义(基于 0408 白底教育型,header/footer 保留,中段重设计)→ HTML: `production/html-output/2026-07/20260701_M2F_Launch_SignupExclusive.html`
 - **Type:** Promotional — New Product Launch（Sign-up Exclusive / VIP，非公开）
 - **Audience:** early-access sign-up 名单（220+，等待一个月的暖客）
-- **Send Date:** **2026-07-01 (Tuesday) 9:00 AM ET** — 与 Kick Off 同日，专属人群
+- **Send Date:** **2026-07-01 (Wednesday) 9:00 AM ET** — 与 Kick Off 同日，专属人群
 - **Segment:** **仅 `SCGYrw`**（"M2F-early access"，220+）。⚠️ Kick Off（全列表）当天必须**排除 `SCGYrw`**，避免重复轰炸
 - **Stock:** 240 盒 / sign-up 220+ / **限购 1 盒/人** / 留 ~20 buffer → 真稀缺，可正当用
 - **Product Focus:** Line B — Deepcare+® Retinol-Infused Forehead Micro Dart Patches (NEW)
@@ -65,9 +65,11 @@ You're on the early-access list, so you see it first — the July 4th Sale is li
 - **描述:** Softens the look of set-in forehead lines over time. Worn just 2–3 nights a week. 4 patches per box. Made in a small first batch, reserved for our early-access list — one per person, while it lasts.
 - **CTA:** CLAIM YOURS · $36 → https://depology.com/products/deepcare-retinol-forehead-micro-dart-patches
 
-### Make It A Routine（搭配 2 卡）
-- **The Eye Companion** — Deepcare+® Retinol Micro Dart Eye Patches → https://depology.com/products/deepcare-serum-infused-micro-dart-patches-lp1-t0
-- **The Daytime Layer** — Peptide Complex 10% Argireline™ Serum → https://depology.com/products/argireline-anti-wrinkle-serum
+### The Rest of the July 4th Sale（替代原 routine 2 卡 — 不放单品直链）
+> ⚠️ sign-up 用户**只收这一封**（Kick Off 当天排除 SCGYrw），所以这里不导向单品页，而是把他们引向**全场 sale**，否则他们错过整个活动。
+- **Block Title:** You're on the list — the whole sale is open to you.
+- **Copy:** Your early-access patch is just the start. The rest of our July 4th Sale is live too — best-sellers in 3-for-2, micro-darts up to 46% off with code JULY4TH10.
+- **CTA（唯一，去 sale page）:** SHOP THE JULY 4TH SALE → `https://depology.com/discount/JULY4TH10?redirect=/pages/july4th-sale-2026`
 
 ### Closing
 - **金句:** The technology you trust, somewhere it's never been.

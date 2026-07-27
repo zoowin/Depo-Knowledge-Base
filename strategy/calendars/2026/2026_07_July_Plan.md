@@ -3,7 +3,7 @@
 **Theme:** July 4th Sale（🟠 Middle）+ Forehead Patch 名单专属 Launch + 下半月 Evergreen 回归
 **Core Events:** **July 4th Sale 7/1–7/7**（全站 40% + `JULY4TH10` 额外 10%，叠加 ≈46%）· **Forehead Patch (M2F) 名单专属上线 7/1**
 **Strategy Backbone:**
-7 月分两段。**上半月（7/1–7/7）= Q3 第一个 🟠 Middle 促销**，承接 5 月 Memorial 验证过的 sale playbook，但折扣力度低于 Memorial（保毛利、避免紧接大促的廉价感），无双发、每天最多 1 封。**Forehead Retinol Micro-dart Patch 的正式上线嵌在 7/1**——因库存仅 240 盒、早鸟名单 220+ 人，**不做 public sale**，只对 `SCGYrw` 名单发一封专属 launch，兑现 6/14 teaser 承诺。**下半月（7/8–7/31）= 转回 Evergreen**，大促后先留白让 list 喘息，再以教育/品牌叙事养回打开习惯，产品线转向 A/C/H/E，让上半月饱和的 B 线休息。全月 **12 封 emails + 3 SMS**。
+7 月分两段。**上半月（7/1–7/7）= Q3 第一个 🟠 Middle 促销**，承接 5 月 Memorial 验证过的 sale playbook，但折扣力度低于 Memorial（保毛利、避免紧接大促的廉价感），无双发、每天最多 1 封。**Forehead Retinol Micro-dart Patch 的正式上线嵌在 7/1**——因库存仅 240 盒、早鸟名单 220+ 人，**不做 public sale**，只对 `SCGYrw` 名单发一封专属 launch，兑现 6/14 teaser 承诺。**下半月（7/8–7/31）= 转回 Trend-Led Evergreen**，大促后先留白让 list 喘息，再以趋势入口 + 产品承接养回打开习惯，并在 7/31 加一封 eye patch 收尾补 revenue。全月 **13 封 emails + 3 SMS**。
 
 **🆕 与 6 月相比的关键差异：**
 - ✅ 重启促销（6 月 brand rest，7 月 July 4th sale）+ 重启 SMS（6 月暂停，7 月 3 条：7/1 launch / 7/4 正日 / 7/7 last chance）
@@ -33,28 +33,29 @@
 
 | # | Date | Day | Time | Type | Topic / Subject Idea | Hero Products / Offer | 受众 | DNA Tags | SMS |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ① | **Jul 1** | Tue | 9 AM | 🔥 Promo Kick Off | **July 4th Sale is Live**<br>Subject: The 4th starts now — 40% off + an extra 10% 🎆 | 双精华 **3 for 2** + 全站 40% + `JULY4TH10` | 全列表 **− `SCGYrw`** | 🔥 Sale Mechanics + 🧴 Routine | ✅ launch |
-| ★ | **Jul 1** | Tue | 9 AM | 🩹 **NEW Product Launch（名单专属）** | **M2F Forehead Patch Launch**<br>Subject: You're first 🎆 The July 4th Sale is live — and your patch is here | **Deepcare+® Retinol Forehead Micro-dart Patch $36**（原 $52，限购 1） | **仅 `SCGYrw`**（220+） | 🩹 Tech Innovation + 👵 Mature Skin | — |
-| — | Jul 2 | Wed | — | *留白（降疲劳）* | — | — | — | — | — |
-| ② | **Jul 3** | Thu | 9 AM | 🔥 Promo Bundle | **Activation Trio 主推**<br>Subject: The routine that started it all — Trio $89 + a free M3K | Peptide **Activation Trio $89** + 赠 M3K（前 500 份） | 全列表 | 🧴 Routine Architecture + 📊 Real Results | — |
-| ③ | **Jul 4** | Fri 正日 | 9 AM | 🔥 Promo Hero Day | **Hero Day — Micro-dart 最低价**<br>Subject: Happy 4th — our micro-dart hero is up to 45% off 🎆 | 眼贴 **up to 45%** + Night Under Eye Patch 30–40% | 全列表 | 🩹 Tech + 🔥 Sale Mechanics | ✅ 正日 |
-| ④ | **Jul 5** | Sat | 9 AM | 🔥 Promo Cream 线 | **Cream 线深化**<br>Subject: The creams that finish the routine — 30–40% off | Matriplex (A) + Eye Cream (B) + Retinol Body Lotion (C) **30–40%** | 全列表 | 🧴 Routine + 👵 Mature Skin | — |
-| ⑤ | **Jul 7** | Mon | 9 AM | 🔥 Promo Last Call | **Last Call — 24h 倒计时**<br>Subject: Last call: the July 4th Sale ends tonight ⏳ | Best-of 合集 + 全站 40% + `JULY4TH10` | 开未购优先 + 全列表 | 🔥 Sale Mechanics | ✅ last chance |
+| ① | **Jul 1** | Wed | 9 AM | 🔥 Promo Kick Off | **July 4th Sale is Live**<br>Subject: The 4th starts now — 40% off + an extra 10% 🎆 | 双精华 **3 for 2** + 全站 40% + `JULY4TH10` | 全列表 **− `SCGYrw`** | 🔥 Sale Mechanics + 🧴 Routine | ✅ launch |
+| ★ | **Jul 1** | Wed | 9 AM | 🩹 **NEW Product Launch（名单专属）** | **M2F Forehead Patch Launch**<br>Subject: You're first 🎆 The July 4th Sale is live — and your patch is here | **Deepcare+® Retinol Forehead Micro-dart Patch $36**（原 $52，限购 1） | **仅 `SCGYrw`**（220+） | 🩹 Tech Innovation + 👵 Mature Skin | — |
+| — | Jul 2 | Thu | — | *留白（降疲劳）* | — | — | — | — | — |
+| ② | **Jul 3** | Fri | 9 AM | 🔥 Promo Bundle | **Activation Trio 主推**<br>Subject: The routine that started it all — Trio $89 + a free M3K | Peptide **Activation Trio $89** + 赠 M3K（前 500 份） | 全列表 | 🧴 Routine Architecture + 📊 Real Results | — |
+| ③ | **Jul 4** | Sat 正日 | 9 AM | 🔥 Promo Hero Day | **Hero Day — Micro-dart 最低价**<br>Subject: Happy 4th — our micro-dart hero is up to 45% off 🎆 | 眼贴 **up to 45%** + Night Under Eye Patch 30–40% | 全列表 | 🩹 Tech + 🔥 Sale Mechanics | ✅ 正日 |
+| ④ | **Jul 5** | Sun | 9 AM | 🔥 Promo Cream 线 | **Cream 线深化**<br>Subject: The creams that finish the routine — 30–40% off | Matriplex (A) + Eye Cream (B) + Retinol Body Lotion (C) **30–40%** | 全列表 | 🧴 Routine + 👵 Mature Skin | — |
+| ⑤ | **Jul 7** | Tue | 9 AM | 🔥 Promo Last Call | **Last Call — 24h 倒计时**<br>Subject: Last call: the July 4th Sale ends tonight ⏳ | Best-of 合集 + 全站 40% + `JULY4TH10` | 开未购优先 + 全列表 | 🔥 Sale Mechanics | ✅ last chance |
 
-> 7/6（周日）跳过。M2F **不叠 `JULY4TH10`**（$36 已是早鸟专属上新价）；产品页 unlisted、不进活动页，仅专属邮件直链触达。Kick Off 当天**必须排除 `SCGYrw`**，避免 7/1 重复轰炸。
+> 7/6（Mon）跳过。M2F **不叠 `JULY4TH10`**（$36 已是早鸟专属上新价）；产品页 unlisted、不进活动页，仅专属邮件直链触达。Kick Off 当天**必须排除 `SCGYrw`**，避免 7/1 重复轰炸。
 
-### 下半月 — Evergreen 回归（7/8–7/31，6 封）
+### 下半月 — Trend-Led Evergreen 回归（7/8–7/31，7 封）
 
 | # | Date | Day | Time | Type | Topic / Subject Idea | Hero Products | DNA Tags | Hook | Goal |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ⑥ | **Jul 11** | Fri | 9 AM | 🟢 Educational | **Mature Skin: A Decade-by-Decade Reality**<br>Subject: What your skin actually needs at 45, 55, 65. | M3K + Matriplex (A) + Triple Lipid + Q10 RICH (H) | 👵 Mature Skin Truth + 🧴 Routine + 🔬 Science | Authority | 大促后软着陆 — 0 促销纯教育；现成 draft（6 月挪来）；0 B 线降疲劳 |
-| ⑦ | **Jul 15** | Tue | 9 AM | 🟢 Educational | **Retinol vs Retinal — What's the Difference?**<br>Subject: Retinol or retinal? The difference matters more than you think. | Retinol Body Lotion (C) + Forehead/Eye Micro-dart (concept, E/B 轻带) | 🔬 Science Made Simple + 👵 Mature Skin | Curiosity | retinol 季教育（呼应 7/1 forehead retinol 上线）；C 线承接 |
-| ⑧ | **Jul 18** | Fri | 9 AM | 🟡 Lifestyle/Seasonal | **Retinol in Summer — Yes, You Can**<br>Subject: Can you use retinol in July? (Yes — here's how.) | Retinol Body Lotion (C) + SPF habit + Matriplex (A) | 🌱 Lifestyle + 🔬 Science | Scenario | 盛夏 retinol + 防晒场景（retinol disclaimer 季）；季节连接 |
-| ⑨ | **Jul 22** | Tue | 9 AM | 🟢 Educational / 实用 | **The Right Order to Layer Your Routine**<br>Subject: You're using the right products — in the wrong order. | Matriplex (A) + MPS (B 轻) + Triple Lipid + Q10 (H) | 🧴 Routine Architecture + 🔬 Science | Utility | 全新实用工具型；跨线 routine；B 线轻带回归 |
-| ⑩ | **Jul 25** | Fri | 9 AM | 💗 Brand / Bundle Origin | **Why We Made the Anti-Aging Trio**<br>Subject: We built this because one product was never enough. | Anti-Aging Trio (B+A) — 全篇 hero | 🌟 Brand Manifesto + 🧴 Routine | Promise | 现成 draft（6 月挪来）；brand equity + bundle 转化；与 7/3 不同 bundle/角度 |
-| ⑪ | **Jul 29** | Tue | 9 AM | 🟢 Educational | **Why Everyone's Obsessed with Barrier Repair**<br>Subject: The skincare step you're probably skipping. | Triple Lipid + Q10 RICH (H) + Opuntia Balm (F) | 🔬 Science + 🧴 Routine Architecture | Curiosity | H 线首次专题；夏季屏障；F 线 cross-sell 收尾 |
+| ⑥ | **Jul 10** | Fri | 9 AM | 🟢 Trend / Mature Skin | **Mature Skin: A Decade-by-Decade Reality**<br>Subject: Your skin at 55 isn't your skin at 45. | M3K + Matriplex (A) + Triple Lipid + Q10 RICH (H) | 👵 Mature Skin Truth + 🧴 Routine + 🔬 Science | Authority | 趋势入口：age-specific routine / skin longevity；现成 draft（6 月挪来）重包趋势开头；0 B 线降疲劳 |
+| ⑦ | **Jul 14** | Tue | 9 AM | 🟡 Trend / Bodycare | **Bodycare Is Face-Grade Now**<br>Subject: Your body skin wants actives, too. | Retinol Radiance Body Lotion (C) | 🌱 Lifestyle + 🔬 Science + 👵 Mature Skin | Trend | 趋势入口：bodycare 升级为 face-grade skincare；C 线回归，避开单纯成分课 |
+| ⑧ | **Jul 17** | Fri | 9 AM | 🟢 Seasonal / Retinol | **Retinol in Summer — Yes, You Can**<br>Subject: Can you use retinol in July? Yes — differently. | Retinol Body Lotion (C) + Triple Lipid + Q10 RICH (H) | 🌱 Lifestyle + 🔬 Science + 🧴 Routine | Scenario | 趋势入口：summer retinol / irritation concern；强调夜间、频率、防晒、屏障支持 |
+| ⑨ | **Jul 21** | Tue | 9 AM | 🟢 Trend / Routine | **The Right Order Routine**<br>Subject: The new anti-aging routine is shorter. | Matrixyl (A) + MPS (B 轻) + Triple Lipid + Q10 (H) | 🧴 Routine Architecture + 🔬 Science | Utility | 趋势入口：skin longevity + routine simplification；用顺序感替代 12-step fatigue |
+| ⑩ | **Jul 24** | Fri | 9 AM | 💗 Brand / Bundle Origin | **Why We Made the Anti-Aging Trio**<br>Subject: One hero product was never the point. | Anti-Aging Trio (B+A) — 全篇 hero | 🌟 Brand Manifesto + 🧴 Routine | Promise | 趋势入口：anti-aging fatigue / one-product promises losing trust；现成 draft（6 月挪来）重包趋势开头 |
+| ⑪ | **Jul 28** | Tue | 9 AM | 🟢 Trend / Barrier | **Barrier Care Is Lipid Science**<br>Subject: Barrier care isn't slugging anymore. | Triple Lipid + Q10 RICH (H) + Opuntia Balm (F) | 🔬 Science + 🧴 Routine Architecture | Curiosity | 趋势入口：barrier support / over-exfoliation backlash；H 线首次专题；F 线 cross-sell |
+| ⑫ | **Jul 31** | Fri | 9 AM | 🩹 Trend / Eye Focus | **Your Eyes Are Telling on Your Routine**<br>Subject: Tired eyes need more than eye cream. | Deepcare+ Micro-dart Eye Patch (B) + Eye Cream / Night Under Eye Patch | 🩹 Tech + 👵 Mature Skin + 🌱 Lifestyle | Scenario | 趋势入口：tired eyes / screen fatigue / sleep routine；7 月收尾补 eye patch revenue，非促销语境 |
 
-> 下半月节奏放缓（7/8–7/10 留白让 list 从大促恢复）。⑦⑧⑨⑪ 为**新话题需起草**；⑥⑩ 已有现成 draft（`202607XX_Mature_Skin_Decade_Reality.md` / `202607XX_Why_We_Made_Anti_Aging_Trio.md`），定稿后把文件名 `XX` 改为实际日期（11 / 25）。
+> 下半月节奏放缓（7/8–7/9 留白让 list 从大促恢复）。⑥⑩ 为 6 月未发主题，已改为 7/10 / 7/24；⑦⑧⑨⑪⑫ 为新写 trend-led evergreen。
 
 ---
 
@@ -66,23 +67,24 @@
 |---|---|---|---|
 | July 4th Sale (7/1–7/7) | 5/20–25 Memorial | ~40 天 | ✅ 不同活动 + 折扣力度/视觉差异化（40%+10% 深蓝 vs 50%+10% 白底红蓝） |
 | M2F Forehead Launch (7/1) | 6/14 Early Access teaser | 17 天 | ✅ teaser → 兑现 launch，漏斗同一叙事的收口 |
-| Mature Skin Decade (7/11) | 2/16 Static vs Dynamic | 145 天 | ✅ Decade Reality 全新 Mature Skin 专题（6 月未发，挪来） |
-| Retinol vs Retinal (7/15) | — | — | ✅ 全新成分对比角度 |
-| Retinol in Summer (7/18) | 6/1 Summer-Ready | 47 天 | ✅ retinol+sun specific ≠ 通用 summer routine recalibrate |
-| Right Order to Layer (7/22) | — | — | ✅ 全新 routine 实用工具型 |
-| Why We Made Anti-Aging Trio (7/25) | 6/26 Activation Trio 6-Week | 29 天 | ⚠️ 不同 bundle（Anti-Aging Trio B+A ≠ Activation Trio）+ 不同角度（origin story vs 6-week results） |
-| Barrier Repair (7/29) | 6/16 Korean Derm | 43 天 | ✅ Korean derm 碰过 barrier 但非专题；7/29 = H 线首次专题 |
+| Mature Skin Decade (7/10) | 2/16 Static vs Dynamic | 144 天 | ✅ Decade Reality 全新 Mature Skin 专题（6 月未发，挪来） |
+| Face-Grade Bodycare (7/14) | 2/22 Bodyification | 142 天 | ✅ 全新 bodycare trend，C 线回归 |
+| Retinol in Summer (7/17) | 6/1 Summer-Ready | 46 天 | ✅ retinol+sun specific ≠ 通用 summer routine recalibrate |
+| Right Order Routine (7/21) | — | — | ✅ 全新 routine simplification / skin longevity 实用工具型 |
+| Why We Made Anti-Aging Trio (7/24) | 6/26 Activation Trio 6-Week | 28 天 | ⚠️ 不同 bundle（Anti-Aging Trio B+A ≠ Activation Trio）+ 不同角度（origin story vs 6-week results） |
+| Barrier Care (7/28) | 6/16 Korean Derm | 42 天 | ✅ Korean derm 碰过 barrier 但非专题；7/28 = H 线首次专题 |
+| Tired Eyes / Eye Patch (7/31) | 7/4 Micro-dart sale | 27 天 | ⚠️ 同产品但完全不同语境（sale price vs screen/sleep fatigue education）；月末补 revenue |
 
-**产品线分布（全月 12 封）：**
+**产品线分布（全月 13 封）：**
 
 | 产品线 | 出现次数 | 占比 | 状态 |
 |---|---|---|---|
-| **B**（Argireline / 眼贴 / Forehead / Trio）| 6 / 12 | 50% | 🟢 上半月 sale 饱和，下半月主动降至轻带 |
-| **A**（Matrixyl / Matriplex）| 6 / 12 | 50% | 🟢 静态纹基础贯穿 |
-| **C**（Retinol Body Lotion）| 3 / 12 | 25% | 🟢 下半月 retinol 季承接（6 月全月休息后回归）|
-| **H**（Triple Lipid + Q10）| 4 / 12 | 33% | 🟢 屏障 narrative 延续 + 7/29 专题 |
-| **E**（Forehead Micro-dart / MOP）| 2 / 12 | 17% | 🟢 7/1 launch hero + 概念带入 |
-| F（Opuntia）| 2 / 12 | 17% | 🟡 routine 收尾 cross-sell |
+| **B**（Argireline / 眼贴 / Forehead / Trio）| 7 / 13 | 54% | 🟢 上半月 sale 饱和，下半月以 7/31 eye education 拉回 revenue |
+| **A**（Matrixyl / Matriplex）| 6 / 13 | 46% | 🟢 静态纹基础贯穿 |
+| **C**（Retinol Body Lotion）| 3 / 13 | 23% | 🟢 下半月 retinol/bodycare trend 承接（6 月全月休息后回归）|
+| **H**（Triple Lipid + Q10）| 5 / 13 | 38% | 🟢 屏障 narrative 延续 + 7/28 专题 |
+| **E**（Forehead Micro-dart / MOP）| 2 / 13 | 15% | 🟢 7/1 launch hero + 概念带入 |
+| F（Opuntia）| 2 / 13 | 15% | 🟡 routine 收尾 cross-sell |
 | G（Sticks）| 0 | 0% | 🔴 售罄退场 |
 
 **结论：** 上半月 B 线/眼贴 sale 饱和 → 下半月 B 降至 routine 轻带，A/C/H/E 承接，list 不被单一产品线轰炸。
@@ -94,10 +96,10 @@
 ### Email
 - **Standard Send Time:** 9:00 AM ET
 - **Frequency:**
-  - Jul 1–7（sale）：6 封 / 7 天（高强度大促节奏，跳周日）
-  - Jul 8–10：留白（大促后 list 恢复）
-  - Jul 11–31：~2 emails/week（Evergreen 稳定节奏，周二 / 周五为主，避周日）
-- **Email 总数：** 12 封
+  - Jul 1–7（sale）：6 封 / 7 天（高强度大促节奏，7/6 留白）
+  - Jul 8–9：留白（大促后 list 恢复）
+  - Jul 10–31：~2 emails/week（Evergreen 稳定节奏，周二 / 周五为主，避周日）
+- **Email 总数：** 13 封
 
 ### SMS（重启 — per campaign-log「7/4 必须重点用 SMS」，Memorial SMS CR 16%）
 - **7/1 launch alert · 7/4 正日 · 7/7 last chance**（3 条，草稿见 `sms-drafts/2026-07/`）
@@ -120,13 +122,14 @@
 
 | Hook Type | July 邮件 | 比例 |
 |---|---|---|
-| Sale Mechanics / Urgency | 7/1 Kick Off, 7/4 Hero Day, 7/7 Last Call | 3/12 |
-| Identity / Exclusive | ★ 7/1 M2F（"You're first"） | 1/12 |
-| Authority | 7/3 Activation Trio, 7/11 Decade Reality | 2/12 |
-| Curiosity | 7/15 Retinol vs Retinal, 7/29 Barrier Repair | 2/12 |
-| Scenario | 7/18 Retinol in Summer | 1/12 |
-| Utility | 7/22 Right Order to Layer | 1/12 |
-| Promise | 7/25 Why We Made Anti-Aging Trio | 1/12 |
+| Sale Mechanics / Urgency | 7/1 Kick Off, 7/4 Hero Day, 7/7 Last Call | 3/13 |
+| Identity / Exclusive | ★ 7/1 M2F（"You're first"） | 1/13 |
+| Authority | 7/3 Activation Trio, 7/10 Decade Reality | 2/13 |
+| Trend | 7/14 Face-Grade Bodycare | 1/13 |
+| Curiosity | 7/28 Barrier Care | 1/13 |
+| Scenario | 7/17 Retinol in Summer, 7/31 Tired Eyes | 2/13 |
+| Utility | 7/21 Right Order Routine | 1/13 |
+| Promise | 7/24 Why We Made Anti-Aging Trio | 1/13 |
 
 > Subject line 同时提供带 / 不带 emoji 版本作为 A/B test 变量（sale 封建议带 🎆 / ⏳）。
 
@@ -137,21 +140,22 @@
 ### Creative Direction
 - **July 4th sale 全系列：** 深蓝 / 烟花夜空 + 克制金色 bokeh + 红白蓝星章（区别于 Memorial 白底红蓝，避免 6 周内撞脸）
 - **★ M2F Forehead Launch (7/1)：** Hero 改走 July 4th 深蓝主题（与 sale 视觉统一），产品清晰 + "EARLY ACCESS" 星章；旧米色实验室图弃用（详见 draft Hero Image Brief）
-- **Decade Reality (7/11)：** editorial 长篇，decade-by-decade 排版，沉静不煽情
-- **Retinol vs Retinal (7/15)：** 科学对比图 / 分子结构 editorial 但 readable
-- **Retinol in Summer (7/18)：** 夏季阳光 + 防晒场景，明亮轻盈
-- **Barrier Repair (7/29)：** 屏障 vs 外界刺激的科学对比视觉
+- **Decade Reality (7/10)：** editorial 长篇，decade-by-decade 排版，沉静不煽情
+- **Face-Grade Bodycare (7/14)：** bodycare shelf 升级成 face-care level 的视觉，不做年轻化 beach body
+- **Retinol in Summer (7/17)：** 夏季阳光 + 防晒场景，明亮轻盈
+- **Barrier Care (7/28)：** 屏障 vs 外界刺激的科学对比视觉
+- **Tired Eyes (7/31)：** 夜间床头/屏幕疲劳后眼周护理场景，micro-dart patch 清晰入镜
 
 ### Compliance Quick Reference（7 月触碰话题）
-- **M2F / 任何 retinol 封（7/1, 7/15, 7/18, 7/5 body lotion）：** retinol disclaimer 必放（防晒 / 适应期 / 敏感肌频率）；穿透声称 → "into the skin's surface layers"；不写 "below the surface where creams cannot reach"
-- **Decade Reality (7/11)：** 年龄数字不搭医疗 claim；用 "tends to shift" / "the way skin behaves changes"，不用 "reverses aging" / "turns back the clock"
+- **M2F / 任何 retinol 封（7/1, 7/14, 7/17, 7/5 body lotion）：** retinol disclaimer 必放（防晒 / 适应期 / 敏感肌频率）；穿透声称 → "into the skin's surface layers"；不写 "below the surface where creams cannot reach"
+- **Decade Reality (7/10)：** 年龄数字不搭医疗 claim；用 "tends to shift" / "the way skin behaves changes"，不用 "reverses aging" / "turns back the clock"
 - **Micro-dart (7/1, 7/4)：** 不做注射对标；"non-invasive / no downtime" OK，"better than Botox / injectable results" 禁
 
 ### Template 分配建议
 - **促销 BLOCK（`base_block_promo_sale_0520`，深底）：** 7/1 Kick Off, 7/3, 7/4, 7/5, 7/7 — 5 封 sale
 - **M2F 自定义（黑金 + 倒三角带，基于 0408 重设计）：** ★ 7/1 Forehead Launch
-- **教育 BLOCK（`base_block_education_cards_0624`，白底）：** 7/11, 7/15, 7/18, 7/22, 7/29 — 5 封 Evergreen
-- **Brand Voice 自定义（typography + bundle origin）：** 7/25 Anti-Aging Trio
+- **教育 BLOCK（`base_block_education_cards_0624`，白底）：** 7/10, 7/14, 7/17, 7/21, 7/28, 7/31 — 6 封 Evergreen
+- **Brand Voice 自定义（typography + bundle origin）：** 7/24 Anti-Aging Trio
 
 ---
 
@@ -163,8 +167,8 @@
 |---|---|---|
 | **July 4th Sale（7/1, 7/3, 7/4, 7/5, 7/7 + 3 SMS）** | 5 + 3 SMS | ⚠️ 待回填（参考 Memorial $101k × July 4th 折扣力度/规模折算 × 0.5 baseline）|
 | **★ M2F Forehead Launch（7/1，名单专属）** | 1 | 库存约束封顶 240 盒 × $36 ≈ **$8,640 上限**（名单转化，非营收 KPI 而是兑现 + 口碑）|
-| Evergreen 教育（7/11, 7/15, 7/18, 7/22, 7/29）| 5 | $20,000 – $25,000（$4–5k/封，参考 6 月教育封）|
-| Brand / Bundle（7/25 Anti-Aging Trio）| 1 | $3,000 – $5,000（bundle origin framing，vs 纯 manifesto $0.5–1.5k）|
+| Evergreen 教育（7/10, 7/14, 7/17, 7/21, 7/28, 7/31）| 6 | $25,000 – $32,000（含 7/31 eye patch revenue 补强）|
+| Brand / Bundle（7/24 Anti-Aging Trio）| 1 | $3,000 – $5,000（bundle origin framing，vs 纯 manifesto $0.5–1.5k）|
 
 ---
 
@@ -185,9 +189,9 @@
 - [ ] Campaign 命名 `[DEP]_20260701_M2F_Launch_SignupExclusive`，**Segment 仅 `SCGYrw`**
 
 ### 下半月 Evergreen
-- [ ] ⑦⑧⑨⑪ 4 封新话题起草（Phase 1）
-- [ ] ⑥⑩ 现成 draft 定稿 + 文件名改实际日期（7/11 / 7/25）
-- [ ] retinol 封（7/15, 7/18, 7/5）disclaimer 校对
+- [ ] ⑦⑧⑨⑪⑫ 5 封新话题起草（Phase 1）
+- [ ] ⑥⑩ 现成 draft 定稿 + 文件名改实际日期（7/10 / 7/24）
+- [ ] retinol 封（7/14, 7/17, 7/5）disclaimer 校对
 
 ---
 

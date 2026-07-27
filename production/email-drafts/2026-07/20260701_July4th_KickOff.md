@@ -3,7 +3,7 @@
 ## Campaign Info
 - **Template:** `base_block_promo_sale_0520`（促销 BLOCK，深底）
 - **Type:** Promotional / Sale Launch — July 4th Day 1（单发，无 resend）
-- **Send Date:** 2026-07-01 (Tuesday)
+- **Send Date:** 2026-07-01 (Wednesday)
 - **Send Time:** 9:00 AM ET（Smart Sending ON；SMS launch alert 11 AM 跟进）
 - **Segment:** 全列表（标准 Included；Excluded 走标准 9 段 + 近期已购 + **`SCGYrw` M2F early-access**，避免与同日 M2F 专属 launch 重复轰炸）
 - **Product Focus:** 双精华 3 for 2（A Matrixyl® 3000 + B Argireline™）打头 + 全站 40%+JULY4TH10

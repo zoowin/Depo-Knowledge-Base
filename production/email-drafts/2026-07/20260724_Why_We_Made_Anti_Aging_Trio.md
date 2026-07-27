@@ -1,18 +1,19 @@
-# 202607XX_Why_We_Made_Anti_Aging_Trio
+# 20260724_Why_We_Made_Anti_Aging_Trio
 
-> 📅 **已移入 2026-07（日期待定）** — 原 6/22 排期，让位给 5 周年生日信（manifesto 内核已并入生日信，本封主题改为 Anti-Aging Trio 品牌叙事仍完整可用）。排 7 月日历时定具体日期并把文件名 XX 改为实际日期。
+> 📅 **2026-07-24 定稿方向** — 原 6/22 排期，让位给 5 周年生日信；7 月作为 trend-led bundle origin story，用 "anti-aging routine fatigue / one-product promises losing trust" 入口重新包装。
 
 ## Campaign Info
 - **Template:** 自定义 Brand Voice + Bundle Origin Story 布局（typography hero + 3 mechanism cards + bundle hero block）
 - **Type:** Brand Manifesto + Bundle Origin Story
-- **Send Date:** 2026-06-22 (Monday)
+- **Send Date:** 2026-07-24 (Friday)
 - **Send Time:** 9:00 AM ET
 - **Segment:** Full List
 - **Product Focus:** Anti-Aging Trio bundle (B+A) — 全篇 hero — 拆解 3 个 component（Deepcare+® Micro Dart Patches + Matrixyl® 3000 Collagen Serum + Argireline™ MPS Serum）的机制互补逻辑
 - **DNA Tags:** 🌟 Brand Manifesto + 🧴 Routine Architecture
 - **Hook Type:** Promise（"we built this because..."）
-- **Goal:** 把 Brand Manifesto slot 改造为 bundle origin story — 既保留 6/22 brand equity 月度投放定位（品牌思考方式透明化），又通过 Anti-Aging Trio 完整 framing 驱动 $3-5k 转化（vs 原版 $0.5-1.5k）；与 6/26 Activation Trio 6-Week Results 形成"我们怎么做 bundle"narrative thread
-- **Klaviyo Campaign Name:** `[DEP]_20260622_Why_We_Made_Anti_Aging_Trio`
+- **Trend Hook:** Anti-aging routine fatigue — customers are becoming more skeptical of one-product promises and more responsive to mechanism-based routines.
+- **Goal:** 把 Brand Manifesto slot 改造为 bundle origin story — 保留品牌思考方式透明化，同时通过 Anti-Aging Trio 完整 framing 驱动 $3-5k 转化；与 7/21 routine simplification 形成顺接。
+- **Klaviyo Campaign Name:** `[DEP]_20260724_Why_We_Made_Anti_Aging_Trio`
 
 ---
 
@@ -27,15 +28,15 @@
 ## Subject Lines（A/B 测试）
 
 **A 组（Promise / Origin 直白）：**
-1. Why we made the Anti-Aging Trio (and what it's actually for).
-2. Three formulas. One reason. Here's why we made it.
+1. One hero product was never the point.
+2. Why we made the Anti-Aging Trio (and what it's actually for).
 
 **B 组（场景 + curiosity）：**
 3. We could have made a single hero product. We made three.
-4. The decision behind our $99 trio (it wasn't pricing).
+4. The reason this trio exists.
 
 ## Preview Text
-The Anti-Aging Trio isn't three popular products bundled. It's three mechanisms that cover what no single product can. Here's the thinking.
+The Anti-Aging Trio isn't a random bundle. It's three mechanisms built for what no single product can cover alone.
 
 ---
 
@@ -63,7 +64,7 @@ READ THE THINKING
 Three Mechanisms, Not Three Products.
 
 **Body Copy（2 段，~450 字符 — Brand Voice 略宽于 300 默认）：**
-Paragraph 1: When we built the Anti-Aging Trio, the easy version was to pick our three best-selling products and bundle them at a discount. That's how most kits get made. We decided not to. The thinking was simpler and harder: which three mechanisms, used together, cover what no single mature-skin routine can cover alone?
+Paragraph 1: When we built the Anti-Aging Trio, the easy version was to pick our three best-selling products and call it a routine. That's how most kits get made. We decided not to. The thinking was simpler and harder: which three mechanisms, used together, cover what no single mature-skin routine can cover alone?
 
 Paragraph 2: Three answers emerged. Microdart delivery for the zones face creams can't reach. A daily collagen-support serum for the long structural conversation. An expression-line peptide for the fine movement creases that show up before deep wrinkles do. Each does what the others can't. That's the Trio.
 

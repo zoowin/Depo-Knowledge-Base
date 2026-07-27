@@ -3,7 +3,7 @@
 ## Campaign Info
 - **Template:** `base_block_promo_sale_0520`（促销 BLOCK，深底 — 红色倒计时视觉变体）
 - **Type:** Promotional / Last Chance（收尾，单发）
-- **Send Date:** 2026-07-07 (Monday)
+- **Send Date:** 2026-07-07 (Tuesday)
 - **Send Time:** 9:00 AM ET（SMS last-chance alert 下午跟进）
 - **Segment:** 优先 opened-not-purchased（本次活动开过未购）→ 再全列表收尾
 - **Product Focus:** Best-of 合集（micro-dart 45% + 双精华 3f2 + Activation Trio + Matriplex）
