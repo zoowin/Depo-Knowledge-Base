@@ -7,8 +7,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "production" / "html-output" / "2026-08"
-ASSET_PREFIX = "../../assets/2026-08"
-
 HEADER_IMAGE = "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/a91ce3e7-44ab-42dc-a9e6-c3dc74b6f3bf.jpeg"
 FOOTER_LOGO = "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/82cac524-3eb2-4807-a508-af61cee50920.png"
 SOCIAL = {
@@ -52,7 +50,7 @@ CAMPAIGNS = [
         "filename": "20260803_Face_Eye_Peptide_Firming_Duo.html",
         "internal": "Verify bundle inventory and the $79 / $114 display pricing before send.",
         "preview": "Daily eye-area hydration and a nourishing peptide finish for the face—paired for $79.",
-        "hero_image": "20260803_face_eye_duo_hero_v1.png",
+        "hero_image": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/956017c2-a58d-4b5b-878b-7acc9cf2ef72.png",
         "hero_alt": "Face and Eye Peptide Firming Duo",
         "hero_link": "https://www.depology.com/products/face-eye-peptide-firming-duo",
         "headline": "A Considered Pair for Face + Eyes",
@@ -106,7 +104,7 @@ CAMPAIGNS = [
         "filename": "20260805_Forehead_Micro_Dart_Value.html",
         "internal": "Verify the live Forehead Patch price and inventory before send. Recheck the Triple Lipid sale status before retaining its ON SALE badge.",
         "preview": "Four targeted patches with 0.1% retinol and peptides—use one every 2–3 nights for a simple forehead routine.",
-        "hero_image": "20260805_forehead_value_hero_v3.png",
+        "hero_image": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/6df074e5-4930-49b2-8c4f-052336c9a7be.png",
         "hero_alt": "Four Retinol Forehead Micro Dart Patches",
         "hero_link": "https://depology.com/products/deepcare-retinol-forehead-micro-dart-patches",
         "headline": "One zone. Four focused nights.",
@@ -162,7 +160,7 @@ CAMPAIGNS = [
         "filename": "20260807_Cleansing_Balm_18_Value.html",
         "internal": "Leon verified $18 versus $36 on 2026-07-27. Recheck live Shopify price, regular price, and inventory immediately before send. Recheck the Triple Lipid sale status. Remove or update prices and ON SALE badges if they no longer match.",
         "preview": "Remove makeup and sunscreen without the tight after-feel—Opuntia-C™ Balm is currently $18.",
-        "hero_image": "20260807_cleansing_balm_value_hero_v1.png",
+        "hero_image": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/63b261a2-9e8a-403f-8343-cde631ec3b49.png",
         "hero_alt": "Opuntia-C Relief Cleansing Balm",
         "hero_link": "https://depology.com/products/opuntia-c-relief-cleansing-balm",
         "headline": "A Softer Way to Begin",
@@ -214,7 +212,7 @@ CAMPAIGNS = [
         "filename": "20260810_Forehead_High_Intent_Followup.html",
         "internal": "High-intent non-buyers only. Suppress Forehead Patch purchasers before scheduling. Verify live price and inventory. Keep the Forehead Patch as the primary purchase CTA.",
         "preview": "Four patches, about two weeks, one forehead zone: see the schedule, formula, and the alternative formats.",
-        "hero_image": "20260810_forehead_followup_hero_v2.png",
+        "hero_image": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/6df074e5-4930-49b2-8c4f-052336c9a7be.png",
         "hero_alt": "Four-patch Forehead care decision guide",
         "hero_link": "https://depology.com/products/deepcare-retinol-forehead-micro-dart-patches",
         "headline": "Four patches. A clear plan.",
@@ -269,7 +267,7 @@ CAMPAIGNS = [
         "filename": "20260812_Peptide_Serum_Duo_Value.html",
         "internal": "Verify bundle inventory and the $80 / $89 display pricing before send.",
         "preview": "One serum supports all-over hydration; the other focuses on high-movement zones—together for $80.",
-        "hero_image": "20260812_peptide_serum_duo_hero_v1.png",
+        "hero_image": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/1a605125-e17f-4b49-997a-55c1e66c2662.png",
         "hero_alt": "Matrixyl and Argireline Peptide Serum Duo",
         "hero_link": "https://www.depology.com/products/prevent-and-rewind-serum-duo",
         "headline": "Two Peptides. Two Clear Roles.",
@@ -423,7 +421,7 @@ p {{ display:block; margin:0; padding:0; }}
 
 <!-- BLOCK 2: HERO IMAGE -->
 <tr><td align="center" style="padding:0;">
-<a href="{escape(c["hero_link"])}" style="text-decoration:none;display:block;"><img alt="{escape(c["hero_alt"])}" src="{ASSET_PREFIX}/{escape(c["hero_image"])}" width="600" style="display:block;width:100%;height:auto;"/></a>
+<a href="{escape(c["hero_link"])}" style="text-decoration:none;display:block;"><img alt="{escape(c["hero_alt"])}" src="{escape(c["hero_image"])}" width="600" style="display:block;width:100%;height:auto;"/></a>
 </td></tr>
 
 <!-- BLOCK 2B: HERO COPY -->
