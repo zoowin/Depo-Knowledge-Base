@@ -82,7 +82,6 @@ Product label only; no carton, ingredients, people, text overlay, or watermark.
 
 **Current approved output:** `../edm/202609_Caviar_Mist_Lifestyle_Hero_v02.png`
 
-**Previous version retained:** `../edm/202609_Caviar_Mist_Lifestyle_Hero_v01.png`
 
 ```text
 Use case: ads-marketing
