@@ -2,7 +2,7 @@
 """Build July 4th 2026 campaign HTML from base_block_promo_sale_0520. Zero tokens.
 5 promo emails (Kick Off / Activation Trio / Micro-dart / Creams / Last Call) + M2F hero patch.
 Pricing per July 4th matrix (00_July4th_Sale_Plan.md). Product cards link to offer product pages.
-Run: python3 tools/build_july4th.py
+Run: python3 tools/archive/campaign-one-offs/build_july4th.py
 """
 import sys, io
 from pathlib import Path

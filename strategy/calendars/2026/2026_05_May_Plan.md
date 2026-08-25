@@ -202,7 +202,7 @@
   - ⏳ **待 Leon 提供：** ① Give n' Glow 慈善组织背景（一句话）② 活动具体日期 ③ 捐赠产品种类 + 数量 ④ **照片版权书面确认**（人物图必须，产品图可不必）
   - 内容详细起草等以上 4 项齐全
   - **关键调性提醒：** 不指望 revenue，不带 CTA shop，结尾不强推任何促销 — brand equity 邮件
-  - 占位 draft 文件：`production/email-drafts/2026-05/20260529_Give_N_Glow_Brand_Story.md`（先建空壳，待信息补全）
+  - 原计划占位文件名：`20260529_Give_N_Glow_Brand_Story.md`（未创建；活动信息未补全）
 - **Summer-Ready 已移至 6/1：** 6 月日历起草时纳入
 
 ### Offer Strategy

@@ -28,8 +28,8 @@
 
 ## 其他
 
-- `partials/` — 头部/footer 公共片段（`_head_block` / `_footer_block` / `_footer_ref`），供 render 脚本拼装用
-- `archive/` — 已弃用的早期模板（mel_master / MEL / NLE），仅留档
+- `partials/` — 头部/footer 公共片段（`_head_block` / `_footer_block`），供 render 脚本拼装用
+- 已弃用的早期模板已移除；历史版本可从 Git 记录恢复
 
 ## 使用
 
@@ -39,5 +39,5 @@ python tools/build_campaign_html.py replacements.json \
   --base base_block_education_cards_0624 \
   --output 2026-07/20260701_Campaign.html --preview
 
-# 复杂改造（删区块/换布局）：写专用 build 脚本，参考 tools/build_0620_birthday_gift.py
+# 复杂改造（删区块/换布局）：写专用 build 脚本，参考 tools/archive/campaign-one-offs/build_0620_birthday_gift.py
 ```

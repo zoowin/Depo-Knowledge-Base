@@ -2,7 +2,7 @@
 
 > **用途：** 2026 Memorial Sale 8 封邮件 + 未来 July 4th / Labor Day 美式爱国主题促销复用。
 > **基于：** 2025 Memorial Sale 真实邮件破译（$185k / 8 emails 验证）。
-> **基础模板：** `production/email-drafts/templates/20260408_Hydration_Hierarchy.html`（白底 0408 改造）。
+> **基础模板：** `production/html-output/2026-04/20260408_Hydration_Hierarchy.html`（白底 0408 改造）。
 > Last updated: 2026-05-08
 
 ---

@@ -28,7 +28,7 @@
 
 ## 使用范围
 
-- **本注册表只用于：** Memorial Sale 2026 期间的 8 封邮件草稿（`production/email-drafts/2026-05/20260520_AM_*` ~ `20260525_Last_Chance.md`）+ 对应 HTML 渲染（`production/html-output/20260520_AM_Memorial_Launch.html` 等）+ 3 条 SMS 用图（如适用）
+- **本注册表只用于：** Memorial Sale 2026 期间的 8 封邮件草稿（`production/email-drafts/2026-05/20260520_AM_*` ~ `20260525_Last_Chance.md`）+ 对应 HTML 渲染（`production/html-output/2026-05/20260520_AM_Memorial_Launch.html` 等）+ 3 条 SMS 用图（如适用）
 - **本注册表不可用于：** Memorial 之外的任何 EDM / 教育邮件 / 全年 evergreen 邮件 — 那些用 `knowledge/products/product-links.md` 的 canonical 图
 - **Memorial 结束后（5/26+）：** Shopify OFFER 页可能下架；本注册表保留作为历史记录 + 2027 Memorial Sale 参考
 
@@ -47,4 +47,4 @@
 - `strategy/calendars/2026/2026_05_May_Plan.md` — 主计划 + Pricing Matrix（13 SKU 价格）
 - `production/email-drafts/2026-05/` — 8 封邮件 markdown 草稿
 - `production/sms-drafts/2026-05/` — 3 条 SMS 草稿
-- `production/html-output/20260520_AM_Memorial_Launch.html` — 第 1 封已渲染 HTML（其余 7 封待批量渲染）
+- `production/html-output/2026-05/20260520_AM_Memorial_Launch.html` — 第 1 封已渲染 HTML（其余 7 封待批量渲染）

@@ -42,5 +42,5 @@
 
 ## 关联
 - `knowledge/visual/Memorial Sale Product Images.md` — 上次同类注册表（参考）
-- `tools/build_july4th.py` — 构建脚本（`IMG{}` 当前用 product-links 占位 PNG，待替换）
+- `tools/archive/campaign-one-offs/build_july4th.py` — 构建脚本（`IMG{}` 当前用 product-links 占位 PNG，待替换）
 - `production/email-drafts/2026-07/00_July4th_Sale_Plan.md` — 总览

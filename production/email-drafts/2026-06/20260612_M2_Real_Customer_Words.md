@@ -197,7 +197,7 @@ $6,000 - $9,000（Real Results DNA + 4 quote 高密度 social proof + Favourites
 ## 🛠️ HTML 排版规格（给 HTML AI 用）
 
 > 这一节是构建 HTML 的完整指令。HTML AI 应只参考本节 + 上面的文案区块，**不要**临场生成额外文案。
-> Base 模板建议：以 `production/html-output/20260403_Easter_Sale_Opening.html` 或 0408 教育型为骨架，**Body 与 Bundle 区块为自定义模块**。
+> Base 模板建议：以 `production/html-output/2026-04/20260403_Easter_Sale_Opening.html` 或 0408 教育型为骨架，**Body 与 Bundle 区块为自定义模块**。
 
 ---
 
@@ -387,7 +387,7 @@ $6,000 - $9,000（Real Results DNA + 4 quote 高密度 social proof + Favourites
 
 ### ✅ HTML AI 输出 checklist
 
-- [ ] 文件名：`production/html-output/20260612_M2_Real_Customer_Words.html`
+- [ ] 文件名：`production/html-output/2026-06/20260612_M2_Real_Customer_Words.html`
 - [ ] 容器宽度 600px，所有内容居中
 - [ ] Hero 使用 M2 Real Reviews Hero CDN URL，无 overlay 文字
 - [ ] 4 个 quote cards 2×2 布局（Quote 2 含 Marlayna 缩略图 + FEATURED 标签）
@@ -402,4 +402,4 @@ $6,000 - $9,000（Real Results DNA + 4 quote 高密度 social proof + Favourites
 
 ### 🔄 与 HTML AI 沟通示例 prompt
 
-> "请用 `production/email-drafts/2026-06/20260612_M2_Real_Customer_Words.md` 中的 '🛠️ HTML 排版规格' 章节作为唯一布局指令，配合文案区块构建完整 HTML 邮件。Base 参考 `production/html-output/20260408_Hydration_Hierarchy.html` 的白底骨架。Hero 使用已上传的 M2 Real Reviews Hero CDN URL，Bundle 图 URL 见 Leon 补充。输出到 `production/html-output/20260612_M2_Real_Customer_Words.html`。"
+> "请用 `production/email-drafts/2026-06/20260612_M2_Real_Customer_Words.md` 中的 '🛠️ HTML 排版规格' 章节作为唯一布局指令，配合文案区块构建完整 HTML 邮件。Base 参考 `production/html-output/2026-04/20260408_Hydration_Hierarchy.html` 的白底骨架。Hero 使用已上传的 M2 Real Reviews Hero CDN URL，Bundle 图 URL 见 Leon 补充。输出到 `production/html-output/2026-06/20260612_M2_Real_Customer_Words.html`。"

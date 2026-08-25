@@ -67,7 +67,7 @@ Source: `strategy/calendars/2025/Klaviyo_Campaigns.csv`.
 
 ### Prepared asset requiring a hold
 
-`production/html-output/20260803_Why_Skin_Looks_Different_In_Photos.html` is **not scheduled in this calendar**. Its product set is Matrixyl 3000 + Matriplex + Triple Lipid, which would have followed the July 24 Trio and July 28 barrier campaign by only 10 and 6 days. Because those products now receive August Heroes as well, hold the current asset until at least September 28 or rebuild it around a different product set.
+`production/html-output/2026-08/20260803_Why_Skin_Looks_Different_In_Photos.html` is **not scheduled in this calendar**. Its product set is Matrixyl 3000 + Matriplex + Triple Lipid, which would have followed the July 24 Trio and July 28 barrier campaign by only 10 and 6 days. Because those products now receive August Heroes as well, hold the current asset until at least September 28 or rebuild it around a different product set.
 
 ---
 

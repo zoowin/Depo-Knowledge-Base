@@ -5,7 +5,7 @@
 ## ⭐ v2 — STORY VERSION (2026-06-12, current)
 
 > 从 teaser 改为**故事驱动**版。新增"为什么做/怎么做"研发故事 + 2 张过程稿拼贴图。
-> **构建脚本:** `tools/build_0614_forehead_early_access_v2.py`（基于 v1 HTML 转换）
+> **构建脚本:** `tools/archive/campaign-one-offs/build_0614_forehead_early_access_v2.py`（基于 v1 HTML 转换）
 > **产出:** `production/html-output/2026-06/20260614_Forehead_Early_Access_v2.html`
 > **文案规则:** 全文**不使用破折号(—)**；不点供应商名；不报针数/尺寸/retinol%（概念可露、成品形态留 7 月）。
 
@@ -51,7 +51,7 @@ A micro-dart patch shaped to the skin, with hundreds of self-dissolving darts th
 ---
 
 ## Campaign Info
-- **Template:** 自定义 teaser/sign-up 型(基于 0408 白底教育骨架,header/footer 保留;中段为单一 sign-up CTA)→ HTML: `production/html-output/20260614_Forehead_Early_Access.html`
+- **Template:** 自定义 teaser/sign-up 型(基于 0408 白底教育骨架,header/footer 保留;中段为单一 sign-up CTA)→ HTML: `production/html-output/2026-06/20260614_Forehead_Early_Access.html`
 - **Type:** Pre-Launch Teaser / List-Building(Early Access sign-up)
 - **Send Date:** **2026-06-14 (Sunday)**, 10:00 AM ET（提前自 6/20 — 多 6 天蓄水，6/20 让位生日 Gift）
 - **Segment:** Full List(标准 4 included / 9 excluded)
@@ -162,10 +162,10 @@ Paragraph 3: We've been working on something for exactly that. We're not showing
 ---
 
 ## 🛠️ HTML 排版规格（给 HTML AI 用）
-- Base 参考:`production/html-output/20260408_Hydration_Hierarchy.html`(白底教育骨架);header/footer 复用 base template。
+- Base 参考:`production/html-output/2026-04/20260408_Hydration_Hierarchy.html`(白底教育骨架);header/footer 复用 base template。
 - 容器 600px,白底,字体 Century Gothic / Arial,主文字 `#000`,次文字 `#666`。
 - **Block 顺序(soft tease v5,无图精简):** Header → Hero(image + eyebrow + headline + 单行 sub,**无按钮**)→ Body(headline + 情绪句 + 视频通话斜体场景钩 + 引子)→ **Teaser Hints(3 句,金色 ▾,藏机制)** → **Why Get On The List(3 张序号卡片,排版突出)** → **Sign-up CTA Block(米/金 `#fff→#f3ead9` + 金 `#b08d57` + 倒三角带,**唯一 CTA SIGN ME UP**,按钮下无小字)** → **Retinol disclaimer(`#F5F5F5` 11px,因点了 retinol)** → Footer。**无氛围图**;脚本 `INCLUDE_RETINOL_DISCLAIMER=True`。
-- **构建脚本:** `tools/build_0620_forehead_early_access.py`(基于 0408 转换;改文案/结构后重跑该脚本即可重生成 HTML)。
+- **构建脚本:** `tools/archive/campaign-one-offs/build_0614_forehead_early_access.py`(基于 0408 转换;改文案/结构后重跑该脚本即可重生成 HTML)。
 - **所有 CTA 指向 sign-up landing page**(非产品页,产品仍 Draft)。
 - 不报价、不放产品购买卡(这封不卖)。
 - HTML 内不得出现中文字符(comments/alt 全英文)。
