@@ -15,6 +15,7 @@ venv/
 .claude/
 
 # Temp files
+tmp/
 *.tmp
 *.bak
 ~$*

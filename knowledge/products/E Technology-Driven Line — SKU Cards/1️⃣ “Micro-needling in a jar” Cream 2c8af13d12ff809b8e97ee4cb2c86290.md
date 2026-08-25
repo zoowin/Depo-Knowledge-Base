@@ -1,5 +1,8 @@
 # 1️⃣ “Micro-needling in a jar” Cream
 
+> **Full product name**: Deepcare+® MicroOperator Boosting Cream - Beginner（内部简称 **MOP**）
+> **B2B title description**: Exfoliating & skin renewal cream
+
 ## **1️⃣ One-liner（一句话定位）**
 
 A technology-driven cream designed to mimic the benefits of micro-needling through advanced, non-invasive delivery — all in a jar.
@@ -47,6 +50,24 @@ A technology-driven cream designed to mimic the benefits of micro-needling throu
 
 ---
 
+## **4️⃣.5 Full INCI & Key Actives（成分与机制）**
+
+### Hero actives（双重焕新机制）
+
+- **Hydrolyzed Sponge（海绵针晶）** —— 即 “micro-needling in a jar” 的**机械微针来源**：海绵骨针在角质层形成微通道，物理焕新 + 促进后续成分渗透（这是产品概念的物理支撑）。
+- **Glycolic Acid（甘醇酸 / AHA）** —— 在 INCI 中位列第 5（浓度可观），经典**化学去角质**成分，支持肤质平滑与更新；**这是 B2B title “Exfoliating” 的成分依据**。
+- 搭配 **Tromethamine** 缓冲 AHA 的 pH。
+
+### 维稳与修护
+
+- **Centella Asiatica Extract、Ceramide NP、Beta-Glucan、Butyrospermum Parkii (Shea) Butter、Tocopherol、Ficus Carica (Fig) Fruit Extract、Hydrogenated Lecithin** —— 在猛活性之上提供舒缓、屏障修护与滋润，典型“强活性 + 维稳”结构。
+
+### Full INCI
+
+Water, Glycerin, Cetyl Ethylhexanoate, Polyglyceryl-3 Methylglucose Distearate, **Glycolic Acid**, 1,2-Hexanediol, Hydrogenated Poly(C6-14 Olefin), Ethylhexyl Stearate, Tromethamine, Cetearyl Alcohol, Methylpropanediol, Butyrospermum Parkii (Shea) Butter, Sorbitan Stearate, Polyacrylate Crosspolymer-6, Palmitic Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Stearic Acid, Cetearyl Olivate, **Hydrolyzed Sponge**, Sorbitan Olivate, Xanthan Gum, Hydroxypropyl Starch Phosphate, Ethylhexylglycerin, Sodium Phytate, Sorbitan Isostearate, Calcium Silicate, Sodium Silicate, Butylene Glycol, Hydrogenated Lecithin, Ficus Carica (Fig) Fruit Extract, Centella Asiatica Extract, Tocopherol, Beta-Glucan, Ceramide NP.
+
+---
+
 ## **5️⃣ Proof / Claims Boundary（合规边界）**
 
 - Non-invasive, topical skincare product
@@ -70,7 +91,8 @@ A technology-driven cream designed to mimic the benefits of micro-needling throu
 - ✅ 推荐搭配：
     - Matrixyl® Line（基础抗老）
     - Cica Line（稳定与修护）
-- ⚠️ 与 Retinoid 同晚使用时，建议搭配 Cica 缓冲
+- ⚠️ **本品含 Glycolic Acid（AHA）**：**不建议与其他酸类（AHA/BHA）或 Retinol 在同一次/同一晚叠加使用**，以免过度刺激；如与 Retinoid 同晚使用，建议错开并搭配 Cica 缓冲。
+- ⚠️ 含 AHA，**白天使用建议配合防晒**（AHA 可能增加光敏感）。
 - ❌ 不需要搭配任何仪器或滚针工具
 
 ---

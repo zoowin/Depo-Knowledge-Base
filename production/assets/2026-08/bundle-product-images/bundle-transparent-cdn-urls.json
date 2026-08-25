@@ -1,0 +1,20 @@
+{
+  "face_eye_duo": {
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/1bf115e9-481b-47e2-92cf-ff8ba637d4c1.png",
+    "size": 80557
+  },
+  "peptide_serum_duo": {
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/59ed9955-105c-4419-aed9-ee86282df322.png",
+    "size": 222195
+  },
+  "static_wrinkle_duo": {
+    "id": "352134041",
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/29293206-8e84-4997-85da-0e11d82d49fe.png",
+    "size": 466176
+  },
+  "dynamic_wrinkle_duo": {
+    "id": "352134046",
+    "image_url": "https://d3k81ch9hvuctc.cloudfront.net/company/XbHdQN/images/eb7041c1-b7e9-4eca-8b18-676e8690bf72.png",
+    "size": 443710
+  }
+}

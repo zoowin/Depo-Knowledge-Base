@@ -42,7 +42,7 @@
 | 月份 | 活动 | 级别 | 日期 | 折扣 | 需要 VIP List | 备注 |
 |------|------|------|------|------|--------------|------|
 | **Jul** | July 4th Sale | 🟠 Middle | 7/1-8 | 20-25% OFF | ✅ 推荐 | 与 Amazon 竞争，需要强 offer |
-| **Aug** | — | ⚪ None | — | — | — | 纯 Evergreen 月 |
+| **Aug** | Mid-Month Summer Sale | 🟡 Small / Segmented | 8/17-8/18 | Yearly Customers 25% OFF; Yearly Repeat Customers 20% OFF | ❌ | 两步召回：Launch → Ends Midnight；两封主稿、每封按人群拆成两个 Klaviyo campaigns |
 | **Sep** | Labor Day | 🟠 Middle | 9/1 | 20-25% OFF | ❌ | Q4 前最后一次清库存 |
 
 ### Q4
